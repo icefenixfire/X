@@ -3,7 +3,7 @@
 <channel>
 <name>[B][COLOR white]FILMES[/COLOR][/B]</name>
 <thumbnail>https://raw.githubusercontent.com/icefenixfire/C/main/cm_fil.webp</thumbnail>
-<externallink>https://raw.githubusercontent.com/icefenixfire/X/main/F0000</externallink>
+<externallink>https://raw.githubusercontent.com/icefenixfire/X/main/MF000</externallink>
 <fanart>https://raw.githubusercontent.com/icefenixfire/C/main/fm_fil.webp</fanart>
 <info>[COLOR yellow]Atenção![/COLOR] O tempo de carregamento dessa categoria pode variar de acordo com os recursos de hardware do seu dispositivo.</info>
 </channel>
@@ -11,7 +11,7 @@
 <channel>
 <name>[B][COLOR white]SÉRIES[/COLOR][/B]</name>
 <thumbnail>https://raw.githubusercontent.com/icefenixfire/C/main/cm_ser.webp</thumbnail>
-<externallink>https://raw.githubusercontent.com/icefenixfire/X/main/S0000</externallink>
+<externallink>https://raw.githubusercontent.com/icefenixfire/X/main/MS000</externallink>
 <fanart>https://raw.githubusercontent.com/icefenixfire/C/main/fm_ser.webp</fanart>
 <info>Séries dubladas de todos os gêneros</info>
 </channel>
@@ -19,7 +19,7 @@
 <channel>
 <name>[B][COLOR white]ANIMES[/COLOR][/B]</name>
 <thumbnail>https://raw.githubusercontent.com/icefenixfire/C/main/cm_ani.webp</thumbnail>
-<externallink>https://raw.githubusercontent.com/icefenixfire/X/main/A0000</externallink>
+<externallink>https://raw.githubusercontent.com/icefenixfire/X/main/MA000</externallink>
 <fanart>https://raw.githubusercontent.com/icefenixfire/C/main/fm_ani.webp</fanart>
 <info>Animes dublados e legendados de todos os gêneros</info>
 </channel>
@@ -27,7 +27,7 @@
 <channel>
 <name>[B][COLOR white]DESENHOS[/COLOR][/B]</name>
 <thumbnail>https://raw.githubusercontent.com/icefenixfire/C/main/cm_des.webp</thumbnail>
-<externallink>https://raw.githubusercontent.com/icefenixfire/X/main/D0000</externallink>
+<externallink>https://raw.githubusercontent.com/icefenixfire/X/main/MD000</externallink>
 <fanart>https://raw.githubusercontent.com/icefenixfire/C/main/fm_des.webp</fanart>
 <info>Desenhos dublados de todos os gêneros</info>
 </channel>
@@ -35,7 +35,7 @@
 <!--<channel>
 <name>[B][COLOR white]TV AO VIVO[/COLOR][/B]</name>
 <thumbnail>https://raw.githubusercontent.com/icefenixfire/C/main/cm_tv.webp</thumbnail>
-<externallink>https://raw.githubusercontent.com/icefenixfire/X/main/T0000</externallink>
+<externallink>https://raw.githubusercontent.com/icefenixfire/X/main/MT000</externallink>
 <fanart>https://raw.githubusercontent.com/icefenixfire/C/main/fm_tv.webp</fanart>
 <info>TV Ao Vivo</info>
 </channel>-->
