@@ -2,41 +2,41 @@
 
 <channel>
 <name>[B][COLOR white]FILMES[/COLOR][/B]</name>
-<thumbnail>https://raw.githubusercontent.com/icefenixfire/capas_menu/main/post_filmes.webp</thumbnail>
-<externallink>https://raw.githubusercontent.com/icefenixfire/xml/main/menu_filmes.xml?token=GHSAT0AAAAAACL2JGRSTKTA2NQW2LVH2NRGZR2VR6A</externallink>
-<fanart>https://raw.githubusercontent.com/icefenixfire/capas_menu/main/fanart_fil.webp</fanart>
+<thumbnail>https://raw.githubusercontent.com/icefenixfire/C/main/cm_fil.webp</thumbnail>
+<externallink>https://raw.githubusercontent.com/icefenixfire/X/main/F0000</externallink>
+<fanart>https://raw.githubusercontent.com/icefenixfire/C/main/fm_fil.webp</fanart>
 <info>[COLOR yellow]Atenção![/COLOR] O tempo de carregamento dessa categoria pode variar de acordo com os recursos de hardware do seu dispositivo.</info>
 </channel>
 
 <channel>
 <name>[B][COLOR white]SÉRIES[/COLOR][/B]</name>
-<thumbnail>https://raw.githubusercontent.com/icefenixfire/capas_menu/main/post_series.webp</thumbnail>
-<externallink>https://raw.githubusercontent.com/icefenixfire/xml/main/m3nu_53r135.xml</externallink>
-<fanart>https://raw.githubusercontent.com/icefenixfire/capas_menu/main/fanart_ser.webp</fanart>
+<thumbnail>https://raw.githubusercontent.com/icefenixfire/C/main/cm_ser.webp</thumbnail>
+<externallink>https://raw.githubusercontent.com/icefenixfire/X/main/S0000</externallink>
+<fanart>https://raw.githubusercontent.com/icefenixfire/C/main/fm_ser.webp</fanart>
 <info>Séries dubladas de todos os gêneros</info>
 </channel>
 
 <channel>
 <name>[B][COLOR white]ANIMES[/COLOR][/B]</name>
-<thumbnail>https://raw.githubusercontent.com/icefenixfire/capas_menu/main/post_animes.webp</thumbnail>
-<externallink>https://raw.githubusercontent.com/icefenixfire/xml/main/m3nu_4n1m35.xml</externallink>
-<fanart>https://raw.githubusercontent.com/icefenixfire/capas_menu/main/fanart_ani.webp</fanart>
+<thumbnail>https://raw.githubusercontent.com/icefenixfire/C/main/cm_ani.webp</thumbnail>
+<externallink>https://raw.githubusercontent.com/icefenixfire/X/main/A0000</externallink>
+<fanart>https://raw.githubusercontent.com/icefenixfire/C/main/fm_ani.webp</fanart>
 <info>Animes dublados e legendados de todos os gêneros</info>
 </channel>
 
 <channel>
 <name>[B][COLOR white]DESENHOS[/COLOR][/B]</name>
-<thumbnail>https://raw.githubusercontent.com/icefenixfire/capas_menu/main/post_desenhos.webp</thumbnail>
-<externallink>https://raw.githubusercontent.com/icefenixfire/xml/main/m3nu_d353nh05.xml</externallink>
-<fanart>https://raw.githubusercontent.com/icefenixfire/capas_menu/main/fanart_des.webp</fanart>
+<thumbnail>https://raw.githubusercontent.com/icefenixfire/C/main/cm_des.webp</thumbnail>
+<externallink>https://raw.githubusercontent.com/icefenixfire/X/main/D0000</externallink>
+<fanart>https://raw.githubusercontent.com/icefenixfire/C/main/fm_des.webp</fanart>
 <info>Desenhos dublados de todos os gêneros</info>
 </channel>
 
 <!--<channel>
 <name>[B][COLOR white]TV AO VIVO[/COLOR][/B]</name>
-<thumbnail>https://raw.githubusercontent.com/icefenixfire/capas_menu/main/post_tv.webp</thumbnail>
-<externallink>https://raw.githubusercontent.com/icefenixfire/xml/main/</externallink>
-<fanart>https://raw.githubusercontent.com/icefenixfire/capas_menu/main/fanart_tv.webp</fanart>
+<thumbnail>https://raw.githubusercontent.com/icefenixfire/C/main/cm_tv.webp</thumbnail>
+<externallink>https://raw.githubusercontent.com/icefenixfire/X/main/T0000</externallink>
+<fanart>https://raw.githubusercontent.com/icefenixfire/C/main/fm_tv.webp</fanart>
 <info>TV Ao Vivo</info>
 </channel>-->
 
