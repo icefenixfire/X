@@ -1,6 +1,15 @@
 <channels>
 
 <channel>
+<name>[B]BRIDGERTON ● 2020...[/B]</name>
+<thumbnail>https://raw.githubusercontent.com/icefenixfire/S/main/S00207.webp</thumbnail>
+<externallink>https://raw.githubusercontent.com/icefenixfire/X/main/S/S00207</externallink>
+<fanart>https://raw.githubusercontent.com/icefenixfire/S/main/S00207_fanart.webp</fanart>
+<genre>Drama, História, Romance</genre>
+<info>[COLOR red][B]● Classificação Indicativa +16[/B][/COLOR]</info>
+</channel>
+
+<channel>
 <name>[B]PARASYTE: THE GREY ● 2024...[/B]</name>
 <thumbnail>https://raw.githubusercontent.com/icefenixfire/S/main/S00268.webp</thumbnail>
 <externallink>https://raw.githubusercontent.com/icefenixfire/X/main/S/S00268</externallink>
@@ -745,15 +754,6 @@
 <fanart>https://raw.githubusercontent.com/icefenixfire/S/main/S00191_fanart.webp</fanart>
 <genre>Documentário</genre>
 <info>[COLOR yellow][B]● Classificação Indicativa +12[/B][/COLOR]</info>
-</channel>
-
-<channel>
-<name>[B]BRIDGERTON ● 2020...[/B]</name>
-<thumbnail>https://raw.githubusercontent.com/icefenixfire/S/main/S00207.webp</thumbnail>
-<externallink>https://raw.githubusercontent.com/icefenixfire/X/main/S/S00207</externallink>
-<fanart>https://raw.githubusercontent.com/icefenixfire/S/main/S00207_fanart.webp</fanart>
-<genre>Drama, História, Romance</genre>
-<info>[COLOR red][B]● Classificação Indicativa +16[/B][/COLOR]</info>
 </channel>
 
 <channel>
