@@ -3,192 +3,192 @@
 <channel>
 <name>[B]NOVIDADES...[/B]</name>
 <thumbnail>https://raw.githubusercontent.com/icefenixfire/C/main/cg_nov.webp</thumbnail>
-<externallink>https://raw.githubusercontent.com/icefenixfire/X/main/gen_nov</externallink><!--genre_novidades.xml-->
-<fanart>https://raw.githubusercontent.com/icefenixfire/capas_menu/main/xml_F/fanart_fil.webp</fanart>
+<externallink>https://raw.githubusercontent.com/icefenixfire/X/main/F/gen_nov</externallink><!--genre_novidades.xml-->
+<fanart>https://raw.githubusercontent.com/icefenixfire/C/main/fm_fil.webp</fanart>
 <info>Filmes adicionados recentemente</info>
 </channel>
 
 <channel>
 <name>[B]FRANQUIAS[/B]</name>
 <thumbnail>https://raw.githubusercontent.com/icefenixfire/C/main/cg_fra.webp</thumbnail>
-<externallink>https://raw.githubusercontent.com/icefenixfire/X/main/gen_fra</externallink><!--genre_franquias.xml -->
-<fanart>https://raw.githubusercontent.com/icefenixfire/capas_menu/main/xml_F/fanart_fil.webp</fanart>
+<externallink>https://raw.githubusercontent.com/icefenixfire/X/main/F/gen_fra</externallink><!--genre_franquias.xml -->
+<fanart>https://raw.githubusercontent.com/icefenixfire/C/main/fm_fil.webp</fanart>
 <info>Coletânea de franquias</info>
 </channel>
 
 <channel>
 <name>[B]AÇÃO[/B]</name>
 <thumbnail>https://raw.githubusercontent.com/icefenixfire/C/main/cg_aca.webp</thumbnail>
-<externallink>https://raw.githubusercontent.com/icefenixfire/X/main/gen_aca</externallink><!--genre_acao.xml -->
-<fanart>https://raw.githubusercontent.com/icefenixfire/capas_menu/main/xml_F/fanart_fil.webp</fanart>
+<externallink>https://raw.githubusercontent.com/icefenixfire/X/main/F/gen_aca</externallink><!--genre_acao.xml -->
+<fanart>https://raw.githubusercontent.com/icefenixfire/C/main/fm_fil.webp</fanart>
 <info>.</info>
 </channel>
 
 <channel>
 <name>[B]ANIMAÇÃO[/B]</name>
 <thumbnail>https://raw.githubusercontent.com/icefenixfire/C/main/cg_ani.webp</thumbnail>
-<externallink>https://raw.githubusercontent.com/icefenixfire/X/main/gen_ani</externallink><!--genre_animacao.xml -->
-<fanart>https://raw.githubusercontent.com/icefenixfire/capas_menu/main/xml_F/fanart_fil.webp</fanart>
+<externallink>https://raw.githubusercontent.com/icefenixfire/X/main/F/gen_ani</externallink><!--genre_animacao.xml -->
+<fanart>https://raw.githubusercontent.com/icefenixfire/C/main/fm_fil.webp</fanart>
 <info>.</info>
 </channel>
 
 <channel>
 <name>[B]AVENTURA[/B]</name>
 <thumbnail>https://raw.githubusercontent.com/icefenixfire/C/main/cg_ave.webp</thumbnail>
-<externallink>https://raw.githubusercontent.com/icefenixfire/X/main/gen_ave</externallink><!--genre_aventura.xml -->
-<fanart>https://raw.githubusercontent.com/icefenixfire/capas_menu/main/xml_F/fanart_fil.webp</fanart>
+<externallink>https://raw.githubusercontent.com/icefenixfire/X/main/F/gen_ave</externallink><!--genre_aventura.xml -->
+<fanart>https://raw.githubusercontent.com/icefenixfire/C/main/fm_fil.webp</fanart>
 <info>.</info>
 </channel>
 
 <channel>
 <name>[B]BIOGRAFIA[/B]</name>
 <thumbnail>https://raw.githubusercontent.com/icefenixfire/C/main/cg_bio.webp</thumbnail>
-<externallink>https://raw.githubusercontent.com/icefenixfire/X/main/gen_bio</externallink><!--genre_biografia.xml -->
-<fanart>https://raw.githubusercontent.com/icefenixfire/capas_menu/main/xml_F/fanart_fil.webp</fanart>
+<externallink>https://raw.githubusercontent.com/icefenixfire/X/main/F/gen_bio</externallink><!--genre_biografia.xml -->
+<fanart>https://raw.githubusercontent.com/icefenixfire/C/main/fm_fil.webp</fanart>
 <info>.</info>
 </channel>
 
 <channel>
 <name>[B]COMÉDIA[/B]</name>
 <thumbnail>https://raw.githubusercontent.com/icefenixfire/C/main/cg_com.webp</thumbnail>
-<externallink>https://raw.githubusercontent.com/icefenixfire/X/main/gen_com</externallink><!--genre_comedia.xml -->
-<fanart>https://raw.githubusercontent.com/icefenixfire/capas_menu/main/xml_F/fanart_fil.webp</fanart>
+<externallink>https://raw.githubusercontent.com/icefenixfire/X/main/F/gen_com</externallink><!--genre_comedia.xml -->
+<fanart>https://raw.githubusercontent.com/icefenixfire/C/main/fm_fil.webp</fanart>
 <info>.</info>
 </channel>
 
 <channel>
 <name>[B]CRIMES[/B]</name>
 <thumbnail>https://raw.githubusercontent.com/icefenixfire/C/main/cg_cri.webp</thumbnail>
-<externallink>https://raw.githubusercontent.com/icefenixfire/X/main/gen_cri</externallink><!-- genre_crime.xml-->
-<fanart>https://raw.githubusercontent.com/icefenixfire/capas_menu/main/xml_F/fanart_fil.webp</fanart>
+<externallink>https://raw.githubusercontent.com/icefenixfire/X/main/F/gen_cri</externallink><!-- genre_crime.xml-->
+<fanart>https://raw.githubusercontent.com/icefenixfire/C/main/fm_fil.webp</fanart>
 <info>.</info>
 </channel>
 
 <channel>
 <name>[B]CURTA[/B]</name>
 <thumbnail>https://raw.githubusercontent.com/icefenixfire/C/main/cg_cur.webp</thumbnail>
-<externallink>https://raw.githubusercontent.com/icefenixfire/X/main/gen_cur</externallink><!-- genre_curta.xml-->
-<fanart>https://raw.githubusercontent.com/icefenixfire/capas_menu/main/xml_F/fanart_fil.webp</fanart>
+<externallink>https://raw.githubusercontent.com/icefenixfire/X/main/F/gen_cur</externallink><!-- genre_curta.xml-->
+<fanart>https://raw.githubusercontent.com/icefenixfire/C/main/fm_fil.webp</fanart>
 <info>.</info>
 </channel>
 
 <channel>
 <name>[B]DOCUMENTÁRIO[/B]</name>
 <thumbnail>https://raw.githubusercontent.com/icefenixfire/C/main/cg_doc.webp</thumbnail>
-<externallink>https://raw.githubusercontent.com/icefenixfire/X/main/gen_doc</externallink><!-- genre_documentario.xml-->
-<fanart>https://raw.githubusercontent.com/icefenixfire/capas_menu/main/xml_F/fanart_fil.webp</fanart>
+<externallink>https://raw.githubusercontent.com/icefenixfire/X/main/F/gen_doc</externallink><!-- genre_documentario.xml-->
+<fanart>https://raw.githubusercontent.com/icefenixfire/C/main/fm_fil.webp</fanart>
 <info>.</info>
 </channel>
 
 <channel>
 <name>[B]DRAMA[/B]</name>
 <thumbnail>https://raw.githubusercontent.com/icefenixfire/C/main/cg_dra.webp</thumbnail>
-<externallink>https://raw.githubusercontent.com/icefenixfire/X/main/gen_dra</externallink><!--genre_drama.xml -->
-<fanart>https://raw.githubusercontent.com/icefenixfire/capas_menu/main/xml_F/fanart_fil.webp</fanart>
+<externallink>https://raw.githubusercontent.com/icefenixfire/X/main/F/gen_dra</externallink><!--genre_drama.xml -->
+<fanart>https://raw.githubusercontent.com/icefenixfire/C/main/fm_fil.webp</fanart>
 <info>.</info>
 </channel>
 
 <channel>
 <name>[B]ESPORTE[/B]</name>
 <thumbnail>https://raw.githubusercontent.com/icefenixfire/C/main/cg_esp.webp</thumbnail>
-<externallink>https://raw.githubusercontent.com/icefenixfire/X/main/gen_esp</externallink><!-- genre_esporte.xml-->
-<fanart>https://raw.githubusercontent.com/icefenixfire/capas_menu/main/xml_F/fanart_fil.webp</fanart>
+<externallink>https://raw.githubusercontent.com/icefenixfire/X/main/F/gen_esp</externallink><!-- genre_esporte.xml-->
+<fanart>https://raw.githubusercontent.com/icefenixfire/C/main/fm_fil.webp</fanart>
 <info>.</info>
 </channel>
 
 <channel>
 <name>[B]FAMÍLIA[/B]</name>
 <thumbnail>https://raw.githubusercontent.com/icefenixfire/C/main/cg_fam.webp</thumbnail>
-<externallink>https://raw.githubusercontent.com/icefenixfire/X/main/gen_fam</externallink><!--genre_familia.xml -->
-<fanart>https://raw.githubusercontent.com/icefenixfire/capas_menu/main/xml_F/fanart_fil.webp</fanart>
+<externallink>https://raw.githubusercontent.com/icefenixfire/X/main/F/gen_fam</externallink><!--genre_familia.xml -->
+<fanart>https://raw.githubusercontent.com/icefenixfire/C/main/fm_fil.webp</fanart>
 <info>.</info>
 </channel>
 
 <channel>
 <name>[B]FANTASIA[/B]</name>
 <thumbnail>https://raw.githubusercontent.com/icefenixfire/C/main/cg_fan.webp</thumbnail>
-<externallink>https://raw.githubusercontent.com/icefenixfire/X/main/gen_fan</externallink><!--genre_fantasia.xml -->
-<fanart>https://raw.githubusercontent.com/icefenixfire/capas_menu/main/xml_F/fanart_fil.webp</fanart>
+<externallink>https://raw.githubusercontent.com/icefenixfire/X/main/F/gen_fan</externallink><!--genre_fantasia.xml -->
+<fanart>https://raw.githubusercontent.com/icefenixfire/C/main/fm_fil.webp</fanart>
 <info>.</info>
 </channel>
 
 <channel>
 <name>[B]FAROESTE[/B]</name>
 <thumbnail>https://raw.githubusercontent.com/icefenixfire/C/main/cg_far.webp</thumbnail>
-<externallink>https://raw.githubusercontent.com/icefenixfire/X/main/gen_far</externallink><!--genre_faroeste.xml -->
-<fanart>https://raw.githubusercontent.com/icefenixfire/capas_menu/main/xml_F/fanart_fil.webp</fanart>
+<externallink>https://raw.githubusercontent.com/icefenixfire/X/main/F/gen_far</externallink><!--genre_faroeste.xml -->
+<fanart>https://raw.githubusercontent.com/icefenixfire/C/main/fm_fil.webp</fanart>
 <info>.</info>
 </channel>
 
 <channel>
 <name>[B]FICÇÃO[/B]</name>
 <thumbnail>https://raw.githubusercontent.com/icefenixfire/C/main/cg_fic.webp</thumbnail>
-<externallink>https://raw.githubusercontent.com/icefenixfire/X/main/gen_fic</externallink><!--genre_ficcao.xml -->
-<fanart>https://raw.githubusercontent.com/icefenixfire/capas_menu/main/xml_F/fanart_fil.webp</fanart>
+<externallink>https://raw.githubusercontent.com/icefenixfire/X/main/F/gen_fic</externallink><!--genre_ficcao.xml -->
+<fanart>https://raw.githubusercontent.com/icefenixfire/C/main/fm_fil.webp</fanart>
 <info>.</info>
 </channel>
 
 <channel>
 <name>[B]GUERRA[/B]</name>
 <thumbnail>https://raw.githubusercontent.com/icefenixfire/C/main/cg_gue.webp</thumbnail>
-<externallink>https://raw.githubusercontent.com/icefenixfire/X/main/gen_gue</externallink><!-- genre_guerra.xml-->
-<fanart>https://raw.githubusercontent.com/icefenixfire/capas_menu/main/xml_F/fanart_fil.webp</fanart>
+<externallink>https://raw.githubusercontent.com/icefenixfire/X/main/F/gen_gue</externallink><!-- genre_guerra.xml-->
+<fanart>https://raw.githubusercontent.com/icefenixfire/C/main/fm_fil.webp</fanart>
 <info>.</info>
 </channel>
 
 <channel>
 <name>[B]HISTÓRIA[/B]</name>
 <thumbnail>https://raw.githubusercontent.com/icefenixfire/C/main/cg_his.webp</thumbnail>
-<externallink>https://raw.githubusercontent.com/icefenixfire/X/main/gen_his</externallink><!-- genre_historia.xml-->
-<fanart>https://raw.githubusercontent.com/icefenixfire/capas_menu/main/xml_F/fanart_fil.webp</fanart>
+<externallink>https://raw.githubusercontent.com/icefenixfire/X/main/F/gen_his</externallink><!-- genre_historia.xml-->
+<fanart>https://raw.githubusercontent.com/icefenixfire/C/main/fm_fil.webp</fanart>
 <info>.</info>
 </channel>
 
 <channel>
 <name>[B]MISTÉRIO[/B]</name>
 <thumbnail>https://raw.githubusercontent.com/icefenixfire/C/main/cg_mis.webp</thumbnail>
-<externallink>https://raw.githubusercontent.com/icefenixfire/X/main/gen_mis</externallink><!--genre_misterio.xml -->
-<fanart>https://raw.githubusercontent.com/icefenixfire/capas_menu/main/xml_F/fanart_fil.webp</fanart>
+<externallink>https://raw.githubusercontent.com/icefenixfire/X/main/F/gen_mis</externallink><!--genre_misterio.xml -->
+<fanart>https://raw.githubusercontent.com/icefenixfire/C/main/fm_fil.webp</fanart>
 <info>.</info>
 </channel>
 
 <channel>
 <name>[B]MUSICAL[/B]</name>
 <thumbnail>https://raw.githubusercontent.com/icefenixfire/C/main/cg_mus.webp</thumbnail>
-<externallink>https://raw.githubusercontent.com/icefenixfire/X/main/gen_mus</externallink><!--genre_musical.xml -->
-<fanart>https://raw.githubusercontent.com/icefenixfire/capas_menu/main/xml_F/fanart_fil.webp</fanart>
+<externallink>https://raw.githubusercontent.com/icefenixfire/X/main/F/gen_mus</externallink><!--genre_musical.xml -->
+<fanart>https://raw.githubusercontent.com/icefenixfire/C/main/fm_fil.webp</fanart>
 <info>.</info>
 </channel>
 
 <channel>
 <name>[B]ROMANCE[/B]</name>
 <thumbnail>https://raw.githubusercontent.com/icefenixfire/C/main/cg_rom.webp</thumbnail>
-<externallink>https://raw.githubusercontent.com/icefenixfire/X/main/gen_rom</externallink><!--genre_romance.xml -->
-<fanart>https://raw.githubusercontent.com/icefenixfire/capas_menu/main/xml_F/fanart_fil.webp</fanart>
+<externallink>https://raw.githubusercontent.com/icefenixfire/X/main/F/gen_rom</externallink><!--genre_romance.xml -->
+<fanart>https://raw.githubusercontent.com/icefenixfire/C/main/fm_fil.webp</fanart>
 <info>.</info>
 </channel>
 
 <channel>
 <name>[B]SUSPENSE[/B]</name>
 <thumbnail>https://raw.githubusercontent.com/icefenixfire/C/main/cg_sus.webp</thumbnail>
-<externallink>https://raw.githubusercontent.com/icefenixfire/X/main/gen_sus</externallink><!--genre_suspense.xml -->
-<fanart>https://raw.githubusercontent.com/icefenixfire/capas_menu/main/xml_F/fanart_fil.webp</fanart>
+<externallink>https://raw.githubusercontent.com/icefenixfire/X/main/F/gen_sus</externallink><!--genre_suspense.xml -->
+<fanart>https://raw.githubusercontent.com/icefenixfire/C/main/fm_fil.webp</fanart>
 <info>.</info>
 </channel>
 
 <channel>
 <name>[B]TERROR[/B]</name>
 <thumbnail>https://raw.githubusercontent.com/icefenixfire/C/main/cg_ter.webp</thumbnail>
-<externallink>https://raw.githubusercontent.com/icefenixfire/X/main/gen_ter</externallink><!--genre_terror.xml -->
-<fanart>https://raw.githubusercontent.com/icefenixfire/capas_menu/main/xml_F/fanart_fil.webp</fanart>
+<externallink>https://raw.githubusercontent.com/icefenixfire/X/main/F/gen_ter</externallink><!--genre_terror.xml -->
+<fanart>https://raw.githubusercontent.com/icefenixfire/C/main/fm_fil.webp</fanart>
 <info>.</info>
 </channel>
 
 <channel>
 <name>[B]TODOS OS TÍTULOS[/B]</name>
 <thumbnail>https://raw.githubusercontent.com/icefenixfire/C/main/cg_tod.webp</thumbnail>
-<externallink>https://raw.githubusercontent.com/icefenixfire/X/main/gen_tod</externallink><!-- genre_todos.xml-->
-<fanart>https://raw.githubusercontent.com/icefenixfire/capas_menu/main/xml_F/fanart_fil.webp</fanart>
+<externallink>https://raw.githubusercontent.com/icefenixfire/X/main/F/gen_tod</externallink><!-- genre_todos.xml-->
+<fanart>https://raw.githubusercontent.com/icefenixfire/C/main/fm_fil.webp</fanart>
 <info>[COLOR yellow]Atenção![/COLOR] O tempo de carregamento dessa categoria pode variar de acordo com os recursos de hardware do seu dispositivo devido o grande volume de títulos do catálogo, atualmente mais 9300 filmes.</info>
 </channel>
 </channels>
