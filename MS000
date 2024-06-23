@@ -1,6 +1,15 @@
 <channels>
 
 <channel>
+<name>[B]JIBAN: POLICIAL DE AÇO ● 1989[/B]</name>
+<thumbnail>https://raw.githubusercontent.com/icefenixfire/S/main/S00270.webp</thumbnail>
+<externallink>https://raw.githubusercontent.com/icefenixfire/X/main/S/S00270</externallink>
+<fanart>https://raw.githubusercontent.com/icefenixfire/S/main/S00270_fanart.webp</fanart>
+<genre>Ficção, Fantasia, Ação</genre>
+<info>[COLOR cyan][B]● Classificação Indicativa +10[/B][/COLOR]</info>
+</channel>
+
+<channel>
 <name>[B]MATÉRIA ESCURA ● 2024...[/B]</name>
 <thumbnail>https://raw.githubusercontent.com/icefenixfire/S/main/S00269.webp</thumbnail>
 <externallink>https://raw.githubusercontent.com/icefenixfire/X/main/S/S00269</externallink>
@@ -1754,7 +1763,6 @@
 <genre>Fantasia, Ação</genre>
 <info>[COLOR cyan][B]● Classificação Indicativa +10[/B][/COLOR]</info>
 </channel>
-
 
 <channel>
 <name>[B]ROMA ● 2005 - 2007[/B]</name>
