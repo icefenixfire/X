@@ -1,6 +1,24 @@
 <channels>
 
 <channel>
+<name>[B]TED: A SÉRIE ● 2024...[/B]</name>
+<thumbnail>https://raw.githubusercontent.com/icefenixfire/S/main/S00274.webp</thumbnail>
+<externallink>https://raw.githubusercontent.com/icefenixfire/X/main/S/S00274</externallink>
+<fanart>https://raw.githubusercontent.com/icefenixfire/S/main/S00274_fanart.webp</fanart>
+<genre>Comédia, Fantasia</genre>
+<info>[COLOR red][B]● Classificação Indicativa +16[/B][/COLOR]</info>
+</channel>
+
+<channel>
+<name>[B]TED LASSO ● 2020...[/B]</name>
+<thumbnail>https://raw.githubusercontent.com/icefenixfire/S/main/S00273.webp</thumbnail>
+<externallink>https://raw.githubusercontent.com/icefenixfire/X/main/S/S00273</externallink>
+<fanart>https://raw.githubusercontent.com/icefenixfire/S/main/S00273_fanart.webp</fanart>
+<genre>Comédia, Esporte, Drama</genre>
+<info>[COLOR darkorange][B]● Classificação Indicativa +14[/B][/COLOR]</info>
+</channel>
+
+<channel>
 <name>[B]OS BANDIDOS DO TEMPO ● 2024...[/B]</name>
 <thumbnail>https://raw.githubusercontent.com/icefenixfire/S/main/S00272.webp</thumbnail>
 <externallink>https://raw.githubusercontent.com/icefenixfire/X/main/S/S00272</externallink>
