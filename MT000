@@ -3,15 +3,19 @@
 <item>
 <title>SPORTV</title>
 <thumbnail>https://raw.githubusercontent.com/icefenixfire/CN/main/sportv.webp</thumbnail>
-<link>http://uniplay.link:80/85474525/1602148/118881$nome=[COLOR lime]SPORTV FHD[/COLOR]</link>
-<link>http://pdsrv.io:80/Bl1573838/Ap024610/100189$nome=[COLOR lime]SPORTV FHD²[/COLOR]</link>
-<link>http://pdsrv.io:80/Bl1573838/Ap024610/100185$nome=[COLOR lime]SPORTV HD[/COLOR]</link>
-<link>http://pdsrv.io:80/Bl1573838/Ap024610/100187$nome=[COLOR lime]SPORTV HD²[/COLOR]</link>
-<link>http://pdsrv.io:80/Bl1573838/Ap024610/100183$nome=[COLOR lime]SPORTV SD[/COLOR]</link>
-<link>http://pdsrv.io:80/Bl1573838/Ap024610/100184$nome=[COLOR lime]SPORTV SD²[/COLOR]</link>
+<link>http://uniplay.link:80/85474525/1602148/118881$nome=[COLOR lime]SPORTV[/COLOR]</link>
+<link>http://uniplay.link:80/85474525/1602148/554$nome=[COLOR lime]SPORTV 2[/COLOR]</link>
 <info></info>
 <genre>Esportes</genre>
 </item>
 
+<item>
+<title>SPORTV</title>
+<thumbnail>https://raw.githubusercontent.com/icefenixfire/CN/main/sportv.webp</thumbnail>
+<link>http://uniplay.link:80/85474525/1602148/118881$nome=[COLOR lime]SPORTV[/COLOR]</link>
+<link>http://uniplay.link:80/85474525/1602148/554$nome=[COLOR lime]SPORTV 2[/COLOR]</link>
+<info></info>
+<genre>Esportes</genre>
+</item>
 
 </items>
