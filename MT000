@@ -1,51 +1,17 @@
+<!-- ESPORTES -->
 <items>
-
 <item>
-<title>ESPORTES</title>
-<thumbnail>https://raw.githubusercontent.com/icefenixfire/CN/main/cat_tv_esportes.webp</thumbnail>
-<externallink>https://onedrive.live.com/download?resid=D294119531718C07%211091&authkey=!AAvB4mP0GaT7POE</externallink>
-<info>Esportes</info>
-<genre></genre>
+<title>SPORTV</title>
+<thumbnail>https://raw.githubusercontent.com/icefenixfire/CN/main/sportv.webp</thumbnail>
+<link>http://uniplay.link:80/85474525/1602148/118881$nome=[COLOR lime]SPORTV FHD[/COLOR]</link>
+<link>http://pdsrv.io:80/Bl1573838/Ap024610/100189$nome=[COLOR lime]SPORTV FHD²[/COLOR]</link>
+<link>http://pdsrv.io:80/Bl1573838/Ap024610/100185$nome=[COLOR lime]SPORTV HD[/COLOR]</link>
+<link>http://pdsrv.io:80/Bl1573838/Ap024610/100187$nome=[COLOR lime]SPORTV HD²[/COLOR]</link>
+<link>http://pdsrv.io:80/Bl1573838/Ap024610/100183$nome=[COLOR lime]SPORTV SD[/COLOR]</link>
+<link>http://pdsrv.io:80/Bl1573838/Ap024610/100184$nome=[COLOR lime]SPORTV SD²[/COLOR]</link>
+<info></info>
+<genre>Esportes</genre>
 </item>
 
-<item>
-<title>DOCUMENTÁRIOS & VARIEDADES</title>
-<thumbnail>https://raw.githubusercontent.com/icefenixfire/CN/main/cat_tv_doc_variedades.webp</thumbnail>
-<externallink></externallink>
-<info>Documentários & Variedades</info>
-<genre></genre>
-</item>
-
-<item>
-<title>FILMES & SÉRIES</title>
-<thumbnail>https://raw.githubusercontent.com/icefenixfire/CN/main/cat_tv_filmes_series.webp</thumbnail>
-<externallink></externallink>
-<info>Filmes & Séries</info>
-<genre></genre>
-</item>
-
-<item>
-<title>ABERTOS</title>
-<thumbnail>https://raw.githubusercontent.com/icefenixfire/CN/main/cat_tv_abertos.webp</thumbnail>
-<externallink></externallink>
-<info>Abertos</info>
-<genre></genre>
-</item>
-
-<item>
-<title>INFANTIL</title>
-<thumbnail>https://raw.githubusercontent.com/icefenixfire/CN/main/cat_tv_infantil.webp</thumbnail>
-<externallink></externallink>
-<info>Infantil</info>
-<genre></genre>
-</item>
-
-<item>
-<title>NOTÍCIAS</title>
-<thumbnail>https://raw.githubusercontent.com/icefenixfire/CN/main/cat_tv_noticias.webp</thumbnail>
-<externallink></externallink>
-<info>Notícias</info>
-<genre></genre>
-</item>
 
 </items>
