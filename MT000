@@ -12,7 +12,7 @@
 
 <item>
 <title>PREMIERE</title>
-<thumbnail>https://raw.githubusercontent.com/icefenixfire/CN/main/premiere.webp</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/icefenixfire/T/main/T0002.webp</thumbnail>
 <link>http://uniplay.link:80/85474525/1602148/494$nome=[COLOR lime]PREMIERE 1[/COLOR]</link>
 <link>http://uniplay.link:80/85474525/1602148/499$nome=[COLOR lime]PREMIERE 2[/COLOR]</link>
 <link>http://uniplay.link:80/85474525/1602148/504$nome=[COLOR lime]PREMIERE 3[/COLOR]</link>
@@ -27,7 +27,7 @@
 
 <item>
 <title>ESPN</title>
-<thumbnail>https://raw.githubusercontent.com/icefenixfire/CN/main/espn.webp</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/icefenixfire/T/main/T0005.webp</thumbnail>
 <link>http://uniplay.link:80/85474525/1602148/309458$nome=[COLOR lime]ESPN 1[/COLOR]</link>
 <link>http://uniplay.link:80/85474525/1602148/215$nome=[COLOR lime]ESPN 2[/COLOR]</link>
 <link>http://uniplay.link:80/85474525/1602148/220$nome=[COLOR lime]ESPN 3[/COLOR]</link>
@@ -39,10 +39,99 @@
 
 <item>
 <title>BAND SPORTS</title>
-<thumbnail>https://raw.githubusercontent.com/icefenixfire/CN/main/.webp</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/icefenixfire/T/main/T0003.webp</thumbnail>
 <link>http://uniplay.link:80/85474525/1602148/234278</link>
 <info></info>
 <genre>Esportes</genre>
+</item>
+
+<items>
+<item>
+<title>DISCOVERY CHANNEL</title>
+<thumbnail>hhttps://raw.githubusercontent.com/icefenixfire/T/main/T0005.webp</thumbnail>
+<link>http://uniplay.link:80/85474525/1602148/2577</link>
+<info></info>
+<genre>Documentários & Variedades</genre>
+</item>
+
+<item>
+<title>DISCOVERY HOME & HEALTH</title>
+<thumbnail>https://raw.githubusercontent.com/icefenixfire/CN/main/discoveryh&h.webp</thumbnail>
+<link>$nome=[COLOR lime]DISCOVERY HOME & HEALTH[/COLOR]</link>
+<info></info>
+<genre>Documentários & Variedades</genre>
+</item>
+
+<item>
+<title>DISCOVERY TURBO</title>
+<thumbnail>https://raw.githubusercontent.com/icefenixfire/CN/main/discoveryturbo.webp</thumbnail>
+<link>$nome=[COLOR lime]DISCOVERY TURBO[/COLOR]</link>
+<info></info>
+<genre>Documentários & Variedades</genre>
+</item>
+
+<item>
+<title>INVESTIGAÇÃO DISCOVERY</title>
+<thumbnail>https://raw.githubusercontent.com/icefenixfire/CN/main/id.webp</thumbnail>
+<link>$nome=[COLOR lime]INVESTIGAÇÃO DISCOVERY[/COLOR]</link>
+<info></info>
+<genre>Documentários & Variedades</genre>
+</item>
+
+<item>
+<title>DISCOVERY WORLD</title>
+<thumbnail>https://raw.githubusercontent.com/icefenixfire/CN/main/discoveryworld.webp</thumbnail>
+<link>$nome=[COLOR lime]DISCOVERY WORLD[/COLOR]</link>
+<info></info>
+<genre>Documentários & Variedades</genre>
+</item>
+
+<item>
+<title>DISCOVERY THEATER</title>
+<thumbnail>https://raw.githubusercontent.com/icefenixfire/CN/main/discoverytheater.webp</thumbnail>
+<link>$nome=[COLOR lime]DISCOVERY THEATER FHD[/COLOR]</link>
+<info></info>
+<genre>Documentários & Variedades</genre>
+</item>
+
+<item>
+<title>ANIMAL PLANET</title>
+<thumbnail>https://raw.githubusercontent.com/icefenixfire/CN/main/animalplanet.webp</thumbnail>
+<link>$nome=[COLOR lime]ANIMAL PLANET FHD[/COLOR]</link>
+<info></info>
+<genre>Documentários & Variedades</genre>
+</item>
+
+<item>
+<title>HISTORY</title>
+<thumbnail>https://raw.githubusercontent.com/icefenixfire/CN/main/history.webp</thumbnail>
+<link>$nome=[COLOR lime]HISTORY FHD[/COLOR]</link>
+<info></info>
+<genre>Documentários & Variedades</genre>
+</item>
+
+<item>
+<title>H2</title>
+<thumbnail>https://raw.githubusercontent.com/icefenixfire/CN/main/h2.webp</thumbnail>
+<link>$nome=[COLOR lime]H2 FHD[/COLOR]</link>
+<info></info>
+<genre>Documentários & Variedades</genre>
+</item>
+
+<item>
+<title>BIS</title>
+<thumbnail>https://raw.githubusercontent.com/icefenixfire/CN/main/.webp</thumbnail>
+<link>$nome=[COLOR lime]BIS FHD[/COLOR]</link>
+<info></info>
+<genre>Documentários & Variedades</genre>
+</item>
+
+<item>
+<title>COMEDY CENTRAL</title>
+<thumbnail>https://raw.githubusercontent.com/icefenixfire/CN/main/.webp</thumbnail>
+<link>$nome=[COLOR lime]COMEDY CENTRAL FHD[/COLOR]</link>
+<info></info>
+<genre>Documentários & Variedades</genre>
 </item>
 
 </items>
