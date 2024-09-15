@@ -25,4 +25,16 @@
 <genre>Esportes</genre>
 </item>
 
+<item>
+<title>ESPN</title>
+<thumbnail>https://raw.githubusercontent.com/icefenixfire/CN/main/espn.webp</thumbnail>
+<link>http://uniplay.link:80/85474525/1602148/309458$nome=[COLOR lime]ESPN 1[/COLOR]</link>
+<link>http://uniplay.link:80/85474525/1602148/215$nome=[COLOR lime]ESPN 2[/COLOR]</link>
+<link>http://uniplay.link:80/85474525/1602148/220$nome=[COLOR lime]ESPN 3[/COLOR]</link>
+<link>http://uniplay.link:80/85474525/1602148/225$nome=[COLOR lime]ESPN 4[/COLOR]</link>
+<link>http://uniplay.link:80/85474525/1602148/230$nome=[COLOR lime]ESPN EXTRA[/COLOR]</link>
+<info></info>
+<genre>Esportes</genre>
+</item>
+
 </items>
