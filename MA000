@@ -1,7 +1,16 @@
 <channels>
 
 <channel>
-<name>[B]EL HAZARD: THE WORLD MAGNIFICENT  ● 1995[/B]</name>
+<name>[B]OVA/FILME[/B]</name>
+<thumbnail>https://raw.githubusercontent.com/icefenixfire/O/main/OV0000.webp</thumbnail>
+<externallink>https://raw.githubusercontent.com/icefenixfire/X/main/A/OV0000</externallink>
+<fanart></fanart>
+<genre></genre>
+<info>[B]● OVA's[/B]</info>
+</channel>
+
+<channel>
+<name>[B]EL HAZARD: THE WORLD MAGNIFICENT ● 1995[/B]</name>
 <thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0285.webp</thumbnail>
 <externallink>https://raw.githubusercontent.com/icefenixfire/X/main/A/A0285</externallink>
 <fanart></fanart>
@@ -1677,16 +1686,6 @@
 <genre>Dublado</genre>
 <info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]</info>
 </channel>
-
-<channel>
-<name>[B]OVA/FILME[/B]</name>
-<thumbnail>https://raw.githubusercontent.com/icefenixfire/O/main/OV0000.webp</thumbnail>
-<externallink>https://raw.githubusercontent.com/icefenixfire/X/main/A/OV0000</externallink>
-<fanart></fanart>
-<genre></genre>
-<info>[B]● OVA's[/B]</info>
-</channel>
-
 
 <channel>
 <name>[B]PILOTOS DE DRAGÃO ● 2018[/B]</name>
