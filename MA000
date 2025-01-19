@@ -1,6 +1,15 @@
 <channels>
 
 <channel>
+<name>[B]CASTLEVANIA: NOTURNO ● 2023...[/B]</name>
+<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0267.webp</thumbnail>
+<externallink>https://raw.githubusercontent.com/icefenixfire/X/main/A/A0267</externallink>
+<fanart></fanart>
+<genre>Dublado</genre>
+<info>[COLOR red][B]● Classificação +16[/B][/COLOR]</info>
+</channel>
+
+<channel>
 <name>[B]DUNGEON MESHI ● 2024...[/B]</name>
 <thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0287.webp</thumbnail>
 <externallink>https://raw.githubusercontent.com/icefenixfire/X/main/A/A0287</externallink>
@@ -629,15 +638,6 @@
 <fanart></fanart>
 <genre>Legendado</genre>
 <info>[COLOR crimson][B]● Classificação +18[/B][/COLOR]</info>
-</channel>
-
-<channel>
-<name>[B]CASTLEVANIA: NOTURNO ● 2023...[/B]</name>
-<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0267.webp</thumbnail>
-<externallink>https://raw.githubusercontent.com/icefenixfire/X/main/A/A0267</externallink>
-<fanart></fanart>
-<genre>Dublado</genre>
-<info>[COLOR red][B]● Classificação +16[/B][/COLOR]</info>
 </channel>
 
 <channel>
