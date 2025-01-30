@@ -1,6 +1,15 @@
 <channels>
 
 <channel>
+<name>[B]BERSERK ● 1997[/B]</name>
+<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0002.webp</thumbnail>
+<externallink>https://raw.githubusercontent.com/icefenixfire/X/main/A/A0002</externallink>
+<fanart></fanart>
+<genre>Legendado</genre>
+<info>[COLOR crimson][B]● Classificação +18[/B][/COLOR]</info>
+</channel>
+
+<channel>
 <name>[B]GODZILLA PONTO SINGULAR ● 2021[/B]</name>
 <thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0288.webp</thumbnail>
 <externallink>https://raw.githubusercontent.com/icefenixfire/X/main/A/A0288</externallink>
@@ -638,15 +647,6 @@
 <fanart></fanart>
 <genre>Dublado</genre>
 <info>[COLOR lime][B]● Classificação LIVRE[/B][/COLOR]</info>
-</channel>
-
-<channel>
-<name>[B]BERSERK ● 1997[/B]</name>
-<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0002.webp</thumbnail>
-<externallink>https://raw.githubusercontent.com/icefenixfire/X/main/A/A0002</externallink>
-<fanart></fanart>
-<genre>Legendado</genre>
-<info>[COLOR crimson][B]● Classificação +18[/B][/COLOR]</info>
 </channel>
 
 <channel>
