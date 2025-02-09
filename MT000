@@ -80,7 +80,7 @@
   <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/987999</link> 
 </item> 
 <item> 
-  <title>-1 tvg-id=&quot;&quot; tvg-name=&quot;HBO MAX 10&quot; tvg-logo=&quot;&quot; group-title=&quot;CANAIS | ESPORTES PPV&quot;,)HBO MAX 10</title> 
+  <title>HBO MAX 10</title> 
   <thumbnail>=</thumbnail> 
   <genre>CANAIS</genre> 
   <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/988000</link> 
@@ -267,19 +267,19 @@
 </item> 
 <item> 
   <title>CAMPEONATO SERGIPANO</title> 
-  <thumbnail>https://prostore.app/logos/jogosodia.png group-title=CAMPEONATOS</thumbnail> 
+  <thumbnail>https://prostore.app/logos/jogosodia.png</thumbnail> 
   <genre>=CAMPEONATOS</genre> 
   <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/677640</link> 
 </item> 
 <item> 
   <title>CAMPEONATO SERGIPANO 1</title> 
-  <thumbnail>https://prostore.app/logos/jogosodia.png group-title=CAMPEONATOS</thumbnail> 
+  <thumbnail>https://prostore.app/logos/jogosodia.png</thumbnail> 
   <genre>=CAMPEONATOS</genre> 
   <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/725376</link> 
 </item> 
 <item> 
   <title>CAMPEONATO SERGIPANO 2</title> 
-  <thumbnail>https://prostore.app/logos/jogosodia.png group-title=CAMPEONATOS</thumbnail> 
+  <thumbnail>https://prostore.app/logos/jogosodia.png</thumbnail> 
   <genre>=CAMPEONATOS</genre> 
   <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/725377</link> 
 </item> 
@@ -2766,15 +2766,15 @@
   <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/61244</link> 
 </item> 
 <item> 
-  <title>-1 tvg-id=&quot;curta.br&quot; tvg-name=&quot;CURTA//prostore.app/logos/curta SD</title> 
+  <title>http://prostore.app/logos/curta SD</title> 
   <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/10291</link> 
 </item> 
 <item> 
-  <title>-1 tvg-id=&quot;curta.br&quot; tvg-name=&quot;CURTA//prostore.app/logos/curta HD</title> 
+  <title>http://prostore.app/logos/curta HD</title> 
   <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/94114</link> 
 </item> 
 <item> 
-  <title>-1 tvg-id=&quot;curta.br&quot; tvg-name=&quot;CURTA//prostore.app/logos/curta FHD</title> 
+  <title>http://prostore.app/logos/curta FHD</title> 
   <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/94115</link> 
 </item> 
 <item> 
@@ -2988,15 +2988,15 @@
   <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/61459</link> 
 </item> 
 <item> 
-  <title>-1 tvg-id=&quot;e.br&quot; tvg-name=&quot;E//prostore.app/logos/E FHD</title> 
+  <title>https://prostore.app/logos/E FHD</title> 
   <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/61161</link> 
 </item> 
 <item> 
-  <title>-1 tvg-id=&quot;e.br&quot; tvg-name=&quot;E//prostore.app/logos/E HD</title> 
+  <title>https://prostore.app/logos/E HD</title> 
   <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/10285</link> 
 </item> 
 <item> 
-  <title>-1 tvg-id=&quot;e.br&quot; tvg-name=&quot;E//prostore.app/logos/E SD</title> 
+  <title>https://prostore.app/logos/E SD</title> 
   <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/4382</link> 
 </item> 
 <item> 
@@ -3036,19 +3036,19 @@
   <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/75491</link> 
 </item> 
 <item> 
-  <title>FILM ^&amp; ARTS FHD</title> 
+  <title>ARTS FHD</title> 
   <thumbnail>https://prostore.app/logos/filmEarte.png</thumbnail> 
   <genre>CANAIS</genre> 
   <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/97599</link> 
 </item> 
 <item> 
-  <title>FILM ^&amp; ARTS HD</title> 
+  <title>ARTS HD</title> 
   <thumbnail>https://prostore.app/logos/filmEarte.png</thumbnail> 
   <genre>CANAIS</genre> 
   <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/60963</link> 
 </item> 
 <item> 
-  <title>FILM ^&amp; ARTS SD</title> 
+  <title>ARTS SD</title> 
   <thumbnail>https://prostore.app/logos/filmEarte.png</thumbnail> 
   <genre>CANAIS</genre> 
   <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/97600</link> 
@@ -4435,295 +4435,295 @@
 </item> 
 <item> 
   <title>PRIME VIDEO  | COPA DO BRASIL 02</title> 
-  <genre>=</genre> 
+  <genre></genre> 
   <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/601977</link> 
 </item> 
 <item> 
   <title>PRIME VIDEO  | COPA DO BRASIL 04</title> 
-  <genre>=</genre> 
+  <genre></genre> 
   <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/601979</link> 
 </item> 
 <item> 
   <title>PRIME VIDEO  | COPA DO BRASIL 1</title> 
-  <genre>=</genre> 
+  <genre></genre> 
   <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/601976</link> 
 </item> 
 <item> 
   <title>PRIME VIDEO  | COPA DO BRASIL 3</title> 
-  <genre>=</genre> 
+  <genre></genre> 
   <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/601978</link> 
 </item> 
 <item> 
   <title>PRIME VIDEO  | COPA DO BRASIL 5</title> 
-  <genre>=</genre> 
+  <genre></genre> 
   <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/601985</link> 
 </item> 
 <item> 
-  <title> CAÇAVISION&quot; tvg-logo=&quot;&quot; group-title=&quot;CANAIS | PORTUGAL&quot;,)PT1: CAÇAVISION</title> 
+  <title>CAÇAVISION</title> 
   <thumbnail>=</thumbnail> 
   <genre>CANAIS</genre> 
   <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/130220</link> 
 </item> 
 <item> 
-  <title> CBS REALITY&quot; tvg-logo=&quot;&quot; group-title=&quot;CANAIS | PORTUGAL&quot;,)PT1: CBS REALITY</title> 
+  <title>CBS REALITY</title> 
   <thumbnail>=</thumbnail> 
   <genre>CANAIS</genre> 
   <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/130222</link> 
 </item> 
 <item> 
-  <title> CINEMUNDO SD&quot; tvg-logo=&quot;&quot; group-title=&quot;CANAIS | PORTUGAL&quot;,)PT1: CINEMUNDO SD</title> 
+  <title>CINEMUNDO SD</title> 
   <thumbnail>=</thumbnail> 
   <genre>CANAIS</genre> 
   <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/130226</link> 
 </item> 
 <item> 
-  <title> ELEVEN SPORTS 6&quot; tvg-logo=&quot;&quot; group-title=&quot;CANAIS | PORTUGAL&quot;,)PT1: ELEVEN SPORTS 6</title> 
+  <title>ELEVEN SPORTS 6</title> 
   <thumbnail>=</thumbnail> 
   <genre>CANAIS</genre> 
   <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/130259</link> 
 </item> 
 <item> 
-  <title> FOX CRIME HD&quot; tvg-logo=&quot;&quot; group-title=&quot;CANAIS | PORTUGAL&quot;,)PT1: FOX CRIME HD</title> 
+  <title>FOX CRIME HD</title> 
   <thumbnail>=</thumbnail> 
   <genre>CANAIS</genre> 
   <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/130278</link> 
 </item> 
 <item> 
-  <title> FOX MOVIES HD&quot; tvg-logo=&quot;&quot; group-title=&quot;CANAIS | PORTUGAL&quot;,)PT1: FOX MOVIES HD</title> 
+  <title>FOX MOVIES HD</title> 
   <thumbnail>=</thumbnail> 
   <genre>CANAIS</genre> 
   <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/130288</link> 
 </item> 
 <item> 
-  <title> FOX MOVIES SD&quot; tvg-logo=&quot;&quot; group-title=&quot;CANAIS | PORTUGAL&quot;,)PT1: FOX MOVIES SD</title> 
+  <title>FOX MOVIES SD</title> 
   <thumbnail>=</thumbnail> 
   <genre>CANAIS</genre> 
   <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/130289</link> 
 </item> 
 <item> 
-  <title> FOX SD&quot; tvg-logo=&quot;&quot; group-title=&quot;CANAIS | PORTUGAL&quot;,)PT1: FOX SD</title> 
+  <title>FOX SD</title> 
   <thumbnail>=</thumbnail> 
   <genre>CANAIS</genre> 
   <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/130290</link> 
 </item> 
 <item> 
-  <title> FUEL TV&quot; tvg-logo=&quot;&quot; group-title=&quot;CANAIS | PORTUGAL&quot;,)PT1: FUEL TV</title> 
+  <title>FUEL TV</title> 
   <thumbnail>=</thumbnail> 
   <genre>CANAIS</genre> 
   <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/130293</link> 
 </item> 
 <item> 
-  <title> GLOBO&quot; tvg-logo=&quot;&quot; group-title=&quot;CANAIS | PORTUGAL&quot;,)PT1: GLOBO</title> 
+  <title>GLOBO</title> 
   <thumbnail>=</thumbnail> 
   <genre>CANAIS</genre> 
   <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/130295</link> 
 </item> 
 <item> 
-  <title> GLOBO NOW&quot; tvg-logo=&quot;&quot; group-title=&quot;CANAIS | PORTUGAL&quot;,)PT1: GLOBO NOW</title> 
+  <title>GLOBO NOW</title> 
   <thumbnail>=</thumbnail> 
   <genre>CANAIS</genre> 
   <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/130298</link> 
 </item> 
 <item> 
-  <title> HOLLYWOOD HD&quot; tvg-logo=&quot;&quot; group-title=&quot;CANAIS | PORTUGAL&quot;,)PT1: HOLLYWOOD HD</title> 
+  <title>HOLLYWOOD HD</title> 
   <thumbnail>=</thumbnail> 
   <genre>CANAIS</genre> 
   <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/130301</link> 
 </item> 
 <item> 
-  <title> HOLLYWOOD SD&quot; tvg-logo=&quot;&quot; group-title=&quot;CANAIS | PORTUGAL&quot;,)PT1: HOLLYWOOD SD</title> 
+  <title>HOLLYWOOD SD</title> 
   <thumbnail>=</thumbnail> 
   <genre>CANAIS</genre> 
   <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/130302</link> 
 </item> 
 <item> 
-  <title> JIMJAM&quot; tvg-logo=&quot;&quot; group-title=&quot;CANAIS | PORTUGAL&quot;,)PT1: JIMJAM</title> 
+  <title>JIMJAM</title> 
   <thumbnail>=</thumbnail> 
   <genre>CANAIS</genre> 
   <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/130306</link> 
 </item> 
 <item> 
-  <title> NAT GEO WILD&quot; tvg-logo=&quot;&quot; group-title=&quot;CANAIS | PORTUGAL&quot;,)PT1: NAT GEO WILD</title> 
+  <title> NAT GEO WILD</title> 
   <thumbnail>=</thumbnail> 
   <genre>CANAIS</genre> 
   <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/130317</link> 
 </item> 
 <item> 
-  <title> NOS STUDIOS HD&quot; tvg-logo=&quot;&quot; group-title=&quot;CANAIS | PORTUGAL&quot;,)PT1: NOS STUDIOS HD</title> 
+  <title> NOS STUDIOS HD</title> 
   <thumbnail>=</thumbnail> 
   <genre>CANAIS</genre> 
   <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/130326</link> 
 </item> 
 <item> 
-  <title> ODISSEIA&quot; tvg-logo=&quot;&quot; group-title=&quot;CANAIS | PORTUGAL&quot;,)PT1: ODISSEIA</title> 
+  <title> ODISSEIA</title> 
   <thumbnail>=</thumbnail> 
   <genre>CANAIS</genre> 
   <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/130328</link> 
 </item> 
 <item> 
-  <title> PANDA BIGS&quot; tvg-logo=&quot;&quot; group-title=&quot;CANAIS | PORTUGAL&quot;,)PT1: PANDA BIGS</title> 
+  <title> PANDA BIGS</title> 
   <thumbnail>=</thumbnail> 
   <genre>CANAIS</genre> 
   <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/130329</link> 
 </item> 
 <item> 
-  <title> PORTO CANAL&quot; tvg-logo=&quot;&quot; group-title=&quot;CANAIS | PORTUGAL&quot;,)PT1: PORTO CANAL</title> 
+  <title> PORTO CANAL</title> 
   <thumbnail>=</thumbnail> 
   <genre>CANAIS</genre> 
   <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/130333</link> 
 </item> 
 <item> 
-  <title> RTP 1 SD&quot; tvg-logo=&quot;&quot; group-title=&quot;CANAIS | PORTUGAL&quot;,)PT1: RTP 1 SD</title> 
+  <title> RTP 1 SD</title> 
   <thumbnail>=</thumbnail> 
   <genre>CANAIS</genre> 
   <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/130337</link> 
 </item> 
 <item> 
-  <title> RTP 2 HD&quot; tvg-logo=&quot;&quot; group-title=&quot;CANAIS | PORTUGAL&quot;,)PT1: RTP 2 HD</title> 
+  <title> RTP 2 HD</title> 
   <thumbnail>=</thumbnail> 
   <genre>CANAIS</genre> 
   <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/130340</link> 
 </item> 
 <item> 
-  <title> RTP 2 SD&quot; tvg-logo=&quot;&quot; group-title=&quot;CANAIS | PORTUGAL&quot;,)PT1: RTP 2 SD</title> 
+  <title> RTP 2 SD</title> 
   <thumbnail>=</thumbnail> 
   <genre>CANAIS</genre> 
   <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/130341</link> 
 </item> 
 <item> 
-  <title> RTP 3&quot; tvg-logo=&quot;&quot; group-title=&quot;CANAIS | PORTUGAL&quot;,)PT1: RTP 3</title> 
+  <title> RTP 3</title> 
   <thumbnail>=</thumbnail> 
   <genre>CANAIS</genre> 
   <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/130343</link> 
 </item> 
 <item> 
-  <title> RTP AFRICA&quot; tvg-logo=&quot;&quot; group-title=&quot;CANAIS | PORTUGAL&quot;,)PT1: RTP AFRICA</title> 
+  <title> RTP AFRICA</title> 
   <thumbnail>=</thumbnail> 
   <genre>CANAIS</genre> 
   <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/130346</link> 
 </item> 
 <item> 
-  <title> RTP MADEIRA&quot; tvg-logo=&quot;&quot; group-title=&quot;CANAIS | PORTUGAL&quot;,)PT1: RTP MADEIRA</title> 
+  <title> RTP MADEIRA</title> 
   <thumbnail>=</thumbnail> 
   <genre>CANAIS</genre> 
   <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/130349</link> 
 </item> 
 <item> 
-  <title> SIC K&quot; tvg-logo=&quot;&quot; group-title=&quot;CANAIS | PORTUGAL&quot;,)PT1: SIC K</title> 
+  <title> SIC K</title> 
   <thumbnail>=</thumbnail> 
   <genre>CANAIS</genre> 
   <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/130356</link> 
 </item> 
 <item> 
-  <title> TPA INTERNACIONAL&quot; tvg-logo=&quot;&quot; group-title=&quot;CANAIS | PORTUGAL&quot;,)PT1: TPA INTERNACIONAL</title> 
+  <title> TPA INTERNACIONAL</title> 
   <thumbnail>=</thumbnail> 
   <genre>CANAIS</genre> 
   <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/130394</link> 
 </item> 
 <item> 
-  <title> TRACE TOCA&quot; tvg-logo=&quot;&quot; group-title=&quot;CANAIS | PORTUGAL&quot;,)PT1: TRACE TOCA</title> 
+  <title> TRACE TOCA</title> 
   <thumbnail>=</thumbnail> 
   <genre>CANAIS</genre> 
   <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/130396</link> 
 </item> 
 <item> 
-  <title> TRAVEL CHANNEL HD&quot; tvg-logo=&quot;&quot; group-title=&quot;CANAIS | PORTUGAL&quot;,)PT1: TRAVEL CHANNEL HD</title> 
+  <title> TRAVEL CHANNEL HD</title> 
   <thumbnail>=</thumbnail> 
   <genre>CANAIS</genre> 
   <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/130400</link> 
 </item> 
 <item> 
-  <title> TV RECORD&quot; tvg-logo=&quot;&quot; group-title=&quot;CANAIS | PORTUGAL&quot;,)PT1: TV RECORD</title> 
+  <title> TV RECORD</title> 
   <thumbnail>=</thumbnail> 
   <genre>CANAIS</genre> 
   <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/130402</link> 
 </item> 
 <item> 
-  <title> TVCine EDITION HD&quot; tvg-logo=&quot;&quot; group-title=&quot;CANAIS | PORTUGAL&quot;,)PT1: TVCine EDITION HD</title> 
+  <title> TVCine EDITION HD</title> 
   <thumbnail>=</thumbnail> 
   <genre>CANAIS</genre> 
   <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/130410</link> 
 </item> 
 <item> 
-  <title> TVCINE EDITION SD&quot; tvg-logo=&quot;&quot; group-title=&quot;CANAIS | PORTUGAL&quot;,)PT1: TVCINE EDITION SD</title> 
+  <title> TVCINE EDITION SD</title> 
   <thumbnail>=</thumbnail> 
   <genre>CANAIS</genre> 
   <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/130411</link> 
 </item> 
 <item> 
-  <title> TVCine EMOTION HD&quot; tvg-logo=&quot;&quot; group-title=&quot;CANAIS | PORTUGAL&quot;,)PT1: TVCine EMOTION HD</title> 
+  <title> TVCine EMOTION HD</title> 
   <thumbnail>=</thumbnail> 
   <genre>CANAIS</genre> 
   <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/130414</link> 
 </item> 
 <item> 
-  <title> TVCINE EMOTION SD&quot; tvg-logo=&quot;&quot; group-title=&quot;CANAIS | PORTUGAL&quot;,)PT1: TVCINE EMOTION SD</title> 
+  <title> TVCINE EMOTION SD</title> 
   <thumbnail>=</thumbnail> 
   <genre>CANAIS</genre> 
   <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/130415</link> 
 </item> 
 <item> 
-  <title> TVCine TOP HD&quot; tvg-logo=&quot;&quot; group-title=&quot;CANAIS | PORTUGAL&quot;,)PT1: TVCine TOP HD</title> 
+  <title> TVCine TOP HD</title> 
   <thumbnail>=</thumbnail> 
   <genre>CANAIS</genre> 
   <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/130418</link> 
 </item> 
 <item> 
-  <title> TVCINE TOP SD&quot; tvg-logo=&quot;&quot; group-title=&quot;CANAIS | PORTUGAL&quot;,)PT1: TVCINE TOP SD</title> 
+  <title> TVCINE TOP SD</title> 
   <thumbnail>=</thumbnail> 
   <genre>CANAIS</genre> 
   <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/130419</link> 
 </item> 
 <item> 
-  <title> TVI FICÇAO&quot; tvg-logo=&quot;&quot; group-title=&quot;CANAIS | PORTUGAL&quot;,)PT1: TVI FICÇAO</title> 
+  <title> TVI FICÇAO</title> 
   <thumbnail>=</thumbnail> 
   <genre>CANAIS</genre> 
   <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/130424</link> 
 </item> 
 <item> 
-  <title> TVI HD&quot; tvg-logo=&quot;&quot; group-title=&quot;CANAIS | PORTUGAL&quot;,)PT1: TVI HD</title> 
+  <title> TVI HD</title> 
   <thumbnail>=</thumbnail> 
   <genre>CANAIS</genre> 
   <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/130426</link> 
 </item> 
 <item> 
-  <title> TVI Reality Camara 1&quot; tvg-logo=&quot;&quot; group-title=&quot;CANAIS | PORTUGAL&quot;,)PT1: TVI Reality Camara 1</title> 
+  <title> TVI Reality Camara 1</title> 
   <thumbnail>=</thumbnail> 
   <genre>CANAIS</genre> 
   <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/130428</link> 
 </item> 
 <item> 
-  <title> TVI Reality Camara 2&quot; tvg-logo=&quot;&quot; group-title=&quot;CANAIS | PORTUGAL&quot;,)PT1: TVI Reality Camara 2</title> 
+  <title> TVI Reality Camara 2</title> 
   <thumbnail>=</thumbnail> 
   <genre>CANAIS</genre> 
   <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/130429</link> 
 </item> 
 <item> 
-  <title> TVI Reality Camara 4&quot; tvg-logo=&quot;&quot; group-title=&quot;CANAIS | PORTUGAL&quot;,)PT1: TVI Reality Camara 4</title> 
+  <title> TVI Reality Camara 4</title> 
   <thumbnail>=</thumbnail> 
   <genre>CANAIS</genre> 
   <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/130431</link> 
 </item> 
 <item> 
-  <title> TVI REALITY HD&quot; tvg-logo=&quot;&quot; group-title=&quot;CANAIS | PORTUGAL&quot;,)PT1: TVI REALITY HD</title> 
+  <title> TVI REALITY HD</title> 
   <thumbnail>=</thumbnail> 
   <genre>CANAIS</genre> 
   <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/130433</link> 
 </item> 
 <item> 
-  <title> TVI REALITY SD&quot; tvg-logo=&quot;&quot; group-title=&quot;CANAIS | PORTUGAL&quot;,)PT1: TVI REALITY SD</title> 
+  <title> TVI REALITY SD</title> 
   <thumbnail>=</thumbnail> 
   <genre>CANAIS</genre> 
   <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/130434</link> 
 </item> 
 <item> 
-  <title> TVI SD&quot; tvg-logo=&quot;&quot; group-title=&quot;CANAIS | PORTUGAL&quot;,)PT1: TVI SD</title> 
+  <title> TVI SD</title> 
   <thumbnail>=</thumbnail> 
   <genre>CANAIS</genre> 
   <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/130435</link> 
 </item> 
 <item> 
-  <title> VH1 MUSIC&quot; tvg-logo=&quot;&quot; group-title=&quot;CANAIS | PORTUGAL&quot;,)PT1: VH1 MUSIC</title> 
+  <title> VH1 MUSIC</title> 
   <thumbnail>=</thumbnail> 
   <genre>CANAIS</genre> 
   <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/130438</link> 
@@ -4733,145 +4733,145 @@
   <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/130243</link> 
 </item> 
 <item> 
-  <title> ELEVEN SPORTS 5&quot; tvg-logo=&quot;&quot; group-title=&quot;CANAIS | PORTUGAL&quot;,)PT: ELEVEN SPORTS 5</title> 
+  <title> ELEVEN SPORTS 5</title> 
   <thumbnail>=</thumbnail> 
   <genre>CANAIS</genre> 
   <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/130256</link> 
 </item> 
 <item> 
-  <title> FOX CRIME FHD&quot; tvg-logo=&quot;&quot; group-title=&quot;CANAIS | PORTUGAL&quot;,)PT: FOX CRIME FHD</title> 
+  <title> FOX CRIME FHD</title> 
   <thumbnail>=</thumbnail> 
   <genre>CANAIS</genre> 
   <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/130277</link> 
 </item> 
 <item> 
-  <title> FOX LIFE FHD&quot; tvg-logo=&quot;&quot; group-title=&quot;CANAIS | PORTUGAL&quot;,)PT: FOX LIFE FHD</title> 
+  <title> FOX LIFE FHD</title> 
   <thumbnail>=</thumbnail> 
   <genre>CANAIS</genre> 
   <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/130283</link> 
 </item> 
 <item> 
-  <title> FOX MOVIES FHD&quot; tvg-logo=&quot;&quot; group-title=&quot;CANAIS | PORTUGAL&quot;,)PT: FOX MOVIES FHD</title> 
+  <title> FOX MOVIES FHD</title> 
   <thumbnail>=</thumbnail> 
   <genre>CANAIS</genre> 
   <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/130287</link> 
 </item> 
 <item> 
-  <title> GLOBO&quot; tvg-logo=&quot;&quot; group-title=&quot;CANAIS | PORTUGAL&quot;,)PT: GLOBO</title> 
+  <title> GLOBO</title> 
   <thumbnail>=</thumbnail> 
   <genre>CANAIS</genre> 
   <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/130294</link> 
 </item> 
 <item> 
-  <title> GLOBO NOW&quot; tvg-logo=&quot;&quot; group-title=&quot;CANAIS | PORTUGAL&quot;,)PT: GLOBO NOW</title> 
+  <title> GLOBO NOW</title> 
   <thumbnail>=</thumbnail> 
   <genre>CANAIS</genre> 
   <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/130297</link> 
 </item> 
 <item> 
-  <title> HISTORIA&quot; tvg-logo=&quot;&quot; group-title=&quot;CANAIS | PORTUGAL&quot;,)PT: HISTORIA</title> 
+  <title> HISTORIA</title> 
   <thumbnail>=</thumbnail> 
   <genre>CANAIS</genre> 
   <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/130299</link> 
 </item> 
 <item> 
-  <title> MOTORVISION&quot; tvg-logo=&quot;&quot; group-title=&quot;CANAIS | PORTUGAL&quot;,)PT: MOTORVISION</title> 
+  <title> MOTORVISION</title> 
   <thumbnail>=</thumbnail> 
   <genre>CANAIS</genre> 
   <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/130311</link> 
 </item> 
 <item> 
-  <title> NAT GEO WILD&quot; tvg-logo=&quot;&quot; group-title=&quot;CANAIS | PORTUGAL&quot;,)PT: NAT GEO WILD</title> 
+  <title> NAT GEO WILD</title> 
   <thumbnail>=</thumbnail> 
   <genre>CANAIS</genre> 
   <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/130316</link> 
 </item> 
 <item> 
-  <title> PFC&quot; tvg-logo=&quot;&quot; group-title=&quot;CANAIS | PORTUGAL&quot;,)PT: PFC</title> 
+  <title> PFC</title> 
   <thumbnail>=</thumbnail> 
   <genre>CANAIS</genre> 
   <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/130330</link> 
 </item> 
 <item> 
-  <title> RTP 1 FHD&quot; tvg-logo=&quot;&quot; group-title=&quot;CANAIS | PORTUGAL&quot;,)PT: RTP 1 FHD</title> 
+  <title> RTP 1 FHD</title> 
   <thumbnail>=</thumbnail> 
   <genre>CANAIS</genre> 
   <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/130335</link> 
 </item> 
 <item> 
-  <title> RTP 2 HD&quot; tvg-logo=&quot;&quot; group-title=&quot;CANAIS | PORTUGAL&quot;,)PT: RTP 2 HD</title> 
+  <title> RTP 2 HD</title> 
   <thumbnail>=</thumbnail> 
   <genre>CANAIS</genre> 
   <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/130339</link> 
 </item> 
 <item> 
-  <title> RTP MEMORIA&quot; tvg-logo=&quot;&quot; group-title=&quot;CANAIS | PORTUGAL&quot;,)PT: RTP MEMORIA</title> 
+  <title> RTP MEMORIA</title> 
   <thumbnail>=</thumbnail> 
   <genre>CANAIS</genre> 
   <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/130350</link> 
 </item> 
 <item> 
-  <title> SIC NOTICIAS HD&quot; tvg-logo=&quot;&quot; group-title=&quot;CANAIS | PORTUGAL&quot;,)PT: SIC NOTICIAS HD</title> 
+  <title> SIC NOTICIAS HD</title> 
   <thumbnail>=</thumbnail> 
   <genre>CANAIS</genre> 
   <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/130358</link> 
 </item> 
 <item> 
-  <title> SYFY FHD&quot; tvg-logo=&quot;&quot; group-title=&quot;CANAIS | PORTUGAL&quot;,)PT: SYFY FHD</title> 
+  <title> SYFY FHD</title> 
   <thumbnail>=</thumbnail> 
   <genre>CANAIS</genre> 
   <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/130390</link> 
 </item> 
 <item> 
-  <title> TVCINE Action&quot; tvg-logo=&quot;&quot; group-title=&quot;CANAIS | PORTUGAL&quot;,)PT: TVCINE Action</title> 
+  <title> TVCINE Action</title> 
   <thumbnail>=</thumbnail> 
   <genre>CANAIS</genre> 
   <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/130404</link> 
 </item> 
 <item> 
-  <title> TVCINE Edition&quot; tvg-logo=&quot;&quot; group-title=&quot;CANAIS | PORTUGAL&quot;,)PT: TVCINE Edition</title> 
+  <title> TVCINE Edition</title> 
   <thumbnail>=</thumbnail> 
   <genre>CANAIS</genre> 
   <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/130408</link> 
 </item> 
 <item> 
-  <title> TVCINE Emotion&quot; tvg-logo=&quot;&quot; group-title=&quot;CANAIS | PORTUGAL&quot;,)PT: TVCINE Emotion</title> 
+  <title> TVCINE Emotion</title> 
   <thumbnail>=</thumbnail> 
   <genre>CANAIS</genre> 
   <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/130412</link> 
 </item> 
 <item> 
-  <title> TVCINE Emotion FHD&quot; tvg-logo=&quot;&quot; group-title=&quot;CANAIS | PORTUGAL&quot;,)PT: TVCINE Emotion FHD</title> 
+  <title> TVCINE Emotion FHD</title> 
   <thumbnail>=</thumbnail> 
   <genre>CANAIS</genre> 
   <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/130413</link> 
 </item> 
 <item> 
-  <title> TVCINE Top FHD&quot; tvg-logo=&quot;&quot; group-title=&quot;CANAIS | PORTUGAL&quot;,)PT: TVCINE Top FHD</title> 
+  <title> TVCINE Top FHD</title> 
   <thumbnail>=</thumbnail> 
   <genre>CANAIS</genre> 
   <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/130416</link> 
 </item> 
 <item> 
-  <title> TVI FHD&quot; tvg-logo=&quot;&quot; group-title=&quot;CANAIS | PORTUGAL&quot;,)PT: TVI FHD</title> 
+  <title> TVI FHD</title> 
   <thumbnail>=</thumbnail> 
   <genre>CANAIS</genre> 
   <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/130421</link> 
 </item> 
 <item> 
-  <title> TVI HD&quot; tvg-logo=&quot;&quot; group-title=&quot;CANAIS | PORTUGAL&quot;,)PT: TVI HD</title> 
+  <title> TVI HD</title> 
   <thumbnail>=</thumbnail> 
   <genre>CANAIS</genre> 
   <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/130425</link> 
 </item> 
 <item> 
-  <title> TVI REALITY&quot; tvg-logo=&quot;&quot; group-title=&quot;CANAIS | PORTUGAL&quot;,)PT: TVI REALITY</title> 
+  <title> TVI REALITY</title> 
   <thumbnail>=</thumbnail> 
   <genre>CANAIS</genre> 
   <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/130427</link> 
 </item> 
 <item> 
-  <title> TVI Reality FHD&quot; tvg-logo=&quot;&quot; group-title=&quot;CANAIS | PORTUGAL&quot;,)PT: TVI Reality FHD</title> 
+  <title> TVI Reality FHD</title> 
   <thumbnail>=</thumbnail> 
   <genre>CANAIS</genre> 
   <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/130432</link> 
@@ -5939,372 +5939,6 @@
   <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/100231</link> 
 </item> 
 <item> 
-  <title> XY MAX FHD&quot; tvg-logo=&quot;https://prostore.app/logos/adultos.pngXXX: XY MAX FHD</title> 
-  <thumbnail>https://prostore.app/logos/adultos.png</thumbnail> 
-  <genre>CANAIS</genre> 
-  <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/649779</link> 
-</item> 
-<item> 
-  <title> SEX PRIVE CLUB FHD&quot; tvg-logo=&quot;https://prostore.app/logos/adultos.pngXXX: SEX PRIVE CLUB FHD</title> 
-  <thumbnail>https://prostore.app/logos/adultos.png</thumbnail> 
-  <genre>CANAIS</genre> 
-  <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/649796</link> 
-</item> 
-<item> 
-  <title> RUSSIAN NIGHT HD&quot; tvg-logo=&quot;https://prostore.app/logos/adultos.pngXXX: RUSSIAN NIGHT HD</title> 
-  <thumbnail>https://prostore.app/logos/adultos.png</thumbnail> 
-  <genre>CANAIS</genre> 
-  <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/649798</link> 
-</item> 
-<item> 
-  <title> Redlight FHD&quot; tvg-logo=&quot;https://prostore.app/logos/adultos.pngXXX: Redlight FHD</title> 
-  <thumbnail>https://prostore.app/logos/adultos.png</thumbnail> 
-  <genre>CANAIS</genre> 
-  <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/649799</link> 
-</item> 
-<item> 
-  <title> Babes TV FHD&quot; tvg-logo=&quot;https://prostore.app/logos/adultos.pngXXX: Babes TV FHD</title> 
-  <thumbnail>https://prostore.app/logos/adultos.png</thumbnail> 
-  <genre>CANAIS</genre> 
-  <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/649801</link> 
-</item> 
-<item> 
-  <title> Bang U FHD&quot; tvg-logo=&quot;https://prostore.app/logos/adultos.pngXXX: Bang U FHD</title> 
-  <thumbnail>https://prostore.app/logos/adultos.png</thumbnail> 
-  <genre>CANAIS</genre> 
-  <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/649803</link> 
-</item> 
-<item> 
-  <title> Barely Legal TV&quot; tvg-logo=&quot;https://prostore.app/logos/adultos.pngXXX: Barely Legal TV</title> 
-  <thumbnail>https://prostore.app/logos/adultos.png</thumbnail> 
-  <genre>CANAIS</genre> 
-  <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/649804</link> 
-</item> 
-<item> 
-  <title> Blue Hustler HD&quot; tvg-logo=&quot;https://prostore.app/logos/adultos.pngXXX: Blue Hustler HD</title> 
-  <thumbnail>https://prostore.app/logos/adultos.png</thumbnail> 
-  <genre>CANAIS</genre> 
-  <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/649805</link> 
-</item> 
-<item> 
-  <title> Brasileirinhas FHD&quot; tvg-logo=&quot;https://prostore.app/logos/adultos.pngXXX: Brasileirinhas FHD</title> 
-  <thumbnail>https://prostore.app/logos/adultos.png</thumbnail> 
-  <genre>CANAIS</genre> 
-  <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/649807</link> 
-</item> 
-<item> 
-  <title> Brazzers TV Europe FHD&quot; tvg-logo=&quot;https://prostore.app/logos/adultos.pngXXX: Brazzers TV Europe FHD</title> 
-  <thumbnail>https://prostore.app/logos/adultos.png</thumbnail> 
-  <genre>CANAIS</genre> 
-  <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/649808</link> 
-</item> 
-<item> 
-  <title> Cento X Cento&quot; tvg-logo=&quot;https://prostore.app/logos/adultos.pngXXX: Cento X Cento</title> 
-  <thumbnail>https://prostore.app/logos/adultos.png</thumbnail> 
-  <genre>CANAIS</genre> 
-  <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/649810</link> 
-</item> 
-<item> 
-  <title> Desire FHD&quot; tvg-logo=&quot;https://prostore.app/logos/adultos.pngXXX: Desire FHD</title> 
-  <thumbnail>https://prostore.app/logos/adultos.png</thumbnail> 
-  <genre>CANAIS</genre> 
-  <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/649811</link> 
-</item> 
-<item> 
-  <title> Dorcel FHD&quot; tvg-logo=&quot;https://prostore.app/logos/adultos.pngXXX: Dorcel FHD</title> 
-  <thumbnail>https://prostore.app/logos/adultos.png</thumbnail> 
-  <genre>CANAIS</genre> 
-  <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/649813</link> 
-</item> 
-<item> 
-  <title> Dorcel XXX FHD&quot; tvg-logo=&quot;https://prostore.app/logos/adultos.pngXXX: Dorcel XXX FHD</title> 
-  <thumbnail>https://prostore.app/logos/adultos.png</thumbnail> 
-  <genre>CANAIS</genre> 
-  <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/649814</link> 
-</item> 
-<item> 
-  <title> Dusk FHD&quot; tvg-logo=&quot;https://prostore.app/logos/adultos.pngXXX: Dusk FHD</title> 
-  <thumbnail>https://prostore.app/logos/adultos.png</thumbnail> 
-  <genre>CANAIS</genre> 
-  <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/649815</link> 
-</item> 
-<item> 
-  <title> Ero XXX FHD&quot; tvg-logo=&quot;https://prostore.app/logos/adultos.pngXXX: Ero XXX FHD</title> 
-  <thumbnail>https://prostore.app/logos/adultos.png</thumbnail> 
-  <genre>CANAIS</genre> 
-  <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/649816</link> 
-</item> 
-<item> 
-  <title> Eromania 4K&quot; tvg-logo=&quot;https://prostore.app/logos/adultos.pngXXX: Eromania 4K</title> 
-  <thumbnail>https://prostore.app/logos/adultos.png</thumbnail> 
-  <genre>CANAIS</genre> 
-  <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/649817</link> 
-</item> 
-<item> 
-  <title> Erotic&quot; tvg-logo=&quot;https://prostore.app/logos/adultos.pngXXX: Erotic</title> 
-  <thumbnail>https://prostore.app/logos/adultos.png</thumbnail> 
-  <genre>CANAIS</genre> 
-  <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/649818</link> 
-</item> 
-<item> 
-  <title> Erotic 2&quot; tvg-logo=&quot;https://prostore.app/logos/adultos.pngXXX: Erotic 2</title> 
-  <thumbnail>https://prostore.app/logos/adultos.png</thumbnail> 
-  <genre>CANAIS</genre> 
-  <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/649819</link> 
-</item> 
-<item> 
-  <title> Erotic 3&quot; tvg-logo=&quot;https://prostore.app/logos/adultos.pngXXX: Erotic 3</title> 
-  <thumbnail>https://prostore.app/logos/adultos.png</thumbnail> 
-  <genre>CANAIS</genre> 
-  <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/649820</link> 
-</item> 
-<item> 
-  <title> Erotic 4&quot; tvg-logo=&quot;https://prostore.app/logos/adultos.pngXXX: Erotic 4</title> 
-  <thumbnail>https://prostore.app/logos/adultos.png</thumbnail> 
-  <genre>CANAIS</genre> 
-  <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/649821</link> 
-</item> 
-<item> 
-  <title> Erotic 5&quot; tvg-logo=&quot;https://prostore.app/logos/adultos.pngXXX: Erotic 5</title> 
-  <thumbnail>https://prostore.app/logos/adultos.png</thumbnail> 
-  <genre>CANAIS</genre> 
-  <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/649822</link> 
-</item> 
-<item> 
-  <title> Erotic 6&quot; tvg-logo=&quot;https://prostore.app/logos/adultos.pngXXX: Erotic 6</title> 
-  <thumbnail>https://prostore.app/logos/adultos.png</thumbnail> 
-  <genre>CANAIS</genre> 
-  <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/649823</link> 
-</item> 
-<item> 
-  <title> Erotic 7&quot; tvg-logo=&quot;https://prostore.app/logos/adultos.pngXXX: Erotic 7</title> 
-  <thumbnail>https://prostore.app/logos/adultos.png</thumbnail> 
-  <genre>CANAIS</genre> 
-  <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/649824</link> 
-</item> 
-<item> 
-  <title> Erotic 8&quot; tvg-logo=&quot;https://prostore.app/logos/adultos.pngXXX: Erotic 8</title> 
-  <thumbnail>https://prostore.app/logos/adultos.png</thumbnail> 
-  <genre>CANAIS</genre> 
-  <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/649825</link> 
-</item> 
-<item> 
-  <title> Erox FHD&quot; tvg-logo=&quot;https://prostore.app/logos/adultos.pngXXX: Erox FHD</title> 
-  <thumbnail>https://prostore.app/logos/adultos.png</thumbnail> 
-  <genre>CANAIS</genre> 
-  <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/649826</link> 
-</item> 
-<item> 
-  <title> Evil Angel FHD&quot; tvg-logo=&quot;https://prostore.app/logos/adultos.pngXXX: Evil Angel FHD</title> 
-  <thumbnail>https://prostore.app/logos/adultos.png</thumbnail> 
-  <genre>CANAIS</genre> 
-  <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/649827</link> 
-</item> 
-<item> 
-  <title> Extasy 4K&quot; tvg-logo=&quot;https://prostore.app/logos/adultos.pngXXX: Extasy 4K</title> 
-  <thumbnail>https://prostore.app/logos/adultos.png</thumbnail> 
-  <genre>CANAIS</genre> 
-  <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/649828</link> 
-</item> 
-<item> 
-  <title> Extasy FHD&quot; tvg-logo=&quot;https://prostore.app/logos/adultos.pngXXX: Extasy FHD</title> 
-  <thumbnail>https://prostore.app/logos/adultos.png</thumbnail> 
-  <genre>CANAIS</genre> 
-  <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/649829</link> 
-</item> 
-<item> 
-  <title> Exxxotica FHD&quot; tvg-logo=&quot;https://prostore.app/logos/adultos.pngXXX: Exxxotica FHD</title> 
-  <thumbnail>https://prostore.app/logos/adultos.png</thumbnail> 
-  <genre>CANAIS</genre> 
-  <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/649831</link> 
-</item> 
-<item> 
-  <title> Fantazzy TV&quot; tvg-logo=&quot;https://prostore.app/logos/adultos.pngXXX: Fantazzy TV</title> 
-  <thumbnail>https://prostore.app/logos/adultos.png</thumbnail> 
-  <genre>CANAIS</genre> 
-  <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/649832</link> 
-</item> 
-<item> 
-  <title> Frenchlover TV&quot; tvg-logo=&quot;https://prostore.app/logos/adultos.pngXXX: Frenchlover TV</title> 
-  <thumbnail>https://prostore.app/logos/adultos.png</thumbnail> 
-  <genre>CANAIS</genre> 
-  <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/649834</link> 
-</item> 
-<item> 
-  <title> HENTAI FHD&quot; tvg-logo=&quot;https://prostore.app/logos/adultos.pngXXX: HENTAI FHD</title> 
-  <thumbnail>https://prostore.app/logos/adultos.png</thumbnail> 
-  <genre>CANAIS</genre> 
-  <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/649837</link> 
-</item> 
-<item> 
-  <title> HOT&quot; tvg-logo=&quot;https://prostore.app/logos/adultos.pngXXX: HOT</title> 
-  <thumbnail>https://prostore.app/logos/adultos.png</thumbnail> 
-  <genre>CANAIS</genre> 
-  <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/649838</link> 
-</item> 
-<item> 
-  <title> Hustler FHD&quot; tvg-logo=&quot;https://prostore.app/logos/adultos.pngXXX: Hustler FHD</title> 
-  <thumbnail>https://prostore.app/logos/adultos.png</thumbnail> 
-  <genre>CANAIS</genre> 
-  <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/649841</link> 
-</item> 
-<item> 
-  <title> Hustler TV&quot; tvg-logo=&quot;https://prostore.app/logos/adultos.pngXXX: Hustler TV</title> 
-  <thumbnail>https://prostore.app/logos/adultos.png</thumbnail> 
-  <genre>CANAIS</genre> 
-  <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/649842</link> 
-</item> 
-<item> 
-  <title> Leo TV FHD&quot; tvg-logo=&quot;https://prostore.app/logos/adultos.pngXXX: Leo TV FHD</title> 
-  <thumbnail>https://prostore.app/logos/adultos.png</thumbnail> 
-  <genre>CANAIS</genre> 
-  <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/649843</link> 
-</item> 
-<item> 
-  <title> Leo TV Gold HD&quot; tvg-logo=&quot;https://prostore.app/logos/adultos.pngXXX: Leo TV Gold HD</title> 
-  <thumbnail>https://prostore.app/logos/adultos.png</thumbnail> 
-  <genre>CANAIS</genre> 
-  <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/649844</link> 
-</item> 
-<item> 
-  <title> Meiden Van Holland&quot; tvg-logo=&quot;https://prostore.app/logos/adultos.pngXXX: Meiden Van Holland</title> 
-  <thumbnail>https://prostore.app/logos/adultos.png</thumbnail> 
-  <genre>CANAIS</genre> 
-  <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/649845</link> 
-</item> 
-<item> 
-  <title> Nuart&quot; tvg-logo=&quot;https://prostore.app/logos/adultos.pngXXX: Nuart</title> 
-  <thumbnail>https://prostore.app/logos/adultos.png</thumbnail> 
-  <genre>CANAIS</genre> 
-  <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/649849</link> 
-</item> 
-<item> 
-  <title> Passion XXX HD&quot; tvg-logo=&quot;https://prostore.app/logos/adultos.pngXXX: Passion XXX HD</title> 
-  <thumbnail>https://prostore.app/logos/adultos.png</thumbnail> 
-  <genre>CANAIS</genre> 
-  <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/649851</link> 
-</item> 
-<item> 
-  <title> Penthouse Gold HD&quot; tvg-logo=&quot;https://prostore.app/logos/adultos.pngXXX: Penthouse Gold HD</title> 
-  <thumbnail>https://prostore.app/logos/adultos.png</thumbnail> 
-  <genre>CANAIS</genre> 
-  <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/649852</link> 
-</item> 
-<item> 
-  <title> Penthouse Passion FHD&quot; tvg-logo=&quot;https://prostore.app/logos/adultos.pngXXX: Penthouse Passion FHD</title> 
-  <thumbnail>https://prostore.app/logos/adultos.png</thumbnail> 
-  <genre>CANAIS</genre> 
-  <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/649853</link> 
-</item> 
-<item> 
-  <title> PENTHOUSE REALITY TV HD&quot; tvg-logo=&quot;https://prostore.app/logos/adultos.pngXXX: PENTHOUSE REALITY TV HD</title> 
-  <thumbnail>https://prostore.app/logos/adultos.png</thumbnail> 
-  <genre>CANAIS</genre> 
-  <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/649854</link> 
-</item> 
-<item> 
-  <title> PINKO CLUB&quot; tvg-logo=&quot;https://prostore.app/logos/adultos.pngXXX: PINKO CLUB</title> 
-  <thumbnail>https://prostore.app/logos/adultos.png</thumbnail> 
-  <genre>CANAIS</genre> 
-  <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/649855</link> 
-</item> 
-<item> 
-  <title> PLAYBOY FHD&quot; tvg-logo=&quot;https://prostore.app/logos/adultos.pngXXX: PLAYBOY FHD</title> 
-  <thumbnail>https://prostore.app/logos/adultos.png</thumbnail> 
-  <genre>CANAIS</genre> 
-  <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/649856</link> 
-</item> 
-<item> 
-  <title> PLAYBOY TV EUROPE HD&quot; tvg-logo=&quot;https://prostore.app/logos/adultos.pngXXX: PLAYBOY TV EUROPE HD</title> 
-  <thumbnail>https://prostore.app/logos/adultos.png</thumbnail> 
-  <genre>CANAIS</genre> 
-  <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/649857</link> 
-</item> 
-<item> 
-  <title> PLAYBOY TV HD&quot; tvg-logo=&quot;https://prostore.app/logos/adultos.pngXXX: PLAYBOY TV HD</title> 
-  <thumbnail>https://prostore.app/logos/adultos.png</thumbnail> 
-  <genre>CANAIS</genre> 
-  <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/649858</link> 
-</item> 
-<item> 
-  <title> PLAYBOY TV LA HD&quot; tvg-logo=&quot;https://prostore.app/logos/adultos.pngXXX: PLAYBOY TV LA HD</title> 
-  <thumbnail>https://prostore.app/logos/adultos.png</thumbnail> 
-  <genre>CANAIS</genre> 
-  <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/649859</link> 
-</item> 
-<item> 
-  <title>PLAYBOY TV SD&quot; tvg-logo=&quot;https://prostore.app/logos/adultos.pngXXX:PLAYBOY TV SD</title> 
-  <thumbnail>https://prostore.app/logos/adultos.png</thumbnail> 
-  <genre>CANAIS</genre> 
-  <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/649860</link> 
-</item> 
-<item> 
-  <title> PRIVATE FHD&quot; tvg-logo=&quot;https://prostore.app/logos/adultos.pngXXX: PRIVATE FHD</title> 
-  <thumbnail>https://prostore.app/logos/adultos.png</thumbnail> 
-  <genre>CANAIS</genre> 
-  <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/649862</link> 
-</item> 
-<item> 
-  <title> PURE BABES FHD&quot; tvg-logo=&quot;https://prostore.app/logos/adultos.pngXXX: PURE BABES FHD</title> 
-  <thumbnail>https://prostore.app/logos/adultos.png</thumbnail> 
-  <genre>CANAIS</genre> 
-  <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/649863</link> 
-</item> 
-<item> 
-  <title> REALITY KINGS FHD&quot; tvg-logo=&quot;https://prostore.app/logos/adultos.pngXXX: REALITY KINGS FHD</title> 
-  <thumbnail>https://prostore.app/logos/adultos.png</thumbnail> 
-  <genre>CANAIS</genre> 
-  <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/649865</link> 
-</item> 
-<item> 
-  <title> RED LIPS HD&quot; tvg-logo=&quot;https://prostore.app/logos/adultos.pngXXX: RED LIPS HD</title> 
-  <thumbnail>https://prostore.app/logos/adultos.png</thumbnail> 
-  <genre>CANAIS</genre> 
-  <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/649866</link> 
-</item> 
-<item> 
-  <title> CHANNEL 1&quot; tvg-logo=&quot;https://prostore.app/logos/adultos.pngXXX: CHANNEL 1</title> 
-  <thumbnail>https://prostore.app/logos/adultos.png</thumbnail> 
-  <genre>CANAIS</genre> 
-  <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/649869</link> 
-</item> 
-<item> 
-  <title> CHANNEL 2&quot; tvg-logo=&quot;https://prostore.app/logos/adultos.pngXXX: CHANNEL 2</title> 
-  <thumbnail>https://prostore.app/logos/adultos.png</thumbnail> 
-  <genre>CANAIS</genre> 
-  <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/649870</link> 
-</item> 
-<item> 
-  <title> CHANNEL 3&quot; tvg-logo=&quot;https://prostore.app/logos/adultos.pngXXX: CHANNEL 3</title> 
-  <thumbnail>https://prostore.app/logos/adultos.png</thumbnail> 
-  <genre>CANAIS</genre> 
-  <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/649871</link> 
-</item> 
-<item> 
-  <title> CHANNEL 4&quot; tvg-logo=&quot;https://prostore.app/logos/adultos.pngXXX: CHANNEL 4</title> 
-  <thumbnail>https://prostore.app/logos/adultos.png</thumbnail> 
-  <genre>CANAIS</genre> 
-  <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/649872</link> 
-</item> 
-<item> 
-  <title> CHANNEL 5&quot; tvg-logo=&quot;https://prostore.app/logos/adultos.pngXXX: CHANNEL 5</title> 
-  <thumbnail>https://prostore.app/logos/adultos.png</thumbnail> 
-  <genre>CANAIS</genre> 
-  <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/649873</link> 
-</item> 
-<item> 
-  <title> CHANNEL 6&quot; tvg-logo=&quot;https://prostore.app/logos/adultos.pngXXX: CHANNEL 6</title> 
-  <thumbnail>https://prostore.app/logos/adultos.png</thumbnail> 
-  <genre>CANAIS</genre> 
-  <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/649874</link> 
-</item> 
-<item> 
-  <title> CHANNEL 7&quot; tvg-logo=&quot;https://prostore.app/logos/ADULTOS.24.HORAS.pngXXX: CHANNEL 7</title> 
-  <thumbnail>https://prostore.app/logos/ADULTOS.24.HORAS.png</thumbnail> 
-  <genre>CANAIS</genre> 
-  <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/649875</link> 
-</item> 
-<item> 
   <title>CINE SKY 01</title> 
   <thumbnail>https://prostore.app/logos/Cinesky.png</thumbnail> 
   <genre>CANAIS</genre> 
@@ -6551,25 +6185,25 @@
   <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/659399</link> 
 </item> 
 <item> 
-  <title>-1 tvg-id=&quot;&quot; tvg-name=&quot;TV IMACULADA&quot; tvg-logo=&quot;&quot; group-title=&quot;CANAIS | RELIGIOSOS&quot;,)TV IMACULADA</title> 
+  <title>TV IMACULADA</title> 
   <thumbnail>=</thumbnail> 
   <genre>CANAIS</genre> 
   <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/670687</link> 
 </item> 
 <item> 
-  <title>-1 tvg-id=&quot;&quot; tvg-name=&quot;TV MANÁ&quot; tvg-logo=&quot;&quot; group-title=&quot;CANAIS | RELIGIOSOS&quot;,)TV MANÁ</title> 
+  <title>TV MANÁ</title> 
   <thumbnail>=</thumbnail> 
   <genre>CANAIS</genre> 
   <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/670688</link> 
 </item> 
 <item> 
-  <title>-1 tvg-id=&quot;&quot; tvg-name=&quot;TV MUNDO MAIOR&quot; tvg-logo=&quot;&quot; group-title=&quot;CANAIS | RELIGIOSOS&quot;,)TV MUNDO MAIOR</title> 
+  <title>TV MUNDO MAIOR</title> 
   <thumbnail>=</thumbnail> 
   <genre>CANAIS</genre> 
   <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/670689</link> 
 </item> 
 <item> 
-  <title>-1 tvg-id=&quot;rede.super.br&quot; tvg-name=&quot;TV REDE SUPER&quot; tvg-logo=&quot;&quot; group-title=&quot;CANAIS | RELIGIOSOS&quot;,)TV REDE SUPER</title> 
+  <title>TV REDE SUPER</title> 
   <thumbnail>=</thumbnail> 
   <genre>CANAIS</genre> 
   <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/670690</link> 
@@ -6581,7 +6215,7 @@
   <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/670691</link> 
 </item> 
 <item> 
-  <title>-1 tvg-id=&quot;&quot; tvg-name=&quot;SANTUARIO DE FATIMA&quot; tvg-logo=&quot;&quot; group-title=&quot;CANAIS | RELIGIOSOS&quot;,)SANTUARIO DE FATIMA</title> 
+  <title>SANTUARIO DE FATIMA</title> 
   <thumbnail>=</thumbnail> 
   <genre>CANAIS</genre> 
   <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/670692</link> 
@@ -6593,13 +6227,13 @@
   <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/670693</link> 
 </item> 
 <item> 
-  <title>-1 tvg-id=&quot;&quot; tvg-name=&quot;TV IGREJA CRISTA MARANATA&quot; tvg-logo=&quot;&quot; group-title=&quot;CANAIS | RELIGIOSOS&quot;,)TV IGREJA CRISTA MARANATA</title> 
+  <title>TV IGREJA CRISTA MARANATA</title> 
   <thumbnail>=</thumbnail> 
   <genre>CANAIS</genre> 
   <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/670694</link> 
 </item> 
 <item> 
-  <title>-1 tvg-id=&quot;Cnt.br&quot; tvg-name=&quot;CNT &quot; tvg-logo=&quot;&quot; group-title=&quot;CANAIS | RELIGIOSOS&quot;,)CNT </title> 
+  <title>CNT </title> 
   <thumbnail>=</thumbnail> 
   <genre>CANAIS</genre> 
   <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/670695</link> 
@@ -6611,37 +6245,37 @@
   <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/670696</link> 
 </item> 
 <item> 
-  <title>-1 tvg-id=&quot;rede.genesis.br&quot; tvg-name=&quot;REDE GENESIS&quot; tvg-logo=&quot;&quot; group-title=&quot;CANAIS | RELIGIOSOS&quot;,)REDE GENESIS</title> 
+  <title>REDE GENESIS</title> 
   <thumbnail>=</thumbnail> 
   <genre>CANAIS</genre> 
   <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/670697</link> 
 </item> 
 <item> 
-  <title>-1 tvg-id=&quot;rede.boas.novas.br&quot; tvg-name=&quot;TV BOAS NOVAS&quot; tvg-logo=&quot;&quot; group-title=&quot;CANAIS | RELIGIOSOS&quot;,)TV BOAS NOVAS</title> 
+  <title>TV BOAS NOVAS</title> 
   <thumbnail>=</thumbnail> 
   <genre>CANAIS</genre> 
   <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/670698</link> 
 </item> 
 <item> 
-  <title>-1 tvg-id=&quot;boa.vontade.br&quot; tvg-name=&quot;TV BOA VONTADE&quot; tvg-logo=&quot;&quot; group-title=&quot;CANAIS | RELIGIOSOS&quot;,)TV BOA VONTADE</title> 
+  <title>TV BOA VONTADE</title> 
   <thumbnail>=</thumbnail> 
   <genre>CANAIS</genre> 
   <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/670699</link> 
 </item> 
 <item> 
-  <title>-1 tvg-id=&quot;eurochannel.br&quot; tvg-name=&quot;EURONEWS EN ESPANOL&quot; tvg-logo=&quot;&quot; group-title=&quot;CANAIS | NOTICIA&quot;,)EURONEWS EN ESPANOL</title> 
+  <title>EURONEWS EN ESPANOL</title> 
   <thumbnail>=</thumbnail> 
   <genre>CANAIS</genre> 
   <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/670700</link> 
 </item> 
 <item> 
-  <title>-1 tvg-id=&quot;Eurochannel.br&quot; tvg-name=&quot;EURONEWS EN ENGLISH&quot; tvg-logo=&quot;&quot; group-title=&quot;CANAIS | NOTICIA&quot;,)EURONEWS EN ENGLISH</title> 
+  <title>EURONEWS EN ENGLISH</title> 
   <thumbnail>=</thumbnail> 
   <genre>CANAIS</genre> 
   <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/670701</link> 
 </item> 
 <item> 
-  <title>-1 tvg-id=&quot;eurochannel.br&quot; tvg-name=&quot;EURONEWS EN PORTUGUES&quot; tvg-logo=&quot;&quot; group-title=&quot;CANAIS | NOTICIA&quot;,)EURONEWS EN PORTUGUES</title> 
+  <title>EURONEWS EN PORTUGUES</title> 
   <thumbnail>=</thumbnail> 
   <genre>CANAIS</genre> 
   <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/670702</link> 
@@ -6665,13 +6299,13 @@
   <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/670705</link> 
 </item> 
 <item> 
-  <title>-1 tvg-id=&quot;&quot; tvg-name=&quot;CNN MONEY&quot; tvg-logo=&quot;&quot; group-title=&quot;CANAIS | NOTICIA&quot;,)CNN MONEY</title> 
+  <title>CNN MONEY</title> 
   <thumbnail>=</thumbnail> 
   <genre>CANAIS</genre> 
   <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/670706</link> 
 </item> 
 <item> 
-  <title>-1 tvg-id=&quot;&quot; tvg-name=&quot;CNN PORTUGAL&quot; tvg-logo=&quot;&quot; group-title=&quot;CANAIS | NOTICIA&quot;,)CNN PORTUGAL</title> 
+  <title>CNN PORTUGAL</title> 
   <thumbnail>=</thumbnail> 
   <genre>CANAIS</genre> 
   <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/670707</link> 
@@ -7386,139 +7020,139 @@
 </item> 
 <item> 
   <title>CAMPEONATO BAHIANO</title> 
-  <thumbnail>https://prostore.app/logos/jogosodia.png group-title=CAMPEONATOS</thumbnail> 
+  <thumbnail>https://prostore.app/logos/jogosodia.png</thumbnail> 
   <genre>=CAMPEONATOS</genre> 
   <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/677641</link> 
 </item> 
 <item> 
-  <title>(s2-globo-play.glbimg.com/slf0iHXilm1cuxbExNiX6DesuC4=/285x285/filters:qualityACOMPANHE A CASA</title> 
+  <title></title> 
   <thumbnail>https://s2-globo-play.glbimg.com/slf0iHXilm1cuxbExNiX6DesuC4</thumbnail> 
-  <genre>=</genre> 
+  <genre></genre> 
   <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/680033</link> 
 </item> 
 <item> 
-  <title>(s2-globo-play.glbimg.com/slf0iHXilm1cuxbExNiX6DesuC4=/285x285/filters:qualityACOMPANHE A CASA 2</title> 
+  <title></title> 
   <thumbnail>https://s2-globo-play.glbimg.com/slf0iHXilm1cuxbExNiX6DesuC4</thumbnail> 
-  <genre>=</genre> 
+  <genre></genre> 
   <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/680034</link> 
 </item> 
 <item> 
-  <title>(s2-globo-play.glbimg.com/slf0iHXilm1cuxbExNiX6DesuC4=/285x285/filters:qualityMOSAICO BBB</title> 
+  <title></title> 
   <thumbnail>https://s2-globo-play.glbimg.com/slf0iHXilm1cuxbExNiX6DesuC4</thumbnail> 
-  <genre>=</genre> 
+  <genre></genre> 
   <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/680035</link> 
 </item> 
 <item> 
-  <title>(s2-globo-play.glbimg.com/slf0iHXilm1cuxbExNiX6DesuC4=/285x285/filters:qualityCOZINHA</title> 
+  <title></title> 
   <thumbnail>https://s2-globo-play.glbimg.com/slf0iHXilm1cuxbExNiX6DesuC4</thumbnail> 
-  <genre>=</genre> 
+  <genre></genre> 
   <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/680036</link> 
 </item> 
 <item> 
-  <title>(s2-globo-play.glbimg.com/slf0iHXilm1cuxbExNiX6DesuC4=/285x285/filters:qualityQUATOS ANOS 50</title> 
+  <title></title> 
   <thumbnail>https://s2-globo-play.glbimg.com/slf0iHXilm1cuxbExNiX6DesuC4</thumbnail> 
-  <genre>=</genre> 
+  <genre></genre> 
   <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/680037</link> 
 </item> 
 <item> 
-  <title>(s2-globo-play.glbimg.com/slf0iHXilm1cuxbExNiX6DesuC4=/285x285/filters:qualityQUARTO NORDESTE</title> 
+  <title></title> 
   <thumbnail>https://s2-globo-play.glbimg.com/slf0iHXilm1cuxbExNiX6DesuC4</thumbnail> 
-  <genre>=</genre> 
+  <genre></genre> 
   <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/680038</link> 
 </item> 
 <item> 
-  <title>(s2-globo-play.glbimg.com/slf0iHXilm1cuxbExNiX6DesuC4=/285x285/filters:qualityQUARTO FANTASTICO</title> 
+  <title></title> 
   <thumbnail>https://s2-globo-play.glbimg.com/slf0iHXilm1cuxbExNiX6DesuC4</thumbnail> 
-  <genre>=</genre> 
+  <genre></genre> 
   <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/680039</link> 
 </item> 
 <item> 
-  <title>(s2-globo-play.glbimg.com/slf0iHXilm1cuxbExNiX6DesuC4=/285x285/filters:qualityPISCINA</title> 
+  <title></title> 
   <thumbnail>https://s2-globo-play.glbimg.com/slf0iHXilm1cuxbExNiX6DesuC4</thumbnail> 
-  <genre>=</genre> 
+  <genre></genre> 
   <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/680040</link> 
 </item> 
 <item> 
-  <title>(s2-globo-play.glbimg.com/slf0iHXilm1cuxbExNiX6DesuC4=/285x285/filters:qualityCAMERA PANTENE</title> 
+  <title></title> 
   <thumbnail>https://s2-globo-play.glbimg.com/slf0iHXilm1cuxbExNiX6DesuC4</thumbnail> 
-  <genre>=</genre> 
+  <genre></genre> 
   <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/680041</link> 
 </item> 
 <item> 
-  <title>(s2-globo-play.glbimg.com/slf0iHXilm1cuxbExNiX6DesuC4=/285x285/filters:qualitySALA</title> 
+  <title></title> 
   <thumbnail>https://s2-globo-play.glbimg.com/slf0iHXilm1cuxbExNiX6DesuC4</thumbnail> 
-  <genre>=</genre> 
+  <genre></genre> 
   <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/680042</link> 
 </item> 
 <item> 
-  <title>(s2-globo-play.glbimg.com/slf0iHXilm1cuxbExNiX6DesuC4=/285x285/filters:qualityACADEMIA</title> 
+  <title></title> 
   <thumbnail>https://s2-globo-play.glbimg.com/slf0iHXilm1cuxbExNiX6DesuC4</thumbnail> 
-  <genre>=</genre> 
+  <genre></genre> 
   <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/680043</link> 
 </item> 
 <item> 
   <title>CAMPEONATO BAHIANO 1</title> 
-  <thumbnail>https://prostore.app/logos/jogosodia.png group-title=CAMPEONATOS</thumbnail> 
+  <thumbnail>https://prostore.app/logos/jogosodia.png</thumbnail> 
   <genre>=CAMPEONATOS</genre> 
   <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/724622</link> 
 </item> 
 <item> 
   <title>Campeonato Alagoano 01</title> 
-  <thumbnail>https://prostore.app/logos/jogosodia.png group-title=CAMPEONATOS</thumbnail> 
+  <thumbnail>https://prostore.app/logos/jogosodia.png</thumbnail> 
   <genre>=CAMPEONATOS</genre> 
   <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/724623</link> 
 </item> 
 <item> 
   <title>Campeonato Alagoano 02</title> 
-  <thumbnail>https://prostore.app/logos/jogosodia.png group-title=CAMPEONATOS</thumbnail> 
+  <thumbnail>https://prostore.app/logos/jogosodia.png</thumbnail> 
   <genre>=CAMPEONATOS</genre> 
   <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/724624</link> 
 </item> 
 <item> 
   <title>Campeonato Paraibano 01</title> 
-  <thumbnail>https://prostore.app/logos/jogosodia.png group-title=CAMPEONATOS</thumbnail> 
+  <thumbnail>https://prostore.app/logos/jogosodia.png</thumbnail> 
   <genre>=CAMPEONATOS</genre> 
   <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/724625</link> 
 </item> 
 <item> 
   <title>Campeonato Paraibano 02</title> 
-  <thumbnail>https://prostore.app/logos/jogosodia.png group-title=CAMPEONATOS</thumbnail> 
+  <thumbnail>https://prostore.app/logos/jogosodia.png</thumbnail> 
   <genre>=CAMPEONATOS</genre> 
   <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/724626</link> 
 </item> 
 <item> 
   <title>Campeonato Paraibano 03</title> 
-  <thumbnail>https://prostore.app/logos/jogosodia.png group-title=CAMPEONATOS</thumbnail> 
+  <thumbnail>https://prostore.app/logos/jogosodia.png</thumbnail> 
   <genre>=CAMPEONATOS</genre> 
   <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/724627</link> 
 </item> 
 <item> 
   <title>Campeonato Paranaense 01</title> 
-  <thumbnail>https://prostore.app/logos/jogosodia.png group-title=CAMPEONATOS</thumbnail> 
+  <thumbnail>https://prostore.app/logos/jogosodia.png</thumbnail> 
   <genre>=CAMPEONATOS</genre> 
   <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/724628</link> 
 </item> 
 <item> 
   <title>Campeonato Paranaense 02</title> 
-  <thumbnail>https://prostore.app/logos/jogosodia.png group-title=CAMPEONATOS</thumbnail> 
+  <thumbnail>https://prostore.app/logos/jogosodia.png</thumbnail> 
   <genre>=CAMPEONATOS</genre> 
   <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/724629</link> 
 </item> 
 <item> 
   <title>Campeonato Paranaense 03</title> 
-  <thumbnail>https://prostore.app/logos/jogosodia.png group-title=CAMPEONATOS</thumbnail> 
+  <thumbnail>https://prostore.app/logos/jogosodia.png</thumbnail> 
   <genre>=CAMPEONATOS</genre> 
   <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/724630</link> 
 </item> 
 <item> 
   <title>Campeonato Piauiense</title> 
-  <thumbnail>https://prostore.app/logos/jogosodia.png group-title=CAMPEONATOS</thumbnail> 
+  <thumbnail>https://prostore.app/logos/jogosodia.png</thumbnail> 
   <genre>=CAMPEONATOS</genre> 
   <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/724631</link> 
 </item> 
 <item> 
   <title>Campeonato Potiguar</title> 
-  <thumbnail>https://prostore.app/logos/jogosodia.png group-title=CAMPEONATOS</thumbnail> 
+  <thumbnail>https://prostore.app/logos/jogosodia.png</thumbnail> 
   <genre>=CAMPEONATOS</genre> 
   <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/724632</link> 
 </item> 
@@ -7595,19 +7229,19 @@
   <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/608550</link> 
 </item> 
 <item> 
-  <title>BM^&amp;C NEWS SD</title> 
+  <title>C NEWS SD</title> 
   <thumbnail>https://d18o29lhcg4kda.cloudfront.net/fit-in/50x37/Y2gwMTAwMDAwMDAwMjE2X2xpbmVhcl9jaGFubmVsX2Jy_11002_LOGO_360x270.png</thumbnail> 
   <genre>CANAIS</genre> 
   <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/725369</link> 
 </item> 
 <item> 
-  <title>BM^&amp;C NEWS HD</title> 
+  <title>C NEWS HD</title> 
   <thumbnail>https://d18o29lhcg4kda.cloudfront.net/fit-in/50x37/Y2gwMTAwMDAwMDAwMjE2X2xpbmVhcl9jaGFubmVsX2Jy_11002_LOGO_360x270.png</thumbnail> 
   <genre>CANAIS</genre> 
   <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/725370</link> 
 </item> 
 <item> 
-  <title>BM^&amp;C NEWS FHD</title> 
+  <title>C NEWS FHD</title> 
   <thumbnail>https://d18o29lhcg4kda.cloudfront.net/fit-in/50x37/Y2gwMTAwMDAwMDAwMjE2X2xpbmVhcl9jaGFubmVsX2Jy_11002_LOGO_360x270.png</thumbnail> 
   <genre>CANAIS</genre> 
   <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/725371</link> 
@@ -7661,9 +7295,9 @@
   <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/725558</link> 
 </item> 
 <item> 
-  <title>(s2-globo-play.glbimg.com/slf0iHXilm1cuxbExNiX6DesuC4=/285x285/filters:qualitySEGUE O LIDER</title> 
+  <title></title> 
   <thumbnail>https://s2-globo-play.glbimg.com/slf0iHXilm1cuxbExNiX6DesuC4</thumbnail> 
-  <genre>=</genre> 
+  <genre></genre> 
   <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/864134</link> 
 </item> 
 <item> 
@@ -7673,37 +7307,37 @@
   <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/981700</link> 
 </item> 
 <item> 
-  <title>-1 tvg-id=&quot;&quot; tvg-name=&quot;GLOBO TV RPC&quot; tvg-logo=&quot;&quot; group-title=&quot;CANAIS | GLOBO&quot;,)GLOBO TV RPC</title> 
+  <title>GLOBO TV RPC</title> 
   <thumbnail>=</thumbnail> 
   <genre>CANAIS</genre> 
   <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/981701</link> 
 </item> 
 <item> 
-  <title>-1 tvg-id=&quot;&quot; tvg-name=&quot;LIKE SD&quot; tvg-logo=&quot;&quot; group-title=&quot;CANAIS | DOCUMENTARIO&quot;,)LIKE SD</title> 
+  <title>LIKE SD</title> 
   <thumbnail>=</thumbnail> 
   <genre>CANAIS</genre> 
   <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/981702</link> 
 </item> 
 <item> 
-  <title>-1 tvg-id=&quot;&quot; tvg-name=&quot;LIKE HD&quot; tvg-logo=&quot;&quot; group-title=&quot;CANAIS | DOCUMENTARIO&quot;,)LIKE HD</title> 
+  <title>LIKE HD</title> 
   <thumbnail>=</thumbnail> 
   <genre>CANAIS</genre> 
   <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/981703</link> 
 </item> 
 <item> 
-  <title>-1 tvg-id=&quot;&quot; tvg-name=&quot;LIKE FHD&quot; tvg-logo=&quot;&quot; group-title=&quot;CANAIS | DOCUMENTARIO&quot;,)LIKE FHD</title> 
+  <title>LIKE FHD</title> 
   <thumbnail>=</thumbnail> 
   <genre>CANAIS</genre> 
   <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/981704</link> 
 </item> 
 <item> 
-  <title>-1 tvg-id=&quot;&quot; tvg-name=&quot;LMC&quot; tvg-logo=&quot;&quot; group-title=&quot;CANAIS | DOCUMENTARIO&quot;,)LMC</title> 
+  <title>LMC</title> 
   <thumbnail>=</thumbnail> 
   <genre>CANAIS</genre> 
   <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/981705</link> 
 </item> 
 <item> 
-  <title>-1 tvg-id=&quot;&quot; tvg-name=&quot;MEZZO&quot; tvg-logo=&quot;&quot; group-title=&quot;CANAIS | DOCUMENTARIO&quot;,)MEZZO</title> 
+  <title>MEZZO</title> 
   <thumbnail>=</thumbnail> 
   <genre>CANAIS</genre> 
   <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/981706</link> 
@@ -7794,67 +7428,67 @@
 </item> 
 <item> 
   <title>CAMPEONATO CAPIXABA</title> 
-  <thumbnail>https://prostore.app/logos/jogosodia.png group-title=CAMPEONATOS</thumbnail> 
+  <thumbnail>https://prostore.app/logos/jogosodia.png</thumbnail> 
   <genre>=CAMPEONATOS</genre> 
   <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/986572</link> 
 </item> 
 <item> 
   <title>CAMPEONATO CATARINENSE 1</title> 
-  <thumbnail>https://prostore.app/logos/jogosodia.png group-title=CAMPEONATOS</thumbnail> 
+  <thumbnail>https://prostore.app/logos/jogosodia.png</thumbnail> 
   <genre>=CAMPEONATOS</genre> 
   <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/986573</link> 
 </item> 
 <item> 
   <title>CAMPEONATO CATARINENSE 2</title> 
-  <thumbnail>https://prostore.app/logos/jogosodia.png group-title=CAMPEONATOS</thumbnail> 
+  <thumbnail>https://prostore.app/logos/jogosodia.png</thumbnail> 
   <genre>=CAMPEONATOS</genre> 
   <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/986574</link> 
 </item> 
 <item> 
   <title>CAMPEONATO CATARINENSE 3</title> 
-  <thumbnail>https://prostore.app/logos/jogosodia.png group-title=CAMPEONATOS</thumbnail> 
+  <thumbnail>https://prostore.app/logos/jogosodia.png</thumbnail> 
   <genre>=CAMPEONATOS</genre> 
   <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/986575</link> 
 </item> 
 <item> 
   <title>CAMPEONATO CATARINENSE 4</title> 
-  <thumbnail>https://prostore.app/logos/jogosodia.png group-title=CAMPEONATOS</thumbnail> 
+  <thumbnail>https://prostore.app/logos/jogosodia.png</thumbnail> 
   <genre>=CAMPEONATOS</genre> 
   <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/986576</link> 
 </item> 
 <item> 
   <title>CAMPEONATO CEARENSE 1</title> 
-  <thumbnail>https://prostore.app/logos/jogosodia.png group-title=CAMPEONATOS</thumbnail> 
+  <thumbnail>https://prostore.app/logos/jogosodia.png</thumbnail> 
   <genre>=CAMPEONATOS</genre> 
   <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/986577</link> 
 </item> 
 <item> 
   <title>CAMPEONATO CEARENSE 2</title> 
-  <thumbnail>https://prostore.app/logos/jogosodia.png group-title=CAMPEONATOS</thumbnail> 
+  <thumbnail>https://prostore.app/logos/jogosodia.png</thumbnail> 
   <genre>=CAMPEONATOS</genre> 
   <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/986578</link> 
 </item> 
 <item> 
   <title>CAMPEONATO GOIANO 1</title> 
-  <thumbnail>https://prostore.app/logos/jogosodia.png group-title=CAMPEONATOS</thumbnail> 
+  <thumbnail>https://prostore.app/logos/jogosodia.png</thumbnail> 
   <genre>=CAMPEONATOS</genre> 
   <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/986579</link> 
 </item> 
 <item> 
   <title>CAMPEONATO GOIANO 2</title> 
-  <thumbnail>https://prostore.app/logos/jogosodia.png group-title=CAMPEONATOS</thumbnail> 
+  <thumbnail>https://prostore.app/logos/jogosodia.png</thumbnail> 
   <genre>=CAMPEONATOS</genre> 
   <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/986580</link> 
 </item> 
 <item> 
   <title>CAMPEONATO PARAENSE</title> 
-  <thumbnail>https://prostore.app/logos/jogosodia.png group-title=CAMPEONATOS</thumbnail> 
+  <thumbnail>https://prostore.app/logos/jogosodia.png</thumbnail> 
   <genre>=CAMPEONATOS</genre> 
   <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/986581</link> 
 </item> 
 <item> 
   <title>CAMPEONATO PERNAMBUCANO</title> 
-  <thumbnail>https://prostore.app/logos/jogosodia.png group-title=CAMPEONATOS</thumbnail> 
+  <thumbnail>https://prostore.app/logos/jogosodia.png</thumbnail> 
   <genre>=CAMPEONATOS</genre> 
   <link>http://go7l99a.com:80/tr7766tw1/uy77ywge/986582</link> 
 </item> 
