@@ -1,1323 +1,1322 @@
-<?xml version="1.0" encoding="UTF-8"?> 
-<playlist version="1" xmlns="http://xspf.org/ns/0/"> 
-<trackList> 
-<track> 
-  <title>-1 xui-id="1212710" tvg-id="" tvg-name="24 HORAS: 009-1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/2084px-Logo_TVE-24h.svg.png" group-title="CANAIS | 24H" -24 HORAS: 009-</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReMXADr43HBWCwoDrSJxmw60</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="1212709" tvg-id="" tvg-name="24 HORAS: 2 CACHORROS BOBOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/2084px-Logo_TVE-24h.svg.png" group-title="CANAIS | 24H" -24 HORAS: 2 CACHORROS BOBO</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReIym7oj5aY4JgyfdFVr9pA4</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="1213714" tvg-id="" tvg-name="24 HORAS: A ARVORE FAMILIAR DOS CROODS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/2084px-Logo_TVE-24h.svg.png" group-title="CANAIS | 24H" -24 HORAS: A ARVORE FAMILIAR DOS CROOD</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReGSHxs2gSIfgTHUm7J9OQk8</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="1213715" tvg-id="" tvg-name="24 HORAS: A CASA CORUJA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/2084px-Logo_TVE-24h.svg.png" group-title="CANAIS | 24H" -24 HORAS: A CASA CORUJ</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReGaIOeU2q1o3rKTLLVzIBX8</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="1213717" tvg-id="" tvg-name="24 HORAS: A CORRIDA MALUCA REBOOT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/2084px-Logo_TVE-24h.svg.png" group-title="CANAIS | 24H" -24 HORAS: A CORRIDA MALUCA REBOO</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReAgfKYTppAQSOIv4rkpZSio</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="1213719" tvg-id="" tvg-name="24 HORAS: A FORMIGA ATOMICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/2084px-Logo_TVE-24h.svg.png" group-title="CANAIS | 24H" -24 HORAS: A FORMIGA ATOMIC</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReB9Aj313cUUVBZCKCHK7ggM</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="1213720" tvg-id="" tvg-name="24 HORAS: A GUARDA DO LEAO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/2084px-Logo_TVE-24h.svg.png" group-title="CANAIS | 24H" -24 HORAS: A GUARDA DO LEA</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReNHb_BSNru9AQskah47i2Tw</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="1212712" tvg-id="" tvg-name="24 HORAS: A LEI DE MILO MURPHY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/2084px-Logo_TVE-24h.svg.png" group-title="CANAIS | 24H" -24 HORAS: A LEI DE MILO MURPH</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReEEjeFBsgHczzFpFwgMrjLg</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="1212713" tvg-id="" tvg-name="24 HORAS: A LENDA DE TARZAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/2084px-Logo_TVE-24h.svg.png" group-title="CANAIS | 24H" -24 HORAS: A LENDA DE TARZA</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReKl61hPMeC6TLiPbD_VHuJk</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="1212716" tvg-id="" tvg-name="24 HORAS: A NOVA ESCOLA DO IMPERADOR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/2084px-Logo_TVE-24h.svg.png" group-title="CANAIS | 24H" -24 HORAS: A NOVA ESCOLA DO IMPERADO</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReMVGiBt7aGHYv7g7fryfmq0</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="1213722" tvg-id="" tvg-name="24 HORAS: A PEDRA DOS SONHOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/2084px-Logo_TVE-24h.svg.png" group-title="CANAIS | 24H" -24 HORAS: A PEDRA DOS SONHO</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReNhmwIptaw2eLSLvPZFNo50</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="1213723" tvg-id="" tvg-name="24 HORAS: A PEQUENA SEREIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/2084px-Logo_TVE-24h.svg.png" group-title="CANAIS | 24H" -24 HORAS: A PEQUENA SEREI</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReOhrsCG4uhAlekCa7QzkyBA</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="1212717" tvg-id="" tvg-name="24 HORAS: A PRINCESA DOS CABELOS MAGICOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/2084px-Logo_TVE-24h.svg.png" group-title="CANAIS | 24H" -24 HORAS: A PRINCESA DOS CABELOS MAGICO</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReCK2FKFr2B0MDRD7fiAJAls</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="1213724" tvg-id="" tvg-name="24 HORAS: A PRINCESA DOS CABELOS MAGICOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/2084px-Logo_TVE-24h.svg.png" group-title="CANAIS | 24H" -24 HORAS: A PRINCESA DOS CABELOS MAGICO</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReCSKg97NcRAsfcprQgnHwY4</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="1212708" tvg-id="" tvg-name="24 HORAS: A SOMBRA DO BATMAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/2084px-Logo_TVE-24h.svg.png" group-title="CANAIS | 24H" -24 HORAS: A SOMBRA DO BATMA</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReP7gXLl12Gr1kYpT-e697l0</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="1213725" tvg-id="" tvg-name="24 HORAS: A TURMA DA FLORESTA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/2084px-Logo_TVE-24h.svg.png" group-title="CANAIS | 24H" -24 HORAS: A TURMA DA FLOREST</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReIUHq9aW4xlfKN_DPgWK_ro</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="1213726" tvg-id="" tvg-name="24 HORAS: A TURMA DA PANTERA COR DE ROSA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/2084px-Logo_TVE-24h.svg.png" group-title="CANAIS | 24H" -24 HORAS: A TURMA DA PANTERA COR DE ROS</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReDrGYCbVQB4-bnZDJWJ3EJ8</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="1213728" tvg-id="" tvg-name="24 HORAS: A TURMA DO MANDA CHUVA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/2084px-Logo_TVE-24h.svg.png" group-title="CANAIS | 24H" -24 HORAS: A TURMA DO MANDA CHUV</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReFpeMT-x_lUMUhEPWisdG08</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="1213729" tvg-id="" tvg-name="24 HORAS: A TURMA DO PATETA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/2084px-Logo_TVE-24h.svg.png" group-title="CANAIS | 24H" -24 HORAS: A TURMA DO PATET</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReCVA-EwuV-KgKcjfWZRQ2WQ</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="1213730" tvg-id="" tvg-name="24 HORAS: A TURMA DO ZE COLMEIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/2084px-Logo_TVE-24h.svg.png" group-title="CANAIS | 24H" -24 HORAS: A TURMA DO ZE COLMEI</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReFXwYwiU4Mt1nSNFi4qnszg</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="1212711" tvg-id="" tvg-name="24 HORAS: ILHA DA CAVEIRA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/2084px-Logo_TVE-24h.svg.png" group-title="CANAIS | 24H" -24 HORAS: ILHA DA CAVEIR</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2RePcUU6B4ncdfZ2O4XC5XF9s</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="851313" tvg-id="" tvg-name="24H A Familia Urso" tvg-logo="http://148.113.190.14/images/2L4x7yZaHg8FhQtlEQbYCVSBH6KL-Mf-qmFmskiLH4bqeKUJLoXLFUBvAVlCWFkLhgwfddhbslc_B7XkSG34bhYWmFD3n_GQkk5dot5x9JKIjusUL1u_yDfg25f_1hHkXBzMs4r49yuzzkxW42054tCqETZtUp69DJzVuLpntcRL0uT2maMbf9YDsPWBtCmO.png" group-title="CANAIS | 24H" -24H A Familia Urs</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReNtUkqIDhKDC3jEHwr-Ew3Y</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="851312" tvg-id="" tvg-name="24H Angry Birds" tvg-logo="http://148.113.190.14/images/2L4x7yZaHg8FhQtlEQbYCVSBH6KL-Mf-qmFmskiLH4bqeKUJLoXLFUBvAVlCWFkLhgwfddhbslc_B7XkSG34bhYWmFD3n_GQkk5dot5x9JKIjusUL1u_yDfg25f_1hHkXBzMs4r49yuzzkxW42054tCqETZtUp69DJzVuLpntcRL0uT2maMbf9YDsPWBtCmO.png" group-title="CANAIS | 24H" -24H Angry Bird</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReFl6XPodns3x2gaZsoGEvtg</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="544181" tvg-id="" tvg-name="24H Anime" tvg-logo="http://www-cloudinit-cdn0907-com.yahv.us:80/images/dHq9UufO9fO9BxuJmOFBqqW5a6O7vFqhlzof8Vfjvn-KuJTwTqm4w4CxCY3tiw2BOgjlF0NzeZyqfzHX1TcASA.png" group-title="CANAIS | 24H" -24H Anim</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReGyPLil6Kp-56AOad9v38nw</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="851311" tvg-id="" tvg-name="24H As Aventuras de Jackie Chan" tvg-logo="http://148.113.190.14/images/2L4x7yZaHg8FhQtlEQbYCVSBH6KL-Mf-qmFmskiLH4bqeKUJLoXLFUBvAVlCWFkLhgwfddhbslc_B7XkSG34bhYWmFD3n_GQkk5dot5x9JKIjusUL1u_yDfg25f_1hHkXBzMs4r49yuzzkxW42054tCqETZtUp69DJzVuLpntcRL0uT2maMbf9YDsPWBtCmO.png" group-title="CANAIS | 24H" -24H As Aventuras de Jackie Cha</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2RePlN2vfOV7X-o48wV9auMHc</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="851333" tvg-id="" tvg-name="24H AS AVENTURAS DO PEQUENO PRINCIPE" tvg-logo="http://148.113.190.14/images/2L4x7yZaHg8FhQtlEQbYCVSBH6KL-Mf-qmFmskiLH4bqeKUJLoXLFUBvAVlCWFkLhgwfddhbslc_B7XkSG34bhYWmFD3n_GQkk5dot5x9JKIjusUL1u_yDfg25f_1hHkXBzMs4r49yuzzkxW42054tCqETZtUp69DJzVuLpntcRL0uT2maMbf9YDsPWBtCmO.png" group-title="CANAIS | 24H" -24H AS AVENTURAS DO PEQUENO PRINCIP</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReFJGzkn_kav-9uC8dHZ7C_4</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="544173" tvg-id="" tvg-name="24H As Panteras" tvg-logo="http://www-cloudinit-cdn0907-com.yahv.us:80/images/dHq9UufO9fO9BxuJmOFBqqW5a6O7vFqhlzof8Vfjvn-KuJTwTqm4w4CxCY3tiw2BOgjlF0NzeZyqfzHX1TcASA.png" group-title="CANAIS | 24H" -24H As Pantera</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReJAQ2579HH2X-mtjiJiZSdk</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="544155" tvg-id="" tvg-name="24H As Pistas de Blue" tvg-logo="http://www-cloudinit-cdn0907-com.yahv.us:80/images/dHq9UufO9fO9BxuJmOFBqqW5a6O7vFqhlzof8Vfjvn-KuJTwTqm4w4CxCY3tiw2BOgjlF0NzeZyqfzHX1TcASA.png" group-title="CANAIS | 24H" -24H As Pistas de Blu</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReOQM-nAWyq_DrZ8NdxnoV94</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="544157" tvg-id="" tvg-name="24H AS Tartarugas Ninja" tvg-logo="http://www-cloudinit-cdn0907-com.yahv.us:80/images/dHq9UufO9fO9BxuJmOFBqqW5a6O7vFqhlzof8Vfjvn-KuJTwTqm4w4CxCY3tiw2BOgjlF0NzeZyqfzHX1TcASA.png" group-title="CANAIS | 24H" -24H AS Tartarugas Ninj</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReOxgZa-6_84Q52XnLzBzB3c</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="544156" tvg-id="" tvg-name="24H Baby Shark" tvg-logo="http://www-cloudinit-cdn0907-com.yahv.us:80/images/dHq9UufO9fO9BxuJmOFBqqW5a6O7vFqhlzof8Vfjvn-KuJTwTqm4w4CxCY3tiw2BOgjlF0NzeZyqfzHX1TcASA.png" group-title="CANAIS | 24H" -24H Baby Shar</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReHYdA_3Uxm23DWl3ilyDuk4</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="544165" tvg-id="" tvg-name="24H Babyfirst" tvg-logo="http://www-cloudinit-cdn0907-com.yahv.us:80/images/dHq9UufO9fO9BxuJmOFBqqW5a6O7vFqhlzof8Vfjvn-KuJTwTqm4w4CxCY3tiw2BOgjlF0NzeZyqfzHX1TcASA.png" group-title="CANAIS | 24H" -24H Babyfirs</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReM1drP0odFF9Ko8x6HPWxOQ</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="851332" tvg-id="" tvg-name="24H BAFINO" tvg-logo="http://148.113.190.14/images/2L4x7yZaHg8FhQtlEQbYCVSBH6KL-Mf-qmFmskiLH4bqeKUJLoXLFUBvAVlCWFkLhgwfddhbslc_B7XkSG34bhYWmFD3n_GQkk5dot5x9JKIjusUL1u_yDfg25f_1hHkXBzMs4r49yuzzkxW42054tCqETZtUp69DJzVuLpntcRL0uT2maMbf9YDsPWBtCmO.png" group-title="CANAIS | 24H" -24H BAFIN</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReFnnfgbhcuwAmk9e6xPXR9w</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="544149" tvg-id="" tvg-name="24H Beyblade" tvg-logo="http://www-cloudinit-cdn0907-com.yahv.us:80/images/dHq9UufO9fO9BxuJmOFBqqW5a6O7vFqhlzof8Vfjvn-KuJTwTqm4w4CxCY3tiw2BOgjlF0NzeZyqfzHX1TcASA.png" group-title="CANAIS | 24H" -24H Beyblad</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReEqwKO3TNEQf6fsD85PIQg0</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="544167" tvg-id="" tvg-name="24H Bob Esponja Calça Quadrada" tvg-logo="http://www-cloudinit-cdn0907-com.yahv.us:80/images/dHq9UufO9fO9BxuJmOFBqqW5a6O7vFqhlzof8Vfjvn-KuJTwTqm4w4CxCY3tiw2BOgjlF0NzeZyqfzHX1TcASA.png" group-title="CANAIS | 24H" -24H Bob Esponja Calça Quadrad</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReKR0F5nZ4u6Q30HeV4KTNWI</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="544148" tvg-id="" tvg-name="24H Captain Tsubasa" tvg-logo="http://www-cloudinit-cdn0907-com.yahv.us:80/images/dHq9UufO9fO9BxuJmOFBqqW5a6O7vFqhlzof8Vfjvn-KuJTwTqm4w4CxCY3tiw2BOgjlF0NzeZyqfzHX1TcASA.png" group-title="CANAIS | 24H" -24H Captain Tsubas</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReFWa0z-E_8ELsOyt9aORdRk</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="544171" tvg-id="" tvg-name="24H CASTELO RATIMBUM" tvg-logo="http://www-cloudinit-cdn0907-com.yahv.us:80/images/dHq9UufO9fO9BxuJmOFBqqW5a6O7vFqhlzof8Vfjvn-KuJTwTqm4w4CxCY3tiw2BOgjlF0NzeZyqfzHX1TcASA.png" group-title="CANAIS | 24H" -24H CASTELO RATIMBU</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReD-HqCMgj1tjHmhDbxvkuzE</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="544151" tvg-id="" tvg-name="24H CAVALEIROS DO ZODÍADO" tvg-logo="http://www-cloudinit-cdn0907-com.yahv.us:80/images/dHq9UufO9fO9BxuJmOFBqqW5a6O7vFqhlzof8Vfjvn-KuJTwTqm4w4CxCY3tiw2BOgjlF0NzeZyqfzHX1TcASA.png" group-title="CANAIS | 24H" -24H CAVALEIROS DO ZODÍAD</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReI9n5D5ci4IL9R2i2W3axyI</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="544168" tvg-id="" tvg-name="24H Clubinho" tvg-logo="http://www-cloudinit-cdn0907-com.yahv.us:80/images/dHq9UufO9fO9BxuJmOFBqqW5a6O7vFqhlzof8Vfjvn-KuJTwTqm4w4CxCY3tiw2BOgjlF0NzeZyqfzHX1TcASA.png" group-title="CANAIS | 24H" -24H Clubinh</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReNkwHLflF6Gy5CX4iDJE_6w</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="544166" tvg-id="" tvg-name="24H Cocoricó" tvg-logo="http://www-cloudinit-cdn0907-com.yahv.us:80/images/dHq9UufO9fO9BxuJmOFBqqW5a6O7vFqhlzof8Vfjvn-KuJTwTqm4w4CxCY3tiw2BOgjlF0NzeZyqfzHX1TcASA.png" group-title="CANAIS | 24H" -24H Cocoricü/title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReKImVvpDZm8yVlAxoHmS_-o</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="544174" tvg-id="" tvg-name="24H CSI: Miami" tvg-logo="http://www-cloudinit-cdn0907-com.yahv.us:80/images/2L4x7yZaHg8FhQtlEQbYCVSBH6KL-Mf-qmFmskiLH4bqeKUJLoXLFUBvAVlCWFkLhgwfddhbslc_B7XkSG34bhYWmFD3n_GQkk5dot5x9JKIjusUL1u_yDfg25f_1hHkXBzMs4r49yuzzkxW42054tCqETZtUp69DJzVuLpntcRL0uT2maMbf9YDsPWBtCmO.png" group-title="CANAIS | 24H" -24H CSI: Miam</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReFaWei7ExZDu_H4_Kwk63JE</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="851327" tvg-id="" tvg-name="24H Daniel Tigre" tvg-logo="http://148.113.190.14/images/2L4x7yZaHg8FhQtlEQbYCVSBH6KL-Mf-qmFmskiLH4bqeKUJLoXLFUBvAVlCWFkLhgwfddhbslc_B7XkSG34bhYWmFD3n_GQkk5dot5x9JKIjusUL1u_yDfg25f_1hHkXBzMs4r49yuzzkxW42054tCqETZtUp69DJzVuLpntcRL0uT2maMbf9YDsPWBtCmO.png" group-title="CANAIS | 24H" -24H Daniel Tigr</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReNUDYSkB5L9DbQqn-ZB83m0</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="851319" tvg-id="" tvg-name="24H Desenhos Bíblicos" tvg-logo="http://148.113.190.14/images/2L4x7yZaHg8FhQtlEQbYCVSBH6KL-Mf-qmFmskiLH4bqeKUJLoXLFUBvAVlCWFkLhgwfddhbslc_B7XkSG34bhYWmFD3n_GQkk5dot5x9JKIjusUL1u_yDfg25f_1hHkXBzMs4r49yuzzkxW42054tCqETZtUp69DJzVuLpntcRL0uT2maMbf9YDsPWBtCmO.png" group-title="CANAIS | 24H" -24H Desenhos Bíblico</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReBVJiSJyRK5CQJDiKuTsHAw</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="544180" tvg-id="" tvg-name="24H Desenhos Classicos" tvg-logo="http://www-cloudinit-cdn0907-com.yahv.us:80/images/2L4x7yZaHg8FhQtlEQbYCVSBH6KL-Mf-qmFmskiLH4bqeKUJLoXLFUBvAVlCWFkLhgwfddhbslc_B7XkSG34bhYWmFD3n_GQkk5dot5x9JKIjusUL1u_yDfg25f_1hHkXBzMs4r49yuzzkxW42054tCqETZtUp69DJzVuLpntcRL0uT2maMbf9YDsPWBtCmO.png" group-title="CANAIS | 24H" -24H Desenhos Classico</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReHz8ueTfXbioc1ZsR99HM2w</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="851321" tvg-id="" tvg-name="24H Dragon Ball kai" tvg-logo="http://148.113.190.14/images/2L4x7yZaHg8FhQtlEQbYCVSBH6KL-Mf-qmFmskiLH4bqeKUJLoXLFUBvAVlCWFkLhgwfddhbslc_B7XkSG34bhYWmFD3n_GQkk5dot5x9JKIjusUL1u_yDfg25f_1hHkXBzMs4r49yuzzkxW42054tCqETZtUp69DJzVuLpntcRL0uT2maMbf9YDsPWBtCmO.png" group-title="CANAIS | 24H" -24H Dragon Ball ka</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReGS8yLOTLMMm_IbF0AiA-78</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="544183" tvg-id="" tvg-name="24H Geek" tvg-logo="http://www-cloudinit-cdn0907-com.yahv.us:80/images/dHq9UufO9fO9BxuJmOFBqqW5a6O7vFqhlzof8Vfjvn-KuJTwTqm4w4CxCY3tiw2BOgjlF0NzeZyqfzHX1TcASA.png" group-title="CANAIS | 24H" -24H Gee</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReG3c4D1xE7MwDBjIghQJY-c</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="851317" tvg-id="" tvg-name="24H Inspetor Willoughby" tvg-logo="http://148.113.190.14/images/2L4x7yZaHg8FhQtlEQbYCVSBH6KL-Mf-qmFmskiLH4bqeKUJLoXLFUBvAVlCWFkLhgwfddhbslc_B7XkSG34bhYWmFD3n_GQkk5dot5x9JKIjusUL1u_yDfg25f_1hHkXBzMs4r49yuzzkxW42054tCqETZtUp69DJzVuLpntcRL0uT2maMbf9YDsPWBtCmO.png" group-title="CANAIS | 24H" -24H Inspetor Willoughb</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReCOnR2N5Hq8YDUlQYKO5He0</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="544152" tvg-id="" tvg-name="24H INUYASHA" tvg-logo="http://www-cloudinit-cdn0907-com.yahv.us:80/images/dHq9UufO9fO9BxuJmOFBqqW5a6O7vFqhlzof8Vfjvn-KuJTwTqm4w4CxCY3tiw2BOgjlF0NzeZyqfzHX1TcASA.png" group-title="CANAIS | 24H" -24H INUYASH</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReOKh4vKY_L3ERHNUDDs3370</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="544170" tvg-id="" tvg-name="24H JETSONS TV" tvg-logo="http://www-cloudinit-cdn0907-com.yahv.us:80/images/dHq9UufO9fO9BxuJmOFBqqW5a6O7vFqhlzof8Vfjvn-KuJTwTqm4w4CxCY3tiw2BOgjlF0NzeZyqfzHX1TcASA.png" group-title="CANAIS | 24H" -24H JETSONS T</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReOpxls9eYlgM6M9KTmwSTWU</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="851316" tvg-id="" tvg-name="24H Josie e as Gatinhas" tvg-logo="http://148.113.190.14/images/2L4x7yZaHg8FhQtlEQbYCVSBH6KL-Mf-qmFmskiLH4bqeKUJLoXLFUBvAVlCWFkLhgwfddhbslc_B7XkSG34bhYWmFD3n_GQkk5dot5x9JKIjusUL1u_yDfg25f_1hHkXBzMs4r49yuzzkxW42054tCqETZtUp69DJzVuLpntcRL0uT2maMbf9YDsPWBtCmO.png" group-title="CANAIS | 24H" -24H Josie e as Gatinha</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReCvGqhvIc2o5yZ9LUCazJzo</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="544179" tvg-id="" tvg-name="24H Kids Mais" tvg-logo="http://www-cloudinit-cdn0907-com.yahv.us:80/images/dHq9UufO9fO9BxuJmOFBqqW5a6O7vFqhlzof8Vfjvn-KuJTwTqm4w4CxCY3tiw2BOgjlF0NzeZyqfzHX1TcASA.png" group-title="CANAIS | 24H" -24H Kids Mai</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReExZPcEh1Hgz9kEDaoxisSc</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="544172" tvg-id="" tvg-name="24H Louco por Você" tvg-logo="http://www-cloudinit-cdn0907-com.yahv.us:80/images/dHq9UufO9fO9BxuJmOFBqqW5a6O7vFqhlzof8Vfjvn-KuJTwTqm4w4CxCY3tiw2BOgjlF0NzeZyqfzHX1TcASA.png" group-title="CANAIS | 24H" -24H Louco por Vocü/title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReAsC_w8VumDhO4tqgBr7jZA</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="851329" tvg-id="" tvg-name="24H MARARONA CINE GIBI 1/2/3" tvg-logo="http://148.113.190.14/images/2L4x7yZaHg8FhQtlEQbYCVSBH6KL-Mf-qmFmskiLH4bqeKUJLoXLFUBvAVlCWFkLhgwfddhbslc_B7XkSG34bhYWmFD3n_GQkk5dot5x9JKIjusUL1u_yDfg25f_1hHkXBzMs4r49yuzzkxW42054tCqETZtUp69DJzVuLpntcRL0uT2maMbf9YDsPWBtCmO.png" group-title="CANAIS | 24H" -24H MARARONA CINE GIBI 1/2/</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReBxQgOXA8qHq-Oj7lNswNcI</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="544158" tvg-id="" tvg-name="24H Moranguinho" tvg-logo="http://www-cloudinit-cdn0907-com.yahv.us:80/images/dHq9UufO9fO9BxuJmOFBqqW5a6O7vFqhlzof8Vfjvn-KuJTwTqm4w4CxCY3tiw2BOgjlF0NzeZyqfzHX1TcASA.png" group-title="CANAIS | 24H" -24H Moranguinh</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReCho0Z6PdeQU563N0OmNWJI</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="544146" tvg-id="" tvg-name="24H Naruto" tvg-logo="http://www-cloudinit-cdn0907-com.yahv.us:80/images/dHq9UufO9fO9BxuJmOFBqqW5a6O7vFqhlzof8Vfjvn-KuJTwTqm4w4CxCY3tiw2BOgjlF0NzeZyqfzHX1TcASA.png" group-title="CANAIS | 24H" -24H Narut</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2RePlHFe0OznUq5oJ6KuiCTdc</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="544147" tvg-id="" tvg-name="24H Naruto Shippuden" tvg-logo="http://www-cloudinit-cdn0907-com.yahv.us:80/images/dHq9UufO9fO9BxuJmOFBqqW5a6O7vFqhlzof8Vfjvn-KuJTwTqm4w4CxCY3tiw2BOgjlF0NzeZyqfzHX1TcASA.png" group-title="CANAIS | 24H" -24H Naruto Shippude</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReBuIzQ89-JzyissoFY-SH_Q</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="544164" tvg-id="" tvg-name="24H NICK CLÁSSICO" tvg-logo="http://www-cloudinit-cdn0907-com.yahv.us:80/images/dHq9UufO9fO9BxuJmOFBqqW5a6O7vFqhlzof8Vfjvn-KuJTwTqm4w4CxCY3tiw2BOgjlF0NzeZyqfzHX1TcASA.png" group-title="CANAIS | 24H" -24H NICK CLÁSSIC</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReLpOHM8_aznmxdykqanvvyA</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="544161" tvg-id="" tvg-name="24H Nick Teen" tvg-logo="http://www-cloudinit-cdn0907-com.yahv.us:80/images/dHq9UufO9fO9BxuJmOFBqqW5a6O7vFqhlzof8Vfjvn-KuJTwTqm4w4CxCY3tiw2BOgjlF0NzeZyqfzHX1TcASA.png" group-title="CANAIS | 24H" -24H Nick Tee</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReDHL38Igk8PAEGWHSRipfzM</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="544154" tvg-id="" tvg-name="24H Nickelodeon Rocket Power" tvg-logo="http://www-cloudinit-cdn0907-com.yahv.us:80/images/dHq9UufO9fO9BxuJmOFBqqW5a6O7vFqhlzof8Vfjvn-KuJTwTqm4w4CxCY3tiw2BOgjlF0NzeZyqfzHX1TcASA.png" group-title="CANAIS | 24H" -24H Nickelodeon Rocket Powe</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReLLvur93-BcW1jpTvyIz6s4</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="544178" tvg-id="" tvg-name="24H O Homem que veio do Céu" tvg-logo="http://www-cloudinit-cdn0907-com.yahv.us:80/images/dHq9UufO9fO9BxuJmOFBqqW5a6O7vFqhlzof8Vfjvn-KuJTwTqm4w4CxCY3tiw2BOgjlF0NzeZyqfzHX1TcASA.png" group-title="CANAIS | 24H" -24H O Homem que veio do Cé</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReFB0jKZGi2A4vk7tIvPQvh8</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="851318" tvg-id="" tvg-name="24H O Inspetor" tvg-logo="http://148.113.190.14/images/2L4x7yZaHg8FhQtlEQbYCVSBH6KL-Mf-qmFmskiLH4bqeKUJLoXLFUBvAVlCWFkLhgwfddhbslc_B7XkSG34bhYWmFD3n_GQkk5dot5x9JKIjusUL1u_yDfg25f_1hHkXBzMs4r49yuzzkxW42054tCqETZtUp69DJzVuLpntcRL0uT2maMbf9YDsPWBtCmO.png" group-title="CANAIS | 24H" -24H O Inspeto</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReFhkb7it5VvhxopM-903th8</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="544162" tvg-id="" tvg-name="24H O Reino Infantil" tvg-logo="http://www-cloudinit-cdn0907-com.yahv.us:80/images/dHq9UufO9fO9BxuJmOFBqqW5a6O7vFqhlzof8Vfjvn-KuJTwTqm4w4CxCY3tiw2BOgjlF0NzeZyqfzHX1TcASA.png" group-title="CANAIS | 24H" -24H O Reino Infanti</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReLiMjZ-i-MmWmoTbNEmnTss</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="851320" tvg-id="" tvg-name="24H O Show dos Looney Tunes" tvg-logo="http://148.113.190.14/images/2L4x7yZaHg8FhQtlEQbYCVSBH6KL-Mf-qmFmskiLH4bqeKUJLoXLFUBvAVlCWFkLhgwfddhbslc_B7XkSG34bhYWmFD3n_GQkk5dot5x9JKIjusUL1u_yDfg25f_1hHkXBzMs4r49yuzzkxW42054tCqETZtUp69DJzVuLpntcRL0uT2maMbf9YDsPWBtCmO.png" group-title="CANAIS | 24H" -24H O Show dos Looney Tune</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReD6xTFG7tyiKHL9xBMR77Mc</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="544145" tvg-id="" tvg-name="24H One Piece" tvg-logo="http://www-cloudinit-cdn0907-com.yahv.us:80/images/dHq9UufO9fO9BxuJmOFBqqW5a6O7vFqhlzof8Vfjvn-KuJTwTqm4w4CxCY3tiw2BOgjlF0NzeZyqfzHX1TcASA.png" group-title="CANAIS | 24H" -24H One Piec</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReOkEHYRSHQApCj0IN_PTNJw</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="544182" tvg-id="" tvg-name="24H Otaku" tvg-logo="http://www-cloudinit-cdn0907-com.yahv.us:80/images/dHq9UufO9fO9BxuJmOFBqqW5a6O7vFqhlzof8Vfjvn-KuJTwTqm4w4CxCY3tiw2BOgjlF0NzeZyqfzHX1TcASA.png" group-title="CANAIS | 24H" -24H Otak</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReBtDCZxely4Our07ECOagJs</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="544160" tvg-id="" tvg-name="24H PAW Patrol Patrulha Canina" tvg-logo="http://www-cloudinit-cdn0907-com.yahv.us:80/images/2L4x7yZaHg8FhQtlEQbYCVSBH6KL-Mf-qmFmskiLH4bqeKUJLoXLFUBvAVlCWFkLhgwfddhbslc_B7XkSG34bhYWmFD3n_GQkk5dot5x9JKIjusUL1u_yDfg25f_1hHkXBzMs4r49yuzzkxW42054tCqETZtUp69DJzVuLpntcRL0uT2maMbf9YDsPWBtCmO.png" group-title="CANAIS | 24H" -24H PAW Patrol Patrulha Canin</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReJ0PWqVf675FzKFwncLdi0g</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="851324" tvg-id="" tvg-name="24H Picolino" tvg-logo="http://148.113.190.14/images/2L4x7yZaHg8FhQtlEQbYCVSBH6KL-Mf-qmFmskiLH4bqeKUJLoXLFUBvAVlCWFkLhgwfddhbslc_B7XkSG34bhYWmFD3n_GQkk5dot5x9JKIjusUL1u_yDfg25f_1hHkXBzMs4r49yuzzkxW42054tCqETZtUp69DJzVuLpntcRL0uT2maMbf9YDsPWBtCmO.png" group-title="CANAIS | 24H" -24H Picolin</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReO3LKuG7x8qPkW-xwWmddzw</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="544169" tvg-id="" tvg-name="24H Rakuten Família" tvg-logo="http://www-cloudinit-cdn0907-com.yahv.us:80/images/dHq9UufO9fO9BxuJmOFBqqW5a6O7vFqhlzof8Vfjvn-KuJTwTqm4w4CxCY3tiw2BOgjlF0NzeZyqfzHX1TcASA.png" group-title="CANAIS | 24H" -24H Rakuten Famíli</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReHW49Yp_5iRwlkHhmtPjxI4</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="851314" tvg-id="" tvg-name="24H Rambo" tvg-logo="http://148.113.190.14/images/2L4x7yZaHg8FhQtlEQbYCVSBH6KL-Mf-qmFmskiLH4bqeKUJLoXLFUBvAVlCWFkLhgwfddhbslc_B7XkSG34bhYWmFD3n_GQkk5dot5x9JKIjusUL1u_yDfg25f_1hHkXBzMs4r49yuzzkxW42054tCqETZtUp69DJzVuLpntcRL0uT2maMbf9YDsPWBtCmO.png" group-title="CANAIS | 24H" -24H Ramb</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2RePXui-1G3jkcJWUY__hjoaw</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="851310" tvg-id="" tvg-name="24h Relax" tvg-logo="http://148.113.190.14/images/2L4x7yZaHg8FhQtlEQbYCVSBH6KL-Mf-qmFmskiLH4bqeKUJLoXLFUBvAVlCWFkLhgwfddhbslc_B7XkSG34bhYWmFD3n_GQkk5dot5x9JKIjusUL1u_yDfg25f_1hHkXBzMs4r49yuzzkxW42054tCqETZtUp69DJzVuLpntcRL0uT2maMbf9YDsPWBtCmO.png" group-title="CANAIS | 24H" -24h Rela</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReDtK2UCG8xgKkBauEhewqPA</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="544184" tvg-id="" tvg-name="24H Rookie Blue" tvg-logo="http://www-cloudinit-cdn0907-com.yahv.us:80/images/dHq9UufO9fO9BxuJmOFBqqW5a6O7vFqhlzof8Vfjvn-KuJTwTqm4w4CxCY3tiw2BOgjlF0NzeZyqfzHX1TcASA.png" group-title="CANAIS | 24H" -24H Rookie Blu</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReBwLP0TuMB_jpU8V1ZxzBWE</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="544153" tvg-id="" tvg-name="24H Rugrats" tvg-logo="http://www-cloudinit-cdn0907-com.yahv.us:80/images/dHq9UufO9fO9BxuJmOFBqqW5a6O7vFqhlzof8Vfjvn-KuJTwTqm4w4CxCY3tiw2BOgjlF0NzeZyqfzHX1TcASA.png" group-title="CANAIS | 24H" -24H Rugrat</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReLjTEW9gvZtM9Mc8Poym5s4</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="544176" tvg-id="" tvg-name="24H Schitt's Creek" tvg-logo="http://www-cloudinit-cdn0907-com.yahv.us:80/images/dHq9UufO9fO9BxuJmOFBqqW5a6O7vFqhlzof8Vfjvn-KuJTwTqm4w4CxCY3tiw2BOgjlF0NzeZyqfzHX1TcASA.png" group-title="CANAIS | 24H" -24H Schitt's Cree</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReDeEJSCdpiJwT8AKK3Ql0Rw</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="851325" tvg-id="" tvg-name="24H Street Fight II" tvg-logo="http://148.113.190.14/images/2L4x7yZaHg8FhQtlEQbYCVSBH6KL-Mf-qmFmskiLH4bqeKUJLoXLFUBvAVlCWFkLhgwfddhbslc_B7XkSG34bhYWmFD3n_GQkk5dot5x9JKIjusUL1u_yDfg25f_1hHkXBzMs4r49yuzzkxW42054tCqETZtUp69DJzVuLpntcRL0uT2maMbf9YDsPWBtCmO.png" group-title="CANAIS | 24H" -24H Street Fight I</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReOfMF85jl6kcQtNarb_twfk</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="851326" tvg-id="" tvg-name="24H Street Fighter" tvg-logo="http://148.113.190.14/images/2L4x7yZaHg8FhQtlEQbYCVSBH6KL-Mf-qmFmskiLH4bqeKUJLoXLFUBvAVlCWFkLhgwfddhbslc_B7XkSG34bhYWmFD3n_GQkk5dot5x9JKIjusUL1u_yDfg25f_1hHkXBzMs4r49yuzzkxW42054tCqETZtUp69DJzVuLpntcRL0uT2maMbf9YDsPWBtCmO.png" group-title="CANAIS | 24H" -24H Street Fighte</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReOx9XTumI54WYXtr3tcUP_k</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="851328" tvg-id="" tvg-name="24H STREET FIGHTER II" tvg-logo="http://148.113.190.14/images/2L4x7yZaHg8FhQtlEQbYCVSBH6KL-Mf-qmFmskiLH4bqeKUJLoXLFUBvAVlCWFkLhgwfddhbslc_B7XkSG34bhYWmFD3n_GQkk5dot5x9JKIjusUL1u_yDfg25f_1hHkXBzMs4r49yuzzkxW42054tCqETZtUp69DJzVuLpntcRL0uT2maMbf9YDsPWBtCmO.png" group-title="CANAIS | 24H" -24H STREET FIGHTER I</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReOkn9V6uTqA1CJFulTw9Z4E</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="544159" tvg-id="" tvg-name="24H TELETUBBIES" tvg-logo="http://www-cloudinit-cdn0907-com.yahv.us:80/images/dHq9UufO9fO9BxuJmOFBqqW5a6O7vFqhlzof8Vfjvn-KuJTwTqm4w4CxCY3tiw2BOgjlF0NzeZyqfzHX1TcASA.png" group-title="CANAIS | 24H" -24H TELETUBBIE</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReKm2qSaIIVRPl_8__pcP2Ow</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="544177" tvg-id="" tvg-name="24H The Ed Sullivan Show" tvg-logo="http://www-cloudinit-cdn0907-com.yahv.us:80/images/dHq9UufO9fO9BxuJmOFBqqW5a6O7vFqhlzof8Vfjvn-KuJTwTqm4w4CxCY3tiw2BOgjlF0NzeZyqfzHX1TcASA.png" group-title="CANAIS | 24H" -24H The Ed Sullivan Sho</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReMCSZ2149-DN0aNf_663ark</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="544175" tvg-id="" tvg-name="24H The Night Shift Plantão Noturno" tvg-logo="http://www-cloudinit-cdn0907-com.yahv.us:80/images/dHq9UufO9fO9BxuJmOFBqqW5a6O7vFqhlzof8Vfjvn-KuJTwTqm4w4CxCY3tiw2BOgjlF0NzeZyqfzHX1TcASA.png" group-title="CANAIS | 24H" -24H The Night Shift Plantão Noturn</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReBo4sHPR0JCS4CTpPjz3New</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="851330" tvg-id="" tvg-name="24H THUNDERMANS" tvg-logo="http://148.113.190.14/images/2L4x7yZaHg8FhQtlEQbYCVSBH6KL-Mf-qmFmskiLH4bqeKUJLoXLFUBvAVlCWFkLhgwfddhbslc_B7XkSG34bhYWmFD3n_GQkk5dot5x9JKIjusUL1u_yDfg25f_1hHkXBzMs4r49yuzzkxW42054tCqETZtUp69DJzVuLpntcRL0uT2maMbf9YDsPWBtCmO.png" group-title="CANAIS | 24H" -24H THUNDERMAN</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReFuRh3MssJBYOaGCk1N_K5A</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="544150" tvg-id="" tvg-name="24H Tokusato" tvg-logo="http://www-cloudinit-cdn0907-com.yahv.us:80/images/dHq9UufO9fO9BxuJmOFBqqW5a6O7vFqhlzof8Vfjvn-KuJTwTqm4w4CxCY3tiw2BOgjlF0NzeZyqfzHX1TcASA.png" group-title="CANAIS | 24H" -24H Tokusat</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReA7PH1YfcJvKpoxIWzKUvzU</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="851323" tvg-id="" tvg-name="24H Tom e Jerry" tvg-logo="http://148.113.190.14/images/2L4x7yZaHg8FhQtlEQbYCVSBH6KL-Mf-qmFmskiLH4bqeKUJLoXLFUBvAVlCWFkLhgwfddhbslc_B7XkSG34bhYWmFD3n_GQkk5dot5x9JKIjusUL1u_yDfg25f_1hHkXBzMs4r49yuzzkxW42054tCqETZtUp69DJzVuLpntcRL0uT2maMbf9YDsPWBtCmO.png" group-title="CANAIS | 24H" -24H Tom e Jerr</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2RePXKLWx73yQJ_mCKbBrKzZg</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="851322" tvg-id="" tvg-name="24H Tom Sem Freio" tvg-logo="http://148.113.190.14/images/2L4x7yZaHg8FhQtlEQbYCVSBH6KL-Mf-qmFmskiLH4bqeKUJLoXLFUBvAVlCWFkLhgwfddhbslc_B7XkSG34bhYWmFD3n_GQkk5dot5x9JKIjusUL1u_yDfg25f_1hHkXBzMs4r49yuzzkxW42054tCqETZtUp69DJzVuLpntcRL0uT2maMbf9YDsPWBtCmO.png" group-title="CANAIS | 24H" -24H Tom Sem Frei</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReM6tZGmJMGSNOCxhUVcek10</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="851315" tvg-id="" tvg-name="24H Toro e Pancho" tvg-logo="http://148.113.190.14/images/2L4x7yZaHg8FhQtlEQbYCVSBH6KL-Mf-qmFmskiLH4bqeKUJLoXLFUBvAVlCWFkLhgwfddhbslc_B7XkSG34bhYWmFD3n_GQkk5dot5x9JKIjusUL1u_yDfg25f_1hHkXBzMs4r49yuzzkxW42054tCqETZtUp69DJzVuLpntcRL0uT2maMbf9YDsPWBtCmO.png" group-title="CANAIS | 24H" -24H Toro e Panch</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2RePdCixerTP_OPP_8mqEZg0c</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="851331" tvg-id="" tvg-name="24H YANG OH//148.113.190.14/images/2L4x7yZaHg8FhQtlEQbYCVSBH6KL-Mf-qmFmskiLH4bqeKUJLoXLFUBvAVlCWFkLhgwfddhbslc_B7XkSG34bhYWmFD3n_GQkk5dot5x9JKIjusUL1u_yDfg25f_1hHkXBzMs4r49yuzzkxW42054tCqETZtUp69DJzVuLpntcRL0uT2maMbf9YDsPWBtCmO.png" group-title="CANAIS | 24H" -24H YANG O</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReP5xGriHWNYxv0G723DYpn4</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="729805" tvg-id="" tvg-name="ALADIN" tvg-logo="http://www-cloudinit-cdn0907-com.yahv.us:80/images/2L4x7yZaHg8FhQtlEQbYCVSBH6KL-Mf-qmFmskiLH4bqeKUJLoXLFUBvAVlCWFkLhgwfddhbslc_B7XkSG34bhYWmFD3n_GQkk5dot5x9JKIjusUL1u_yDfg25f_1hHkXBzMs4r49yuzzkxW42054tCqETZtUp69DJzVuLpntcRL0uT2maMbf9YDsPWBtCmO.png" group-title="CANAIS | 24H" -ALADI</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2RePgnGvKehnNeBpGMv6OV6-8</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="729806" tvg-id="" tvg-name="AS AVENTURAS DE JACK-CHAN" tvg-logo="http://www-cloudinit-cdn0907-com.yahv.us:80/images/2L4x7yZaHg8FhQtlEQbYCVSBH6KL-Mf-qmFmskiLH4bqeKUJLoXLFUBvAVlCWFkLhgwfddhbslc_B7XkSG34bhYWmFD3n_GQkk5dot5x9JKIjusUL1u_yDfg25f_1hHkXBzMs4r49yuzzkxW42054tCqETZtUp69DJzVuLpntcRL0uT2maMbf9YDsPWBtCmO.png" group-title="CANAIS | 24H" -AS AVENTURAS DE JACK-CHA</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReFlqCtEPn73lKFwmqN3JLOI</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="729807" tvg-id="" tvg-name="AS MENINAS SUPER PODEROSAS" tvg-logo="http://www-cloudinit-cdn0907-com.yahv.us:80/images/2L4x7yZaHg8FhQtlEQbYCVSBH6KL-Mf-qmFmskiLH4bqeKUJLoXLFUBvAVlCWFkLhgwfddhbslc_B7XkSG34bhYWmFD3n_GQkk5dot5x9JKIjusUL1u_yDfg25f_1hHkXBzMs4r49yuzzkxW42054tCqETZtUp69DJzVuLpntcRL0uT2maMbf9YDsPWBtCmO.png" group-title="CANAIS | 24H" -AS MENINAS SUPER PODEROSA</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReIBzy1rjSKoRHyx4mPyV9Qg</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="729808" tvg-id="" tvg-name="ASTRO BOY" tvg-logo="http://www-cloudinit-cdn0907-com.yahv.us:80/images/2L4x7yZaHg8FhQtlEQbYCVSBH6KL-Mf-qmFmskiLH4bqeKUJLoXLFUBvAVlCWFkLhgwfddhbslc_B7XkSG34bhYWmFD3n_GQkk5dot5x9JKIjusUL1u_yDfg25f_1hHkXBzMs4r49yuzzkxW42054tCqETZtUp69DJzVuLpntcRL0uT2maMbf9YDsPWBtCmO.png" group-title="CANAIS | 24H" -ASTRO BO</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReJ66FoC0-gVYtgIDrupa6us</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="729809" tvg-id="" tvg-name="BARBIE" tvg-logo="http://www-cloudinit-cdn0907-com.yahv.us:80/images/2L4x7yZaHg8FhQtlEQbYCVSBH6KL-Mf-qmFmskiLH4bqeKUJLoXLFUBvAVlCWFkLhgwfddhbslc_B7XkSG34bhYWmFD3n_GQkk5dot5x9JKIjusUL1u_yDfg25f_1hHkXBzMs4r49yuzzkxW42054tCqETZtUp69DJzVuLpntcRL0uT2maMbf9YDsPWBtCmO.png" group-title="CANAIS | 24H" -BARBI</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReNv9N1uGiBz6UXj39-tC1_o</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="729810" tvg-id="" tvg-name="BEN 10" tvg-logo="http://www-cloudinit-cdn0907-com.yahv.us:80/images/2L4x7yZaHg8FhQtlEQbYCVSBH6KL-Mf-qmFmskiLH4bqeKUJLoXLFUBvAVlCWFkLhgwfddhbslc_B7XkSG34bhYWmFD3n_GQkk5dot5x9JKIjusUL1u_yDfg25f_1hHkXBzMs4r49yuzzkxW42054tCqETZtUp69DJzVuLpntcRL0uT2maMbf9YDsPWBtCmO.png" group-title="CANAIS | 24H" -BEN 1</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReHUKYhXgpKE_dxd7nbLcrj0</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="729811" tvg-id="" tvg-name="BITA E OS ANIMAIS" tvg-logo="http://www-cloudinit-cdn0907-com.yahv.us:80/images/2L4x7yZaHg8FhQtlEQbYCVSBH6KL-Mf-qmFmskiLH4bqeKUJLoXLFUBvAVlCWFkLhgwfddhbslc_B7XkSG34bhYWmFD3n_GQkk5dot5x9JKIjusUL1u_yDfg25f_1hHkXBzMs4r49yuzzkxW42054tCqETZtUp69DJzVuLpntcRL0uT2maMbf9YDsPWBtCmO.png" group-title="CANAIS | 24H" -BITA E OS ANIMAI</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2RePlYgTk87HKJqInKjpE5RHU</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="729812" tvg-id="" tvg-name="BOB ESPONJA" tvg-logo="http://www-cloudinit-cdn0907-com.yahv.us:80/images/2L4x7yZaHg8FhQtlEQbYCVSBH6KL-Mf-qmFmskiLH4bqeKUJLoXLFUBvAVlCWFkLhgwfddhbslc_B7XkSG34bhYWmFD3n_GQkk5dot5x9JKIjusUL1u_yDfg25f_1hHkXBzMs4r49yuzzkxW42054tCqETZtUp69DJzVuLpntcRL0uT2maMbf9YDsPWBtCmO.png" group-title="CANAIS | 24H" -BOB ESPONJ</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReIzFZ8dXfomhSjWB2RMovL4</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="729813" tvg-id="" tvg-name="BREAKING BAD" tvg-logo="http://www-cloudinit-cdn0907-com.yahv.us:80/images/2L4x7yZaHg8FhQtlEQbYCVSBH6KL-Mf-qmFmskiLH4bqeKUJLoXLFUBvAVlCWFkLhgwfddhbslc_B7XkSG34bhYWmFD3n_GQkk5dot5x9JKIjusUL1u_yDfg25f_1hHkXBzMs4r49yuzzkxW42054tCqETZtUp69DJzVuLpntcRL0uT2maMbf9YDsPWBtCmO.png" group-title="CANAIS | 24H" -BREAKING BA</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReDeX0KvyPrmeSyi4fMT1vPs</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="729815" tvg-id="" tvg-name="CAVERNA DO DRAGÃO" tvg-logo="http://www-cloudinit-cdn0907-com.yahv.us:80/images/2L4x7yZaHg8FhQtlEQbYCVSBH6KL-Mf-qmFmskiLH4bqeKUJLoXLFUBvAVlCWFkLhgwfddhbslc_B7XkSG34bhYWmFD3n_GQkk5dot5x9JKIjusUL1u_yDfg25f_1hHkXBzMs4r49yuzzkxW42054tCqETZtUp69DJzVuLpntcRL0uT2maMbf9YDsPWBtCmO.png" group-title="CANAIS | 24H" -CAVERNA DO DRAGÃ</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReN8Cxoo1wXUY4cGtaGQhsdY</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="729816" tvg-id="" tvg-name="CHAPOLIM COLORADO" tvg-logo="http://www-cloudinit-cdn0907-com.yahv.us:80/images/2L4x7yZaHg8FhQtlEQbYCVSBH6KL-Mf-qmFmskiLH4bqeKUJLoXLFUBvAVlCWFkLhgwfddhbslc_B7XkSG34bhYWmFD3n_GQkk5dot5x9JKIjusUL1u_yDfg25f_1hHkXBzMs4r49yuzzkxW42054tCqETZtUp69DJzVuLpntcRL0uT2maMbf9YDsPWBtCmO.png" group-title="CANAIS | 24H" -CHAPOLIM COLORAD</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2RePRf23Rd0FTMzgtFFJ4Bj_Q</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="729817" tvg-id="" tvg-name="CHAVES" tvg-logo="http://www-cloudinit-cdn0907-com.yahv.us:80/images/2L4x7yZaHg8FhQtlEQbYCVSBH6KL-Mf-qmFmskiLH4bqeKUJLoXLFUBvAVlCWFkLhgwfddhbslc_B7XkSG34bhYWmFD3n_GQkk5dot5x9JKIjusUL1u_yDfg25f_1hHkXBzMs4r49yuzzkxW42054tCqETZtUp69DJzVuLpntcRL0uT2maMbf9YDsPWBtCmO.png" group-title="CANAIS | 24H" -CHAVE</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReKjbynLJjOoifzfizLvaUwM</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="729818" tvg-id="" tvg-name="CHAVES DESENHO 24HS" tvg-logo="http://www-cloudinit-cdn0907-com.yahv.us:80/images/2L4x7yZaHg8FhQtlEQbYCVSBH6KL-Mf-qmFmskiLH4bqeKUJLoXLFUBvAVlCWFkLhgwfddhbslc_B7XkSG34bhYWmFD3n_GQkk5dot5x9JKIjusUL1u_yDfg25f_1hHkXBzMs4r49yuzzkxW42054tCqETZtUp69DJzVuLpntcRL0uT2maMbf9YDsPWBtCmO.png" group-title="CANAIS | 24H" -CHAVES DESENHO 24H</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReAHBXIFP07Z7G148VIioh8A</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="729819" tvg-id="" tvg-name="CINE KIDS" tvg-logo="http://www-cloudinit-cdn0907-com.yahv.us:80/images/2L4x7yZaHg8FhQtlEQbYCVSBH6KL-Mf-qmFmskiLH4bqeKUJLoXLFUBvAVlCWFkLhgwfddhbslc_B7XkSG34bhYWmFD3n_GQkk5dot5x9JKIjusUL1u_yDfg25f_1hHkXBzMs4r49yuzzkxW42054tCqETZtUp69DJzVuLpntcRL0uT2maMbf9YDsPWBtCmO.png" group-title="CANAIS | 24H" -CINE KID</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2RePHgaYh-tp7qIRi7swJOha8</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="729814" tvg-id="" tvg-name="CÃO CORAGEM" tvg-logo="http://www-cloudinit-cdn0907-com.yahv.us:80/images/2L4x7yZaHg8FhQtlEQbYCVSBH6KL-Mf-qmFmskiLH4bqeKUJLoXLFUBvAVlCWFkLhgwfddhbslc_B7XkSG34bhYWmFD3n_GQkk5dot5x9JKIjusUL1u_yDfg25f_1hHkXBzMs4r49yuzzkxW42054tCqETZtUp69DJzVuLpntcRL0uT2maMbf9YDsPWBtCmO.png" group-title="CANAIS | 24H" -CÃO CORAGE</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReC-ErrbrzQ_uIUcNzxi9bx4</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="729820" tvg-id="" tvg-name="DENIS O PIMENTINHA" tvg-logo="http://www-cloudinit-cdn0907-com.yahv.us:80/images/2L4x7yZaHg8FhQtlEQbYCVSBH6KL-Mf-qmFmskiLH4bqeKUJLoXLFUBvAVlCWFkLhgwfddhbslc_B7XkSG34bhYWmFD3n_GQkk5dot5x9JKIjusUL1u_yDfg25f_1hHkXBzMs4r49yuzzkxW42054tCqETZtUp69DJzVuLpntcRL0uT2maMbf9YDsPWBtCmO.png" group-title="CANAIS | 24H" -DENIS O PIMENTINH</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReBXnOnFT56_BJxs3IXlvvDg</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="729821" tvg-id="" tvg-name="DIGIMON" tvg-logo="http://www-cloudinit-cdn0907-com.yahv.us:80/images/2L4x7yZaHg8FhQtlEQbYCVSBH6KL-Mf-qmFmskiLH4bqeKUJLoXLFUBvAVlCWFkLhgwfddhbslc_B7XkSG34bhYWmFD3n_GQkk5dot5x9JKIjusUL1u_yDfg25f_1hHkXBzMs4r49yuzzkxW42054tCqETZtUp69DJzVuLpntcRL0uT2maMbf9YDsPWBtCmO.png" group-title="CANAIS | 24H" -DIGIMO</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReGK9r33laLbRww1tndFZ9uY</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="729822" tvg-id="" tvg-name="DOIS HOMENS E MEIO" tvg-logo="http://www-cloudinit-cdn0907-com.yahv.us:80/images/2L4x7yZaHg8FhQtlEQbYCVSBH6KL-Mf-qmFmskiLH4bqeKUJLoXLFUBvAVlCWFkLhgwfddhbslc_B7XkSG34bhYWmFD3n_GQkk5dot5x9JKIjusUL1u_yDfg25f_1hHkXBzMs4r49yuzzkxW42054tCqETZtUp69DJzVuLpntcRL0uT2maMbf9YDsPWBtCmO.png" group-title="CANAIS | 24H" -DOIS HOMENS E MEI</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReOMFmt1FkvpcOf0kHjU4wk4</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="729823" tvg-id="" tvg-name="DOUG" tvg-logo="http://www-cloudinit-cdn0907-com.yahv.us:80/images/2L4x7yZaHg8FhQtlEQbYCVSBH6KL-Mf-qmFmskiLH4bqeKUJLoXLFUBvAVlCWFkLhgwfddhbslc_B7XkSG34bhYWmFD3n_GQkk5dot5x9JKIjusUL1u_yDfg25f_1hHkXBzMs4r49yuzzkxW42054tCqETZtUp69DJzVuLpntcRL0uT2maMbf9YDsPWBtCmO.png" group-title="CANAIS | 24H" -DOU</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReEJhpEwj1rCTTKKzUXbz4QA</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="729824" tvg-id="" tvg-name="DRAGON BALL" tvg-logo="http://www-cloudinit-cdn0907-com.yahv.us:80/images/2L4x7yZaHg8FhQtlEQbYCVSBH6KL-Mf-qmFmskiLH4bqeKUJLoXLFUBvAVlCWFkLhgwfddhbslc_B7XkSG34bhYWmFD3n_GQkk5dot5x9JKIjusUL1u_yDfg25f_1hHkXBzMs4r49yuzzkxW42054tCqETZtUp69DJzVuLpntcRL0uT2maMbf9YDsPWBtCmO.png" group-title="CANAIS | 24H" -DRAGON BAL</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReNAWLjbGzLMt2vK9zXxUnr4</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="729825" tvg-id="" tvg-name="DRAGON BALL SUPER" tvg-logo="http://www-cloudinit-cdn0907-com.yahv.us:80/images/2L4x7yZaHg8FhQtlEQbYCVSBH6KL-Mf-qmFmskiLH4bqeKUJLoXLFUBvAVlCWFkLhgwfddhbslc_B7XkSG34bhYWmFD3n_GQkk5dot5x9JKIjusUL1u_yDfg25f_1hHkXBzMs4r49yuzzkxW42054tCqETZtUp69DJzVuLpntcRL0uT2maMbf9YDsPWBtCmO.png" group-title="CANAIS | 24H" -DRAGON BALL SUPE</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReJntLgWpjzO2WJa1FKZDxQQ</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="729826" tvg-id="" tvg-name="DRAGON BALL Z" tvg-logo="http://www-cloudinit-cdn0907-com.yahv.us:80/images/2L4x7yZaHg8FhQtlEQbYCVSBH6KL-Mf-qmFmskiLH4bqeKUJLoXLFUBvAVlCWFkLhgwfddhbslc_B7XkSG34bhYWmFD3n_GQkk5dot5x9JKIjusUL1u_yDfg25f_1hHkXBzMs4r49yuzzkxW42054tCqETZtUp69DJzVuLpntcRL0uT2maMbf9YDsPWBtCmO.png" group-title="CANAIS | 24H" -DRAGON BALL </title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReHLAgTEjegt3NCxAGOAQNbw</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="729827" tvg-id="" tvg-name="MORTAL KOMBAT" tvg-logo="http://www-cloudinit-cdn0907-com.yahv.us:80/images/2L4x7yZaHg8FhQtlEQbYCVSBH6KL-Mf-qmFmskiLH4bqeKUJLoXLFUBvAVlCWFkLhgwfddhbslc_B7XkSG34bhYWmFD3n_GQkk5dot5x9JKIjusUL1u_yDfg25f_1hHkXBzMs4r49yuzzkxW42054tCqETZtUp69DJzVuLpntcRL0uT2maMbf9YDsPWBtCmO.png" group-title="CANAIS | 24H" -MORTAL KOMBA</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReIdajznuCbn3doFQuPBDq5M</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="729828" tvg-id="" tvg-name="MR.BEN" tvg-logo="http://www-cloudinit-cdn0907-com.yahv.us:80/images/2L4x7yZaHg8FhQtlEQbYCVSBH6KL-Mf-qmFmskiLH4bqeKUJLoXLFUBvAVlCWFkLhgwfddhbslc_B7XkSG34bhYWmFD3n_GQkk5dot5x9JKIjusUL1u_yDfg25f_1hHkXBzMs4r49yuzzkxW42054tCqETZtUp69DJzVuLpntcRL0uT2maMbf9YDsPWBtCmO.png" group-title="CANAIS | 24H" -MR.BE</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReONryQ7EbsjGd9aJ1Hi2frM</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="729829" tvg-id="" tvg-name="NARUTO" tvg-logo="http://www-cloudinit-cdn0907-com.yahv.us:80/images/2L4x7yZaHg8FhQtlEQbYCVSBH6KL-Mf-qmFmskiLH4bqeKUJLoXLFUBvAVlCWFkLhgwfddhbslc_B7XkSG34bhYWmFD3n_GQkk5dot5x9JKIjusUL1u_yDfg25f_1hHkXBzMs4r49yuzzkxW42054tCqETZtUp69DJzVuLpntcRL0uT2maMbf9YDsPWBtCmO.png" group-title="CANAIS | 24H" -NARUT</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReFcRzDuJs5Igr77PrcB4IvM</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="729830" tvg-id="" tvg-name="NARUTO SHIPPUDEN" tvg-logo="http://www-cloudinit-cdn0907-com.yahv.us:80/images/2L4x7yZaHg8FhQtlEQbYCVSBH6KL-Mf-qmFmskiLH4bqeKUJLoXLFUBvAVlCWFkLhgwfddhbslc_B7XkSG34bhYWmFD3n_GQkk5dot5x9JKIjusUL1u_yDfg25f_1hHkXBzMs4r49yuzzkxW42054tCqETZtUp69DJzVuLpntcRL0uT2maMbf9YDsPWBtCmO.png" group-title="CANAIS | 24H" -NARUTO SHIPPUDE</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReCaejPLiilu_UcmhsJYhKhw</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="729831" tvg-id="" tvg-name="O FANTÁSTICO MUNDO DE BOBBY" tvg-logo="http://www-cloudinit-cdn0907-com.yahv.us:80/images/2L4x7yZaHg8FhQtlEQbYCVSBH6KL-Mf-qmFmskiLH4bqeKUJLoXLFUBvAVlCWFkLhgwfddhbslc_B7XkSG34bhYWmFD3n_GQkk5dot5x9JKIjusUL1u_yDfg25f_1hHkXBzMs4r49yuzzkxW42054tCqETZtUp69DJzVuLpntcRL0uT2maMbf9YDsPWBtCmO.png" group-title="CANAIS | 24H" -O FANTÁSTICO MUNDO DE BOBB</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReCNN64GRw5L6DuyUBuBYNig</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="729832" tvg-id="" tvg-name="O INSPETOR" tvg-logo="http://www-cloudinit-cdn0907-com.yahv.us:80/images/2L4x7yZaHg8FhQtlEQbYCVSBH6KL-Mf-qmFmskiLH4bqeKUJLoXLFUBvAVlCWFkLhgwfddhbslc_B7XkSG34bhYWmFD3n_GQkk5dot5x9JKIjusUL1u_yDfg25f_1hHkXBzMs4r49yuzzkxW42054tCqETZtUp69DJzVuLpntcRL0uT2maMbf9YDsPWBtCmO.png" group-title="CANAIS | 24H" -O INSPETO</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReJVWaOTEXqKQcSi2T0iichg</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="729833" tvg-id="" tvg-name="O MASKARA" tvg-logo="http://www-cloudinit-cdn0907-com.yahv.us:80/images/2L4x7yZaHg8FhQtlEQbYCVSBH6KL-Mf-qmFmskiLH4bqeKUJLoXLFUBvAVlCWFkLhgwfddhbslc_B7XkSG34bhYWmFD3n_GQkk5dot5x9JKIjusUL1u_yDfg25f_1hHkXBzMs4r49yuzzkxW42054tCqETZtUp69DJzVuLpntcRL0uT2maMbf9YDsPWBtCmO.png" group-title="CANAIS | 24H" -O MASKAR</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReLgPxK-r7Mq34nCzstv6a4M</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="729834" tvg-id="" tvg-name="OS CAVALEIROS DO ZODIACO" tvg-logo="http://www-cloudinit-cdn0907-com.yahv.us:80/images/2L4x7yZaHg8FhQtlEQbYCVSBH6KL-Mf-qmFmskiLH4bqeKUJLoXLFUBvAVlCWFkLhgwfddhbslc_B7XkSG34bhYWmFD3n_GQkk5dot5x9JKIjusUL1u_yDfg25f_1hHkXBzMs4r49yuzzkxW42054tCqETZtUp69DJzVuLpntcRL0uT2maMbf9YDsPWBtCmO.png" group-title="CANAIS | 24H" -OS CAVALEIROS DO ZODIAC</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReFrYFTKPGKR3aeIWgcUukNI</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="729835" tvg-id="" tvg-name="OS FLINTSTONES" tvg-logo="http://www-cloudinit-cdn0907-com.yahv.us:80/images/2L4x7yZaHg8FhQtlEQbYCVSBH6KL-Mf-qmFmskiLH4bqeKUJLoXLFUBvAVlCWFkLhgwfddhbslc_B7XkSG34bhYWmFD3n_GQkk5dot5x9JKIjusUL1u_yDfg25f_1hHkXBzMs4r49yuzzkxW42054tCqETZtUp69DJzVuLpntcRL0uT2maMbf9YDsPWBtCmO.png" group-title="CANAIS | 24H" -OS FLINTSTONE</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2RePCCml_KiD85zcoSCNJs-eE</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="729836" tvg-id="" tvg-name="OS SIMPSONS" tvg-logo="http://www-cloudinit-cdn0907-com.yahv.us:80/images/2L4x7yZaHg8FhQtlEQbYCVSBH6KL-Mf-qmFmskiLH4bqeKUJLoXLFUBvAVlCWFkLhgwfddhbslc_B7XkSG34bhYWmFD3n_GQkk5dot5x9JKIjusUL1u_yDfg25f_1hHkXBzMs4r49yuzzkxW42054tCqETZtUp69DJzVuLpntcRL0uT2maMbf9YDsPWBtCmO.png" group-title="CANAIS | 24H" -OS SIMPSON</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReDNzL_rgXvmVhNe-EtVMUtY</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="729837" tvg-id="" tvg-name="OS URSINHOS CARINHOSOS" tvg-logo="http://www-cloudinit-cdn0907-com.yahv.us:80/images/2L4x7yZaHg8FhQtlEQbYCVSBH6KL-Mf-qmFmskiLH4bqeKUJLoXLFUBvAVlCWFkLhgwfddhbslc_B7XkSG34bhYWmFD3n_GQkk5dot5x9JKIjusUL1u_yDfg25f_1hHkXBzMs4r49yuzzkxW42054tCqETZtUp69DJzVuLpntcRL0uT2maMbf9YDsPWBtCmO.png" group-title="CANAIS | 24H" -OS URSINHOS CARINHOSO</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2RePKPteoIt4nmzQjJqKwWx5M</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="729838" tvg-id="" tvg-name="OS VINGADORES" tvg-logo="http://www-cloudinit-cdn0907-com.yahv.us:80/images/2L4x7yZaHg8FhQtlEQbYCVSBH6KL-Mf-qmFmskiLH4bqeKUJLoXLFUBvAVlCWFkLhgwfddhbslc_B7XkSG34bhYWmFD3n_GQkk5dot5x9JKIjusUL1u_yDfg25f_1hHkXBzMs4r49yuzzkxW42054tCqETZtUp69DJzVuLpntcRL0uT2maMbf9YDsPWBtCmO.png" group-title="CANAIS | 24H" -OS VINGADORE</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReCTfO85Do3KzT5KD3fO1roQ</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="729839" tvg-id="" tvg-name="PAPA - LÉGUAS" tvg-logo="http://www-cloudinit-cdn0907-com.yahv.us:80/images/2L4x7yZaHg8FhQtlEQbYCVSBH6KL-Mf-qmFmskiLH4bqeKUJLoXLFUBvAVlCWFkLhgwfddhbslc_B7XkSG34bhYWmFD3n_GQkk5dot5x9JKIjusUL1u_yDfg25f_1hHkXBzMs4r49yuzzkxW42054tCqETZtUp69DJzVuLpntcRL0uT2maMbf9YDsPWBtCmO.png" group-title="CANAIS | 24H" -PAPA - LÉGUA</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReBUjyA0Zez2Uw4-sB0QCCEQ</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="729840" tvg-id="" tvg-name="PEPPA PIG" tvg-logo="http://www-cloudinit-cdn0907-com.yahv.us:80/images/2L4x7yZaHg8FhQtlEQbYCVSBH6KL-Mf-qmFmskiLH4bqeKUJLoXLFUBvAVlCWFkLhgwfddhbslc_B7XkSG34bhYWmFD3n_GQkk5dot5x9JKIjusUL1u_yDfg25f_1hHkXBzMs4r49yuzzkxW42054tCqETZtUp69DJzVuLpntcRL0uT2maMbf9YDsPWBtCmO.png" group-title="CANAIS | 24H" -PEPPA PI</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReEM4BUNlOf9rGhk4hd9o8RU</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="729841" tvg-id="" tvg-name="PEQUENOS ESPIÕES" tvg-logo="http://www-cloudinit-cdn0907-com.yahv.us:80/images/2L4x7yZaHg8FhQtlEQbYCVSBH6KL-Mf-qmFmskiLH4bqeKUJLoXLFUBvAVlCWFkLhgwfddhbslc_B7XkSG34bhYWmFD3n_GQkk5dot5x9JKIjusUL1u_yDfg25f_1hHkXBzMs4r49yuzzkxW42054tCqETZtUp69DJzVuLpntcRL0uT2maMbf9YDsPWBtCmO.png" group-title="CANAIS | 24H" -PEQUENOS ESPIÕE</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReMP1xt9nBBblDu-t8SFFwY4</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="729842" tvg-id="" tvg-name="PERNALONGA" tvg-logo="http://www-cloudinit-cdn0907-com.yahv.us:80/images/2L4x7yZaHg8FhQtlEQbYCVSBH6KL-Mf-qmFmskiLH4bqeKUJLoXLFUBvAVlCWFkLhgwfddhbslc_B7XkSG34bhYWmFD3n_GQkk5dot5x9JKIjusUL1u_yDfg25f_1hHkXBzMs4r49yuzzkxW42054tCqETZtUp69DJzVuLpntcRL0uT2maMbf9YDsPWBtCmO.png" group-title="CANAIS | 24H" -PERNALONG</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReNxXuiUVKMyjCVHZ0X70lXk</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="729843" tvg-id="" tvg-name="PHINEAS E FERB" tvg-logo="http://www-cloudinit-cdn0907-com.yahv.us:80/images/2L4x7yZaHg8FhQtlEQbYCVSBH6KL-Mf-qmFmskiLH4bqeKUJLoXLFUBvAVlCWFkLhgwfddhbslc_B7XkSG34bhYWmFD3n_GQkk5dot5x9JKIjusUL1u_yDfg25f_1hHkXBzMs4r49yuzzkxW42054tCqETZtUp69DJzVuLpntcRL0uT2maMbf9YDsPWBtCmO.png" group-title="CANAIS | 24H" -PHINEAS E FER</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReG9tOPfwMC-guqF8yzkayxE</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="729844" tvg-id="" tvg-name="PICA PAU" tvg-logo="http://www-cloudinit-cdn0907-com.yahv.us:80/images/2L4x7yZaHg8FhQtlEQbYCVSBH6KL-Mf-qmFmskiLH4bqeKUJLoXLFUBvAVlCWFkLhgwfddhbslc_B7XkSG34bhYWmFD3n_GQkk5dot5x9JKIjusUL1u_yDfg25f_1hHkXBzMs4r49yuzzkxW42054tCqETZtUp69DJzVuLpntcRL0uT2maMbf9YDsPWBtCmO.png" group-title="CANAIS | 24H" -PICA PA</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReHRCcDK5PlzNAI5q55RH7fY</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="729845" tvg-id="" tvg-name="PINK E CEREBRO" tvg-logo="http://www-cloudinit-cdn0907-com.yahv.us:80/images/2L4x7yZaHg8FhQtlEQbYCVSBH6KL-Mf-qmFmskiLH4bqeKUJLoXLFUBvAVlCWFkLhgwfddhbslc_B7XkSG34bhYWmFD3n_GQkk5dot5x9JKIjusUL1u_yDfg25f_1hHkXBzMs4r49yuzzkxW42054tCqETZtUp69DJzVuLpntcRL0uT2maMbf9YDsPWBtCmO.png" group-title="CANAIS | 24H" -PINK E CEREBR</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReEz_jp4DQrRsOYNnUFGSt3g</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="729846" tvg-id="" tvg-name="POKÉMON" tvg-logo="http://www-cloudinit-cdn0907-com.yahv.us:80/images/2L4x7yZaHg8FhQtlEQbYCVSBH6KL-Mf-qmFmskiLH4bqeKUJLoXLFUBvAVlCWFkLhgwfddhbslc_B7XkSG34bhYWmFD3n_GQkk5dot5x9JKIjusUL1u_yDfg25f_1hHkXBzMs4r49yuzzkxW42054tCqETZtUp69DJzVuLpntcRL0uT2maMbf9YDsPWBtCmO.png" group-title="CANAIS | 24H" -POKÉMO</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReF_Al6x_pb5m4M5duV_tyMg</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="729847" tvg-id="" tvg-name="RAMBO" tvg-logo="http://www-cloudinit-cdn0907-com.yahv.us:80/images/2L4x7yZaHg8FhQtlEQbYCVSBH6KL-Mf-qmFmskiLH4bqeKUJLoXLFUBvAVlCWFkLhgwfddhbslc_B7XkSG34bhYWmFD3n_GQkk5dot5x9JKIjusUL1u_yDfg25f_1hHkXBzMs4r49yuzzkxW42054tCqETZtUp69DJzVuLpntcRL0uT2maMbf9YDsPWBtCmO.png" group-title="CANAIS | 24H" -RAMB</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReFtxjGcve8Lh3fbxPKLzSbM</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="729848" tvg-id="" tvg-name="RUGRATS - OS ANJINHOS" tvg-logo="http://www-cloudinit-cdn0907-com.yahv.us:80/images/2L4x7yZaHg8FhQtlEQbYCVSBH6KL-Mf-qmFmskiLH4bqeKUJLoXLFUBvAVlCWFkLhgwfddhbslc_B7XkSG34bhYWmFD3n_GQkk5dot5x9JKIjusUL1u_yDfg25f_1hHkXBzMs4r49yuzzkxW42054tCqETZtUp69DJzVuLpntcRL0uT2maMbf9YDsPWBtCmO.png" group-title="CANAIS | 24H" -RUGRATS - OS ANJINHO</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReAHuQfvYu0syx1iV9E6KNK0</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="729849" tvg-id="" tvg-name="TODO MUNDO ODEIA O CHRIS" tvg-logo="http://www-cloudinit-cdn0907-com.yahv.us:80/images/2L4x7yZaHg8FhQtlEQbYCVSBH6KL-Mf-qmFmskiLH4bqeKUJLoXLFUBvAVlCWFkLhgwfddhbslc_B7XkSG34bhYWmFD3n_GQkk5dot5x9JKIjusUL1u_yDfg25f_1hHkXBzMs4r49yuzzkxW42054tCqETZtUp69DJzVuLpntcRL0uT2maMbf9YDsPWBtCmO.png" group-title="CANAIS | 24H" -TODO MUNDO ODEIA O CHRI</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReJVM1gE14oFppaUB1W2kbFw</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="729850" tvg-id="" tvg-name="TOM & JERRY" tvg-logo="http://www-cloudinit-cdn0907-com.yahv.us:80/images/2L4x7yZaHg8FhQtlEQbYCVSBH6KL-Mf-qmFmskiLH4bqeKUJLoXLFUBvAVlCWFkLhgwfddhbslc_B7XkSG34bhYWmFD3n_GQkk5dot5x9JKIjusUL1u_yDfg25f_1hHkXBzMs4r49yuzzkxW42054tCqETZtUp69DJzVuLpntcRL0uT2maMbf9YDsPWBtCmO.png" group-title="CANAIS | 24H" -TOM & JERR</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReOlp5_9kc1ggQlXAQOyCbkc</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="729851" tvg-id="" tvg-name="TRÊS ESPIÃS DEMAIS" tvg-logo="http://www-cloudinit-cdn0907-com.yahv.us:80/images/2L4x7yZaHg8FhQtlEQbYCVSBH6KL-Mf-qmFmskiLH4bqeKUJLoXLFUBvAVlCWFkLhgwfddhbslc_B7XkSG34bhYWmFD3n_GQkk5dot5x9JKIjusUL1u_yDfg25f_1hHkXBzMs4r49yuzzkxW42054tCqETZtUp69DJzVuLpntcRL0uT2maMbf9YDsPWBtCmO.png" group-title="CANAIS | 24H" -TRÊS ESPIÃS DEMAI</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2RePDE66fUlBr72bx-tRJI254</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="729852" tvg-id="" tvg-name="UM MALUCO NO PEDAÇO" tvg-logo="http://www-cloudinit-cdn0907-com.yahv.us:80/images/2L4x7yZaHg8FhQtlEQbYCVSBH6KL-Mf-qmFmskiLH4bqeKUJLoXLFUBvAVlCWFkLhgwfddhbslc_B7XkSG34bhYWmFD3n_GQkk5dot5x9JKIjusUL1u_yDfg25f_1hHkXBzMs4r49yuzzkxW42054tCqETZtUp69DJzVuLpntcRL0uT2maMbf9YDsPWBtCmO.png" group-title="CANAIS | 24H" -UM MALUCO NO PEDAÇ</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2RePKIbdelo7IaIwbXGMAiWgI</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="729853" tvg-id="" tvg-name="UMA FAMILIA DA PESADA" tvg-logo="http://www-cloudinit-cdn0907-com.yahv.us:80/images/2L4x7yZaHg8FhQtlEQbYCVSBH6KL-Mf-qmFmskiLH4bqeKUJLoXLFUBvAVlCWFkLhgwfddhbslc_B7XkSG34bhYWmFD3n_GQkk5dot5x9JKIjusUL1u_yDfg25f_1hHkXBzMs4r49yuzzkxW42054tCqETZtUp69DJzVuLpntcRL0uT2maMbf9YDsPWBtCmO.png" group-title="CANAIS | 24H" -UMA FAMILIA DA PESAD</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReI4cW7rvIi5s2u6UJ5VyEZs</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="729854" tvg-id="" tvg-name="VAI QUE COLA" tvg-logo="http://www-cloudinit-cdn0907-com.yahv.us:80/images/2L4x7yZaHg8FhQtlEQbYCVSBH6KL-Mf-qmFmskiLH4bqeKUJLoXLFUBvAVlCWFkLhgwfddhbslc_B7XkSG34bhYWmFD3n_GQkk5dot5x9JKIjusUL1u_yDfg25f_1hHkXBzMs4r49yuzzkxW42054tCqETZtUp69DJzVuLpntcRL0uT2maMbf9YDsPWBtCmO.png" group-title="CANAIS | 24H" -VAI QUE COL</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReFVD7ob8DSfZ2b2lnqBaNiw</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="729855" tvg-id="" tvg-name="VELOZES E FURIOSOS" tvg-logo="http://www-cloudinit-cdn0907-com.yahv.us:80/images/2L4x7yZaHg8FhQtlEQbYCVSBH6KL-Mf-qmFmskiLH4bqeKUJLoXLFUBvAVlCWFkLhgwfddhbslc_B7XkSG34bhYWmFD3n_GQkk5dot5x9JKIjusUL1u_yDfg25f_1hHkXBzMs4r49yuzzkxW42054tCqETZtUp69DJzVuLpntcRL0uT2maMbf9YDsPWBtCmO.png" group-title="CANAIS | 24H" -VELOZES E FURIOSO</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2RePAL7GPPN_Vta8coCVTflN8</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="729856" tvg-id="" tvg-name="X-MAN" tvg-logo="http://www-cloudinit-cdn0907-com.yahv.us:80/images/2L4x7yZaHg8FhQtlEQbYCVSBH6KL-Mf-qmFmskiLH4bqeKUJLoXLFUBvAVlCWFkLhgwfddhbslc_B7XkSG34bhYWmFD3n_GQkk5dot5x9JKIjusUL1u_yDfg25f_1hHkXBzMs4r49yuzzkxW42054tCqETZtUp69DJzVuLpntcRL0uT2maMbf9YDsPWBtCmO.png" group-title="CANAIS | 24H" -X-MA</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReL7cUMeCgx_b5AdqnuRvfn0</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="729857" tvg-id="" tvg-name="XENA" tvg-logo="http://www-cloudinit-cdn0907-com.yahv.us:80/images/2L4x7yZaHg8FhQtlEQbYCVSBH6KL-Mf-qmFmskiLH4bqeKUJLoXLFUBvAVlCWFkLhgwfddhbslc_B7XkSG34bhYWmFD3n_GQkk5dot5x9JKIjusUL1u_yDfg25f_1hHkXBzMs4r49yuzzkxW42054tCqETZtUp69DJzVuLpntcRL0uT2maMbf9YDsPWBtCmO.png" group-title="CANAIS | 24H" -XEN</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReE7AV9qFbzzzCKHGnEOWzzU</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="729858" tvg-id="" tvg-name="YU-YU-HAKUSHO" tvg-logo="http://www-cloudinit-cdn0907-com.yahv.us:80/images/2L4x7yZaHg8FhQtlEQbYCVSBH6KL-Mf-qmFmskiLH4bqeKUJLoXLFUBvAVlCWFkLhgwfddhbslc_B7XkSG34bhYWmFD3n_GQkk5dot5x9JKIjusUL1u_yDfg25f_1hHkXBzMs4r49yuzzkxW42054tCqETZtUp69DJzVuLpntcRL0uT2maMbf9YDsPWBtCmO.png" group-title="CANAIS | 24H" -YU-YU-HAKUSH</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReEoQ6fCj-fn-aNX7P_oBVc4</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="1213732" tvg-id="" tvg-name="24 HORAS: A VIDA MODERNA DE ROCKO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/2084px-Logo_TVE-24h.svg.png" group-title="CANAIS | 24H" -24 HORAS: A VIDA MODERNA DE ROCK</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReI-mejqgIra1-fPIrRzCEFk</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="1213733" tvg-id="" tvg-name="24 HORAS: A XERIFE CALIIE NO OESTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/2084px-Logo_TVE-24h.svg.png" group-title="CANAIS | 24H" -24 HORAS: A XERIFE CALIIE NO OEST</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReK_ur7qcMju_TijlhvZjmDs</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="1213735" tvg-id="" tvg-name="24 HORAS: ABOMINAVEL E A CIDADE ESCONDIDA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/2084px-Logo_TVE-24h.svg.png" group-title="CANAIS | 24H" -24 HORAS: ABOMINAVEL E A CIDADE ESCONDID</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReEZ4t0dDvVqcI0p3RdNncEA</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="1213737" tvg-id="" tvg-name="24 HORAS: ACAMPAMENTO DE VERAO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/2084px-Logo_TVE-24h.svg.png" group-title="CANAIS | 24H" -24 HORAS: ACAMPAMENTO DE VERA</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReENbNv2QIGMCeryZxn8Gbcs</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="1213738" tvg-id="" tvg-name="24 HORAS: ACE VENTURA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/2084px-Logo_TVE-24h.svg.png" group-title="CANAIS | 24H" -24 HORAS: ACE VENTUR</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReLqhiYbY8EkTGo2oS7ZOnn4</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="1213739" tvg-id="" tvg-name="24 HORAS: ACORDA CARLO//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/2084px-Logo_TVE-24h.svg.png" group-title="CANAIS | 24H" -24 HORAS: ACORDA CARL</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReKZ6eIyF64Ie_CfyjGaw-1Q</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="1213742" tvg-id="" tvg-name="24 HORAS: AH MEGAMI SAMA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/2084px-Logo_TVE-24h.svg.png" group-title="CANAIS | 24H" -24 HORAS: AH MEGAMI SAM</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReBtgyAqKsxJsTGr5WIY78u4</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="1213743" tvg-id="" tvg-name="24 HORAS: AIKA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/2084px-Logo_TVE-24h.svg.png" group-title="CANAIS | 24H" -24 HORAS: AIK</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReMqSEoAWrE9f2M5QKl_Irv0</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="1213744" tvg-id="" tvg-name="24 HORAS: AIR MASTER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/2084px-Logo_TVE-24h.svg.png" group-title="CANAIS | 24H" -24 HORAS: AIR MASTE</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReJHfeIA4x9BwqdwwKuGNvXM</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="1213745" tvg-id="" tvg-name="24 HORAS: AISHITERUZE BABY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/2084px-Logo_TVE-24h.svg.png" group-title="CANAIS | 24H" -24 HORAS: AISHITERUZE BAB</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReBqWTc9zWQDgYEFG7G7HjX8</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="1213746" tvg-id="" tvg-name="24 HORAS: AJIN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/2084px-Logo_TVE-24h.svg.png" group-title="CANAIS | 24H" -24 HORAS: AJI</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2RePIEMF86_6Lqq7qHc15UByE</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="1213747" tvg-id="" tvg-name="24 HORAS: AKAME GA KILL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/2084px-Logo_TVE-24h.svg.png" group-title="CANAIS | 24H" -24 HORAS: AKAME GA KIL</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReAOYyuPdJ3zPyERAmP6bG3M</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="532304" tvg-id="" tvg-name="AXN UHD" tvg-logo="http://www.fontedoscanais.com/logos/canais/axn.png" group-title="CANAIS | 4K" -AXN UH</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2RePoRp-QXkcRo6bDrUfQm6ak</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="532307" tvg-id="" tvg-name="BAND SPORTS UHD" tvg-logo="http://www.fontedoscanais.com/logos/canais/bandsports.png" group-title="CANAIS | 4K" -BAND SPORTS UH</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReGtQ2iAZkNyIkcE9g7ma32k</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="532308" tvg-id="" tvg-name="CNN BRASIL UHD" tvg-logo="http://www.fontedoscanais.com/logos/canais/cnnbrasil.png" group-title="CANAIS | 4K" -CNN BRASIL UH</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReKVZb-TRo0HnvtpK8VYbEMw</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="532309" tvg-id="" tvg-name="ESPN 2 UHD" tvg-logo="http://www.fontedoscanais.com/logos/canais/espn2.png" group-title="CANAIS | 4K" -ESPN 2 UH</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReEeYh7jzWy9OTMMt2BX4_pg</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="532312" tvg-id="" tvg-name="ESPN UHD" tvg-logo="http://www.fontedoscanais.com/logos/canais/espn.png" group-title="CANAIS | 4K" -ESPN UH</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2RePIv7appjFUDfDGPVyVc_rI</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="532313" tvg-id="" tvg-name="GLOBO SAO PAULO UHD" tvg-logo="http://www.fontedoscanais.com/logos/canais/globo.png" group-title="CANAIS | 4K" -GLOBO SAO PAULO UH</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2RePzU9iwMXC3SFcV25ASeoIo</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="532314" tvg-id="" tvg-name="GLOBO RIO UHD" tvg-logo="http://www.fontedoscanais.com/logos/canais/globo.png" group-title="CANAIS | 4K" -GLOBO RIO UH</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReEnX3FQTw_rLkakj7lwdiws</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="532317" tvg-id="" tvg-name="PREMIERE CLUBES UHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCIyyC_ylPRTCr-c2VTv86gLtIbN_toeenmQJ6aXnUMicQ7_ipqc0ZE-0K4drkBQTIuB0&usqp=CAU" group-title="CANAIS | 4K" -PREMIERE CLUBES UH</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReBqHT3nz44aNStgOxpDj3EQ</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="532322" tvg-id="" tvg-name="SPORTV UHD" tvg-logo="http://www.fontedoscanais.com/logos/canais/sportv.png" group-title="CANAIS | 4K" -SPORTV UH</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReDdmGErFbvfG9RFEPueVZVg</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="532323" tvg-id="" tvg-name="SPORTV 2 UHD" tvg-logo="http://www.fontedoscanais.com/logos/canais/sportv2.png" group-title="CANAIS | 4K" -SPORTV 2 UH</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReIcKbIbcS3XZDIFIRmDspUc</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="532324" tvg-id="" tvg-name="SPORTV 3 UHD" tvg-logo="http://www.fontedoscanais.com/logos/canais/sportv3.png" group-title="CANAIS | 4K" -SPORTV 3 UH</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReHehiETmGOtR4552EloRsbk</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="532327" tvg-id="" tvg-name="TNT UHD" tvg-logo="http://www.fontedoscanais.com/logos/canais/tnt.png" group-title="CANAIS | 4K" -TNT UH</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReCytDTJnx6_4WYYSbIh-5CQ</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="532328" tvg-id="" tvg-name="TELECINE PREMIUM UHD" tvg-logo="http://www.fontedoscanais.com/logos/canais/telecinepremium.png" group-title="CANAIS | 4K" -TELECINE PREMIUM UH</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReNMsUa4pdKBA4GIphXbvkoM</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="532329" tvg-id="" tvg-name="TELECINE PIPOCA UHD" tvg-logo="http://www.fontedoscanais.com/logos/canais/telecinepipoca.png" group-title="CANAIS | 4K" -TELECINE PIPOCA UH</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReGmigi61UcCCI71IwfXTPsI</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="532330" tvg-id="" tvg-name="TELECINE ACTION UHD" tvg-logo="http://www.fontedoscanais.com/logos/canais/telecineaction.png" group-title="CANAIS | 4K" -TELECINE ACTION UH</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReHAJ-Jg33HZglq_UC9sbErA</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="782450" tvg-id="" tvg-name="00s Replay" tvg-logo="" group-title="CANAIS | USA" -00s Repla</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReGhXsH9L8fwTiCri0wcG_yM</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="784126" tvg-id="" tvg-name="100% Docs" tvg-logo="" group-title="CANAIS | FRANÇA" -100% Doc</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2RePGQj7qlQ2zU_37bwDCBVh4</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="782455" tvg-id="" tvg-name="11 Канал" tvg-logo="" group-title="CANAIS | USA" -11 Канам/title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReFr3Mw02Kxbnbo2IkRv9VBo</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="782007" tvg-id="" tvg-name="13Max Televisión" tvg-logo="https://i.imgur.com/QvF4l2t.png" group-title="CANAIS | ARGENTINA" -13Max Televisió</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReO18i8d_g0fWWHjZVy3B3x4</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="501611" tvg-id="" tvg-name="15tv Sabinas" tvg-logo="" group-title="CANAIS | MEXICO" -15tv Sabina</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReK2Pg5EVuhw_pmqnnxxs5yk</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="784125" tvg-id="" tvg-name="20 Minutes TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/20_Minutes_TV_IDF_logo_%282023%29.png/320px-20_Minutes_TV_IDF_logo_%282023%29.png" group-title="CANAIS | FRANÇA" -20 Minutes T</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2RePWsUKUYQBycOWma1FKti6c</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="782456" tvg-id="" tvg-name="23 ABC Bakersfield CA (KERO)" tvg-logo="https://i.imgur.com/CMANZWk.png" group-title="CANAIS | USA" -23 ABC Bakersfield CA (KERO</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReC3Dmhr8R3aKu578RvHk2Zw</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="782457" tvg-id="" tvg-name="24 Hour Free Movies" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="CANAIS | USA" -24 Hour Free Movie</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReKgwnW0ranwH9pI-8kdVk4E</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="782008" tvg-id="" tvg-name="24/7 Canal de Noticias" tvg-logo="https://i.imgur.com/4hDCB1M.png" group-title="CANAIS | ARGENTINA" -24/7 Canal de Noticia</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReCs4mNrHcfcznv377JDaGqI</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="782476" tvg-id="" tvg-name="247 Retro TV" tvg-logo="https://i.imgur.com/QqQL7ss.png" group-title="CANAIS | USA" -247 Retro T</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReO37QV6q-P4Lj2hgHaJEc9s</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="782458" tvg-id="" tvg-name="30A Darcizzle Offshore" tvg-logo="https://i.imgur.com/Q4l2uao.png" group-title="CANAIS | USA" -30A Darcizzle Offshor</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2RePS2ZknV11P3Eqv-ArvFNOo</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="782459" tvg-id="" tvg-name="30A Georgia Hollywood Review TV" tvg-logo="" group-title="CANAIS | USA" -30A Georgia Hollywood Review T</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReAGdWe7ODVDMvsnlnzz-t0k</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="782460" tvg-id="" tvg-name="30A Golf Kingdom" tvg-logo="" group-title="CANAIS | USA" -30A Golf Kingdo</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReMzHfZr58gQVD8MPW3OVoM8</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="782461" tvg-id="" tvg-name="30A Investment Pitch" tvg-logo="https://i.imgur.com/CKCtZo7.png" group-title="CANAIS | USA" -30A Investment Pitc</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReOFiad70IKqurdhdi3VlJLc</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="782462" tvg-id="" tvg-name="30A Lionel Nation TV" tvg-logo="" group-title="CANAIS | USA" -30A Lionel Nation T</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReJVc4uzBSct45l_SEFLMRtI</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="782463" tvg-id="" tvg-name="30A Loomered TV" tvg-logo="" group-title="CANAIS | USA" -30A Loomered T</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReGG5lbRQ2Rki7KFLxalEzRo</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="782464" tvg-id="" tvg-name="30A Luxe Life Discovered" tvg-logo="" group-title="CANAIS | USA" -30A Luxe Life Discovere</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReHik-z-NHJuE_dxMDY9j8i8</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="782465" tvg-id="" tvg-name="30A Music Channel" tvg-logo="https://i.imgur.com/gNWg9tl.png" group-title="CANAIS | USA" -30A Music Channe</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReBqFsC4mSoye-OveZHjrnOw</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="782466" tvg-id="" tvg-name="30A Sidewalks" tvg-logo="https://i.imgur.com/HSdwqZN.png" group-title="CANAIS | USA" -30A Sidewalk</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReI4N8g8ZklR4WnFcHq5_JO4</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="782467" tvg-id="" tvg-name="30A Television Channel" tvg-logo="" group-title="CANAIS | USA" -30A Television Channe</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReA5SWX3YZeqeQDETZp_WQeY</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="782468" tvg-id="" tvg-name="30A The Beach Show" tvg-logo="https://i.imgur.com/0j5Aget.png" group-title="CANAIS | USA" -30A The Beach Sho</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReLzJOpyM8bkW5vS9jxloQ7g</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="782469" tvg-id="" tvg-name="30A TV Classic Movies" tvg-logo="" group-title="CANAIS | USA" -30A TV Classic Movie</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReOI5uW4cohCrzA1r7GXVnmg</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="782470" tvg-id="" tvg-name="30A We Love Cars" tvg-logo="" group-title="CANAIS | USA" -30A We Love Car</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReDekdMkCp6X4QblaH8DRt_I</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="782451" tvg-id="" tvg-name="3ABN Proclaim//yt3.googleusercontent.com/ytc/AIdro_mb4TLclxAUPvlnV84blg4YSnZYjspMitP_sS2rX_5IYQ=s512-c-k-c0x00ffffff-no-rj" group-title="CANAIS | USA" -3ABN Proclaim Networ</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReL4GAdCEQVYknxXv7joS4hE</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="782452" tvg-id="" tvg-name="4 Adventure" tvg-logo="" group-title="CANAIS | USA" -4 Adventur</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReOF1Sh_Nm0bBM76PQWNkTKY</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="782453" tvg-id="" tvg-name="4 Emergency" tvg-logo="" group-title="CANAIS | USA" -4 Emergenc</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReHe-hdppRDpyFo7A3FkeLJY</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="782471" tvg-id="" tvg-name="48 Hours" tvg-logo="https://i.imgur.com/Q7THHhX.png" group-title="CANAIS | USA" -48 Hour</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReOOGSgKLwWpN_kQlk1pKnEI</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="501762" tvg-id="" tvg-name="4DmasNoticias TV" tvg-logo="" group-title="CANAIS | PARAGUAI" -4DmasNoticias T</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReLp1d7duV6BsJDIoa2UfScE</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="782454" tvg-id="" tvg-name="4UV" tvg-logo="" group-title="CANAIS | USA" -4U</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReNHUmuC1LckPZ9LEO-cW7ko</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="782006" tvg-id="" tvg-name="5TV Corrientes" tvg-logo="https://i.imgur.com/mSn7ACs.png" group-title="CANAIS | ARGENTINA" -5TV Corriente</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReALHkkJqQKJRH9LLrG8ZrXU</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="782472" tvg-id="" tvg-name="70s Cinema" tvg-logo="https://i.imgur.com/mgXeEE4.png" group-title="CANAIS | USA" -70s Cinem</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReNfvGcEuWhsjeVwAvBPKGOs</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="784124" tvg-id="" tvg-name="7ALimoges" tvg-logo="https://i.imgur.com/1ccTQ7Z.png" group-title="CANAIS | FRANÇA" -7ALimoge</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2RePn_qkjSTJRYYsZxpt1L6uk</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="782473" tvg-id="" tvg-name="80s Rewind" tvg-logo="https://i.imgur.com/nkEeYfI.png" group-title="CANAIS | USA" -80s Rewin</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReKvITtJOR1a6eSYeSW5pFxk</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="782474" tvg-id="" tvg-name="90's Kids" tvg-logo="" group-title="CANAIS | USA" -90's Kid</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReNcdaeFjAuh1JYlsfrE8XfI</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="782478" tvg-id="" tvg-name="90210" tvg-logo="https://i.imgur.com/xqo5PxO.png" group-title="CANAIS | USA" -9021</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReAD2L6aDD0ZsIZ3_T_cbow0</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="782475" tvg-id="" tvg-name="90s Throwback" tvg-logo="https://i.imgur.com/KoGko6M.png" group-title="CANAIS | USA" -90s Throwbac</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReEwH1WVPMgU2L2YFGqo1q_8</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="782477" tvg-id="" tvg-name="947 Joburg" tvg-logo="" group-title="CANAIS | USA" -947 Jobur</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2RePj2o3x64EXMVamwETdUVTI</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="784127" tvg-id="" tvg-name="A12 TV" tvg-logo="https://i.imgur.com/JgnjgvF.png" group-title="CANAIS | FRANÇA" -A12 T</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReNLUcqrPMl0p2rIHxibD5Ug</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="782009" tvg-id="" tvg-name="A24" tvg-logo="https://i.imgur.com/LnXQkIU.png" group-title="CANAIS | ARGENTINA" -A2</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReF8dyslG6_Myjqx8_uGEQdo</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="782479" tvg-id="" tvg-name="AABC TV" tvg-logo="https://i.imgur.com/Spu4s89.png" group-title="CANAIS | USA" -AABC T</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReGMFtIYCl_B2KqLeiPSeZe0</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="782480" tvg-id="" tvg-name="AACTV America's Auction Channel" tvg-logo="https://i.imgur.com/YKhnHE6.png" group-title="CANAIS | USA" -AACTV America's Auction Channe</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReMcynGmovEQODBDHEc84vX0</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="782520" tvg-id="" tvg-name="ABC (WPLG-DT1) Miami FL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="CANAIS | USA" -ABC (WPLG-DT1) Miami F</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReELDATJuY2vPRKQYKnwZ41U</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="782507" tvg-id="" tvg-name="ABC 10 San Diego CA (KGTV)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="CANAIS | USA" -ABC 10 San Diego CA (KGTV</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReEqNWYpUGc8TX1MPFRLqLAg</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="782508" tvg-id="" tvg-name="ABC 12 Milwaukee WI (WISN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="CANAIS | USA" -ABC 12 Milwaukee WI (WISN</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReD6wIfWCcR7yhZZz8RZ7czE</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="782509" tvg-id="" tvg-name="ABC 13 Las Vegas NV (KTNV)" tvg-logo="https://i.imgur.com/QbkW7zY.png" group-title="CANAIS | USA" -ABC 13 Las Vegas NV (KTNV</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReBrb3oUGm2WL-b3hQeho5Qc</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="782510" tvg-id="" tvg-name="ABC 15 Phoenix AZ (KNXV-TV)" tvg-logo="https://i.imgur.com/43s7KXt.png" group-title="CANAIS | USA" -ABC 15 Phoenix AZ (KNXV-TV</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReFOHUtYTBWug_kCcyTdjp3Y</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="782511" tvg-id="" tvg-name="ABC 16 Jackson MS (WAPT)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="CANAIS | USA" -ABC 16 Jackson MS (WAPT</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReNcmqwYFAS3DBtr4vTg74zI</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="782512" tvg-id="" tvg-name="ABC 16 Wilkes Barre PA (WNEP)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="CANAIS | USA" -ABC 16 Wilkes Barre PA (WNEP</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReD067mXCzgbNgiXMYPeqbrE</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="782481" tvg-id="" tvg-name="ABC 2 Atlanta GA (WSB-TV)" tvg-logo="https://i.imgur.com/HkY10xX.jpg" group-title="CANAIS | USA" -ABC 2 Atlanta GA (WSB-TV</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReFYamqd69iSgqhZY99gjsQs</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="782482" tvg-id="" tvg-name="ABC 2 Baltimore MD (WMAR)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/db/2_ABC_WMAR_Baltimore.png" group-title="CANAIS | USA" -ABC 2 Baltimore MD (WMAR</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReLPsIk5_9LBUdlkw09C5H-s</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="782483" tvg-id="" tvg-name="ABC 2 Baton Rouge LA (WBRZ)" tvg-logo="https://i.imgur.com/n057TgX.png" group-title="CANAIS | USA" -ABC 2 Baton Rouge LA (WBRZ</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReFu-l-CUp1W0wdGEcc7zU4w</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="782513" tvg-id="" tvg-name="ABC 22 Savannah GA (WJCL)" tvg-logo="https://i.imgur.com/Q4B9h5L.png" group-title="CANAIS | USA" -ABC 22 Savannah GA (WJCL</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReLk0YVia_E89KSUbCOZTV_8</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="782514" tvg-id="" tvg-name="ABC 25 News Central Texas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="CANAIS | USA" -ABC 25 News Central Texa</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReLWzRKMHINRb4C4EZVdRqTI</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="782515" tvg-id="" tvg-name="ABC 25 West Palm Beach FL (WPBF)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="CANAIS | USA" -ABC 25 West Palm Beach FL (WPBF</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReGk6LyKur7ROqvcTftlZGo4</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="782516" tvg-id="" tvg-name="ABC 27 Tallahassee FL (WTXL)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="CANAIS | USA" -ABC 27 Tallahassee FL (WTXL</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReOj0fiUu_vHsXhlcg4d3KLU</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="782517" tvg-id="" tvg-name="ABC 28 Tampa Bay FL (WFTS)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="CANAIS | USA" -ABC 28 Tampa Bay FL (WFTS</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReH8jC1GiJjeAo9adElsj9nQ</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="782518" tvg-id="" tvg-name="ABC 30 Fresno and Central Valley News (KFSN-DT1)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="CANAIS | USA" -ABC 30 Fresno and Central Valley News (KFSN-DT1</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReFROi2qcm0dZ3ILGoRk1yoo</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="782484" tvg-id="" tvg-name="ABC 4 Pittsburg PA (WTAE)" tvg-logo="https://i.imgur.com/4iEFQjd.png" group-title="CANAIS | USA" -ABC 4 Pittsburg PA (WTAE</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReH9sr2uy7KQWXWxUc_2rKRw</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="782485" tvg-id="" tvg-name="ABC 4 Seattle WA (KOMO-TV)" tvg-logo="https://i.imgur.com/8vXRrRe.jpg" group-title="CANAIS | USA" -ABC 4 Seattle WA (KOMO-TV</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReGVBWFmeG9vPzeEcb5GHGmc</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="782519" tvg-id="" tvg-name="ABC 40/29 Fort Smith AR (KHBS)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="CANAIS | USA" -ABC 40/29 Fort Smith AR (KHBS</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReFz1dnkuBlBH4e0Pmy4k9BQ</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="782486" tvg-id="" tvg-name="ABC 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="CANAIS | USA" -ABC </title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReHfqXz1ee9yt3jDsnyYh_ww</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="782487" tvg-id="" tvg-name="ABC 5 Boston MA (WCVB)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/WCVB-TV_%282021%29.svg/512px-WCVB-TV_%282021%29.svg.png" group-title="CANAIS | USA" -ABC 5 Boston MA (WCVB</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReDKscOxvvsOaEX4TTSxEpVE</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="782488" tvg-id="" tvg-name="ABC 5 Cleveland OH (WEWS)" tvg-logo="https://i.imgur.com/sUonBr6.png" group-title="CANAIS | USA" -ABC 5 Cleveland OH (WEWS</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReB_AQQLqXMB3CDOQbS4F4To</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="782489" tvg-id="" tvg-name="ABC 5 Oklahoma City OK (KOCO)" tvg-logo="https://i.imgur.com/yxEbZqn.jpg" group-title="CANAIS | USA" -ABC 5 Oklahoma City OK (KOCO</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReJmsW04paKUVhceztj34xx4</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="782490" tvg-id="" tvg-name="ABC 6 Boise ID (KIVI)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/KIVI-TV_Idaho_News_6_logo.png" group-title="CANAIS | USA" -ABC 6 Boise ID (KIVI</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReA21TjHjTXUZokGPTL6GnQo</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="782491" tvg-id="" tvg-name="ABC 6 Indianapolis IN (WRTV)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="CANAIS | USA" -ABC 6 Indianapolis IN (WRTV</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReLawIAXdmBGRs8Cjw9_tNdA</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="782492" tvg-id="" tvg-name="ABC 7 Albuquerque NM (KOAT)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="CANAIS | USA" -ABC 7 Albuquerque NM (KOAT</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReAr_lKT5ziLV2Tr2Jy9okgE</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="782493" tvg-id="" tvg-name="ABC 7 Bay Area and San Francisco News (KGO-DT1)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="CANAIS | USA" -ABC 7 Bay Area and San Francisco News (KGO-DT1</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReMQvCbbTxtCKMuDEPko0d4E</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="782494" tvg-id="" tvg-name="ABC 7 Buffalo NY (WKBW)" tvg-logo="https://i.imgur.com/dtzR3Y1.png" group-title="CANAIS | USA" -ABC 7 Buffalo NY (WKBW</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReAm7-xahNzh81kcPIvCYGPI</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="782495" tvg-id="" tvg-name="ABC 7 Denver CO (KMGH)" tvg-logo="https://i.imgur.com/MWvoICD.png" group-title="CANAIS | USA" -ABC 7 Denver CO (KMGH</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReC6nO3bg7FrrfLVOkH35dzM</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="782496" tvg-id="" tvg-name="ABC 7 Detroit MI (WXYZ)" tvg-logo="https://i.imgur.com/8sQ5mfL.png" group-title="CANAIS | USA" -ABC 7 Detroit MI (WXYZ</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReJUqYekA6jZnjVQIcSWinvQ</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="782497" tvg-id="" tvg-name="ABC 7 Los Angeles CA (KABC-TV)" tvg-logo="https://imgur.com/nKAUCLF.jpg" group-title="CANAIS | USA" -ABC 7 Los Angeles CA (KABC-TV</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReHccQRzFEvmzaWbx4rcObNM</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="782498" tvg-id="" tvg-name="ABC 7 Omaha NE (KETV)" tvg-logo="https://i.imgur.com/CWZtYNi.png" group-title="CANAIS | USA" -ABC 7 Omaha NE (KETV</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReGDK3_z0b4oXg0XDEaSAo3k</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="782499" tvg-id="" tvg-name="ABC 8 Dallas TX (WFAA)" tvg-logo="https://i.imgur.com/3dK1ocU.png" group-title="CANAIS | USA" -ABC 8 Dallas TX (WFAA</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReIFs7ocrVnLIwX8BgvcYzkA</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="782500" tvg-id="" tvg-name="ABC 8 Portland ME (WMTW)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="CANAIS | USA" -ABC 8 Portland ME (WMTW</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReMNdO0U8STeNoW9kvE8rZjM</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="782501" tvg-id="" tvg-name="ABC 9 Charlotte NC (WSOC)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="CANAIS | USA" -ABC 9 Charlotte NC (WSOC</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReJhXQCr0UOMHbDVP58ewZjY</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="782502" tvg-id="" tvg-name="ABC 9 Cincinnati OH (WCPO)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/WCPO-TV_logo_2020.png/512px-WCPO-TV_logo_2020.png" group-title="CANAIS | USA" -ABC 9 Cincinnati OH (WCPO</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReExQnDDcYb5P4Rmxs9t_jLE</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="782503" tvg-id="" tvg-name="ABC 9 Kansas City MO (KMBC-TV)" tvg-logo="https://i.imgur.com/DCBHkiP.jpg" group-title="CANAIS | USA" -ABC 9 Kansas City MO (KMBC-TV</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReKEloqOgC3CsPZDVisM4y9Y</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="782504" tvg-id="" tvg-name="ABC 9 Manchester NH (WMUR-TV)" tvg-logo="https://i.imgur.com/6oNx5F0.png" group-title="CANAIS | USA" -ABC 9 Manchester NH (WMUR-TV</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2RePhXoRRac8LzBkmYLcW-prs</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="782505" tvg-id="" tvg-name="ABC 9 Orlando FL (WFTV)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="CANAIS | USA" -ABC 9 Orlando FL (WFTV</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReAr2o7SfBDOEGq9A27v_JPc</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="782506" tvg-id="" tvg-name="ABC 9 Tucson AZ (KGUN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="CANAIS | USA" -ABC 9 Tucson AZ (KGUN</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReE7aron_FOOi0qNWNBFR7Uk</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="782521" tvg-id="" tvg-name="ABC News Live 1" tvg-logo="https://od.lk/s/MF8yMjk3NjU0OTJf/ABCNewsLive_2021_200x200.png" group-title="CANAIS | USA" -ABC News Live </title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReEUi3puuEZSjMnbRz8fL-5M</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="782530" tvg-id="" tvg-name="ABC News Live 10" tvg-logo="https://od.lk/s/MF8yMjk3NjU0OTJf/ABCNewsLive_2021_200x200.png" group-title="CANAIS | USA" -ABC News Live 1</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReFFEOqHRXbS59eLBa2pQ90I</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="782522" tvg-id="" tvg-name="ABC News Live 2" tvg-logo="https://od.lk/s/MF8yMjk3NjU0OTJf/ABCNewsLive_2021_200x200.png" group-title="CANAIS | USA" -ABC News Live </title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReP_flntjipvwarO6beh8KXk</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="782523" tvg-id="" tvg-name="ABC News Live 3" tvg-logo="https://od.lk/s/MF8yMjk3NjU0OTJf/ABCNewsLive_2021_200x200.png" group-title="CANAIS | USA" -ABC News Live </title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReLemmjGrtSquOLbPcwLXlEs</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="782524" tvg-id="" tvg-name="ABC News Live 4" tvg-logo="https://od.lk/s/MF8yMjk3NjU0OTJf/ABCNewsLive_2021_200x200.png" group-title="CANAIS | USA" -ABC News Live </title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReMEaIO_7K5lr7PBXh0bbbWg</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="782525" tvg-id="" tvg-name="ABC News Live 5" tvg-logo="https://od.lk/s/MF8yMjk3NjU0OTJf/ABCNewsLive_2021_200x200.png" group-title="CANAIS | USA" -ABC News Live </title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2RePktECVIMmHzhaTQNCFTh0I</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="782526" tvg-id="" tvg-name="ABC News Live 6" tvg-logo="https://od.lk/s/MF8yMjk3NjU0OTJf/ABCNewsLive_2021_200x200.png" group-title="CANAIS | USA" -ABC News Live </title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReDQOjZ9fLl72CdOX0KSdETc</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="782527" tvg-id="" tvg-name="ABC News Live 7" tvg-logo="https://od.lk/s/MF8yMjk3NjU0OTJf/ABCNewsLive_2021_200x200.png" group-title="CANAIS | USA" -ABC News Live </title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReBNT7OBb49lgasFU-oHEDkw</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="782528" tvg-id="" tvg-name="ABC News Live 8" tvg-logo="https://od.lk/s/MF8yMjk3NjU0OTJf/ABCNewsLive_2021_200x200.png" group-title="CANAIS | USA" -ABC News Live </title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReB5iAHO8fCxUjgiDnKyrngg</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="782529" tvg-id="" tvg-name="ABC News Live 9" tvg-logo="https://od.lk/s/MF8yMjk3NjU0OTJf/ABCNewsLive_2021_200x200.png" group-title="CANAIS | USA" -ABC News Live </title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReArNTgGKKc0yecI7AeG1Plo</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="782531" tvg-id="" tvg-name="ABC News New York NY (WABC-TV)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/WABC_TV_New_2021.svg/512px-WABC_TV_New_2021.svg.png" group-title="CANAIS | USA" -ABC News New York NY (WABC-TV</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2RePFp6UaendXaprV4c63gIZo</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="782532" tvg-id="" tvg-name="ABC TV News (YouTube)" tvg-logo="" group-title="CANAIS | USA" -ABC TV News (YouTube</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReMGZ2-mvlKX-7aW445Pwd2U</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="782533" tvg-id="" tvg-name="ABC WWAY 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="CANAIS | USA" -ABC WWAY </title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReML25XATUhVLyXISR68_nsU</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="501744" tvg-id="" tvg-name="ABC-TV Paraguay" tvg-logo="" group-title="CANAIS | PARAGUAI" -ABC-TV Paragua</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReMYPEL35DBo4SlsmmG67RgU</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="782534" tvg-id="" tvg-name="ABN Afghanistan" tvg-logo="https://i.imgur.com/LI30mAt.png" group-title="CANAIS | USA" -ABN Afghanista</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReDH5qR6RC5p6sMuIjkkU-Ts</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="782535" tvg-id="" tvg-name="ABN Africa" tvg-logo="https://yt3.googleusercontent.com/BhFbqwxiQN89UGI2cpoffye2UuKtblDDUwJHce0fzjpdrMkb0CtKf_42ZVTiLX2Ulwbjey4YZQ=s512-c-k-c0x00ffffff-no-rj" group-title="CANAIS | USA" -ABN Afric</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReHZg2SsziIfPRSK_vwaPBlk</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="782536" tvg-id="" tvg-name="ABN Aramaic Broadcasting Network" tvg-logo="https://i.imgur.com/CxLugLs.png" group-title="CANAIS | USA" -ABN Aramaic Broadcasting Networ</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReM6I_rEXn5mD_bY3VUobVA0</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="782537" tvg-id="" tvg-name="ABN Bible Movies" tvg-logo="https://i.imgur.com/NCqZdaL.png" group-title="CANAIS | USA" -ABN Bible Movie</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReCnRNVPltqTpsWAp6Qod59U</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="782538" tvg-id="" tvg-name="ABN China" tvg-logo="https://i.imgur.com/zagVLQH.png" group-title="CANAIS | USA" -ABN Chin</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReLZjnvQE-sFrlAJkn1auaoI</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="782539" tvg-id="" tvg-name="ABN TV India" tvg-logo="https://i.imgur.com/VcZn60X.png" group-title="CANAIS | USA" -ABN TV Indi</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2RePU5vf5JU_flI0S5N_dy6Ig</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="782540" tvg-id="" tvg-name="ABN Urdu" tvg-logo="https://i.imgur.com/Y9ScPIl.png" group-title="CANAIS | USA" -ABN Urd</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReM_mT5WNrQK2H4isdsK_azI</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="782541" tvg-id="" tvg-name="Acapulco Shore" tvg-logo="https://i.imgur.com/D2jgGOi.png" group-title="CANAIS | USA" -Acapulco Shor</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReAF_GrvG7K2s9NRC27uH5H4</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="782542" tvg-id="" tvg-name="Access Humboldt" tvg-logo="https://i.imgur.com/tJl43uM.png" group-title="CANAIS | USA" -Access Humbold</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReB_X3E_688a2XzcirNvHWXw</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="782543" tvg-id="" tvg-name="Access La Porte Country" tvg-logo="https://i.imgur.com/Mflgw0f.png" group-title="CANAIS | USA" -Access La Porte Countr</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReJbNYjLREmax68FNm4MZAis</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="782544" tvg-id="" tvg-name="Access Media Productions Channel" tvg-logo="https://i.imgur.com/3ZhrthD.png" group-title="CANAIS | USA" -Access Media Productions Channe</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReMg6Rbgzm-NdziGbduvAaLw</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="782545" tvg-id="" tvg-name="Access Media Productions Community Channel" tvg-logo="https://i.imgur.com/nfur3FR.png" group-title="CANAIS | USA" -Access Media Productions Community Channe</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReJVHJxrrgQKq4cUfUkPZmXg</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="782546" tvg-id="" tvg-name="Access Media Productions Marina TV" tvg-logo="https://i.imgur.com/ldyanxN.png" group-title="CANAIS | USA" -Access Media Productions Marina T</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReDJwnQgSI-esUE97UWcxY-c</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="782547" tvg-id="" tvg-name="Access Media Productions Monterey Channel" tvg-logo="https://i.imgur.com/400m3ow.png" group-title="CANAIS | USA" -Access Media Productions Monterey Channe</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReInHjyF6ZYjrL_RjtuE8iCw</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="782548" tvg-id="" tvg-name="Access Media Productions Peninsula Channel" tvg-logo="https://i.imgur.com/Ybp6YKD.png" group-title="CANAIS | USA" -Access Media Productions Peninsula Channe</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReCf9juCIj5YMypHTtyRxy3Q</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="782549" tvg-id="" tvg-name="Access Nashua" tvg-logo="https://i.imgur.com/iv9Vfcb.png" group-title="CANAIS | USA" -Access Nashu</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2RePI6yuVCs7oobvCLUwlCIHo</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="782550" tvg-id="" tvg-name="Access Sacramento Channel 17" tvg-logo="https://i.imgur.com/j0UC4ke.png" group-title="CANAIS | USA" -Access Sacramento Channel 1</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReEKbQhiRD1XHXPE__Zqdmnw</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="782551" tvg-id="" tvg-name="Access Sacramento Channel 18" tvg-logo="https://i.imgur.com/0pbtcvp.png" group-title="CANAIS | USA" -Access Sacramento Channel 1</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2RePJTy2ec8-eqFotb2LOSuOo</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="782552" tvg-id="" tvg-name="Access Sarasota (Sarasota County FL)" tvg-logo="https://i.imgur.com/XrEXXHn.png" group-title="CANAIS | USA" -Access Sarasota (Sarasota County FL</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReLQbWz1CftrcWKWvpgSVJGo</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="782553" tvg-id="" tvg-name="Access Tuolumne (Tuolumne County CA)" tvg-logo="https://i.imgur.com/sYtDaQ1.png" group-title="CANAIS | USA" -Access Tuolumne (Tuolumne County CA</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2RePq72oYwuDmvn2n-12T7ynY</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="782554" tvg-id="" tvg-name="AccessVision Channel 16" tvg-logo="https://i.imgur.com/vi4TCdb.png" group-title="CANAIS | USA" -AccessVision Channel 1</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReJD61vTd8nhTCCuZLaI5ioc</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="782555" tvg-id="" tvg-name="AccessVision Channel 17" tvg-logo="https://i.imgur.com/vi4TCdb.png" group-title="CANAIS | USA" -AccessVision Channel 1</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReLIhPvheC7tVaxwjXEHN5To</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="782556" tvg-id="" tvg-name="Accion Mexicana" tvg-logo="" group-title="CANAIS | USA" -Accion Mexican</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReHmN7lTAydq3ljZJ0YuKfhQ</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="782557" tvg-id="" tvg-name="AccuWeather Now" tvg-logo="https://i.imgur.com/M8wbVYK.png" group-title="CANAIS | USA" -AccuWeather No</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReCFVM30F2ZbsSn3h9E-F7uU</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="782558" tvg-id="" tvg-name="Ace TV (KCKS-LD3)" tvg-logo="https://i.imgur.com/KtXQeeZ.png" group-title="CANAIS | USA" -Ace TV (KCKS-LD3</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReNVvNCRufi31JBDXzr0rE54</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="782010" tvg-id="" tvg-name="Acequia TV" tvg-logo="https://i.imgur.com/RdGdMCj.png" group-title="CANAIS | ARGENTINA" -Acequia T</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReF5lUeUHI-pGF2uCiVT2gYo</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="782559" tvg-id="" tvg-name="Action (KCKS-LD4)" tvg-logo="https://i.imgur.com/aMKtA68.png" group-title="CANAIS | USA" -Action (KCKS-LD4</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReL4AdbY86UXgIGBs3le2h20</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="782560" tvg-id="" tvg-name="Action Drama" tvg-logo="" group-title="CANAIS | USA" -Action Dram</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReBg8ztK9UQnJrfqos2RFd_k</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="782561" tvg-id="" tvg-name="ACTV" tvg-logo="https://i.imgur.com/Z6lB0Ww.png" group-title="CANAIS | USA" -ACT</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReHAQvMZ7u4vhJ5pmnQPJv0g</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="784129" tvg-id="" tvg-name="Adjugé vendu</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReI8JXZs7mEY3ZXAUToNrIuo</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="501550" tvg-id="" tvg-name="ADN 40" tvg-logo="" group-title="CANAIS | MEXICO" -ADN 4</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReMlwsPPI9AzLwafftIiwAi8</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="784130" tvg-id="" tvg-name="ADN TV+  [Geo-Blocked]" tvg-logo="https://i.imgur.com/HQZQyWt.png" group-title="CANAIS | FRANÇA" -ADN TV+  [Geo-Blocked</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReE0Go0shme-KExQ5p2s_JI8</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="784131" tvg-id="" tvg-name="Africa 24" tvg-logo="https://i.imgur.com/YWIJdai.png" group-title="CANAIS | FRANÇA" -Africa 2</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReDShw8FwaNBKid5jCUj3kr4</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="784460" tvg-id="" tvg-name="Africa 24" tvg-logo="https://i.imgur.com/YWIJdai.png" group-title="CANAIS | FRANÇA" -Africa 2</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReAN9mHmCZrq8HA7QkOgyf_o</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="784461" tvg-id="" tvg-name="Africanews" tvg-logo="https://i.imgur.com/5UxU4zc.png" group-title="CANAIS | FRANÇA" -Africanew</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReN3pe7B_JvmWPCENITepxwI</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="784462" tvg-id="" tvg-name="AfricaNews Français" tvg-logo="https://i.imgur.com/5UxU4zc.png" group-title="CANAIS | FRANÇA" -AfricaNews Françai</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReEwmeSPKDre6q_AVJI9L18Y</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="782562" tvg-id="" tvg-name="AfroLandTV" tvg-logo="https://i.imgur.com/jvnkrEF.png" group-title="CANAIS | USA" -AfroLandT</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReIdV9j24KBfVzCBJrkzFYS0</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="782563" tvg-id="" tvg-name="AFV" tvg-logo="https://i.imgur.com/TOB9vmW.png" group-title="CANAIS | USA" -AF</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReOcu02F4pgeTukc8ZHYYyJg</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="782564" tvg-id="" tvg-name="AFV en Español" tvg-logo="https://i.imgur.com/HUK4WXC.png" group-title="CANAIS | USA" -AFV en Españo</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReJoxCgNDNhg9wxhNokoPZ6A</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="782565" tvg-id="" tvg-name="AFV Family" tvg-logo="https://i.imgur.com/dLSKBEn.png" group-title="CANAIS | USA" -AFV Famil</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReEtPXYSVNo3ceLScIo03xuk</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="782336" tvg-id="" tvg-name="Agenda Al Día TV" tvg-logo="https://i.imgur.com/JFEFVwV.jpg" group-title="CANAIS | COLOMBIA" -Agenda Al Día T</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReFWCYQ_EZT-rYEFpByd02Gg</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="782566" tvg-id="" tvg-name="Aghapy Kids" tvg-logo="https://i.imgur.com/8ariztD.png" group-title="CANAIS | USA" -Aghapy Kid</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReDHWra1BFzts1BUVFSqM8fU</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="782011" tvg-id="" tvg-name="Agrotendencia TV" tvg-logo="https://i.imgur.com/frd60hR.png" group-title="CANAIS | ARGENTINA" -Agrotendencia T</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReGatvJC5Oa6Ru_TRIf4OVIo</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="787181" tvg-id="" tvg-name="Aguacate TV" tvg-logo="https://i.ibb.co/wpWBsgf/IMG-20230705-154622.jpg" group-title="CANAIS | VENEZUELA" -Aguacate T</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReKDFcag4AJwPEN9-uW2rZoI</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="782012" tvg-id="" tvg-name="Aire de Santa Fe" tvg-logo="https://i.imgur.com/60vSWW0.png" group-title="CANAIS | ARGENTINA" -Aire de Santa F</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReGacWGnz8NLVwWHcUDc5Pbw</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="782567" tvg-id="" tvg-name="Akaku 53 (Hawaii)" tvg-logo="https://www.akaku.org/wp-content/uploads/bb-plugin/cache/Channel53-147x150-square.png" group-title="CANAIS | USA" -Akaku 53 (Hawaii</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReOHgefcDfKbXxICmVWadHl4</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="782568" tvg-id="" tvg-name="Akaku 54 (Hawaii)" tvg-logo="https://www.akaku.org/wp-content/uploads/bb-plugin/cache/Channel54-147x150-square.png" group-title="CANAIS | USA" -Akaku 54 (Hawaii</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReCrYytxau8FD0kJrppmNwiw</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="782569" tvg-id="" tvg-name="Akaku 55 (Hawaii)" tvg-logo="https://www.akaku.org/wp-content/uploads/bb-plugin/cache/Channel55-147x150-square.png" group-title="CANAIS | USA" -Akaku 55 (Hawaii</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReHEdo_XrdUmv5tT746O4vSE</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="782570" tvg-id="" tvg-name="AKC TV" tvg-logo="https://i.imgur.com/XRTfoSp.png" group-title="CANAIS | USA" -AKC T</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReG5DUW_g5_Nj4LeTE8gAau0</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="782571" tvg-id="" tvg-name="AKC TV Meet The Breeds" tvg-logo="https://i.imgur.com/66avgdk.png" group-title="CANAIS | USA" -AKC TV Meet The Breed</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReG47MgsQU4Ub2glrGvtRm-A</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="782572" tvg-id="" tvg-name="AKC TV Puppies 24/7" tvg-logo="https://i.imgur.com/2nzRS60.png" group-title="CANAIS | USA" -AKC TV Puppies 24/</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2RePRMqmpRkRsDTwB-itjsS0U</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="782573" tvg-id="" tvg-name="Al Horreya TV" tvg-logo="https://i.imgur.com/EK75DMJ.png" group-title="CANAIS | USA" -Al Horreya T</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReN_RxrOk7SAQxbDwtQuS1xE</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="782574" tvg-id="" tvg-name="Al-Fady TV" tvg-logo="https://i.imgur.com/7L0l0iY.png" group-title="CANAIS | USA" -Al-Fady T</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReE5kAzoherVlGBAc241XUVE</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="782575" tvg-id="" tvg-name="Al-MahdiTV" tvg-logo="https://i.imgur.com/S1YM83i.png" group-title="CANAIS | USA" -Al-MahdiT</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReMim8PGRAaXBmNdQ9O9t4Qw</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="782576" tvg-id="" tvg-name="Alan Becker TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaSk8jLwTPTZ9tnSWr0coUk1-VJLYQCi2muftdUyHw=s100-c-k-c0x00ffffff-no-rj" group-title="CANAIS | USA" -Alan Becker T</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReFW9TdglDE2HMITqVlSJybg</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="782577" tvg-id="" tvg-name="AlbDreams TV" tvg-logo="https://i.imgur.com/3VWF3sj.png" group-title="CANAIS | USA" -AlbDreams T</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReBFlXwwFb_8mndn6C73U-V0</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="784132" tvg-id="" tvg-name="Albi TV" tvg-logo="https://i.imgur.com/MJdY1m3.png" group-title="CANAIS | FRANÇA" -Albi T</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReMhoE5zo2FponQVZHfnh7Gw</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="501551" tvg-id="" tvg-name="Alcance TV" tvg-logo="" group-title="CANAIS | MEXICO" -Alcance T</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReMJZ7gPzp5WVvAO5k2GGeBY</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="784133" tvg-id="" tvg-name="Alerte Cobra" tvg-logo="" group-title="CANAIS | FRANÇA" -Alerte Cobr</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReLEDHugsGkCKAO_3-P0MH8o</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="782578" tvg-id="" tvg-name="ALF" tvg-logo="https://i.imgur.com/fWRs1gX.png" group-title="CANAIS | USA" -AL</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReKy_td3XLvgQKqa3GUblifY</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="782579" tvg-id="" tvg-name="Alhurra Iraq" tvg-logo="https://i.ibb.co/sWWdpdH/1687955091062.jpg" group-title="CANAIS | USA" -Alhurra Ira</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReOBf_NqxbJbcE1q04MtzCBI</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="782580" tvg-id="" tvg-name="Alien Nation" tvg-logo="" group-title="CANAIS | USA" -Alien Natio</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReHSUv4LkvhvqtR9-WzdOC6M</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="782581" tvg-id="" tvg-name="Aliento Vision" tvg-logo="https://i.imgur.com/xT10iqB.png" group-title="CANAIS | USA" -Aliento Visio</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReAhZZwR6yYEABywHMiryyvs</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="782582" tvg-id="" tvg-name="Alkarma TV Australia" tvg-logo="https://i.imgur.com/90ykspa.png" group-title="CANAIS | USA" -Alkarma TV Australi</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReKcKTjLcgXyUVUxR62Q72So</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="782583" tvg-id="" tvg-name="Alkarma TV Family" tvg-logo="https://i.imgur.com/yUEuQA2.png" group-title="CANAIS | USA" -Alkarma TV Famil</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReCRlzsSULjDBzxLh0A3INA0</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="782584" tvg-id="" tvg-name="Alkarma TV Middle East" tvg-logo="https://i.imgur.com/6OmNw5A.png" group-title="CANAIS | USA" -Alkarma TV Middle Eas</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReGaQL_f2qRJPXIdz6XHPn30</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="782585" tvg-id="" tvg-name="Alkarma TV North America & Canada" tvg-logo="https://i.imgur.com/pnm60bq.png" group-title="CANAIS | USA" -Alkarma TV North America & Canad</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReOS2Wgpv7KEkdYin0jpQumE</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="782586" tvg-id="" tvg-name="Alkarma TV Praise" tvg-logo="https://i.imgur.com/bJLKkou.png" group-title="CANAIS | USA" -Alkarma TV Prais</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReFwsjo7apwyIS9JHk6fkAdc</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="782587" tvg-id="" tvg-name="Alkarma TV Talmaza (Discipleship)" tvg-logo="https://i.imgur.com/t2ZkRbr.png" group-title="CANAIS | USA" -Alkarma TV Talmaza (Discipleship</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReC1RRRxtZ6HMOqnkKImUgVQ</location> 
-</track> 
-<track> 
-  <title>-1 xui-id="782588" tvg-id="" tvg-name="Alkarma TV Youth & English" tvg-logo="https://i.imgur.com/kpuO8m7.png" group-title="CANAIS | USA" -Alkarma TV Youth & Englis</title> 
-  <location>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReH7vlb44FgBAw9kGkoYMoMw</location> 
-</track> 
+<items>
+<item> 
+  <title>24 HORAS: 009-1</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReMXADr43HBWCwoDrSJxmw60</link> 
+</item> 
+<item> 
+  <title>24 HORAS: 2 CACHORROS BOBOS</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReIym7oj5aY4JgyfdFVr9pA4</link> 
+</item> 
+<item> 
+  <title>24 HORAS: A ARVORE FAMILIAR DOS CROODS</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReGSHxs2gSIfgTHUm7J9OQk8</link> 
+</item> 
+<item> 
+  <title>24 HORAS: A CASA CORUJA</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReGaIOeU2q1o3rKTLLVzIBX8</link> 
+</item> 
+<item> 
+  <title>24 HORAS: A CORRIDA MALUCA REBOOT</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReAgfKYTppAQSOIv4rkpZSio</link> 
+</item> 
+<item> 
+  <title>24 HORAS: A FORMIGA ATOMICA</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReB9Aj313cUUVBZCKCHK7ggM</link> 
+</item> 
+<item> 
+  <title>24 HORAS: A GUARDA DO LEAO</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReNHb_BSNru9AQskah47i2Tw</link> 
+</item> 
+<item> 
+  <title>24 HORAS: A LEI DE MILO MURPHY</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReEEjeFBsgHczzFpFwgMrjLg</link> 
+</item> 
+<item> 
+  <title>24 HORAS: A LENDA DE TARZAN</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReKl61hPMeC6TLiPbD_VHuJk</link> 
+</item> 
+<item> 
+  <title>24 HORAS: A NOVA ESCOLA DO IMPERADOR</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReMVGiBt7aGHYv7g7fryfmq0</link> 
+</item> 
+<item> 
+  <title>24 HORAS: A PEDRA DOS SONHOS</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReNhmwIptaw2eLSLvPZFNo50</link> 
+</item> 
+<item> 
+  <title>24 HORAS: A PEQUENA SEREIA</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReOhrsCG4uhAlekCa7QzkyBA</link> 
+</item> 
+<item> 
+  <title>24 HORAS: A PRINCESA DOS CABELOS MAGICOS</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReCK2FKFr2B0MDRD7fiAJAls</link> 
+</item> 
+<item> 
+  <title>24 HORAS: A PRINCESA DOS CABELOS MAGICOS</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReCSKg97NcRAsfcprQgnHwY4</link> 
+</item> 
+<item> 
+  <title>24 HORAS: A SOMBRA DO BATMAN</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReP7gXLl12Gr1kYpT-e697l0</link> 
+</item> 
+<item> 
+  <title>24 HORAS: A TURMA DA FLORESTA</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReIUHq9aW4xlfKN_DPgWK_ro</link> 
+</item> 
+<item> 
+  <title>24 HORAS: A TURMA DA PANTERA COR DE ROSA</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReDrGYCbVQB4-bnZDJWJ3EJ8</link> 
+</item> 
+<item> 
+  <title>24 HORAS: A TURMA DO MANDA CHUVA</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReFpeMT-x_lUMUhEPWisdG08</link> 
+</item> 
+<item> 
+  <title>24 HORAS: A TURMA DO PATETA</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReCVA-EwuV-KgKcjfWZRQ2WQ</link> 
+</item> 
+<item> 
+  <title>24 HORAS: A TURMA DO ZE COLMEIA</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReFXwYwiU4Mt1nSNFi4qnszg</link> 
+</item> 
+<item> 
+  <title>24 HORAS: ILHA DA CAVEIRA</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2RePcUU6B4ncdfZ2O4XC5XF9s</link> 
+</item> 
+<item> 
+  <title>24H A Familia Urso</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReNtUkqIDhKDC3jEHwr-Ew3Y</link> 
+</item> 
+<item> 
+  <title>24H Angry Birds</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReFl6XPodns3x2gaZsoGEvtg</link> 
+</item> 
+<item> 
+  <title>24H Anime</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReGyPLil6Kp-56AOad9v38nw</link> 
+</item> 
+<item> 
+  <title>24H As Aventuras de Jackie Chan</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2RePlN2vfOV7X-o48wV9auMHc</link> 
+</item> 
+<item> 
+  <title>24H AS AVENTURAS DO PEQUENO PRINCIPE</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReFJGzkn_kav-9uC8dHZ7C_4</link> 
+</item> 
+<item> 
+  <title>24H As Panteras</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReJAQ2579HH2X-mtjiJiZSdk</link> 
+</item> 
+<item> 
+  <title>24H As Pistas de Blue</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReOQM-nAWyq_DrZ8NdxnoV94</link> 
+</item> 
+<item> 
+  <title>24H AS Tartarugas Ninja</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReOxgZa-6_84Q52XnLzBzB3c</link> 
+</item> 
+<item> 
+  <title>24H Baby Shark</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReHYdA_3Uxm23DWl3ilyDuk4</link> 
+</item> 
+<item> 
+  <title>24H Babyfirst</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReM1drP0odFF9Ko8x6HPWxOQ</link> 
+</item> 
+<item> 
+  <title>24H BAFINO</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReFnnfgbhcuwAmk9e6xPXR9w</link> 
+</item> 
+<item> 
+  <title>24H Beyblade</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReEqwKO3TNEQf6fsD85PIQg0</link> 
+</item> 
+<item> 
+  <title>24H Bob Esponja Calça Quadrada</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReKR0F5nZ4u6Q30HeV4KTNWI</link> 
+</item> 
+<item> 
+  <title>24H Captain Tsubasa</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReFWa0z-E_8ELsOyt9aORdRk</link> 
+</item> 
+<item> 
+  <title>24H CASTELO RATIMBUM</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReD-HqCMgj1tjHmhDbxvkuzE</link> 
+</item> 
+<item> 
+  <title>24H CAVALEIROS DO ZODÍADO</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReI9n5D5ci4IL9R2i2W3axyI</link> 
+</item> 
+<item> 
+  <title>24H Clubinho</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReNkwHLflF6Gy5CX4iDJE_6w</link> 
+</item> 
+<item> 
+  <title>24H Cocoricó</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReKImVvpDZm8yVlAxoHmS_-o</link> 
+</item> 
+<item> 
+  <title>24H CSI: Miami</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReFaWei7ExZDu_H4_Kwk63JE</link> 
+</item> 
+<item> 
+  <title>24H Daniel Tigre</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReNUDYSkB5L9DbQqn-ZB83m0</link> 
+</item> 
+<item> 
+  <title>24H Desenhos Bíblicos</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReBVJiSJyRK5CQJDiKuTsHAw</link> 
+</item> 
+<item> 
+  <title>24H Desenhos Classicos</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReHz8ueTfXbioc1ZsR99HM2w</link> 
+</item> 
+<item> 
+  <title>24H Dragon Ball kai</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReGS8yLOTLMMm_IbF0AiA-78</link> 
+</item> 
+<item> 
+  <title>24H Geek</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReG3c4D1xE7MwDBjIghQJY-c</link> 
+</item> 
+<item> 
+  <title>24H Inspetor Willoughby</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReCOnR2N5Hq8YDUlQYKO5He0</link> 
+</item> 
+<item> 
+  <title>24H INUYASHA</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReOKh4vKY_L3ERHNUDDs3370</link> 
+</item> 
+<item> 
+  <title>24H JETSONS TV</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReOpxls9eYlgM6M9KTmwSTWU</link> 
+</item> 
+<item> 
+  <title>24H Josie e as Gatinhas</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReCvGqhvIc2o5yZ9LUCazJzo</link> 
+</item> 
+<item> 
+  <title>24H Kids Mais</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReExZPcEh1Hgz9kEDaoxisSc</link> 
+</item> 
+<item> 
+  <title>24H Louco por Você</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReAsC_w8VumDhO4tqgBr7jZA</link> 
+</item> 
+<item> 
+  <title>24H MARARONA CINE GIBI 1/2/3</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReBxQgOXA8qHq-Oj7lNswNcI</link> 
+</item> 
+<item> 
+  <title>24H Moranguinho</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReCho0Z6PdeQU563N0OmNWJI</link> 
+</item> 
+<item> 
+  <title>24H Naruto</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2RePlHFe0OznUq5oJ6KuiCTdc</link> 
+</item> 
+<item> 
+  <title>24H Naruto Shippuden</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReBuIzQ89-JzyissoFY-SH_Q</link> 
+</item> 
+<item> 
+  <title>24H NICK CLÁSSICO</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReLpOHM8_aznmxdykqanvvyA</link> 
+</item> 
+<item> 
+  <title>24H Nick Teen</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReDHL38Igk8PAEGWHSRipfzM</link> 
+</item> 
+<item> 
+  <title>24H Nickelodeon Rocket Power</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReLLvur93-BcW1jpTvyIz6s4</link> 
+</item> 
+<item> 
+  <title>24H O Homem que veio do Céu</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReFB0jKZGi2A4vk7tIvPQvh8</link> 
+</item> 
+<item> 
+  <title>24H O Inspetor</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReFhkb7it5VvhxopM-903th8</link> 
+</item> 
+<item> 
+  <title>24H O Reino Infantil</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReLiMjZ-i-MmWmoTbNEmnTss</link> 
+</item> 
+<item> 
+  <title>24H O Show dos Looney Tunes</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReD6xTFG7tyiKHL9xBMR77Mc</link> 
+</item> 
+<item> 
+  <title>24H One Piece</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReOkEHYRSHQApCj0IN_PTNJw</link> 
+</item> 
+<item> 
+  <title>24H Otaku</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReBtDCZxely4Our07ECOagJs</link> 
+</item> 
+<item> 
+  <title>24H PAW Patrol Patrulha Canina</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReJ0PWqVf675FzKFwncLdi0g</link> 
+</item> 
+<item> 
+  <title>24H Picolino</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReO3LKuG7x8qPkW-xwWmddzw</link> 
+</item> 
+<item> 
+  <title>24H Rakuten Família</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReHW49Yp_5iRwlkHhmtPjxI4</link> 
+</item> 
+<item> 
+  <title>24H Rambo</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2RePXui-1G3jkcJWUY__hjoaw</link> 
+</item> 
+<item> 
+  <title>24h Relax</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReDtK2UCG8xgKkBauEhewqPA</link> 
+</item> 
+<item> 
+  <title>24H Rookie Blue</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReBwLP0TuMB_jpU8V1ZxzBWE</link> 
+</item> 
+<item> 
+  <title>24H Rugrats</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReLjTEW9gvZtM9Mc8Poym5s4</link> 
+</item> 
+<item> 
+  <title>24H Schitt's Creek</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReDeEJSCdpiJwT8AKK3Ql0Rw</link> 
+</item> 
+<item> 
+  <title>24H Street Fight II</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReOfMF85jl6kcQtNarb_twfk</link> 
+</item> 
+<item> 
+  <title>24H Street Fighter</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReOx9XTumI54WYXtr3tcUP_k</link> 
+</item> 
+<item> 
+  <title>24H STREET FIGHTER II</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReOkn9V6uTqA1CJFulTw9Z4E</link> 
+</item> 
+<item> 
+  <title>24H TELETUBBIES</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReKm2qSaIIVRPl_8__pcP2Ow</link> 
+</item> 
+<item> 
+  <title>24H The Ed Sullivan Show</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReMCSZ2149-DN0aNf_663ark</link> 
+</item> 
+<item> 
+  <title>24H The Night Shift Plantão Noturno</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReBo4sHPR0JCS4CTpPjz3New</link> 
+</item> 
+<item> 
+  <title>24H THUNDERMANS</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReFuRh3MssJBYOaGCk1N_K5A</link> 
+</item> 
+<item> 
+  <title>24H Tokusato</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReA7PH1YfcJvKpoxIWzKUvzU</link> 
+</item> 
+<item> 
+  <title>24H Tom e Jerry</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2RePXKLWx73yQJ_mCKbBrKzZg</link> 
+</item> 
+<item> 
+  <title>24H Tom Sem Freio</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReM6tZGmJMGSNOCxhUVcek10</link> 
+</item> 
+<item> 
+  <title>24H Toro e Pancho</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2RePdCixerTP_OPP_8mqEZg0c</link> 
+</item> 
+<item> 
+  <title>24H YANG OH//148.113.190.14/images/2L4x7yZaHg8FhQtlEQbYCVSBH6KL-Mf-qmFmskiLH4bqeKUJLoXLFUBvAVlCWFkLhgwfddhbslc_B7XkSG34bhYWmFD3n_GQkk5dot5x9JKIjusUL1u_yDfg25f_1hHkXBzMs4r49yuzzkxW42054tCqETZtUp69DJzVuLpntcRL0uT2maMbf9YDsPWBtCmO.pnggroup-title="CANAIS | 24H-24H YANG O)</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReP5xGriHWNYxv0G723DYpn4</link> 
+</item> 
+<item> 
+  <title>ALADIN</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2RePgnGvKehnNeBpGMv6OV6-8</link> 
+</item> 
+<item> 
+  <title>AS AVENTURAS DE JACK-CHAN</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReFlqCtEPn73lKFwmqN3JLOI</link> 
+</item> 
+<item> 
+  <title>AS MENINAS SUPER PODEROSAS</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReIBzy1rjSKoRHyx4mPyV9Qg</link> 
+</item> 
+<item> 
+  <title>ASTRO BOY</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReJ66FoC0-gVYtgIDrupa6us</link> 
+</item> 
+<item> 
+  <title>BARBIE</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReNv9N1uGiBz6UXj39-tC1_o</link> 
+</item> 
+<item> 
+  <title>BEN 10</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReHUKYhXgpKE_dxd7nbLcrj0</link> 
+</item> 
+<item> 
+  <title>BITA E OS ANIMAIS</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2RePlYgTk87HKJqInKjpE5RHU</link> 
+</item> 
+<item> 
+  <title>BOB ESPONJA</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReIzFZ8dXfomhSjWB2RMovL4</link> 
+</item> 
+<item> 
+  <title>BREAKING BAD</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReDeX0KvyPrmeSyi4fMT1vPs</link> 
+</item> 
+<item> 
+  <title>CAVERNA DO DRAGÃO</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReN8Cxoo1wXUY4cGtaGQhsdY</link> 
+</item> 
+<item> 
+  <title>CHAPOLIM COLORADO</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2RePRf23Rd0FTMzgtFFJ4Bj_Q</link> 
+</item> 
+<item> 
+  <title>CHAVES</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReKjbynLJjOoifzfizLvaUwM</link> 
+</item> 
+<item> 
+  <title>CHAVES DESENHO 24HS</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReAHBXIFP07Z7G148VIioh8A</link> 
+</item> 
+<item> 
+  <title>CINE KIDS</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2RePHgaYh-tp7qIRi7swJOha8</link> 
+</item> 
+<item> 
+  <title>CÃO CORAGEM</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReC-ErrbrzQ_uIUcNzxi9bx4</link> 
+</item> 
+<item> 
+  <title>DENIS O PIMENTINHA</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReBXnOnFT56_BJxs3IXlvvDg</link> 
+</item> 
+<item> 
+  <title>DIGIMON</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReGK9r33laLbRww1tndFZ9uY</link> 
+</item> 
+<item> 
+  <title>DOIS HOMENS E MEIO</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReOMFmt1FkvpcOf0kHjU4wk4</link> 
+</item> 
+<item> 
+  <title>DOUG</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReEJhpEwj1rCTTKKzUXbz4QA</link> 
+</item> 
+<item> 
+  <title>DRAGON BALL</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReNAWLjbGzLMt2vK9zXxUnr4</link> 
+</item> 
+<item> 
+  <title>DRAGON BALL SUPER</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReJntLgWpjzO2WJa1FKZDxQQ</link> 
+</item> 
+<item> 
+  <title>DRAGON BALL Z</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReHLAgTEjegt3NCxAGOAQNbw</link> 
+</item> 
+<item> 
+  <title>MORTAL KOMBAT</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReIdajznuCbn3doFQuPBDq5M</link> 
+</item> 
+<item> 
+  <title>MR.BEN</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReONryQ7EbsjGd9aJ1Hi2frM</link> 
+</item> 
+<item> 
+  <title>NARUTO</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReFcRzDuJs5Igr77PrcB4IvM</link> 
+</item> 
+<item> 
+  <title>NARUTO SHIPPUDEN</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReCaejPLiilu_UcmhsJYhKhw</link> 
+</item> 
+<item> 
+  <title>O FANTÁSTICO MUNDO DE BOBBY</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReCNN64GRw5L6DuyUBuBYNig</link> 
+</item> 
+<item> 
+  <title>O INSPETOR</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReJVWaOTEXqKQcSi2T0iichg</link> 
+</item> 
+<item> 
+  <title>O MASKARA</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReLgPxK-r7Mq34nCzstv6a4M</link> 
+</item> 
+<item> 
+  <title>OS CAVALEIROS DO ZODIACO</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReFrYFTKPGKR3aeIWgcUukNI</link> 
+</item> 
+<item> 
+  <title>OS FLINTSTONES</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2RePCCml_KiD85zcoSCNJs-eE</link> 
+</item> 
+<item> 
+  <title>OS SIMPSONS</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReDNzL_rgXvmVhNe-EtVMUtY</link> 
+</item> 
+<item> 
+  <title>OS URSINHOS CARINHOSOS</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2RePKPteoIt4nmzQjJqKwWx5M</link> 
+</item> 
+<item> 
+  <title>OS VINGADORES</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReCTfO85Do3KzT5KD3fO1roQ</link> 
+</item> 
+<item> 
+  <title>PAPA - LÉGUAS</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReBUjyA0Zez2Uw4-sB0QCCEQ</link> 
+</item> 
+<item> 
+  <title>PEPPA PIG</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReEM4BUNlOf9rGhk4hd9o8RU</link> 
+</item> 
+<item> 
+  <title>PEQUENOS ESPIÕES</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReMP1xt9nBBblDu-t8SFFwY4</link> 
+</item> 
+<item> 
+  <title>PERNALONGA</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReNxXuiUVKMyjCVHZ0X70lXk</link> 
+</item> 
+<item> 
+  <title>PHINEAS E FERB</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReG9tOPfwMC-guqF8yzkayxE</link> 
+</item> 
+<item> 
+  <title>PICA PAU</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReHRCcDK5PlzNAI5q55RH7fY</link> 
+</item> 
+<item> 
+  <title>PINK E CEREBRO</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReEz_jp4DQrRsOYNnUFGSt3g</link> 
+</item> 
+<item> 
+  <title>POKÉMON</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReF_Al6x_pb5m4M5duV_tyMg</link> 
+</item> 
+<item> 
+  <title>RAMBO</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReFtxjGcve8Lh3fbxPKLzSbM</link> 
+</item> 
+<item> 
+  <title>RUGRATS - OS ANJINHOS</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReAHuQfvYu0syx1iV9E6KNK0</link> 
+</item> 
+<item> 
+  <title>TODO MUNDO ODEIA O CHRIS</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReJVM1gE14oFppaUB1W2kbFw</link> 
+</item> 
+<item> 
+  <title>TOM & JERRY</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReOlp5_9kc1ggQlXAQOyCbkc</link> 
+</item> 
+<item> 
+  <title>TRÊS ESPIÃS DEMAIS</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2RePDE66fUlBr72bx-tRJI254</link> 
+</item> 
+<item> 
+  <title>UM MALUCO NO PEDAÇO</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2RePKIbdelo7IaIwbXGMAiWgI</link> 
+</item> 
+<item> 
+  <title>UMA FAMILIA DA PESADA</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReI4cW7rvIi5s2u6UJ5VyEZs</link> 
+</item> 
+<item> 
+  <title>VAI QUE COLA</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReFVD7ob8DSfZ2b2lnqBaNiw</link> 
+</item> 
+<item> 
+  <title>VELOZES E FURIOSOS</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2RePAL7GPPN_Vta8coCVTflN8</link> 
+</item> 
+<item> 
+  <title>X-MAN</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReL7cUMeCgx_b5AdqnuRvfn0</link> 
+</item> 
+<item> 
+  <title>XENA</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReE7AV9qFbzzzCKHGnEOWzzU</link> 
+</item> 
+<item> 
+  <title>YU-YU-HAKUSHO</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReEoQ6fCj-fn-aNX7P_oBVc4</link> 
+</item> 
+<item> 
+  <title>24 HORAS: A VIDA MODERNA DE ROCKO</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReI-mejqgIra1-fPIrRzCEFk</link> 
+</item> 
+<item> 
+  <title>24 HORAS: A XERIFE CALIIE NO OESTE</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReK_ur7qcMju_TijlhvZjmDs</link> 
+</item> 
+<item> 
+  <title>24 HORAS: ABOMINAVEL E A CIDADE ESCONDIDA</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReEZ4t0dDvVqcI0p3RdNncEA</link> 
+</item> 
+<item> 
+  <title>24 HORAS: ACAMPAMENTO DE VERAO</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReENbNv2QIGMCeryZxn8Gbcs</link> 
+</item> 
+<item> 
+  <title>24 HORAS: ACE VENTURA</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReLqhiYbY8EkTGo2oS7ZOnn4</link> 
+</item> 
+<item> 
+  <title>24 HORAS: ACORDA CARLO//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/2084px-Logo_TVE-24h.svg.pnggroup-title="CANAIS | 24H-24 HORAS: ACORDA CARL)</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReKZ6eIyF64Ie_CfyjGaw-1Q</link> 
+</item> 
+<item> 
+  <title>24 HORAS: AH MEGAMI SAMA</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReBtgyAqKsxJsTGr5WIY78u4</link> 
+</item> 
+<item> 
+  <title>24 HORAS: AIKA</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReMqSEoAWrE9f2M5QKl_Irv0</link> 
+</item> 
+<item> 
+  <title>24 HORAS: AIR MASTER</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReJHfeIA4x9BwqdwwKuGNvXM</link> 
+</item> 
+<item> 
+  <title>24 HORAS: AISHITERUZE BABY</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReBqWTc9zWQDgYEFG7G7HjX8</link> 
+</item> 
+<item> 
+  <title>24 HORAS: AJIN</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2RePIEMF86_6Lqq7qHc15UByE</link> 
+</item> 
+<item> 
+  <title>24 HORAS: AKAME GA KILL</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReAOYyuPdJ3zPyERAmP6bG3M</link> 
+</item> 
+<item> 
+  <title>AXN UHD</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2RePoRp-QXkcRo6bDrUfQm6ak</link> 
+</item> 
+<item> 
+  <title>BAND SPORTS UHD</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReGtQ2iAZkNyIkcE9g7ma32k</link> 
+</item> 
+<item> 
+  <title>CNN BRASIL UHD</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReKVZb-TRo0HnvtpK8VYbEMw</link> 
+</item> 
+<item> 
+  <title>ESPN 2 UHD</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReEeYh7jzWy9OTMMt2BX4_pg</link> 
+</item> 
+<item> 
+  <title>ESPN UHD</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2RePIv7appjFUDfDGPVyVc_rI</link> 
+</item> 
+<item> 
+  <title>GLOBO SAO PAULO UHD</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2RePzU9iwMXC3SFcV25ASeoIo</link> 
+</item> 
+<item> 
+  <title>GLOBO RIO UHD</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReEnX3FQTw_rLkakj7lwdiws</link> 
+</item> 
+<item> 
+  <title>PREMIERE CLUBES UHD</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReBqHT3nz44aNStgOxpDj3EQ</link> 
+</item> 
+<item> 
+  <title>SPORTV UHD</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReDdmGErFbvfG9RFEPueVZVg</link> 
+</item> 
+<item> 
+  <title>SPORTV 2 UHD</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReIcKbIbcS3XZDIFIRmDspUc</link> 
+</item> 
+<item> 
+  <title>SPORTV 3 UHD</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReHehiETmGOtR4552EloRsbk</link> 
+</item> 
+<item> 
+  <title>TNT UHD</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReCytDTJnx6_4WYYSbIh-5CQ</link> 
+</item> 
+<item> 
+  <title>TELECINE PREMIUM UHD</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReNMsUa4pdKBA4GIphXbvkoM</link> 
+</item> 
+<item> 
+  <title>TELECINE PIPOCA UHD</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReGmigi61UcCCI71IwfXTPsI</link> 
+</item> 
+<item> 
+  <title>TELECINE ACTION UHD</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReHAJ-Jg33HZglq_UC9sbErA</link> 
+</item> 
+<item> 
+  <title>00s Replay</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReGhXsH9L8fwTiCri0wcG_yM</link> 
+</item> 
+<item> 
+  <title>100% Docs</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2RePGQj7qlQ2zU_37bwDCBVh4</link> 
+</item> 
+<item> 
+  <title>11 Канал</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReFr3Mw02Kxbnbo2IkRv9VBo</link> 
+</item> 
+<item> 
+  <title>13Max Televisión</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReO18i8d_g0fWWHjZVy3B3x4</link> 
+</item> 
+<item> 
+  <title>15tv Sabinas</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReK2Pg5EVuhw_pmqnnxxs5yk</link> 
+</item> 
+<item> 
+  <title>20 Minutes TV</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2RePWsUKUYQBycOWma1FKti6c</link> 
+</item> 
+<item> 
+  <title></title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReC3Dmhr8R3aKu578RvHk2Zw</link> 
+</item> 
+<item> 
+  <title>24 Hour Free Movies</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReKgwnW0ranwH9pI-8kdVk4E</link> 
+</item> 
+<item> 
+  <title>24/7 Canal de Noticias</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReCs4mNrHcfcznv377JDaGqI</link> 
+</item> 
+<item> 
+  <title>247 Retro TV</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReO37QV6q-P4Lj2hgHaJEc9s</link> 
+</item> 
+<item> 
+  <title>30A Darcizzle Offshore</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2RePS2ZknV11P3Eqv-ArvFNOo</link> 
+</item> 
+<item> 
+  <title>30A Georgia Hollywood Review TV</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReAGdWe7ODVDMvsnlnzz-t0k</link> 
+</item> 
+<item> 
+  <title>30A Golf Kingdom</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReMzHfZr58gQVD8MPW3OVoM8</link> 
+</item> 
+<item> 
+  <title>30A Investment Pitch</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReOFiad70IKqurdhdi3VlJLc</link> 
+</item> 
+<item> 
+  <title>30A Lionel Nation TV</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReJVc4uzBSct45l_SEFLMRtI</link> 
+</item> 
+<item> 
+  <title>30A Loomered TV</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReGG5lbRQ2Rki7KFLxalEzRo</link> 
+</item> 
+<item> 
+  <title>30A Luxe Life Discovered</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReHik-z-NHJuE_dxMDY9j8i8</link> 
+</item> 
+<item> 
+  <title>30A Music Channel</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReBqFsC4mSoye-OveZHjrnOw</link> 
+</item> 
+<item> 
+  <title>30A Sidewalks</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReI4N8g8ZklR4WnFcHq5_JO4</link> 
+</item> 
+<item> 
+  <title>30A Television Channel</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReA5SWX3YZeqeQDETZp_WQeY</link> 
+</item> 
+<item> 
+  <title>30A The Beach Show</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReLzJOpyM8bkW5vS9jxloQ7g</link> 
+</item> 
+<item> 
+  <title>30A TV Classic Movies</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReOI5uW4cohCrzA1r7GXVnmg</link> 
+</item> 
+<item> 
+  <title>30A We Love Cars</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReDekdMkCp6X4QblaH8DRt_I</link> 
+</item> 
+<item> 
+  <title>3ABN Proclaim//yt3.googleusercontent.com/ytc/AIdro_mb4TLclxAUPvlnV84blg4YSnZYjspMitP_sS2rX_5IYQ=s512-c-k-c0x00ffffff-no-rjgroup-title="CANAIS | USA-3ABN Proclaim Networ)</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReL4GAdCEQVYknxXv7joS4hE</link> 
+</item> 
+<item> 
+  <title>4 Adventure</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReOF1Sh_Nm0bBM76PQWNkTKY</link> 
+</item> 
+<item> 
+  <title>4 Emergency</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReHe-hdppRDpyFo7A3FkeLJY</link> 
+</item> 
+<item> 
+  <title>48 Hours</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReOOGSgKLwWpN_kQlk1pKnEI</link> 
+</item> 
+<item> 
+  <title>4DmasNoticias TV</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReLp1d7duV6BsJDIoa2UfScE</link> 
+</item> 
+<item> 
+  <title>4UV</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReNHUmuC1LckPZ9LEO-cW7ko</link> 
+</item> 
+<item> 
+  <title>5TV Corrientes</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReALHkkJqQKJRH9LLrG8ZrXU</link> 
+</item> 
+<item> 
+  <title>70s Cinema</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReNfvGcEuWhsjeVwAvBPKGOs</link> 
+</item> 
+<item> 
+  <title>7ALimoges</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2RePn_qkjSTJRYYsZxpt1L6uk</link> 
+</item> 
+<item> 
+  <title>80s Rewind</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReKvITtJOR1a6eSYeSW5pFxk</link> 
+</item> 
+<item> 
+  <title>90's Kids</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReNcdaeFjAuh1JYlsfrE8XfI</link> 
+</item> 
+<item> 
+  <title>90210</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReAD2L6aDD0ZsIZ3_T_cbow0</link> 
+</item> 
+<item> 
+  <title>90s Throwback</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReEwH1WVPMgU2L2YFGqo1q_8</link> 
+</item> 
+<item> 
+  <title>947 Joburg</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2RePj2o3x64EXMVamwETdUVTI</link> 
+</item> 
+<item> 
+  <title>A12 TV</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReNLUcqrPMl0p2rIHxibD5Ug</link> 
+</item> 
+<item> 
+  <title>A24</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReF8dyslG6_Myjqx8_uGEQdo</link> 
+</item> 
+<item> 
+  <title>AABC TV</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReGMFtIYCl_B2KqLeiPSeZe0</link> 
+</item> 
+<item> 
+  <title>AACTV America's Auction Channel</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReMcynGmovEQODBDHEc84vX0</link> 
+</item> 
+<item> 
+  <title> Miami F)</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReELDATJuY2vPRKQYKnwZ41U</link> 
+</item> 
+<item> 
+  <title></title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReEqNWYpUGc8TX1MPFRLqLAg</link> 
+</item> 
+<item> 
+  <title></title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReD6wIfWCcR7yhZZz8RZ7czE</link> 
+</item> 
+<item> 
+  <title></title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReBrb3oUGm2WL-b3hQeho5Qc</link> 
+</item> 
+<item> 
+  <title></title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReFOHUtYTBWug_kCcyTdjp3Y</link> 
+</item> 
+<item> 
+  <title></title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReNcmqwYFAS3DBtr4vTg74zI</link> 
+</item> 
+<item> 
+  <title></title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReD067mXCzgbNgiXMYPeqbrE</link> 
+</item> 
+<item> 
+  <title></title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReFYamqd69iSgqhZY99gjsQs</link> 
+</item> 
+<item> 
+  <title></title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReLPsIk5_9LBUdlkw09C5H-s</link> 
+</item> 
+<item> 
+  <title></title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReFu-l-CUp1W0wdGEcc7zU4w</link> 
+</item> 
+<item> 
+  <title></title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReLk0YVia_E89KSUbCOZTV_8</link> 
+</item> 
+<item> 
+  <title>ABC 25 News Central Texas</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReLWzRKMHINRb4C4EZVdRqTI</link> 
+</item> 
+<item> 
+  <title></title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReGk6LyKur7ROqvcTftlZGo4</link> 
+</item> 
+<item> 
+  <title></title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReOj0fiUu_vHsXhlcg4d3KLU</link> 
+</item> 
+<item> 
+  <title></title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReH8jC1GiJjeAo9adElsj9nQ</link> 
+</item> 
+<item> 
+  <title></title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReFROi2qcm0dZ3ILGoRk1yoo</link> 
+</item> 
+<item> 
+  <title></title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReH9sr2uy7KQWXWxUc_2rKRw</link> 
+</item> 
+<item> 
+  <title></title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReGVBWFmeG9vPzeEcb5GHGmc</link> 
+</item> 
+<item> 
+  <title></title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReFz1dnkuBlBH4e0Pmy4k9BQ</link> 
+</item> 
+<item> 
+  <title>ABC 5</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReHfqXz1ee9yt3jDsnyYh_ww</link> 
+</item> 
+<item> 
+  <title></title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReDKscOxvvsOaEX4TTSxEpVE</link> 
+</item> 
+<item> 
+  <title></title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReB_AQQLqXMB3CDOQbS4F4To</link> 
+</item> 
+<item> 
+  <title></title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReJmsW04paKUVhceztj34xx4</link> 
+</item> 
+<item> 
+  <title></title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReA21TjHjTXUZokGPTL6GnQo</link> 
+</item> 
+<item> 
+  <title></title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReLawIAXdmBGRs8Cjw9_tNdA</link> 
+</item> 
+<item> 
+  <title></title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReAr_lKT5ziLV2Tr2Jy9okgE</link> 
+</item> 
+<item> 
+  <title></title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReMQvCbbTxtCKMuDEPko0d4E</link> 
+</item> 
+<item> 
+  <title></title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReAm7-xahNzh81kcPIvCYGPI</link> 
+</item> 
+<item> 
+  <title></title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReC6nO3bg7FrrfLVOkH35dzM</link> 
+</item> 
+<item> 
+  <title></title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReJUqYekA6jZnjVQIcSWinvQ</link> 
+</item> 
+<item> 
+  <title></title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReHccQRzFEvmzaWbx4rcObNM</link> 
+</item> 
+<item> 
+  <title></title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReGDK3_z0b4oXg0XDEaSAo3k</link> 
+</item> 
+<item> 
+  <title></title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReIFs7ocrVnLIwX8BgvcYzkA</link> 
+</item> 
+<item> 
+  <title></title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReMNdO0U8STeNoW9kvE8rZjM</link> 
+</item> 
+<item> 
+  <title></title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReJhXQCr0UOMHbDVP58ewZjY</link> 
+</item> 
+<item> 
+  <title></title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReExQnDDcYb5P4Rmxs9t_jLE</link> 
+</item> 
+<item> 
+  <title></title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReKEloqOgC3CsPZDVisM4y9Y</link> 
+</item> 
+<item> 
+  <title></title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2RePhXoRRac8LzBkmYLcW-prs</link> 
+</item> 
+<item> 
+  <title></title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReAr2o7SfBDOEGq9A27v_JPc</link> 
+</item> 
+<item> 
+  <title></title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReE7aron_FOOi0qNWNBFR7Uk</link> 
+</item> 
+<item> 
+  <title>ABC News Live 1</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReEUi3puuEZSjMnbRz8fL-5M</link> 
+</item> 
+<item> 
+  <title>ABC News Live 10</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReFFEOqHRXbS59eLBa2pQ90I</link> 
+</item> 
+<item> 
+  <title>ABC News Live 2</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReP_flntjipvwarO6beh8KXk</link> 
+</item> 
+<item> 
+  <title>ABC News Live 3</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReLemmjGrtSquOLbPcwLXlEs</link> 
+</item> 
+<item> 
+  <title>ABC News Live 4</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReMEaIO_7K5lr7PBXh0bbbWg</link> 
+</item> 
+<item> 
+  <title>ABC News Live 5</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2RePktECVIMmHzhaTQNCFTh0I</link> 
+</item> 
+<item> 
+  <title>ABC News Live 6</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReDQOjZ9fLl72CdOX0KSdETc</link> 
+</item> 
+<item> 
+  <title>ABC News Live 7</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReBNT7OBb49lgasFU-oHEDkw</link> 
+</item> 
+<item> 
+  <title>ABC News Live 8</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReB5iAHO8fCxUjgiDnKyrngg</link> 
+</item> 
+<item> 
+  <title>ABC News Live 9</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReArNTgGKKc0yecI7AeG1Plo</link> 
+</item> 
+<item> 
+  <title></title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2RePFp6UaendXaprV4c63gIZo</link> 
+</item> 
+<item> 
+  <title></title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReMGZ2-mvlKX-7aW445Pwd2U</link> 
+</item> 
+<item> 
+  <title>ABC WWAY 3</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReML25XATUhVLyXISR68_nsU</link> 
+</item> 
+<item> 
+  <title>ABC-TV Paraguay</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReMYPEL35DBo4SlsmmG67RgU</link> 
+</item> 
+<item> 
+  <title>ABN Afghanistan</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReDH5qR6RC5p6sMuIjkkU-Ts</link> 
+</item> 
+<item> 
+  <title>ABN Africa</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReHZg2SsziIfPRSK_vwaPBlk</link> 
+</item> 
+<item> 
+  <title>ABN Aramaic Broadcasting Network</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReM6I_rEXn5mD_bY3VUobVA0</link> 
+</item> 
+<item> 
+  <title>ABN Bible Movies</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReCnRNVPltqTpsWAp6Qod59U</link> 
+</item> 
+<item> 
+  <title>ABN China</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReLZjnvQE-sFrlAJkn1auaoI</link> 
+</item> 
+<item> 
+  <title>ABN TV India</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2RePU5vf5JU_flI0S5N_dy6Ig</link> 
+</item> 
+<item> 
+  <title>ABN Urdu</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReM_mT5WNrQK2H4isdsK_azI</link> 
+</item> 
+<item> 
+  <title>Acapulco Shore</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReAF_GrvG7K2s9NRC27uH5H4</link> 
+</item> 
+<item> 
+  <title>Access Humboldt</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReB_X3E_688a2XzcirNvHWXw</link> 
+</item> 
+<item> 
+  <title>Access La Porte Country</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReJbNYjLREmax68FNm4MZAis</link> 
+</item> 
+<item> 
+  <title>Access Media Productions Channel</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReMg6Rbgzm-NdziGbduvAaLw</link> 
+</item> 
+<item> 
+  <title>Access Media Productions Community Channel</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReJVHJxrrgQKq4cUfUkPZmXg</link> 
+</item> 
+<item> 
+  <title>Access Media Productions Marina TV</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReDJwnQgSI-esUE97UWcxY-c</link> 
+</item> 
+<item> 
+  <title>Access Media Productions Monterey Channel</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReInHjyF6ZYjrL_RjtuE8iCw</link> 
+</item> 
+<item> 
+  <title>Access Media Productions Peninsula Channel</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReCf9juCIj5YMypHTtyRxy3Q</link> 
+</item> 
+<item> 
+  <title>Access Nashua</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2RePI6yuVCs7oobvCLUwlCIHo</link> 
+</item> 
+<item> 
+  <title>Access Sacramento Channel 17</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReEKbQhiRD1XHXPE__Zqdmnw</link> 
+</item> 
+<item> 
+  <title>Access Sacramento Channel 18</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2RePJTy2ec8-eqFotb2LOSuOo</link> 
+</item> 
+<item> 
+  <title></title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReLQbWz1CftrcWKWvpgSVJGo</link> 
+</item> 
+<item> 
+  <title></title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2RePq72oYwuDmvn2n-12T7ynY</link> 
+</item> 
+<item> 
+  <title>AccessVision Channel 16</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReJD61vTd8nhTCCuZLaI5ioc</link> 
+</item> 
+<item> 
+  <title>AccessVision Channel 17</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReLIhPvheC7tVaxwjXEHN5To</link> 
+</item> 
+<item> 
+  <title>Accion Mexicana</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReHmN7lTAydq3ljZJ0YuKfhQ</link> 
+</item> 
+<item> 
+  <title>AccuWeather Now</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReCFVM30F2ZbsSn3h9E-F7uU</link> 
+</item> 
+<item> 
+  <title></title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReNVvNCRufi31JBDXzr0rE54</link> 
+</item> 
+<item> 
+  <title>Acequia TV</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReF5lUeUHI-pGF2uCiVT2gYo</link> 
+</item> 
+<item> 
+  <title></title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReL4AdbY86UXgIGBs3le2h20</link> 
+</item> 
+<item> 
+  <title>Action Drama</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReBg8ztK9UQnJrfqos2RFd_k</link> 
+</item> 
+<item> 
+  <title>ACTV</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReHAQvMZ7u4vhJ5pmnQPJv0g</link> 
+</item> 
+<item> 
+  <title>Adjugé vendu)</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReI8JXZs7mEY3ZXAUToNrIuo</link> 
+</item> 
+<item> 
+  <title>ADN 40</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReMlwsPPI9AzLwafftIiwAi8</link> 
+</item> 
+<item> 
+  <title>ADN TV+  [Geo-Blocked]</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReE0Go0shme-KExQ5p2s_JI8</link> 
+</item> 
+<item> 
+  <title>Africa 24</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReDShw8FwaNBKid5jCUj3kr4</link> 
+</item> 
+<item> 
+  <title>Africa 24</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReAN9mHmCZrq8HA7QkOgyf_o</link> 
+</item> 
+<item> 
+  <title>Africanews</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReN3pe7B_JvmWPCENITepxwI</link> 
+</item> 
+<item> 
+  <title>AfricaNews Français</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReEwmeSPKDre6q_AVJI9L18Y</link> 
+</item> 
+<item> 
+  <title>AfroLandTV</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReIdV9j24KBfVzCBJrkzFYS0</link> 
+</item> 
+<item> 
+  <title>AFV</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReOcu02F4pgeTukc8ZHYYyJg</link> 
+</item> 
+<item> 
+  <title>AFV en Español</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReJoxCgNDNhg9wxhNokoPZ6A</link> 
+</item> 
+<item> 
+  <title>AFV Family</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReEtPXYSVNo3ceLScIo03xuk</link> 
+</item> 
+<item> 
+  <title>Agenda Al Día TV</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReFWCYQ_EZT-rYEFpByd02Gg</link> 
+</item> 
+<item> 
+  <title>Aghapy Kids</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReDHWra1BFzts1BUVFSqM8fU</link> 
+</item> 
+<item> 
+  <title>Agrotendencia TV</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReGatvJC5Oa6Ru_TRIf4OVIo</link> 
+</item> 
+<item> 
+  <title>Aguacate TV</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReKDFcag4AJwPEN9-uW2rZoI</link> 
+</item> 
+<item> 
+  <title>Aire de Santa Fe</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReGacWGnz8NLVwWHcUDc5Pbw</link> 
+</item> 
+<item> 
+  <title></title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReOHgefcDfKbXxICmVWadHl4</link> 
+</item> 
+<item> 
+  <title></title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReCrYytxau8FD0kJrppmNwiw</link> 
+</item> 
+<item> 
+  <title></title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReHEdo_XrdUmv5tT746O4vSE</link> 
+</item> 
+<item> 
+  <title>AKC TV</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReG5DUW_g5_Nj4LeTE8gAau0</link> 
+</item> 
+<item> 
+  <title>AKC TV Meet The Breeds</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReG47MgsQU4Ub2glrGvtRm-A</link> 
+</item> 
+<item> 
+  <title>AKC TV Puppies 24/7</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2RePRMqmpRkRsDTwB-itjsS0U</link> 
+</item> 
+<item> 
+  <title>Al Horreya TV</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReN_RxrOk7SAQxbDwtQuS1xE</link> 
+</item> 
+<item> 
+  <title>Al-Fady TV</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReE5kAzoherVlGBAc241XUVE</link> 
+</item> 
+<item> 
+  <title>Al-MahdiTV</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReMim8PGRAaXBmNdQ9O9t4Qw</link> 
+</item> 
+<item> 
+  <title>Alan Becker TV</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReFW9TdglDE2HMITqVlSJybg</link> 
+</item> 
+<item> 
+  <title>AlbDreams TV</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReBFlXwwFb_8mndn6C73U-V0</link> 
+</item> 
+<item> 
+  <title>Albi TV</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReMhoE5zo2FponQVZHfnh7Gw</link> 
+</item> 
+<item> 
+  <title>Alcance TV</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReMJZ7gPzp5WVvAO5k2GGeBY</link> 
+</item> 
+<item> 
+  <title>Alerte Cobra</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReLEDHugsGkCKAO_3-P0MH8o</link> 
+</item> 
+<item> 
+  <title>ALF</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReKy_td3XLvgQKqa3GUblifY</link> 
+</item> 
+<item> 
+  <title>Alhurra Iraq</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReOBf_NqxbJbcE1q04MtzCBI</link> 
+</item> 
+<item> 
+  <title>Alien Nation</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReHSUv4LkvhvqtR9-WzdOC6M</link> 
+</item> 
+<item> 
+  <title>Aliento Vision</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReAhZZwR6yYEABywHMiryyvs</link> 
+</item> 
+<item> 
+  <title>Alkarma TV Australia</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReKcKTjLcgXyUVUxR62Q72So</link> 
+</item> 
+<item> 
+  <title>Alkarma TV Family</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReCRlzsSULjDBzxLh0A3INA0</link> 
+</item> 
+<item> 
+  <title>Alkarma TV Middle East</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReGaQL_f2qRJPXIdz6XHPn30</link> 
+</item> 
+<item> 
+  <title>Alkarma TV North America & Canada</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReOS2Wgpv7KEkdYin0jpQumE</link> 
+</item> 
+<item> 
+  <title>Alkarma TV Praise</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReFwsjo7apwyIS9JHk6fkAdc</link> 
+</item> 
+<item> 
+  <title></title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReC1RRRxtZ6HMOqnkKImUgVQ</link> 
+</item> 
+<item> 
+  <title>Alkarma TV Youth & English</title> 
+  <link>http://www-cloudinit-cdn0907-com.yahv.us:80/play/L0Cji-q-csyJxHxjoI2ReH7vlb44FgBAw9kGkoYMoMw</link> 
+</item> 
+</items>
