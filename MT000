@@ -6,7 +6,7 @@
 <thumbnail>https://raw.githubusercontent.com/icefenixfire/T/main/T0001.webp</thumbnail>
 <link>$nome=[COLOR lime]SPORTV[/COLOR]</link>
 <link>$nome=[COLOR lime]SPORTV 2[/COLOR]</link>
-<link>plugin://pvr.iptvsimple/?action=play&http://p2.hostinggonemoreso1.com:2082/Tourobox1-DdlLAZP3FN/TITAuTpF7X/175$nome=[COLOR lime]SPORTV 3[/COLOR]</link>
+<link>plugin://inputstream.ffmpegdirect/?action=play&http://p2.hostinggonemoreso1.com:2082/Tourobox1-DdlLAZP3FN/TITAuTpF7X/175$nome=[COLOR lime]SPORTV 3[/COLOR]</link>
 <info></info>
 <genre>Esportes</genre>
 </item>
