@@ -55,15 +55,6 @@
 </channel>
 
 <channel>
-<name>[B]MAGILUMIERE: COMPANHIA DAS GAROTAS MÁGICAS ● 2024...[/B]</name>
-<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0291.webp</thumbnail>
-<externallink>https://raw.githubusercontent.com/icefenixfire/X/main/A/A0291</externallink>
-<fanart></fanart>
-<genre>[COLOR blue]DUBLADO[/COLOR]</genre>
-<info>[COLOR yellow][B]● Classificação +12[/B][/COLOR]</info>
-</channel>
-
-<channel>
 <name>[B]KENGAN ASHURA ● 2019-2023[/B]</name>
 <thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0095.webp</thumbnail>
 <externallink>https://raw.githubusercontent.com/icefenixfire/X/main/A/A0095</externallink>
@@ -71,6 +62,15 @@
 <genre>[COLOR blue]DUBLADO[/COLOR]</genre>
 <info>[COLOR crimson][B]● Classificação +18[/B][/COLOR]
 TEMPORADAS | FINALIZADO</info>
+</channel>
+
+<channel>
+<name>[B]MAGILUMIERE: COMPANHIA DAS GAROTAS MÁGICAS ● 2024...[/B]</name>
+<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0291.webp</thumbnail>
+<externallink>https://raw.githubusercontent.com/icefenixfire/X/main/A/A0291</externallink>
+<fanart></fanart>
+<genre>[COLOR blue]DUBLADO[/COLOR]</genre>
+<info>[COLOR yellow][B]● Classificação +12[/B][/COLOR]</info>
 </channel>
 
 <channel>
