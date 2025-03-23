@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <channels>
 
 <channel>
@@ -920,7 +921,7 @@ STATUS: Finalizado</info>
 <externallink>https://raw.githubusercontent.com/icefenixfire/X/main/A/A0262</externallink>
 <fanart></fanart>
 <genre></genre>
-<info>[COLOR crimson][B]● Classificação +18[/B][/COLOR]</info>
+<info>[COLOR crimson][B]● Classificação +18[/B][/COLOR]
 ÁUDIO: Japonês
 ANO: 2006
 TEMPORADAS: 1
@@ -1046,7 +1047,7 @@ STATUS: Finalizado</info>
 <externallink>https://raw.githubusercontent.com/icefenixfire/X/main/A/A0126</externallink>
 <fanart></fanart>
 <genre></genre>
-<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]</info>
+<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]
 ÁUDIO: Português
 ANO: 2019 - 2024
 TEMPORADAS: 3
@@ -1069,374 +1070,579 @@ STATUS: Finalizado</info>
 </channel>
 
 <channel>
-<name>[B]BORUTO: NARUTO NEXT GENERATIONS ● 2017...[/B]</name>
+<name>[B]BORUTO: NARUTO NEXT GENERATIONS[/B]</name>
 <thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0171.webp</thumbnail>
 <externallink>https://raw.githubusercontent.com/icefenixfire/X/main/A/A0171</externallink>
 <fanart></fanart>
-<genre>[COLOR blue]LEGENDADO[/COLOR]</genre>
-<info>[COLOR yellow][B]● Classificação +12[/B][/COLOR]</info>
+<genre></genre>
+<info>[COLOR yellow][B]● Classificação +12[/B][/COLOR]
+ÁUDIO: Japonês
+ANO: 2017
+TEMPORADAS: 1
+EPISÓDIOS: 193 de 293
+STATUS: Renovado</info>
 </channel>
 
 <channel>
-<name>[B]BURN THE WITCH ● 2020...[/B]</name>
+<name>[B]BURN THE WITCH[/B]</name>
 <thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0164.webp</thumbnail>
 <externallink>https://raw.githubusercontent.com/icefenixfire/X/main/A/A0164</externallink>
 <fanart></fanart>
-<genre>[COLOR blue]DUBLADO[/COLOR]</genre>
-<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]</info>
+<genre></genre>
+<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2020
+TEMPORADAS: 1
+EPISÓDIOS: 3
+STATUS: Cancelado</info>
 </channel>
 
 <channel>
-<name>[B]BAKI, O CAMPEÃO ● 2018...[/B]</name>
+<name>[B]BAKI, O CAMPEÃO[/B]</name>
 <thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0054.webp</thumbnail>
 <externallink>https://raw.githubusercontent.com/icefenixfire/X/main/A/A0054</externallink>
 <fanart></fanart>
-<genre>[COLOR blue]DUBLADO[/COLOR]</genre>
-<info>[COLOR crimson][B]● Classificação +18[/B][/COLOR]</info>
+<genre></genre>
+<info>[COLOR crimson][B]● Classificação +18[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2018
+TEMPORADAS: 2
+EPISÓDIOS: 36
+STATUS: Finalizado</info>
 </channel>
 
 <channel>
-<name>[B]BLEACH ● 2004...[/B]</name>
+<name>[B]BLEACH[/B]</name>
 <thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0099.webp</thumbnail>
 <externallink>https://raw.githubusercontent.com/icefenixfire/X/main/A/A0099</externallink>
 <fanart></fanart>
-<genre>[COLOR blue]DUBLADO[/COLOR]</genre>
-<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]</info>
+<genre></genre>
+<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2004 - 2012
+TEMPORADAS: 1
+EPISÓDIOS: 366
+STATUS: Finalizado | Incompleto</info>
 </channel>
 
 <channel>
-<name>[B]BUCKY ● 1999 - 2000[/B]</name>
+<name>[B]BUCKY[/B]</name>
 <thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0003.webp</thumbnail>
 <externallink>https://raw.githubusercontent.com/icefenixfire/X/main/A/A0003</externallink>
 <fanart></fanart>
-<genre>[COLOR blue]DUBLADO[/COLOR]</genre>
-<info>[COLOR lime][B]● Classificação LIVRE[/B][/COLOR]</info>
+<genre></genre>
+<info>[COLOR lime][B]● Classificação LIVRE[/B][/COLOR]
+ÁUDIO: Português
+ANO: 1999
+TEMPORADAS: 1
+EPISÓDIOS: 26
+STATUS: Finalizado | Incompleto</info>
 </channel>
 
 <channel>
-<name>[B]CHAINSAW MAN ● 2022...[/B]</name>
+<name>[B]CHAINSAW MAN[/B]</name>
 <thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0244.webp</thumbnail>
 <externallink>https://raw.githubusercontent.com/icefenixfire/X/main/A/A0244</externallink>
 <fanart></fanart>
-<genre>[COLOR blue]DUBLADO[/COLOR]</genre>
-<info>[COLOR crimson][B]● Classificação +18[/B][/COLOR]</info>
+<genre></genre>
+<info>[COLOR crimson][B]● Classificação +18[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2022
+TEMPORADAS: 1
+EPISÓDIOS: 12
+STATUS: Renovado</info>
 </channel>
 
 <channel>
-<name>[B]CYBERPUNK: MERCENÁRIOS ● 2022...[/B]</name>
+<name>[B]CYBERPUNK: MERCENÁRIOS[/B]</name>
 <thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0241.webp</thumbnail>
 <externallink>https://raw.githubusercontent.com/icefenixfire/X/main/A/A0241</externallink>
 <fanart></fanart>
-<genre>[COLOR blue]DUBLADO[/COLOR]</genre>
-<info>[COLOR crimson][B]● Classificação +18[/B][/COLOR]</info>
+<genre></genre>
+<info>[COLOR crimson][B]● Classificação +18[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2022
+TEMPORADAS: 1
+EPISÓDIOS: 10
+STATUS: Finalizado</info>
 </channel>
 
 <channel>
-<name>[B]CÍRCULO DE FOGO: THE BLACK ● 2001[/B]</name>
+<name>[B]CÍRCULO DE FOGO: THE BLACK[/B]</name>
 <thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0151.webp</thumbnail>
 <externallink>https://raw.githubusercontent.com/icefenixfire/X/main/A/A0151</externallink>
 <fanart></fanart>
-<genre>[COLOR blue]DUBLADO[/COLOR]</genre>
-<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]</info>
+<genre></genre>
+<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2021
+TEMPORADAS: 2
+EPISÓDIOS: 14
+STATUS: Finalizado</info>
 </channel>
 
 <channel>
-<name>[B]CLAYMORE ● 2007[/B]</name>
+<name>[B]CLAYMORE[/B]</name>
 <thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0145.webp</thumbnail>
 <externallink>https://raw.githubusercontent.com/icefenixfire/X/main/A/A0145</externallink>
 <fanart></fanart>
-<genre>[COLOR blue]DUBLADO[/COLOR]</genre>
-<info>[COLOR red][B]● Classificação +16[/B][/COLOR]</info>
+<genre></genre>
+<info>[COLOR red][B]● Classificação +16[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2007
+TEMPORADAS: 1
+EPISÓDIOS: 26
+STATUS: Finalizado</info>
 </channel>
 
 <channel>
-<name>[B]CELLS AT WORK! ● 2018 - 2021[/B]</name>
+<name>[B]CELLS AT WORK![/B]</name>
 <thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0174.webp</thumbnail>
 <externallink>https://raw.githubusercontent.com/icefenixfire/X/main/A/A0174</externallink>
 <fanart></fanart>
-<genre>[COLOR blue]LEGENDADO[/COLOR]</genre>
-<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]</info>
+<genre></genre>
+<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]
+ÁUDIO: Japonês
+ANO: 2018 - 2021
+TEMPORADAS: 2
+EPISÓDIOS: 21
+STATUS: Finalizado</info>
 </channel>
 
 <channel>
-<name>[B]CANNON BUSTERS ● 2019[/B]</name>
+<name>[B]CANNON BUSTERS[/B]</name>
 <thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0058.webp</thumbnail>
 <externallink>https://raw.githubusercontent.com/icefenixfire/X/main/A/A0058</externallink>
 <fanart></fanart>
 <genre>[COLOR blue]DUBLADO[/COLOR]</genre>
 <info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]]</info>
+ÁUDIO: Português
+ANO: 2019
+TEMPORADAS: 1
+EPISÓDIOS: 12
+STATUS: Finalizado</info>
 </channel>
 
 <channel>
-<name>[B]COWBOY BEBOP ● 1998 - 1999[/B]</name>
+<name>[B]COWBOY BEBOP[/B]</name>
 <thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0023.webp</thumbnail>
 <externallink>https://raw.githubusercontent.com/icefenixfire/X/main/A/A0023</externallink>
 <fanart></fanart>
-<genre>[COLOR blue]DUBLADO[/COLOR]</genre>
-<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]</info>
+<genre></genre>
+<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]
+ÁUDIO: Português | Japonês
+ANO: 1998 - 1999
+TEMPORADAS: 1
+EPISÓDIOS: 26
+STATUS: Finalizado</info>
 </channel>
 
 <channel>
-<name>[B]CASTLEVANIA ● 2017 - 2021[/B]</name>
+<name>[B]CASTLEVANIA[/B]</name>
 <thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0004.webp</thumbnail>
 <externallink>https://raw.githubusercontent.com/icefenixfire/X/main/A/A0004</externallink>
 <fanart></fanart>
-<genre>[COLOR blue]DUBLADO[/COLOR]</genre>
-<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]</info>
+<genre></genre>
+<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2017 - 2021
+TEMPORADAS: 4
+EPISÓDIOS: 32
+STATUS: Finalizado</info>
 </channel>
 
 
 <channel>
-<name>[B]DIGIMON FRONTIER ● 2002 - 2003[/B]</name>
+<name>[B]DIGIMON FRONTIER[/B]</name>
 <thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0097.webp</thumbnail>
 <externallink>https://raw.githubusercontent.com/icefenixfire/X/main/A/A0097</externallink>
 <fanart></fanart>
-<genre>[COLOR blue]DUBLADO[/COLOR]</genre>
+<genre></genre>
 <info>[COLOR cyan][B]● Classificação +10[/B][/COLOR]</info>
+ÁUDIO: Português
+ANO: 2002
+TEMPORADAS: 1
+EPISÓDIOS: 50
+STATUS: Finalizado</info>
 </channel>
 
 <channel>
-<name>[B]DIGIMON TAMERS ● 2001 - 2002[/B]</name>
+<name>[B]DIGIMON TAMERS[/B]</name>
 <thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0096.webp</thumbnail>
 <externallink>https://raw.githubusercontent.com/icefenixfire/X/main/A/A0096</externallink>
 <fanart></fanart>
-<genre>[COLOR blue]DUBLADO[/COLOR]</genre>
+<genre></genre>
 <info>[COLOR cyan][B]● Classificação +10[/B][/COLOR]</info>
+ÁUDIO: Português
+ANO: 2001
+TEMPORADAS: 1
+EPISÓDIOS: 50
+STATUS: Finalizado</info>
 </channel>
 
 <channel>
-<name>[B]DIGIMON ADVENTURE ● 1999 - 2001[/B]</name>
+<name>[B]DIGIMON ADVENTURE[/B]</name>
 <thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0006.webp</thumbnail>
 <externallink>https://raw.githubusercontent.com/icefenixfire/X/main/A/A0006</externallink>
 <fanart></fanart>
-<genre>[COLOR blue]DUBLADO[/COLOR]</genre>
-<info>[COLOR cyan][B]● Classificação +10[/B][/COLOR]</info>
+<genre></genre>
+<info>[COLOR cyan][B]● Classificação +10[/B][/COLOR]
+ÁUDIO: Português
+ANO: 1999 - 2001
+TEMPORADAS: 2
+EPISÓDIOS: 104
+STATUS: Finalizado</info>
 </channel>
 
 <channel>
-<name>[B]DEATH NOTE ● 2006 - 2007[/B]</name>
+<name>[B]DEATH NOTE[/B]</name>
 <thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0005.webp</thumbnail>
 <externallink>https://raw.githubusercontent.com/icefenixfire/X/main/A/A0005</externallink>
 <fanart></fanart>
-<genre>[COLOR blue]DUBLADO[/COLOR]</genre>
-<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]</info>
+<genre></genre>
+<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2006
+TEMPORADAS: 1
+EPISÓDIOS: 37
+STATUS: Finalizado</info>
 </channel>
 
 <channel>
-<name>[B]DIGIMON SAVERS [DATA SQUAD] ● 2006 - 2007[/B]</name>
+<name>[B]DIGIMON SAVERS [DATA SQUAD][/B]</name>
 <thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0098.webp</thumbnail>
 <externallink>https://raw.githubusercontent.com/icefenixfire/X/main/A/A0098</externallink>
 <fanart></fanart>
-<genre>[COLOR blue]DUBLADO[/COLOR]</genre>
-<info>[COLOR cyan][B]● Classificação +10[/B][/COLOR]</info>
+<genre></genre>
+<info>[COLOR cyan][B]● Classificação +10[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2006
+TEMPORADAS: 1
+EPISÓDIOS: 48
+STATUS: Finalizado</info>
 </channel>
 
 <channel>
-<name>[B]DEATH MARCH TO THE PARALLEL WORLD RHAPSODY ● 2018[/B]</name>
+<name>[B]DEATH MARCH TO THE PARALLEL WORLD RHAPSODY[/B]</name>
 <thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0107.webp</thumbnail>
 <externallink>https://raw.githubusercontent.com/icefenixfire/X/main/A/A0107</externallink>
 <fanart></fanart>
-<genre>[COLOR blue]DUBLADO[/COLOR]</genre>
-<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]</info>
+<genre></genre>
+<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2018
+TEMPORADAS: 1
+EPISÓDIOS: 12
+STATUS: Finalizado</info>
 </channel>
 
 <channel>
-<name>[B]DIABOLIK LOVERS ● 2013-2015[/B]</name>
+<name>[B]DIABOLIK LOVERS[/B]</name>
 <thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0109.webp</thumbnail>
 <externallink>https://raw.githubusercontent.com/icefenixfire/X/main/A/A0109</externallink>
 <fanart></fanart>
-<genre>[COLOR blue]DUBLADO[/COLOR]</genre>
-<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]</info>
+<genre></genre>
+<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2013 - 2015
+TEMPORADAS: 1
+EPISÓDIOS: 12
+STATUS: Finalizado</info>
 </channel>
 
 <channel>
-<name>[B]DEVIL MAY CRY ● 2007[/B]</name>
+<name>[B]DEVIL MAY CRY[/B]</name>
 <thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0019.webp</thumbnail>
 <externallink>https://raw.githubusercontent.com/icefenixfire/X/main/A/A0019</externallink>
 <fanart></fanart>
-<genre>[COLOR blue]LEGENDADO[/COLOR]</genre>
-<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]</info>
+<genre></genre>
+<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]
+ÁUDIO: Japonês
+ANO: 2007
+TEMPORADAS: 1
+EPISÓDIOS: 12
+STATUS: Finalizado</info>
 </channel>
 
 <channel>
-<name>[B]DRAGON BALL ● 1986 - 1989[/B]</name>
+<name>[B]DRAGON BALL[/B]</name>
 <thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0025.webp</thumbnail>
 <externallink>https://raw.githubusercontent.com/icefenixfire/X/main/A/A0025</externallink>
 <fanart></fanart>
-<genre>[COLOR blue]DUBLADO[/COLOR]</genre>
-<info>[COLOR yellow][B]● Classificação +12[/B][/COLOR]</info>
+<genre></genre>
+<info>[COLOR yellow][B]● Classificação +12[/B][/COLOR]
+ÁUDIO: Português
+ANO: 1986 - 1989
+TEMPORADAS: 1
+EPISÓDIOS: 153
+STATUS: Finalizado</info>
 </channel>
 
 <channel>
-<name>[B]DRAGON BALL GT ● 1996 - 1997[/B]</name>
-<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0032.webp</thumbnail>
-<externallink>https://raw.githubusercontent.com/icefenixfire/X/main/A/A0032</externallink>
-<fanart></fanart>
-<genre>[COLOR blue]DUBLADO[/COLOR]</genre>
-<info>[COLOR yellow][B]● Classificação +12[/B][/COLOR]</info>
-</channel>
-
-<channel>
-<name>[B]DRAGON BALL Z ● 1989 - 1996[/B]</name>
+<name>[B]DRAGON BALL Z[/B]</name>
 <thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0026.webp</thumbnail>
 <externallink>https://raw.githubusercontent.com/icefenixfire/X/main/A/A0026</externallink>
 <fanart></fanart>
-<genre>[COLOR blue]DUBLADO[/COLOR]</genre>
-<info>[COLOR yellow][B]● Classificação +12[/B][/COLOR]</info>
+<genre></genre>
+<info>[COLOR yellow][B]● Classificação +12[/B][/COLOR]
+ÁUDIO: Português
+ANO: 1989 - 1996
+TEMPORADAS: 6
+EPISÓDIOS: 291
+STATUS: Finalizado</info>
 </channel>
 
 <channel>
-<name>[B]DEVILMAN CRYBABY ● 2018[/B]</name>
-<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0037.webp</thumbnail>
-<externallink>https://raw.githubusercontent.com/icefenixfire/X/main/A/A0037</externallink>
+<name>[B]DRAGON BALL GT[/B]</name>
+<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0032.webp</thumbnail>
+<externallink>https://raw.githubusercontent.com/icefenixfire/X/main/A/A0032</externallink>
 <fanart></fanart>
-<genre>[COLOR blue]DUBLADO[/COLOR]</genre>
-<info>[COLOR crimson][B]● Classificação +18[/B][/COLOR]</info>
+<genre></genre>
+<info>[COLOR yellow][B]● Classificação +12[/B][/COLOR]
+ÁUDIO: Português
+ANO: 1996
+TEMPORADAS: 4
+EPISÓDIOS: 64
+STATUS: Finalizado</info>
 </channel>
 
 <channel>
-<name>[B]DRAGON BALL SUPER ● 2015 - 2018[/B]</name>
-<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0040.webp</thumbnail>
-<externallink>https://raw.githubusercontent.com/icefenixfire/X/main/A/A0040</externallink>
-<fanart></fanart>
-<genre>[COLOR blue]DUBLADO[/COLOR]</genre>
-<info>[COLOR yellow][B]● Classificação +12[/B][/COLOR]</info>
-</channel>
-
-<channel>
-<name>[B]DRAGON BALL KAI ● 2009 - 2015[/B]</name>
+<name>[B]DRAGON BALL KAI[/B]</name>
 <thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0036.webp</thumbnail>
 <externallink>https://raw.githubusercontent.com/icefenixfire/X/main/A/A0036</externallink>
 <fanart></fanart>
-<genre>[COLOR blue]DUBLADO[/COLOR]</genre>
-<info>[COLOR yellow][B]● Classificação +12[/B][/COLOR]</info>
+<genre></genre>
+<info>[COLOR yellow][B]● Classificação +12[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2009 - 2015
+TEMPORADAS: 1
+EPISÓDIOS: 98 de 167
+STATUS: Finalizado | Incompleto</info>
 </channel>
 
 <channel>
-<name>[B]DANMACHI: É ERRADO TENTAR PEGAR GAROTAS EM UMA MASMORRA? ● 2015...[/B]</name>
+<name>[B]DRAGON BALL SUPER[/B]</name>
+<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0040.webp</thumbnail>
+<externallink>https://raw.githubusercontent.com/icefenixfire/X/main/A/A0040</externallink>
+<fanart></fanart>
+<genre></genre>
+<info>[COLOR yellow][B]● Classificação +12[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2015 - 2018
+TEMPORADAS: 5
+EPISÓDIOS: 131
+STATUS: Finalizado</info>
+</channel>
+
+<channel>
+<name>[B]DEVILMAN CRYBABY[/B]</name>
+<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0037.webp</thumbnail>
+<externallink>https://raw.githubusercontent.com/icefenixfire/X/main/A/A0037</externallink>
+<fanart></fanart>
+<genre></genre>
+<info>[COLOR crimson][B]● Classificação +18[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2018
+TEMPORADAS: 1
+EPISÓDIOS: 10
+STATUS: Finalizado</info>
+</channel>
+
+<channel>
+<name>[B]DANMACHI: É ERRADO TENTAR PEGAR GAROTAS EM UMA MASMORRA?[/B]</name>
 <thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0189.webp</thumbnail>
 <externallink>https://raw.githubusercontent.com/icefenixfire/X/main/A/A0189</externallink>
 <fanart></fanart>
-<genre>[COLOR blue]DUBLADO[/COLOR]</genre>
-<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]</info>
+<genre></genre>
+<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2015
+TEMPORADAS: 1 de 5
+EPISÓDIOS: 13
+STATUS: Finalizado | Incompleto</info>
 </channel>
 
 <channel>
-<name>[B]DRAGONS DOGMA ● 2020...[/B]</name>
+<name>[B]DRAGONS DOGMA[/B]</name>
 <thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0128.webp</thumbnail>
 <externallink>https://raw.githubusercontent.com/icefenixfire/X/main/A/A0128</externallink>
 <fanart></fanart>
-<genre>[COLOR blue]DUBLADO[/COLOR]</genre>
-<info>[COLOR red][B]● Classificação +16[/B][/COLOR]</info>
+<genre></genre>
+<info>[COLOR red][B]● Classificação +16[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2020
+TEMPORADAS: 1
+EPISÓDIOS: 7
+STATUS: Finalizado</info>
 </channel>
 
 <channel>
-<name>[B]DOROHEDORO ● 2020[/B]</name>
+<name>[B]DOROHEDORO[/B]</name>
 <thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0028.webp</thumbnail>
 <externallink>https://raw.githubusercontent.com/icefenixfire/X/main/A/A0028</externallink>
 <fanart></fanart>
 <genre>[COLOR blue]DUBLADO[/COLOR]</genre>
 <info>[COLOR crimson][B]● Classificação +18[/B][/COLOR]</info>
+ÁUDIO: Português
+ANO: 2020
+TEMPORADAS: 1
+EPISÓDIOS: 13
+STATUS: Renovado</info>
 </channel>
 
 <channel>
-<name>[B]DECA-DENCE ● 2020[/B]</name>
+<name>[B]DECA-DENCE[/B]</name>
 <thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0228.webp</thumbnail>
 <externallink>https://raw.githubusercontent.com/icefenixfire/X/main/A/A0228</externallink>
 <fanart></fanart>
-<genre>[COLOR blue]DUBLADO[/COLOR]</genre>
-<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]</info>
+<genre></genre>
+<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2020
+TEMPORADAS: 1
+EPISÓDIOS: 12
+STATUS: Finalizado</info>
 </channel>
 
 <channel>
-<name>[B]DEEP INSANITY: THE LOST CHILD ● 2021[/B]</name>
+<name>[B]DEEP INSANITY: THE LOST CHILD[/B]</name>
 <thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0227.webp</thumbnail>
 <externallink>https://raw.githubusercontent.com/icefenixfire/X/main/A/A0227</externallink>
 <fanart></fanart>
-<genre>[COLOR blue]DUBLADO[/COLOR]</genre>
-<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]</info>
+<genre></genre>
+<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2021
+TEMPORADAS: 1
+EPISÓDIOS: 12
+STATUS: Finalizado</info>
 </channel>
 
 <channel>
-<name>[B]DIÁRIO DO FUTURO ● 2011[/B]</name>
+<name>[B]DIÁRIO DO FUTURO[/B]</name>
 <thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0233.webp</thumbnail>
 <externallink>https://raw.githubusercontent.com/icefenixfire/X/main/A/A0233</externallink>
 <fanart></fanart>
-<genre>[COLOR blue]DUBLADO[/COLOR]</genre>
-<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]</info>
+<genre></genre>
+<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2011
+TEMPORADAS: 1
+EPISÓDIOS: 26
+STATUS: Finalizado</info>
 </channel>
 
 <channel>
-<name>[B]DOTA: DRAGONS BLOOD ● 2021...[/B]</name>
+<name>[B]DOTA: DRAGONS BLOOD[/B]</name>
 <thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0156.webp</thumbnail>
 <externallink>https://raw.githubusercontent.com/icefenixfire/X/main/A/A0156</externallink>
 <fanart></fanart>
-<genre>[COLOR blue]DUBLADO[/COLOR]</genre>
-<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]</info>
+<genre></genre>
+<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2021 - 2022
+TEMPORADAS: 3
+EPISÓDIOS: 24
+STATUS: Finalizado</info>
 </channel>
 
 <channel>
-<name>[B]DRAGON QUEST: THE ADVENTURE OF DAI ● 2020...[/B]</name>
+<name>[B]DRAGON QUEST: THE ADVENTURE OF DAI[/B]</name>
 <thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0141.webp</thumbnail>
 <externallink>https://raw.githubusercontent.com/icefenixfire/X/main/A/A0141</externallink>
 <fanart></fanart>
-<genre>[COLOR blue]LEGENDADO[/COLOR]</genre>
-<info>[COLOR yellow][B]● Classificação +12[/B][/COLOR]</info>
+<genre></genre>
+<info>[COLOR yellow][B]● Classificação +12[/B][/COLOR]
+ÁUDIO: Japonês
+ANO: 2020 - 2022
+TEMPORADAS: 1
+EPISÓDIOS: 25 de 100
+STATUS: Finalizado | Incompleto</info>
 </channel>
 
 <channel>
-<name>[B]DIGIMON ADVENTURE ● 2020...[/B]</name>
+<name>[B]DIGIMON ADVENTURE[/B]</name>
 <thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0140.webp</thumbnail>
 <externallink>https://raw.githubusercontent.com/icefenixfire/X/main/A/A0140</externallink>
 <fanart></fanart>
-<genre>[COLOR blue]LEGENDADO[/COLOR]</genre>
-<info>[COLOR cyan][B]● Classificação +10[/B][/COLOR]</info>
+<genre></genre>
+<info>[COLOR cyan][B]● Classificação +10[/B][/COLOR]
+ÁUDIO: Japonês
+ANO: 2020 - 2021
+TEMPORADAS: 1
+EPISÓDIOS: 41 de 67
+STATUS: Finalizado | Incompleto</info>
 </channel>
 
 <channel>
-<name>[B]DARLING IN THE FRANXX ● 2018[/B]</name>
+<name>[B]DARLING IN THE FRANXX[/B]</name>
 <thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0105.webp</thumbnail>
 <externallink>https://raw.githubusercontent.com/icefenixfire/X/main/A/A0105</externallink>
 <fanart></fanart>
-<genre>[COLOR blue]DUBLADO[/COLOR]</genre>
-<info>[COLOR yellow][B]● Classificação +12[/B][/COLOR]</info>
+<genre></genre>
+<info>[COLOR yellow][B]● Classificação +12[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2018
+TEMPORADAS: 1
+EPISÓDIOS: 22 de 24
+STATUS: Finalizado | Incompleto</info>
 </channel>
 
 <channel>
-<name>[B]DRAGON AGE: ABSOLVIÇÃO ● 2022...[/B]</name>
+<name>[B]DRAGON AGE: ABSOLVIÇÃO[/B]</name>
 <thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0248.webp</thumbnail>
 <externallink>https://raw.githubusercontent.com/icefenixfire/X/main/A/A0248</externallink>
 <fanart></fanart>
-<genre>[COLOR blue]DUBLADO[/COLOR]</genre>
-<info>[COLOR red][B]● Classificação +16[/B][/COLOR]</info>
+<genre></genre>
+<info>[COLOR red][B]● Classificação +16[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2022
+TEMPORADAS: 1
+EPISÓDIOS: 6
+STATUS: Finalizado</info>
 </channel>
 
 <channel>
-<name>[B]EDENS ZERO ● 2021...[/B]</name>
+<name>[B]EDENS ZERO[/B]</name>
 <thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0031.webp</thumbnail>
 <externallink>https://raw.githubusercontent.com/icefenixfire/X/main/A/A0031</externallink>
 <fanart></fanart>
-<genre>[COLOR blue]DUBLADO[/COLOR]</genre>
-<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]</info>
+<genre></genre>
+<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2021
+TEMPORADAS: 1
+EPISÓDIOS: 12 de 50
+STATUS: Finalizado | Incompleto</info>
 </channel>
 
+
 <channel>
-<name>[B]EFEITO CINDERELA ● 2003[/B]</name>
+<name>[B]EFEITO CINDERELA[/B]</name>
 <thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0047.webp</thumbnail>
 <externallink>https://raw.githubusercontent.com/icefenixfire/X/main/A/A0047</externallink>
 <fanart></fanart>
-<genre>[COLOR blue]DUBLADO[/COLOR]</genre>
-<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]</info>
+<genre></genre>
+<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2003
+TEMPORADAS: 1
+EPISÓDIOS: 13
+STATUS: Finalizado</info>
 </channel>
 
-
 <channel>
-<name>[B]FAIRY TAIL ● 2009-2019[/B]</name>
+<name>[B]FAIRY TAIL[/B]</name>
 <thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0073.webp</thumbnail>
 <externallink>https://raw.githubusercontent.com/icefenixfire/X/main/A/A0073</externallink>
 <fanart></fanart>
-<genre>[COLOR blue]LEGENDADO[/COLOR]</genre>
-<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]</info>
+<genre></genre>
+<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]
+ÁUDIO: Japonês
+ANO: 2009-2019
+TEMPORADAS: 1
+EPISÓDIOS: 
+STATUS: Finalizado</info>
 </channel>
 
 <channel>
