@@ -6,7 +6,7 @@
 <thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0270.webp</thumbnail>
 <externallink>https://raw.githubusercontent.com/icefenixfire/X/main/A/A0270</externallink>
 <fanart></fanart>
-<genre></genre>
+<genre>Ação | Fantasia</genre>
 <info>[COLOR red][B]● Classificação +16[/B][/COLOR]
 ÁUDIO: Português
 ANO: 2024
@@ -28,7 +28,6 @@ TEMPORADAS: 4
 EPISÓDIOS: 67
 STATUS: Renovado</info>
 </channel>
-
 
 <channel>
 <name>[B]MY HERO ACADEMIA[/B]</name>
@@ -245,7 +244,7 @@ STATUS: Finalizado</info>
 <thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0284.webp</thumbnail>
 <externallink>https://raw.githubusercontent.com/icefenixfire/X/main/A/A0284</externallink>
 <fanart></fanart>
-<genre>[COLOR blue]DUBLADO[/COLOR]</genre>
+<genre></genre>
 <info>[COLOR red][B]● Classificação +16[/B][/COLOR]
 ÁUDIO: Português
 ANO: 2024
@@ -520,7 +519,6 @@ EPISÓDIOS: 10
 STATUS: Finalizado</info>
 </channel>
 
-
 <channel>
 <name>[B]ASHITA NO JOE 2[/B]</name>
 <thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0265.webp</thumbnail>
@@ -731,7 +729,6 @@ EPISÓDIOS: 50
 STATUS: Finalizado</info>
 </channel>
 
-
 <channel>
 <name>[B]A PLACE FURTHER THAN THE UNIVERSE[/B]</name>
 <thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0183.webp</thumbnail>
@@ -871,7 +868,6 @@ TEMPORADAS: 1
 EPISÓDIOS: 5
 STATUS: Finalizado</info>
 </channel>
-
 
 <channel>
 <name>[B]AVATAR: A LENDA DE AANG[/B]</name>
@@ -1214,8 +1210,8 @@ STATUS: Finalizado</info>
 <thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0058.webp</thumbnail>
 <externallink>https://raw.githubusercontent.com/icefenixfire/X/main/A/A0058</externallink>
 <fanart></fanart>
-<genre>[COLOR blue]DUBLADO[/COLOR]</genre>
-<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]]</info>
+<genre></genre>
+<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]]
 ÁUDIO: Português
 ANO: 2019
 TEMPORADAS: 1
@@ -1251,14 +1247,13 @@ EPISÓDIOS: 32
 STATUS: Finalizado</info>
 </channel>
 
-
 <channel>
 <name>[B]DIGIMON FRONTIER[/B]</name>
 <thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0097.webp</thumbnail>
 <externallink>https://raw.githubusercontent.com/icefenixfire/X/main/A/A0097</externallink>
 <fanart></fanart>
 <genre></genre>
-<info>[COLOR cyan][B]● Classificação +10[/B][/COLOR]</info>
+<info>[COLOR cyan][B]● Classificação +10[/B][/COLOR]
 ÁUDIO: Português
 ANO: 2002
 TEMPORADAS: 1
@@ -1272,7 +1267,7 @@ STATUS: Finalizado</info>
 <externallink>https://raw.githubusercontent.com/icefenixfire/X/main/A/A0096</externallink>
 <fanart></fanart>
 <genre></genre>
-<info>[COLOR cyan][B]● Classificação +10[/B][/COLOR]</info>
+<info>[COLOR cyan][B]● Classificação +10[/B][/COLOR]
 ÁUDIO: Português
 ANO: 2001
 TEMPORADAS: 1
@@ -1481,8 +1476,8 @@ STATUS: Finalizado</info>
 <thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0028.webp</thumbnail>
 <externallink>https://raw.githubusercontent.com/icefenixfire/X/main/A/A0028</externallink>
 <fanart></fanart>
-<genre>[COLOR blue]DUBLADO[/COLOR]</genre>
-<info>[COLOR crimson][B]● Classificação +18[/B][/COLOR]</info>
+<genre></genre>
+<info>[COLOR crimson][B]● Classificação +18[/B][/COLOR]
 ÁUDIO: Português
 ANO: 2020
 TEMPORADAS: 1
@@ -1616,7 +1611,6 @@ EPISÓDIOS: 12 de 50
 STATUS: Finalizado | Incompleto</info>
 </channel>
 
-
 <channel>
 <name>[B]EFEITO CINDERELA[/B]</name>
 <thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0047.webp</thumbnail>
@@ -1641,154 +1635,232 @@ STATUS: Finalizado</info>
 ÁUDIO: Japonês
 ANO: 2009-2019
 TEMPORADAS: 1
-EPISÓDIOS: 
+EPISÓDIOS: 328
 STATUS: Finalizado</info>
 </channel>
 
 <channel>
-<name>[B]FATE/EXTRA LAST ENCORE ● 2018[/B]</name>
+<name>[B]FATE/EXTRA LAST ENCORE[/B]</name>
 <thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0104.webp</thumbnail>
 <externallink>https://raw.githubusercontent.com/icefenixfire/X/main/A/A0104</externallink>
 <fanart></fanart>
-<genre>[COLOR blue]DUBLADO[/COLOR]</genre>
-<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]</info>
+<genre></genre>
+<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2018
+TEMPORADAS: 1
+EPISÓDIOS: 13
+STATUS: Finalizado</info>
 </channel>
 
 <channel>
-<name>[B]FULLMETAL ALCHEMIST: BROTHERHOOD ● 2009-2010[/B]</name>
+<name>[B]FULLMETAL ALCHEMIST: BROTHERHOOD[/B]</name>
 <thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0144.webp</thumbnail>
 <externallink>https://raw.githubusercontent.com/icefenixfire/X/main/A/A0144</externallink>
 <fanart></fanart>
 <genre>[COLOR blue]DUBLADO[/COLOR]</genre>
-<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]</info>
+<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2009 - 2010
+TEMPORADAS: 1
+EPISÓDIOS: 64
+STATUS: Finalizado</info>
 </channel>
 
 <channel>
-<name>[B]FATE STAY NIGHT ● 2006[/B]</name>
+<name>[B]FATE STAY NIGHT[/B]</name>
 <thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0021.webp</thumbnail>
 <externallink>https://raw.githubusercontent.com/icefenixfire/X/main/A/A0021</externallink>
 <fanart></fanart>
-<genre>[COLOR blue]DUBLADO[/COLOR]</genre>
-<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]</info>
+<genre></genre>
+<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2006
+TEMPORADAS: 1
+EPISÓDIOS: 24
+STATUS: Finalizado</info>
 </channel>
 
-
 <channel>
-<name>[B]GOLDEN BOY ● 1995[/B]</name>
+<name>[B]GOLDEN BOY[/B]</name>
 <thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0090.webp</thumbnail>
 <externallink>https://raw.githubusercontent.com/icefenixfire/X/main/A/A0090</externallink>
 <fanart></fanart>
-<genre>[COLOR blue]LEGENDADO[/COLOR]</genre>
-<info>[COLOR red][B]● Classificação +16[/B][/COLOR]</info>
+<genre></genre>
+<info>[COLOR red][B]● Classificação +16[/B][/COLOR]
+ÁUDIO: Japonês
+ANO: 1995
+TEMPORADAS: 1
+EPISÓDIOS: 6
+STATUS: Finalizado</info>
 </channel>
 
 <channel>
-<name>[B]GIANT KILLING ● 2010[/B]</name>
+<name>[B]GIANT KILLING[/B]</name>
 <thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0063.webp</thumbnail>
 <externallink>https://raw.githubusercontent.com/icefenixfire/X/main/A/A0063</externallink>
 <fanart></fanart>
-<genre>[COLOR blue]LEGENDADO[/COLOR]</genre>
-<info>[COLOR cyan][B]● Classificação +10[/B][/COLOR]</info>
+<genre></genre>
+<info>[COLOR cyan][B]● Classificação +10[/B][/COLOR]
+ÁUDIO: Japonês
+ANO: 2010
+TEMPORADAS: 1
+EPISÓDIOS: 26
+STATUS: Finalizado</info>
 </channel>
 
 <channel>
-<name>[B]GOBLIN SLAYER ● 2018...[/B]</name>
-<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0118.webp</thumbnail>
-<externallink>https://raw.githubusercontent.com/icefenixfire/X/main/A/A0118</externallink>
-<fanart></fanart>
-<genre>[COLOR blue]LEGENDADO[/COLOR]</genre>
-<info>[COLOR yellow][B]● Classificação +12[/B][/COLOR]</info>
-</channel>
-
-<channel>
-<name>[B]GTO: THE ANIMATION ● 1999-2000[/B]</name>
-<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0148.webp</thumbnail>
-<externallink>https://raw.githubusercontent.com/icefenixfire/X/main/A/A0148</externallink>
-<fanart></fanart>
-<genre>[COLOR blue]LEGENDADO[/COLOR]</genre>
-<info>[COLOR red][B]● Classificação +16[/B][/COLOR]</info>
-</channel>
-
-<channel>
-<name>[B]GUERREIRAS MÁGICAS DE RAYEARTH ● 1994[/B]</name>
-<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0035.webp</thumbnail>
-<externallink>https://raw.githubusercontent.com/icefenixfire/X/main/A/A0035</externallink>
-<fanart></fanart>
-<genre>[COLOR blue]DUBLADO[/COLOR]</genre>
-<info>[COLOR cyan][B]● Classificação +10[/B][/COLOR]</info>
-</channel>
-
-<channel>
-<name>[B]GOKUSHUFUDOU: TATSU IMORTAL ● 2021...[/B]</name>
-<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0188.webp</thumbnail>
-<externallink>https://raw.githubusercontent.com/icefenixfire/X/main/A/A0188</externallink>
-<fanart></fanart>
-<genre>[COLOR blue]DUBLADO[/COLOR]</genre>
-<info>[COLOR yellow][B]● Classificação +12[/B][/COLOR]</info>
-</channel>
-
-<channel>
-<name>[B]GATE ● 2015 - 2016[/B]</name>
-<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0176.webp</thumbnail>
-<externallink>https://raw.githubusercontent.com/icefenixfire/X/main/A/A0176</externallink>
-<fanart></fanart>
-<genre>[COLOR blue]DUBLADO[/COLOR]</genre>
-<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]</info>
-</channel>
-
-<channel>
-<name>[B]GANTZ ● 2004[/B]</name>
-<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0043.webp</thumbnail>
-<externallink>https://raw.githubusercontent.com/icefenixfire/X/main/A/A0043</externallink>
-<fanart></fanart>
-<genre>[COLOR blue]DUBLADO[/COLOR]</genre>
-<info>[COLOR crimson][B]● Classificação +18[/B][/COLOR]</info>
-</channel>
-
-
-<channel>
-<name>[B]HUNTER X HUNTER ● 2011...[/B]</name>
-<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0069.webp</thumbnail>
-<externallink>https://raw.githubusercontent.com/icefenixfire/X/main/A/A0069</externallink>
-<fanart></fanart>
-<genre>[COLOR blue]DUBLADO[/COLOR]</genre>
-<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]</info>
-</channel>
-
-<channel>
-<name>[B]HAIKYU!! ● 2014[/B]</name>
-<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0071.webp</thumbnail>
-<externallink>https://raw.githubusercontent.com/icefenixfire/X/main/A/A0071</externallink>
-<fanart></fanart>
-<genre>[COLOR blue]LEGENDADO[/COLOR]</genre>
-<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]</info>
-</channel>
-
-<channel>
-<name>[B]HI SCORE GIRL ● 2019...[/B]</name>
-<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0120.webp</thumbnail>
-<externallink>https://raw.githubusercontent.com/icefenixfire/X/main/A/A0120</externallink>
-<fanart></fanart>
-<genre>[COLOR blue]DUBLADO[/COLOR]</genre>
-<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]</info>
-</channel>
-
-<channel>
-<name>[B]HIGH SCHOOL PRODIGIES... ● 2016...[/B]</name>
+<name>[B]GOBLIN SLAYER[/B]</name>
 <thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0117.webp</thumbnail>
 <externallink>https://raw.githubusercontent.com/icefenixfire/X/main/A/A0117</externallink>
 <fanart></fanart>
-<genre>[COLOR blue]LEGENDADO[/COLOR]</genre>
-<info>[COLOR crimson][B]● Classificação +18[/B][/COLOR]</info>
+<genre></genre>
+<info>[COLOR yellow][B]● Classificação +12[/B][/COLOR]
+ÁUDIO: Japonês
+ANO: 2018
+TEMPORADAS: 1
+EPISÓDIOS: 12
+STATUS: Finalizado</info>
 </channel>
 
 <channel>
-<name>[B]HOW A REALIST HERO REBUILT THE KINGDOM ● 2021...[/B]</name>
+<name>[B]GTO: THE ANIMATION[/B]</name>
+<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0148.webp</thumbnail>
+<externallink>https://raw.githubusercontent.com/icefenixfire/X/main/A/A0148</externallink>
+<fanart></fanart>
+<genre></genre>
+<info>[COLOR red][B]● Classificação +16[/B][/COLOR]
+ÁUDIO: Japonês
+ANO: 1999
+TEMPORADAS: 1
+EPISÓDIOS: 43
+STATUS: Finalizado</info>
+</channel>
+
+<channel>
+<name>[B]GUERREIRAS MÁGICAS DE RAYEARTH[/B]</name>
+<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0035.webp</thumbnail>
+<externallink>https://raw.githubusercontent.com/icefenixfire/X/main/A/A0035</externallink>
+<fanart></fanart>
+<genre></genre>
+<info>[COLOR cyan][B]● Classificação +10[/B][/COLOR]
+ÁUDIO: Português
+ANO: 1994
+TEMPORADAS: 1
+EPISÓDIOS: 49
+STATUS: Finalizado</info>
+</channel>
+
+<channel>
+<name>[B]GOKUSHUFUDOU: TATSU IMORTAL[/B]</name>
+<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0188.webp</thumbnail>
+<externallink>https://raw.githubusercontent.com/icefenixfire/X/main/A/A0188</externallink>
+<fanart></fanart>
+<genre></genre>
+<info>[COLOR yellow][B]● Classificação +12[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2021
+TEMPORADAS: 1 de 2
+EPISÓDIOS: 10 de 15
+STATUS: Finalizado | Incompleto</info>
+</channel>
+
+<channel>
+<name>[B]GATE[/B]</name>
+<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0176.webp</thumbnail>
+<externallink>https://raw.githubusercontent.com/icefenixfire/X/main/A/A0176</externallink>
+<fanart></fanart>
+<genre></genre>
+<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2015
+TEMPORADAS: 1
+EPISÓDIOS: 24
+STATUS: Finalizado</info>
+</channel>
+
+<channel>
+<name>[B]GANTZ[/B]</name>
+<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0043.webp</thumbnail>
+<externallink>https://raw.githubusercontent.com/icefenixfire/X/main/A/A0043</externallink>
+<fanart></fanart>
+<genre></genre>
+<info>[COLOR crimson][B]● Classificação +18[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2004
+TEMPORADAS: 1
+EPISÓDIOS: 26
+STATUS: Finalizado</info>
+</channel>
+
+<channel>
+<name>[B]HUNTER X HUNTER[/B]</name>
+<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0069.webp</thumbnail>
+<externallink>https://raw.githubusercontent.com/icefenixfire/X/main/A/A0069</externallink>
+<fanart></fanart>
+<genre></genre>
+<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2011 - 2014
+TEMPORADAS: 1
+EPISÓDIOS: 148
+STATUS: Finalizado</info>
+</channel>
+
+<channel>
+<name>[B]HAIKYU!![/B]</name>
+<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0071.webp</thumbnail>
+<externallink>https://raw.githubusercontent.com/icefenixfire/X/main/A/A0071</externallink>
+<fanart></fanart>
+<genre>Esporte</genre>
+<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]
+ÁUDIO: Japonês
+ANO: 2014
+TEMPORADAS: 4
+EPISÓDIOS: 85
+STATUS: Finalizado</info>
+</channel>
+
+<channel>
+<name>[B]HI SCORE GIRL[/B]</name>
+<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0120.webp</thumbnail>
+<externallink>https://raw.githubusercontent.com/icefenixfire/X/main/A/A0120</externallink>
+<fanart></fanart>
+<genre>Comédia | Romance</genre>
+<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]</info>
+ÁUDIO: Português
+ANO: 2019
+TEMPORADAS: 1 de 2
+EPISÓDIOS: 15
+STATUS: Finalizado | Incompleto</info>
+</channel>
+
+<channel>
+<name>[B]HIGH SCHOOL PRODIGIES HAVE IT EASY EVEN IN ANOTHER WORLD[/B]</name>
+<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0118.webp</thumbnail>
+<externallink>https://raw.githubusercontent.com/icefenixfire/X/main/A/A0118</externallink>
+<fanart></fanart>
+<genre>Ação | Aventura | Fantasia</genre>
+<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]</info>
+ÁUDIO: Japonês
+ANO: 2019
+TEMPORADAS: 1
+EPISÓDIOS: 12
+STATUS: Finalizado</info>
+</channel>
+
+<channel>
+<name>[B]HOW A REALIST HERO REBUILT THE KINGDOM[/B]</name>
 <thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0239.webp</thumbnail>
 <externallink>https://raw.githubusercontent.com/icefenixfire/X/main/A/A0239</externallink>
 <fanart></fanart>
-<genre>[COLOR blue]DUBLADO[/COLOR]</genre>
-<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]</info>
+<genre>Aventura | Fantasia</genre>
+<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2021
+TEMPORADAS: 1
+EPISÓDIOS: 13 de 26
+STATUS: Finalizado | Incompleto</info>
 </channel>
 
 <channel>
