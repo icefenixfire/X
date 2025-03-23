@@ -1827,7 +1827,7 @@ STATUS: Finalizado</info>
 <externallink>https://raw.githubusercontent.com/icefenixfire/X/main/A/A0120</externallink>
 <fanart></fanart>
 <genre>Comédia | Romance</genre>
-<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]</info>
+<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]
 ÁUDIO: Português
 ANO: 2019
 TEMPORADAS: 1 de 2
@@ -1841,7 +1841,7 @@ STATUS: Finalizado | Incompleto</info>
 <externallink>https://raw.githubusercontent.com/icefenixfire/X/main/A/A0118</externallink>
 <fanart></fanart>
 <genre>Ação | Aventura | Fantasia</genre>
-<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]</info>
+<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]
 ÁUDIO: Japonês
 ANO: 2019
 TEMPORADAS: 1
@@ -1864,23 +1864,32 @@ STATUS: Finalizado | Incompleto</info>
 </channel>
 
 <channel>
-<name>[B]HITORI NO SHITA ● 2016...[/B]</name>
+<name>[B]HITORI NO SHITA[/B]</name>
 <thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0177.webp</thumbnail>
 <externallink>https://raw.githubusercontent.com/icefenixfire/X/main/A/A0177</externallink>
 <fanart></fanart>
-<genre>[COLOR blue]LEGENDADO[/COLOR]</genre>
-<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]</info>
+<genre>Ação | Sobrenatural</genre>
+<info>[COLOR crimson][B]● Classificação Indicativa +18[/B][/COLOR]
+ÁUDIO: Japonês
+ANO: 2016
+TEMPORADAS: 2 de 5
+EPISÓDIOS: 36
+STATUS: Renovado | Incompleto</info>
 </channel>
 
 <channel>
-<name>[B]HERO MASK ● 2018 - 2019[/B]</name>
+<name>[B]HERO MASK[/B]</name>
 <thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0052.webp</thumbnail>
 <externallink>https://raw.githubusercontent.com/icefenixfire/X/main/A/A0052</externallink>
 <fanart></fanart>
-<genre>[COLOR blue]DUBLADO[/COLOR]</genre>
-<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]</info>
+<genre>Ficção | Mistário</genre>
+<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2018 - 2019
+TEMPORADAS: 2
+EPISÓDIOS: 24
+STATUS: Finalizado</info>
 </channel>
-
 
 <channel>
 <name>[B]INUYASHA ● 2000 - 2010[/B]</name>
