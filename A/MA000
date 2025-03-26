@@ -3,8 +3,8 @@
 
 <channel>
 <name>[B]ZATCH BELL![/B]</name>
-<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0000.webp</thumbnail>
-<externallink>https://raw.githubusercontent.com/icefenixfire/X/main/A/A0000</externallink>
+<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0033.webp</thumbnail>
+<externallink>https://raw.githubusercontent.com/icefenixfire/X/main/A/A0033</externallink>
 <fanart></fanart>
 <genre>Ação | Fantasia | Comédia</genre>
 <info>[COLOR yellow][B]● Classificação Indicativa +12[/B][/COLOR]
@@ -65,7 +65,7 @@ STATUS: Renovado</info>
 <genre></genre>
 <info>[COLOR cyan][B]● Classificação Indicativa +10[/B][/COLOR]
 ÁUDIO: Português
-ANO: 1992-1993
+ANO: 1992 - 1993
 TEMPORADAS: 1
 EPISÓDIOS: 46
 STATUS: Finalizado</info>
@@ -2284,159 +2284,243 @@ STATUS: Finalizado</info>
 </channel>
 
 <channel>
-<name>[B]MORIBITO: GUARDIAN OF THE SPIRIT ● 2007[/B]</name>
+<name>[B]MORIBITO: GUARDIAN OF THE SPIRIT[/B]</name>
 <thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0193.webp</thumbnail>
 <externallink>https://raw.githubusercontent.com/icefenixfire/X/main/A/A0193</externallink>
 <fanart></fanart>
-<genre>[COLOR blue]LEGENDADO[/COLOR]</genre>
-<info>[COLOR yellow][B]● Classificação +12[/B][/COLOR]</info>
+<genre>Ação | Aventura | Fantasia</genre>
+<info>[COLOR yellow][B]● Classificação +12[/B][/COLOR]
+ÁUDIO: Japonês
+ANO: 2007
+TEMPORADAS: 1
+EPISÓDIOS: 26
+STATUS: Finalizado</info>
 </channel>
 
 <channel>
-<name>[B]MEGALOBOX ● 2018...[/B]</name>
+<name>[B]MEGALOBOX[/B]</name>
 <thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0049.webp</thumbnail>
 <externallink>https://raw.githubusercontent.com/icefenixfire/X/main/A/A0049</externallink>
 <fanart></fanart>
-<genre>[COLOR blue]DUBLADO[/COLOR]</genre>
-<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]</info>
+<genre>Ação | Ficção</genre>
+<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2018 - 2021
+TEMPORADAS: 2
+EPISÓDIOS: 26
+STATUS: Finalizado</info>
 </channel>
 
 <channel>
-<name>[B]METALLIC ROUGE ● 2024[/B]</name>
+<name>[B]METALLIC ROUGE[/B]</name>
 <thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0271.webp</thumbnail>
 <externallink>https://raw.githubusercontent.com/icefenixfire/X/main/A/A0271</externallink>
 <fanart></fanart>
-<genre>[COLOR blue]DUBLADO[/COLOR]</genre>
-<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]</info>
+<genre>Ação | Drama | Ficção</genre>
+<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2024
+TEMPORADAS: 1
+EPISÓDIOS: 13
+STATUS: Finalizado</info>
 </channel>
 
 <channel>
-<name>[B]MINHA MANA APELONA ● 2013...[/B]</name>
+<name>[B]MINHA MANA APELONA[/B]</name>
 <thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0260.webp</thumbnail>
 <externallink>https://raw.githubusercontent.com/icefenixfire/X/main/A/A0260</externallink>
 <fanart></fanart>
-<genre>[COLOR blue]DUBLADO[/COLOR]</genre>
-<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]</info>
+<genre>Comédia | Fantasia</genre>
+<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2013
+TEMPORADAS: 1
+EPISÓDIOS: 6 de 12
+STATUS: Finalizado | Incompleto</info>
 </channel>
 
 <channel>
-<name>[B]MOB PSYCHO 100 ● 2016...[/B]</name>
+<name>[B]MOB PSYCHO 100[/B]</name>
 <thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0075.webp</thumbnail>
 <externallink>https://raw.githubusercontent.com/icefenixfire/X/main/A/A0075</externallink>
 <fanart></fanart>
-<genre>[COLOR blue]DUBLADO[/COLOR]</genre>
-<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]</info>
+<genre>Sobrenatural | Ação | Comédia</genre>
+<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2016 - 2019
+TEMPORADAS: 3
+EPISÓDIOS: 37
+STATUS: Finalizado</info>
 </channel>
 
 <channel>
-<name>[B]MISS KOBAYASHI'S DRAGON MAID ● 2017[/B]</name>
+<name>[B]MISS KOBAYASHI'S DRAGON MAID[/B]</name>
 <thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0084.webp</thumbnail>
 <externallink>https://raw.githubusercontent.com/icefenixfire/X/main/A/A0084</externallink>
 <fanart></fanart>
-<genre>[COLOR blue]DUBLADO[/COLOR]</genre>
-<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]</info>
+<genre>Comédia | Fantasia | Romance</genre>
+<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2017 - 2021
+TEMPORADAS: 1 de 3
+EPISÓDIOS: 14
+STATUS: Finalizado | Incompleto</info>
 </channel>
 
 <channel>
-<name>[B]MEDABOTS ● 2001-2004[/B]</name>
+<name>[B]MEDABOTS[/B]</name>
 <thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0061.webp</thumbnail>
 <externallink>https://raw.githubusercontent.com/icefenixfire/X/main/A/A0061</externallink>
 <fanart></fanart>
-<genre>[COLOR blue]DUBLADO[/COLOR]</genre>
-<info>[COLOR lime][B]● Classificação LIVRE[/B][/COLOR]</info>
+<genre>Ação | Aventura | Comédia</genre>
+<info>[COLOR lime][B]● Classificação LIVRE[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2001-2004
+TEMPORADAS: 3
+EPISÓDIOS: 91
+STATUS: Finalizado</info>
 </channel>
 
 <channel>
-<name>[B]MEIJI TOKYO RENKA ● 2019...[/B]</name>
+<name>[B]MEIJI TOKYO RENKA[/B]</name>
 <thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0116.webp</thumbnail>
 <externallink>https://raw.githubusercontent.com/icefenixfire/X/main/A/A0116</externallink>
 <fanart></fanart>
-<genre>[COLOR blue]LEGENDADO[/COLOR]</genre>
-<info>[COLOR yellow][B]● Classificação +12[/B][/COLOR]</info>
+<genre>Drama | Sobrenatural</genre>
+<info>[COLOR yellow][B]● Classificação +12[/B][/COLOR]
+ÁUDIO: Japonês
+ANO: 2019
+TEMPORADAS: 1
+EPISÓDIOS: 12
+STATUS: Finalizado</info>
 </channel>
 
-
 <channel>
-<name>[B]NOBLESSE ● 2020[/B]</name>
+<name>[B]NOBLESSE[/B]</name>
 <thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0139.webp</thumbnail>
 <externallink>https://raw.githubusercontent.com/icefenixfire/X/main/A/A0139</externallink>
 <fanart></fanart>
-<genre>[COLOR blue]DUBLADO[/COLOR]</genre>
-<info>[COLOR red][B]● Classificação +16[/B][/COLOR]</info>
+<genre>Ação | Fantasia | Sobrenatural</genre>
+<info>[COLOR red][B]● Classificação +16[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2020
+TEMPORADAS: 1
+EPISÓDIOS: 13
+STATUS: Finalizado</info>
 </channel>
 
 <channel>
-<name>[B]NEON GENESIS EVANGELION ● 1995-1996[/B]</name>
+<name>[B]NEON GENESIS EVANGELION[/B]</name>
 <thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0108.webp</thumbnail>
 <externallink>https://raw.githubusercontent.com/icefenixfire/X/main/A/A0108</externallink>
 <fanart></fanart>
-<genre>[COLOR blue]DUBLADO[/COLOR]</genre>
-<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]</info>
+<genre>Drama | Ficção | Fantasia</genre>
+<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]
+ÁUDIO: Português
+ANO: 1995 - 1996
+TEMPORADAS: 1
+EPISÓDIOS: 26
+STATUS: Finalizado</info>
 </channel>
 
 <channel>
-<name>[B]NORAGAMI ● 2014-2015[/B]</name>
+<name>[B]NORAGAMI[/B]</name>
 <thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0237.webp</thumbnail>
 <externallink>https://raw.githubusercontent.com/icefenixfire/X/main/A/A0237</externallink>
 <fanart></fanart>
-<genre>[COLOR blue]DUBLADO[/COLOR]</genre>
-<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]</info>
+<genre></genre>
+<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2014 - 2015
+TEMPORADAS: 1
+EPISÓDIOS: 26
+STATUS: Finalizado</info>
 </channel>
 
 <channel>
-<name>[B]NEO YOKIO ● 2017[/B]</name>
+<name>[B]NEO YOKIO[/B]</name>
 <thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0042.webp</thumbnail>
 <externallink>https://raw.githubusercontent.com/icefenixfire/X/main/A/A0042</externallink>
 <fanart></fanart>
 <genre>[COLOR blue]DUBLADO[/COLOR]</genre>
-<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]</info>
+<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2017
+TEMPORADAS: 1
+EPISÓDIOS: 6
+STATUS: Finalizado</info>
 </channel>
 
 <channel>
-<name>[B]NINJA KAMUI ● 2024...[/B]</name>
+<name>[B]NINJA KAMUI[/B]</name>
 <thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0269.webp</thumbnail>
 <externallink>https://raw.githubusercontent.com/icefenixfire/X/main/A/A0269</externallink>
 <fanart></fanart>
-<genre>[COLOR blue]DUBLADO[/COLOR]</genre>
-<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]</info>
+<genre>Ação | Aventura</genre>
+<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2024
+TEMPORADAS: 1
+EPISÓDIOS: 13
+STATUS: Finalizado</info>
 </channel>
 
 <channel>
-<name>[B]NIER:AUTOMATA VER1.1A ● 2023...[/B]</name>
+<name>[B]NIER:AUTOMATA VER1.1A[/B]</name>
 <thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0252.webp</thumbnail>
 <externallink>https://raw.githubusercontent.com/icefenixfire/X/main/A/A0252</externallink>
 <fanart></fanart>
-<genre>[COLOR blue]DUBLADO[/COLOR]</genre>
-<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]</info>
+<genre>Ação | Ficção | Aventura | Aventura</genre>
+<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2023
+TEMPORADAS: 1
+EPISÓDIOS: 12 de 24
+STATUS: Finalizado | Incompleto</info>
 </channel>
 
 <channel>
-<name>[B]NARUTO SHIPPUDEN ● 2007-2017[/B]</name>
+<name>[B]NARUTO SHIPPUDEN[/B]</name>
 <thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0091.webp</thumbnail>
 <externallink>https://raw.githubusercontent.com/icefenixfire/X/main/A/A0091</externallink>
 <fanart></fanart>
-<genre>[COLOR blue]DUBLADO[/COLOR]</genre>
-<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]</info>
+<genre></genre>
+<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2007 - 2017
+TEMPORADAS: 5 de 22
+EPISÓDIOS: 112
+STATUS: Finalizado | Incompleto</info>
 </channel>
 
 <channel>
-<name>[B]NARUTO ● 2002-2007[/B]</name>
+<name>[B]NARUTO[/B]</name>
 <thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0065.webp</thumbnail>
 <externallink>https://raw.githubusercontent.com/icefenixfire/X/main/A/A0065</externallink>
 <fanart></fanart>
-<genre>[COLOR blue]DUBLADO[/COLOR]</genre>
-<info>[COLOR yellow][B]● Classificação +12[/B][/COLOR]</info>
+<genre>Ação | Aventura | Fantasia</genre>
+<info>[COLOR yellow][B]● Classificação +12[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2002 - 2007
+TEMPORADAS: 9
+EPISÓDIOS: 220
+STATUS: Finalizado</info>
 </channel>
-
 
 <channel>
-<name>[B]ONE PIECE ● 1999...[/B]</name>
-<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0100.webp</thumbnail>
+<name>[B]ONE PIECE[/B]</name>
+<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0131.webp</thumbnail>
 <externallink>https://raw.githubusercontent.com/icefenixfire/X/main/A/A0100</externallink>
 <fanart></fanart>
-<genre>[COLOR blue]LEGENDADO |  & DUBLADO[/COLOR]</genre>
-<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]</info>
+<genre>Ação | Aventura | Fantasia</genre>
+<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]
+ÁUDIO: Português
+ANO: 1999
+TEMPORADAS: 4 de 14
+EPISÓDIOS: 325
+STATUS: Renovado | Incompleto</info>
 </channel>
+
 
 <channel>
 <name>[B]ONYX EQUINOX ● 2020...[/B]</name>
