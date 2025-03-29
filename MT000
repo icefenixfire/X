@@ -2,12 +2,12 @@
 <playlist>
     <channel>
         <title>Canal Exemplo 1</title>
-        <url>https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4</url>
+        <url>https://archive.org/download/AA0000/A0068_T6_E138.mkv</url>
         <thumbnail>https://via.placeholder.com/150</thumbnail>
     </channel>
     <channel>
         <title>Canal Exemplo 2</title>
-        <url>https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_2mb.mp4</url>
+        <url>https://archive.org/download/AA0000/A0068_T6_E137.mkv</url>
         <thumbnail>https://via.placeholder.com/150</thumbnail>
     </channel>
     <channel>
