@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
  <!-- Canais -->
+<channels>
   <channel>
     <display-name lang="pt">Sport TV 1</display-name>
     <category lang="pt">Esportes</category>
     <icon src="https://raw.githubusercontent.com/icefenixfire/T/refs/heads/main/T0001.webp"/>
     <url>http://tfdberuosiberbfgydghjmgdgdrghgfoghpasjfru.xn--b1agpkwbf.com/live/410105476/469646665/1104715.m3u</url>
   </channel>
-
+</channels>
