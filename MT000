@@ -3,9 +3,18 @@
  <!-- Canais -->
 <channels>
   <channel>
-    <display-name lang="pt">Sport TV 1</display-name>
+    <display-name lang="pt"></display-name>
     <category lang="pt">Esportes</category>
     <icon src="https://raw.githubusercontent.com/icefenixfire/T/refs/heads/main/T0001.webp"/>
     <url>http://tfdberuosiberbfgydghjmgdgdrghgfoghpasjfru.xn--b1agpkwbf.com/live/410105476/469646665/1104715.m3u</url>
+  </channel>
+
+  <channel>
+  <name>Sport TV 1</name>
+  <thumbnail>https://raw.githubusercontent.com/icefenixfire/T/refs/heads/main/T0001.webp</thumbnail>
+  <externallink>http://tfdberuosiberbfgydghjmgdgdrghgfoghpasjfru.xn--b1agpkwbf.com/live/410105476/469646665/1104715.m3u</externallink>
+  <fanart></fanart>
+  <category>Esportes</category>
+  <info></info>
   </channel>
 </channels>
