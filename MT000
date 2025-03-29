@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
- <!-- Canais -->
-<channels>
-<channel>
-  <title>Sport TV 1</title>
-  <thumbnail>https://raw.githubusercontent.com/icefenixfire/T/refs/heads/main/T0001.webp</thumbnail>
-  <link>http://tfdberuosiberbfgydghjmgdgdrghgfoghpasjfru.xn--b1agpkwbf.com/live/410105476/469646665/925073.m3u$nome=[COLOR lime]Sport TV 1[/COLOR]</link>
-  <link>http://tfdberuosiberbfgydghjmgdgdrghgfoghpasjfru.xn--b1agpkwbf.com/live/410105476/469646665/1036335.m3u$nome=[COLOR lime]Sport TV 2[/COLOR]</link>
-  <genre>Esportes</genre>
-</channel>
-</channels>
+<playlist>
+    <channel>
+        <title>Canal Exemplo 1</title>
+        <url>https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4</url>
+        <thumbnail>https://via.placeholder.com/150</thumbnail>
+    </channel>
+    <channel>
+        <title>Canal Exemplo 2</title>
+        <url>https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_2mb.mp4</url>
+        <thumbnail>https://via.placeholder.com/150</thumbnail>
+    </channel>
+    <channel>
+        <title>Sport TV 1</title>
+        <url>http://tfdberuosiberbfgydghjmgdgdrghgfoghpasjfru.xn--b1agpkwbf.com/live/410105476/469646665/925073.m3u</url>
+        <thumbnail>https://raw.githubusercontent.com/icefenixfire/T/refs/heads/main/T0001.webp</thumbnail>
+    </channel>
+</playlist>
