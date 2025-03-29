@@ -3,11 +3,13 @@
 <tv generator-info-name="Gerador EPG Plus" source-info-name="Fonte Exemplo">
  <!-- Canais -->
 <channel>
+<item>
   <name>Sport TV 1</name>
   <thumbnail>https://raw.githubusercontent.com/icefenixfire/T/refs/heads/main/T0001.webp</thumbnail>
   <url>http://tfdberuosiberbfgydghjmgdgdrghgfoghpasjfru.xn--b1agpkwbf.com/live/410105476/469646665/925073.m3u</url>
   <fanart></fanart>
   <category>Esportes</category>
   <info></info>
+</item>
 </channel>
 </tv>
