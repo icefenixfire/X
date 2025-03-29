@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="Gerador EPG Plus" source-info-name="Fonte Exemplo">
  <!-- Canais -->
 <channel>
 <item>
@@ -12,4 +10,3 @@
   <info></info>
 </item>
 </channel>
-</tv>
