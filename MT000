@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
  <!-- Canais -->
+<channels>
 <channel>
-<item>
   <title>Sport TV 1</title>
   <thumbnail>https://raw.githubusercontent.com/icefenixfire/T/refs/heads/main/T0001.webp</thumbnail>
-  <link>http://tfdberuosiberbfgydghjmgdgdrghgfoghpasjfru.xn--b1agpkwbf.com/live/410105476/469646665/925073.m3u</link>
+  <link>http://tfdberuosiberbfgydghjmgdgdrghgfoghpasjfru.xn--b1agpkwbf.com/live/410105476/469646665/925073.m3u$nome=[COLOR lime]Sport TV 1[/COLOR]</link>
+  <link>http://tfdberuosiberbfgydghjmgdgdrghgfoghpasjfru.xn--b1agpkwbf.com/live/410105476/469646665/1036335.m3u$nome=[COLOR lime]Sport TV 2[/COLOR]</link>
   <genre>Esportes</genre>
-  <info>Sport TV 1</info>
-</item>
 </channel>
+</channels>
