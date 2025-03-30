@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<playlist>
-	<channels>
+<channels>
 		<channel>
 			<name>[B][COLOR white]FILMES[/COLOR][/B]</name>
 			<thumbnail>https://raw.githubusercontent.com/icefenixfire/C/main/cm_fil.webp</thumbnail>
@@ -36,5 +35,4 @@
 			<fanart>https://raw.githubusercontent.com/icefenixfire/C/main/fm_tv.webp</fanart>
 			<info>TV Ao Vivo</info>
 		</channel>
-	</channels>
-<playlist>
+</channels>
