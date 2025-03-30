@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <channels>
 <channel>
-<title>Canal Exemplo 1</title>
+<name>Canal Exemplo 1</name>
 <link>https://archive.org/download/AA0000/A0068_T6_E138.mkv</link>
 <thumbnail>https://via.placeholder.com/150</thumbnail>
 </channel>
 <channel>
-<title>Canal Exemplo 2</title>
+<name>Canal Exemplo 2</name>
 <link>https://archive.org/download/AA0000/A0068_T6_E137.mkv</link>
 <thumbnail>https://via.placeholder.com/150</thumbnail>
 </channel>
 <channel>
-<title>Sport TV 1</title>
+<name>Sport TV 1</name>
 <link>http://tfdberuosiberbfgydghjmgdgdrghgfoghpasjfru.xn--b1agpkwbf.com/live/410105476/469646665/925073.m3u</link>
 <thumbnail>https://raw.githubusercontent.com/icefenixfire/T/refs/heads/main/T0001.webp</thumbnail>
 </channel>
