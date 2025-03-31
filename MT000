@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <playlist>
+<items>
 <item>
 <title>SPORTV</title>
 <link>http://tfdberuosiberbfgydghjmgdgdrghgfoghpasjfru.xn--b1agpkwbf.com/live/410105476/469646665/2.m3u$nome=[COLOR lime]SporTV SD[/COLOR]</link>
@@ -79,4 +80,5 @@
 <link>http://tfdberuosiberbfgydghjmgdgdrghgfoghpasjfru.xn--b1agpkwbf.com/live/410105476/469646665/791910.m3u$nome=[COLOR lime]Premiere 8 FHD[/COLOR]</link>
 <thumbnail>https://raw.githubusercontent.com/icefenixfire/T/refs/heads/main/T0002.webp</thumbnail>
 </item>
+</items>
 </playlist>
