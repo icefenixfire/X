@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <playlist>
-<item>
-<title>Canal Exemplo 1</title>
-<link>https://archive.org/download/AA0000/A0068_T6_E138.mkv</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>Canal Exemplo 2</title>
-<link>https://archive.org/download/AA0000/A0068_T6_E137.mkv</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>Sport TV 1</title>
-<link>http://tfdberuosiberbfgydghjmgdgdrghgfoghpasjfru.xn--b1agpkwbf.com/live/410105476/469646665/925073.m3u</link>
+<title>SPORTV</title>
+<link>http://tfdberuosiberbfgydghjmgdgdrghgfoghpasjfru.xn--b1agpkwbf.com/live/410105476/469646665/2.m3u$nome=[COLOR lime]SporTV SD[/COLOR]</link>
+<link>http://tfdberuosiberbfgydghjmgdgdrghgfoghpasjfru.xn--b1agpkwbf.com/live/410105476/469646665/925073.m3u$nome=[COLOR lime]SporTV HD[/COLOR]</link>
+<link>http://tfdberuosiberbfgydghjmgdgdrghgfoghpasjfru.xn--b1agpkwbf.com/live/410105476/469646665/900508.m3u$nome=[COLOR lime]SporTV HD²[/COLOR]</link>
+<link>http://tfdberuosiberbfgydghjmgdgdrghgfoghpasjfru.xn--b1agpkwbf.com/live/410105476/469646665/1104715.m3u$nome=[COLOR lime]SporTV FHD[/COLOR]</link>
+<link>http://tfdberuosiberbfgydghjmgdgdrghgfoghpasjfru.xn--b1agpkwbf.com/live/410105476/469646665/5.m3u$nome=[COLOR lime]SporTV 2 SD[/COLOR]</link>
+<link>http://tfdberuosiberbfgydghjmgdgdrghgfoghpasjfru.xn--b1agpkwbf.com/live/410105476/469646665/900509.m3u$nome=[COLOR lime]SporTV 2 HD²[/COLOR]</link>
+<link>http://tfdberuosiberbfgydghjmgdgdrghgfoghpasjfru.xn--b1agpkwbf.com/live/410105476/469646665/1036335.m3u$nome=[COLOR lime]SporTV 2 FHD[/COLOR]</link>
+<link>http://tfdberuosiberbfgydghjmgdgdrghgfoghpasjfru.xn--b1agpkwbf.com/live/410105476/469646665/7.m3u$nome=[COLOR lime]SporTV 2 H265[/COLOR]</link>
+<link>http://tfdberuosiberbfgydghjmgdgdrghgfoghpasjfru.xn--b1agpkwbf.com/live/410105476/469646665/8.m3u$nome=[COLOR lime]SporTV 3 SD[/COLOR]</link>
+<link>http://tfdberuosiberbfgydghjmgdgdrghgfoghpasjfru.xn--b1agpkwbf.com/live/410105476/469646665/900510.m3u$nome=[COLOR lime]SporTV 3 HD²[/COLOR]</link>
+<link>http://tfdberuosiberbfgydghjmgdgdrghgfoghpasjfru.xn--b1agpkwbf.com/live/410105476/469646665/1036338.m3u$nome=[COLOR lime]SporTV 3 FHD[/COLOR]</link>
+<link>http://tfdberuosiberbfgydghjmgdgdrghgfoghpasjfru.xn--b1agpkwbf.com/live/410105476/469646665/10.m3u$nome=[COLOR lime]SporTV 3 H265[/COLOR]</link>
 <thumbnail>https://raw.githubusercontent.com/icefenixfire/T/refs/heads/main/T0001.webp</thumbnail>
 </item>
 </playlist>
