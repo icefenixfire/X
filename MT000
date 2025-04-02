@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <playlist>
 <channel>
+<title>SPORTV</title>
+<url>http://tfdberuosiberbfgydghjmgdgdrghgfoghpasjfru.xn--b1agpkwbf.com/live/410105476/469646665/2.m3u</url>
+</channel>
+
 <item>
 <title>SPORTV</title>
 <link>http://tfdberuosiberbfgydghjmgdgdrghgfoghpasjfru.xn--b1agpkwbf.com/live/410105476/469646665/2.m3u$nome=[COLOR lime]SporTV SD[/COLOR]</link>
@@ -90,5 +94,4 @@
 <link>http://tfdberuosiberbfgydghjmgdgdrghgfoghpasjfru.xn--b1agpkwbf.com/live/410105476/469646665/1058.m3u$nome=[COLOR lime]Discovery Channel H265[/COLOR]</link>
 <thumbnail>https://raw.githubusercontent.com/icefenixfire/T/refs/heads/main/T0004.webp</thumbnail>
 </item>
-</channel>
 <playlist>
