@@ -5,15 +5,6 @@
         <link>plugin://inputstream.adaptive/?url=http://tfdberuosiberbfgydghjmgdgdrghgfoghpasjfru.xn--b1agpkwbf.com/live/410105476/469646665/1104715.m3u</link>
         <thumbnail>https://via.placeholder.com/150</thumbnail>
     </channel>
-    <channel>
-        <title>URL</title>
-        <url>plugin://inputstream.adaptive/?url=http://tfdberuosiberbfgydghjmgdgdrghgfoghpasjfru.xn--b1agpkwbf.com/live/410105476/469646665/1104715.m3u</url>
-        <thumbnail>https://via.placeholder.com/150</thumbnail>
-    </channel>
-    <channel>
-        <title>externallink</title>
-        <externallink>plugin://inputstream.adaptive/?url=http://tfdberuosiberbfgydghjmgdgdrghgfoghpasjfru.xn--b1agpkwbf.com/live/410105476/469646665/1104715.m3u</externallink>
-        <thumbnail>https://via.placeholder.com/150</thumbnail>
-    </channel>
+    
 </playlist>
 
