@@ -1,15 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<items>
-<item>
-<title>ESPN</title>
-<link>plugin://inputstream.adaptive/?url=http://tfdberuosiberbfgydghjmgdgdrghgfoghpasjfru.xn--b1agpkwbf.com/live/410105476/469646665/1104715.m3u</link>
-<thumbnail>https://raw.githubusercontent.com/icefenixfire/T/refs/heads/main/T0005.webp</thumbnail>
-</item>
+<playlist>
+    <channel>
+        <title>Canal Exemplo 1</title>
+        <url>plugin://inputstream.adaptive/?url=http://tfdberuosiberbfgydghjmgdgdrghgfoghpasjfru.xn--b1agpkwbf.com/live/410105476/469646665/1104715.m3u</url>
+        <thumbnail>https://via.placeholder.com/150</thumbnail>
+    </channel>
+    <channel>
+        <title>Canal Exemplo 2</title>
+        <url>https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_2mb.mp4</url>
+        <thumbnail>https://via.placeholder.com/150</thumbnail>
+    </channel>
+    <channel>
+        <title>Canal Exemplo 3</title>
+        <url>https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_3mb.mp4</url>
+        <thumbnail>https://via.placeholder.com/150</thumbnail>
+    </channel>
+</playlist>
 
-<item>
-<title>ESPN</title>
-<link>plugin://inputstream.adaptive/?url=http://tfdberuosiberbfgydghjmgdgdrghgfoghpasjfru.xn--b1agpkwbf.com/live/410105476/469646665/1104715.m3u&amp;inputstream.adaptive.manifest_type=hls</link>
-<thumbnail>https://raw.githubusercontent.com/icefenixfire/T/refs/heads/main/T0005.webp</thumbnail>
-</item>
-
-</items>
