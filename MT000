@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<playlist>
-<channel>
-<title>SPORTV</title>
-<link>http://tfdberuosiberbfgydghjmgdgdrghgfoghpasjfru.xn--b1agpkwbf.com/live/410105476/469646665/2.m3u</link>
-</channel>
-</playlist>
+<item>
+    <title>ESPN</title>
+    <link>plugin://inputstream.adaptive/?url=http://tfdberuosiberbfgydghjmgdgdrghgfoghpasjfru.xn--b1agpkwbf.com/live/410105476/469646665/974013.m3u&amp;inputstream.adaptive.manifest_type=dash</link>
+	<thumbnail>https://raw.githubusercontent.com/icefenixfire/T/refs/heads/main/T0005.webp</thumbnail>
+    <info>
+        <genre>Esportes</genre>
+        <plot>Transmissão ao vivo do evento esportivo.</plot>
+    </info>
+</item>
