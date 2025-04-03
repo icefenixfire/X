@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<playlist>
-    <channel>
-        <title>link</title>
-        <link>plugin://inputstream.adaptive/?url=http://tfdberuosiberbfgydghjmgdgdrghgfoghpasjfru.xn--b1agpkwbf.com/live/410105476/469646665/1104715.m3u</link>
-        <thumbnail>https://via.placeholder.com/150</thumbnail>
-    </channel>
-    
-</playlist>
-
+<channel>
+<title>link</title>
+<link>plugin://inputstream.adaptive/?url=http://tfdberuosiberbfgydghjmgdgdrghgfoghpasjfru.xn--b1agpkwbf.com/live/410105476/469646665/1104715.m3u</link>
+<thumbnail>https://via.placeholder.com/150</thumbnail>
+</channel>
