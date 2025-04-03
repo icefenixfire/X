@@ -13,6 +13,6 @@
 
 <item>
 <title>ESPN</title>
-<link>plugin://inputstream.adaptive/?url=https://archive.org/download/AA0000/A0002_E01.mkv&amp;inputstream.adaptive.manifest_type=hls</link>
+<link>https://archive.org/download/AA0000/A0002_E01.mkv</link>
 <thumbnail>https://raw.githubusercontent.com/icefenixfire/T/refs/heads/main/T0005.webp</thumbnail>
 </item>
