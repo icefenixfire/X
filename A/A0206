@@ -1,7 +1,315 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <items>
-<item><title>[B]Aoashi: T1 - Episódio 01[/B]</title><thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0206.webp</thumbnail><fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0206_fanart.webp</fanart><genre>Dublado</genre><info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]</info><link></link></item>
-<item><title>[B]Aoashi: T1 - Episódio 02[/B]</title><thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0206.webp</thumbnail><fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0206_fanart.webp</fanart><genre>Dublado</genre><info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]</info><link></link></item>
-<item><title>[B]Aoashi: T1 - Episódio 03[/B]</title><thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0206.webp</thumbnail><fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0206_fanart.webp</fanart><genre>Dublado</genre><info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]</info><link></link></item>
-<item><title>[B]Aoashi: T1 - Episódio 04[/B]</title><thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0206.webp</thumbnail><fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0206_fanart.webp</fanart><genre>Dublado</genre><info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]</info><link></link></item>
-<item><title>[B]Aoashi: T1 - Episódio 05[/B]</title><thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0206.webp</thumbnail><fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0206_fanart.webp</fanart><genre>Dublado</genre><info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]</info><link></link></item>
+	<item>
+		<title>[B]Aoashi: Episódio 01[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0206.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0206_fanart.webp</fanart>
+		<genre>Drama | Esporte</genre>
+		<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2022
+TEMPORADA: 1
+EPISÓDIO: 01
+		</info>
+		<link>plugin://plugin.loopplay/?action=play&item_id=1gDSgsh5y-s819SK9h68_DePTtFQDWS9B&item_driveid=13317096135560461908&driveid=17776824897305541588&content_type=video</link>
+	</item>
+	<item>
+		<title>[B]Aoashi: Episódio 02[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0206.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0206_fanart.webp</fanart>
+		<genre>Drama | Esporte</genre>
+		<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2022
+TEMPORADA: 1
+EPISÓDIO: 02
+		</info>
+		<link>plugin://plugin.loopplay/?action=play&item_id=1PhePRF7iuu4C8ibB2qee6AFXnGG2KgpH&item_driveid=13317096135560461908&driveid=17776824897305541588&content_type=video</link>
+	</item>
+	<item>
+		<title>[B]Aoashi: Episódio 03[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0206.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0206_fanart.webp</fanart>
+		<genre>Drama | Esporte</genre>
+		<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2022
+TEMPORADA: 1
+EPISÓDIO: 03
+		</info>
+		<link>plugin://plugin.loopplay/?action=play&item_id=1gKJuRDY2Sf1EaVPFjlaUiZAnzEfNbLPa&item_driveid=13317096135560461908&driveid=17776824897305541588&content_type=video</link>
+	</item>
+	<item>
+		<title>[B]Aoashi: Episódio 04[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0206.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0206_fanart.webp</fanart>
+		<genre>Drama | Esporte</genre>
+		<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2022
+TEMPORADA: 1
+EPISÓDIO: 04
+		</info>
+		<link>plugin://plugin.loopplay/?action=play&item_id=11ty5H5sIJIcjQ_wV3QtlzcyiYNo3ADfo&item_driveid=13317096135560461908&driveid=17776824897305541588&content_type=video</link>
+	</item>
+	<item>
+		<title>[B]Aoashi: Episódio 05[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0206.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0206_fanart.webp</fanart>
+		<genre>Drama | Esporte</genre>
+		<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2022
+TEMPORADA: 1
+EPISÓDIO: 05
+		</info>
+		<link>plugin://plugin.loopplay/?action=play&item_id=1NxB8QxHDNLgJIwiRMUk1Jw7lHiAvFDTW&item_driveid=13317096135560461908&driveid=17776824897305541588&content_type=video</link>
+	</item>
+	<item>
+		<title>[B]Aoashi: Episódio 06[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0206.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0206_fanart.webp</fanart>
+		<genre>Drama | Esporte</genre>
+		<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2022
+TEMPORADA: 1
+EPISÓDIO: 06
+		</info>
+		<link>plugin://plugin.loopplay/?action=play&item_id=1pdP-_nBdZw7GDwsMrUZYMxVfPYQE4Lpq&item_driveid=13317096135560461908&driveid=17776824897305541588&content_type=video</link>
+	</item>
+	<item>
+		<title>[B]Aoashi: Episódio 07[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0206.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0206_fanart.webp</fanart>
+		<genre>Drama | Esporte</genre>
+		<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2022
+TEMPORADA: 1
+EPISÓDIO: 07
+		</info>
+		<link>plugin://plugin.loopplay/?action=play&item_id=1WvBCWOEhIWKv3RwwMiYNHj2KpMVKW5Jg&item_driveid=13317096135560461908&driveid=17776824897305541588&content_type=video</link>
+	</item>
+	<item>
+		<title>[B]Aoashi: Episódio 08[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0206.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0206_fanart.webp</fanart>
+		<genre>Drama | Esporte</genre>
+		<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2022
+TEMPORADA: 1
+EPISÓDIO: 08
+		</info>
+		<link>plugin://plugin.loopplay/?action=play&item_id=1jauoaSleOc00UEKxkdKVCGvvBO_S7p7K&item_driveid=13317096135560461908&driveid=17776824897305541588&content_type=video</link>
+	</item>
+	<item>
+		<title>[B]Aoashi: Episódio 09[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0206.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0206_fanart.webp</fanart>
+		<genre>Drama | Esporte</genre>
+		<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2022
+TEMPORADA: 1
+EPISÓDIO: 09
+		</info>
+		<link>plugin://plugin.loopplay/?action=play&item_id=1JUNTuTeVlOzRQ_Vv2vJMVeh6gq7MtDTy&item_driveid=13317096135560461908&driveid=17776824897305541588&content_type=video</link>
+	</item>
+	<item>
+		<title>[B]Aoashi: Episódio 10[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0206.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0206_fanart.webp</fanart>
+		<genre>Drama | Esporte</genre>
+		<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2022
+TEMPORADA: 1
+EPISÓDIO: 10
+		</info>
+		<link>plugin://plugin.loopplay/?action=play&item_id=1ivL-YOY4672JYdoD1BrjCZ71f8VagEoR&item_driveid=13317096135560461908&driveid=17776824897305541588&content_type=video</link>
+	</item>
+	<item>
+		<title>[B]Aoashi: Episódio 11[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0206.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0206_fanart.webp</fanart>
+		<genre>Drama | Esporte</genre>
+		<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2022
+TEMPORADA: 1
+EPISÓDIO: 11
+		</info>
+		<link>plugin://plugin.loopplay/?action=play&item_id=1EbK9zVH0d6XBHQw1Z2byXLIJY5EufJS6&item_driveid=13317096135560461908&driveid=17776824897305541588&content_type=video</link>
+	</item>
+	<item>
+		<title>[B]Aoashi: Episódio 12[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0206.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0206_fanart.webp</fanart>
+		<genre>Drama | Esporte</genre>
+		<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2022
+TEMPORADA: 1
+EPISÓDIO: 12
+		</info>
+		<link>plugin://plugin.loopplay/?action=play&item_id=1Tt28gRsxSPxv__8N3_1PTfjvc7Yw1veW&item_driveid=13317096135560461908&driveid=17776824897305541588&content_type=video</link>
+	</item>
+	<item>
+		<title>[B]Aoashi: Episódio 13[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0206.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0206_fanart.webp</fanart>
+		<genre>Drama | Esporte</genre>
+		<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2022
+TEMPORADA: 1
+EPISÓDIO: 13
+		</info>
+		<link>plugin://plugin.loopplay/?action=play&item_id=1E8ZtbMZ2a_whnzxyq9DtEm8Z3_1lAlPi&item_driveid=13317096135560461908&driveid=17776824897305541588&content_type=video</link>
+	</item>
+	<item>
+		<title>[B]Aoashi: Episódio 14[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0206.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0206_fanart.webp</fanart>
+		<genre>Drama | Esporte</genre>
+		<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2022
+TEMPORADA: 1
+EPISÓDIO: 14
+		</info>
+		<link>plugin://plugin.loopplay/?action=play&item_id=1OpCpVsSUq0abpqzoIQ3No5PLT1AB6QHc&item_driveid=13317096135560461908&driveid=17776824897305541588&content_type=video</link>
+	</item>
+	<item>
+		<title>[B]Aoashi: Episódio 15[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0206.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0206_fanart.webp</fanart>
+		<genre>Drama | Esporte</genre>
+		<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2022
+TEMPORADA: 1
+EPISÓDIO: 15
+		</info>
+		<link>plugin://plugin.loopplay/?action=play&item_id=1hVsm2DfN7lBRow5i_7JqFn7X5Ing4jBZ&item_driveid=13317096135560461908&driveid=17776824897305541588&content_type=video</link>
+	</item>
+	<item>
+		<title>[B]Aoashi: Episódio 16[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0206.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0206_fanart.webp</fanart>
+		<genre>Drama | Esporte</genre>
+		<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2022
+TEMPORADA: 1
+EPISÓDIO: 16
+		</info>
+		<link>plugin://plugin.loopplay/?action=play&item_id=1yrgkO7ArWiDhCCuXT-7y0sTkN_WjIdhy&item_driveid=13317096135560461908&driveid=17776824897305541588&content_type=video</link>
+	</item>
+	<item>
+		<title>[B]Aoashi: Episódio 17[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0206.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0206_fanart.webp</fanart>
+		<genre>Drama | Esporte</genre>
+		<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2022
+TEMPORADA: 1
+EPISÓDIO: 17
+		</info>
+		<link>plugin://plugin.loopplay/?action=play&item_id=15eKf9ZUSRpM4sLaEnqcFECqAEjV-uaBN&item_driveid=13317096135560461908&driveid=17776824897305541588&content_type=video</link>
+	</item>
+	<item>
+		<title>[B]Aoashi: Episódio 18[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0206.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0206_fanart.webp</fanart>
+		<genre>Drama | Esporte</genre>
+		<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2022
+TEMPORADA: 1
+EPISÓDIO: 18
+		</info>
+		<link>plugin://plugin.loopplay/?action=play&item_id=1vyz4AgxjDErraFSt5cJKUCi-Ij5YeTo6&item_driveid=13317096135560461908&driveid=17776824897305541588&content_type=video</link>
+	</item>
+	<item>
+		<title>[B]Aoashi: Episódio 19[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0206.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0206_fanart.webp</fanart>
+		<genre>Drama | Esporte</genre>
+		<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2022
+TEMPORADA: 1
+EPISÓDIO: 19
+		</info>
+		<link>plugin://plugin.loopplay/?action=play&item_id=1SaiyZqKsHoBFSV3qEszTZD25lATWn_FL&item_driveid=13317096135560461908&driveid=17776824897305541588&content_type=video</link>
+	</item>
+	<item>
+		<title>[B]Aoashi: Episódio 20[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0206.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0206_fanart.webp</fanart>
+		<genre>Drama | Esporte</genre>
+		<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2022
+TEMPORADA: 1
+EPISÓDIO: 20
+		</info>
+		<link>plugin://plugin.loopplay/?action=play&item_id=1zNCN7gVnCCgiFC7CNJQVbD0QGN7vwSPJ&item_driveid=13317096135560461908&driveid=17776824897305541588&content_type=video</link>
+	</item>
+	<item>
+		<title>[B]Aoashi: Episódio 21[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0206.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0206_fanart.webp</fanart>
+		<genre>Drama | Esporte</genre>
+		<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2022
+TEMPORADA: 1
+EPISÓDIO: 21
+		</info>
+		<link>plugin://plugin.loopplay/?action=play&item_id=1_Zxz0uqH2WVc1gFvzfG4Di5ggx8etKqq&item_driveid=13317096135560461908&driveid=17776824897305541588&content_type=video</link>
+	</item>
+	<item>
+		<title>[B]Aoashi: Episódio 22[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0206.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0206_fanart.webp</fanart>
+		<genre>Drama | Esporte</genre>
+		<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2022
+TEMPORADA: 1
+EPISÓDIO: 22
+		</info>
+		<link>plugin://plugin.loopplay/?action=play&item_id=1X4hOQnvEsWHMrYLXiAkLrKq2AFdNO5KD&item_driveid=13317096135560461908&driveid=17776824897305541588&content_type=video</link>
+	</item>
+	<item>
+		<title>[B]Aoashi: Episódio 23[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0206.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0206_fanart.webp</fanart>
+		<genre>Drama | Esporte</genre>
+		<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2022
+TEMPORADA: 1
+EPISÓDIO: 23
+		</info>
+		<link>plugin://plugin.loopplay/?action=play&item_id=14qyy03OMASudxr46QG96qLaoBBiBKWm4&item_driveid=13317096135560461908&driveid=17776824897305541588&content_type=video</link>
+	</item>
+	<item>
+		<title>[B]Aoashi: Episódio 24[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0206.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0206_fanart.webp</fanart>
+		<genre>Drama | Esporte</genre>
+		<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2022
+TEMPORADA: 1
+EPISÓDIO: 24
+		</info>
+		<link>plugin://plugin.loopplay/?action=play&item_id=1OfU_omrfOF1bFJ0Rs8ULf5PwQQu4tMgB&item_driveid=13317096135560461908&driveid=17776824897305541588&content_type=video</link>
+	</item>
 </items>
