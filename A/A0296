@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <items>
 	<item>
-		<title>[B]De Caipira a Mestre Espadachim: T1 - Episódio 01[/B]</title>
+		<title>[B]De Caipira a Mestre...: T1 - Episódio 01[/B]</title>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0296.webp</thumbnail>
 		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0296_fanart.webp</fanart>
 		<genre>Aventura | Comédia | Fantasia | Ação</genre>
@@ -9,7 +9,7 @@
 ÁUDIO: Português
 ANO: 2025
 TEMPORADA: 1
-EPISÓDIO: Renovado		</info>
+EPISÓDIO: 01</info>
 		<link>plugin://plugin.loopplay/?action=play&item_id=1cU0-WfO5LFfo4Ag7YVxy4edo8jGz48gz&item_driveid=13317096135560461908&driveid=17776824897305541588&content_type=video</link>
 	</item>
 </items>
