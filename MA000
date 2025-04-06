@@ -26,6 +26,19 @@ TEMPORADAS: 1
 STATUS: Renovado
 		</info>
 	</channel>
+	
+	<channel>
+		<name>[B]HELLSING[/B]</name>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0100.webp</thumbnail>
+		<externallink>https://raw.githubusercontent.com/icefenixfire/X/main/A/A0100</externallink>
+		<genre>Ação | Fantasia | Sobrenatural</genre>
+		<info>[COLOR crimson][B]● Classificação +18[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2001
+TEMPORADAS: 1
+STATUS: Finalizado
+		</info>
+	</channel>
 
 	<channel>
 		<name>[B]ZATCH BELL![/B]</name>
