@@ -69,20 +69,49 @@
 		<link>http://srv.hostinggon39.xyz:2082/Tourobox2-Qa7nOCWay6/vCe0IhzTsb/68$nome=[COLOR lime]DISCOVERY HeH - HD[/COLOR]</link>
 		<link>http://srv.hostinggon39.xyz:2082/Tourobox2-Qa7nOCWay6/vCe0IhzTsb/67$nome=[COLOR lime]DISCOVERY HeH - 4K[/COLOR]</link>
 		<link>http://srv.hostinggon39.xyz:2082/Tourobox2-Qa7nOCWay6/vCe0IhzTsb/1021$nome=[COLOR lime]DISCOVERY HeH - HDR+[/COLOR]</link>
-		<thumbnail>https://raw.githubusercontent.com/icefenixfire/T/refs/heads/main/T0006.webp</thumbnail>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/T/refs/heads/main/T000.webp</thumbnail>
 	</item>
 
 	<item>
 		<title>DISCOVERY TURBO</title>
-		<link>http://srv.hostinggon39.xyz:2082/Tourobox2-Qa7nOCWay6/vCe0IhzTsb/1022</link>
-		<thumbnail>https://raw.githubusercontent.com/icefenixfire/T/refs/heads/main/T0004.webp</thumbnail>
+		<link>http://srv.hostinggon39.xyz:2082/Tourobox2-Qa7nOCWay6/vCe0IhzTsb/75$nome=[COLOR lime]DISCOVERY TURBO - 4K[/COLOR]</link>
+		<link>http://srv.hostinggon39.xyz:2082/Tourobox2-Qa7nOCWay6/vCe0IhzTsb/1022$nome=[COLOR lime]DISCOVERY TURBO - HDR+[/COLOR]</link>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/T/refs/heads/main/T0007.webp</thumbnail>
 	</item>
 
 	<item>
 		<title>DISCOVERY ID</title>
 		<link>http://srv.hostinggon39.xyz:2082/Tourobox2-Qa7nOCWay6/vCe0IhzTsb/70$nome=[COLOR lime]DISCOVERY ID - HD[/COLOR]</link>
 		<link>http://srv.hostinggon39.xyz:2082/Tourobox2-Qa7nOCWay6/vCe0IhzTsb/69$nome=[COLOR lime]DISCOVERY ID - 4K[/COLOR]</link>
-		<thumbnail>https://raw.githubusercontent.com/icefenixfire/T/refs/heads/main/T0006.webp</thumbnail>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/T/refs/heads/main/T0023.webp</thumbnail>
+	</item>
+	
+	<item>
+		<title>DISCOVERY SCIENCE</title>
+		<link>http://srv.hostinggon39.xyz:2082/Tourobox2-Qa7nOCWay6/vCe0IhzTsb/72$nome=[COLOR lime]DISCOVERY SCIENCE - HD[/COLOR]</link>
+		<link>http://srv.hostinggon39.xyz:2082/Tourobox2-Qa7nOCWay6/vCe0IhzTsb/71$nome=[COLOR lime]DISCOVERY SCIENCE - 4K[/COLOR]</link>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/T/refs/heads/main/T0024.webp</thumbnail>
+	</item>
+	
+	<item>
+		<title>DISCOVERY THEATER</title>
+		<link>http://srv.hostinggon39.xyz:2082/Tourobox2-Qa7nOCWay6/vCe0IhzTsb/74$nome=[COLOR lime]DISCOVERY THEATER - HD[/COLOR]</link>
+		<link>http://srv.hostinggon39.xyz:2082/Tourobox2-Qa7nOCWay6/vCe0IhzTsb/73$nome=[COLOR lime]DISCOVERY THEATER - 4K[/COLOR]</link>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/T/refs/heads/main/T0009.webp</thumbnail>
+	</item>
+	
+	<item>
+		<title>DISCOVERY WORLD</title>
+		<link>http://srv.hostinggon39.xyz:2082/Tourobox2-Qa7nOCWay6/vCe0IhzTsb/78$nome=[COLOR lime]DISCOVERY WORLD - HD[/COLOR]</link>
+		<link>http://srv.hostinggon39.xyz:2082/Tourobox2-Qa7nOCWay6/vCe0IhzTsb/77$nome=[COLOR lime]DISCOVERY WORLD - 4K[/COLOR]</link>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/T/refs/heads/main/T0008.webp</thumbnail>
+	</item>
+	
+	<item>
+		<title>DISCOVERY KIDS</title>
+		<link>http://srv.hostinggon39.xyz:2082/Tourobox2-Qa7nOCWay6/vCe0IhzTsb/349$nome=[COLOR lime]DISCOVERY KIDS - HD[/COLOR]</link>
+		<link>http://srv.hostinggon39.xyz:2082/Tourobox2-Qa7nOCWay6/vCe0IhzTsb/348$nome=[COLOR lime]DISCOVERY KIDS - 4K[/COLOR]</link>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/T/refs/heads/main/T0025.webp</thumbnail>
 	</item>
 
 </playlist>
