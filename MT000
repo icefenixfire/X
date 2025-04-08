@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<playlist>
-
+<items>
 	<item>
 		<title>SPORTV</title>
-		<link>http://srv.hostinggon39.xyz:2082/Tourobox2-Qa7nOCWay6/vCe0IhzTsb/178$nome=[COLOR lime]SporTV 1 - HD  [/COLOR]</link>
-		<link>http://srv.hostinggon39.xyz:2082/Tourobox2-Qa7nOCWay6/vCe0IhzTsb/183$nome=[COLOR lime]SporTV 1 - 4K  [/COLOR]</link>
+		<link>http://srv.hostinggon39.xyz:2082/Tourobox2-Qa7nOCWay6/vCe0IhzTsb/178$nome=[COLOR lime]SporTV 1 - HD[/COLOR]</link>
+		<link>http://srv.hostinggon39.xyz:2082/Tourobox2-Qa7nOCWay6/vCe0IhzTsb/183$nome=[COLOR lime]SporTV 1 - 4K[/COLOR]</link>
 		<link>http://srv.hostinggon39.xyz:2082/Tourobox2-Qa7nOCWay6/vCe0IhzTsb/993$nome=[COLOR lime]SporTV 1 - HDR+[/COLOR]</link>
-		<link>http://srv.hostinggon39.xyz:2082/Tourobox2-Qa7nOCWay6/vCe0IhzTsb/172$nome=[COLOR lime]SporTV 2 - HD  [/COLOR]</link>
+		<link>http://srv.hostinggon39.xyz:2082/Tourobox2-Qa7nOCWay6/vCe0IhzTsb/172$nome=[COLOR lime]SporTV 2 - HD[/COLOR]</link>
 		<link>http://srv.hostinggon39.xyz:2082/Tourobox2-Qa7nOCWay6/vCe0IhzTsb/1016$nome=[COLOR lime]SporTV 2 - HDR+[/COLOR]</link>
-		<link>http://srv.hostinggon39.xyz:2082/Tourobox2-Qa7nOCWay6/vCe0IhzTsb/175$nome=[COLOR lime]SporTV 3 - 4K  [/COLOR]</link>
+		<link>http://srv.hostinggon39.xyz:2082/Tourobox2-Qa7nOCWay6/vCe0IhzTsb/175$nome=[COLOR lime]SporTV 3 - 4K[/COLOR]</link>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/T/refs/heads/main/T0001.webp</thumbnail>
 	</item>
 
@@ -56,6 +55,27 @@
 		<link>http://srv.hostinggon39.xyz:2082/Tourobox2-Qa7nOCWay6/vCe0IhzTsb/162$nome=[COLOR lime]PREMIERE 8 - HD[/COLOR]</link>
 		<link>http://srv.hostinggon39.xyz:2082/Tourobox2-Qa7nOCWay6/vCe0IhzTsb/163$nome=[COLOR lime]PREMIERE 9 - HD[/COLOR]</link>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/T/refs/heads/main/T0002.webp</thumbnail>
+	</item>
+	
+	<item>
+		<title>BEIN SPORTS</title>
+		<link>http://srv.hostinggon39.xyz:2082/Tourobox2-Qa7nOCWay6/vCe0IhzTsb/901$nome=[COLOR lime]BEIN SPORTS 1[/COLOR]</link>
+		<link>http://srv.hostinggon39.xyz:2082/Tourobox2-Qa7nOCWay6/vCe0IhzTsb/902$nome=[COLOR lime]BEIN SPORTS 2[/COLOR]</link>
+		<link>http://srv.hostinggon39.xyz:2082/Tourobox2-Qa7nOCWay6/vCe0IhzTsb/903$nome=[COLOR lime]BEIN SPORTS 3[/COLOR]</link>
+		<link>http://srv.hostinggon39.xyz:2082/Tourobox2-Qa7nOCWay6/vCe0IhzTsb/904$nome=[COLOR lime]BEIN SPORTS 4[/COLOR]</link>
+		<link>http://srv.hostinggon39.xyz:2082/Tourobox2-Qa7nOCWay6/vCe0IhzTsb/905$nome=[COLOR lime]BEIN SPORTS 5[/COLOR]</link>
+		<link>http://srv.hostinggon39.xyz:2082/Tourobox2-Qa7nOCWay6/vCe0IhzTsb/906$nome=[COLOR lime]BEIN SPORTS 6[/COLOR]</link>
+		<link>http://srv.hostinggon39.xyz:2082/Tourobox2-Qa7nOCWay6/vCe0IhzTsb/907$nome=[COLOR lime]BEIN SPORTS 7[/COLOR]</link>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/T/refs/heads/main/T0027.webp</thumbnail>
+	</item>
+	
+	<item>
+		<title>COMBATE</title>
+		<link>http://srv.hostinggon39.xyz:2082/Tourobox2-Qa7nOCWay6/vCe0IhzTsb/123$nome=[COLOR lime]COMBATE - HD[/COLOR]</link>
+		<link>http://srv.hostinggon39.xyz:2082/Tourobox2-Qa7nOCWay6/vCe0IhzTsb/1356$nome=[COLOR lime]COMBATE - HD[/COLOR]</link>
+		<link>http://srv.hostinggon39.xyz:2082/Tourobox2-Qa7nOCWay6/vCe0IhzTsb/122$nome=[COLOR lime]COMBATE - 4K[/COLOR]</link>
+		<link>http://srv.hostinggon39.xyz:2082/Tourobox2-Qa7nOCWay6/vCe0IhzTsb/1001$nome=[COLOR lime]COMBATE - HDR+[/COLOR]</link>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/T/refs/heads/main/T0021.webp</thumbnail>
 	</item>
 
 	<item>
@@ -113,5 +133,54 @@
 		<link>http://srv.hostinggon39.xyz:2082/Tourobox2-Qa7nOCWay6/vCe0IhzTsb/348$nome=[COLOR lime]DISCOVERY KIDS - 4K[/COLOR]</link>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/T/refs/heads/main/T0025.webp</thumbnail>
 	</item>
+	
+	<item>
+		<title>ANIMAL PLANET</title>
+		<link>http://srv.hostinggon39.xyz:2082/Tourobox2-Qa7nOCWay6/vCe0IhzTsb/61$nome=[COLOR lime]ANIMAL PLANET - 4K[/COLOR]</link>
+		<link>http://srv.hostinggon39.xyz:2082/Tourobox2-Qa7nOCWay6/vCe0IhzTsb/994$nome=[COLOR lime]ANIMAL PLANET - HDR+[/COLOR]</link>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/T/refs/heads/main/T0010.webp</thumbnail>
+	</item>
+	
+	<item>
+		<title>HISTORY</title>
+		<link>http://srv.hostinggon39.xyz:2082/Tourobox2-Qa7nOCWay6/vCe0IhzTsb/82$nome=[COLOR lime]HISTORY - HD[/COLOR]</link>
+		<link>http://srv.hostinggon39.xyz:2082/Tourobox2-Qa7nOCWay6/vCe0IhzTsb/83$nome=[COLOR lime]HISTORY - 4K[/COLOR]</link>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/T/refs/heads/main/T0011.webp</thumbnail>
+	</item>
+	
+	<item>
+		<title>HISTORY 2</title>
+		<link>http://srv.hostinggon39.xyz:2082/Tourobox2-Qa7nOCWay6/vCe0IhzTsb/81$nome=[COLOR lime]HISTORY 2 - HD[/COLOR]</link>
+		<link>http://srv.hostinggon39.xyz:2082/Tourobox2-Qa7nOCWay6/vCe0IhzTsb/815$nome=[COLOR lime]HISTORY 2 - 4K[/COLOR]</link>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/T/refs/heads/main/T0012.webp</thumbnail>
+	</item>
+	
+	<item>
+		<title>HGTV</title>
+		<link>http://srv.hostinggon39.xyz:2082/Tourobox2-Qa7nOCWay6/vCe0IhzTsb/552$nome=[COLOR lime]HGTV - HD[/COLOR]</link>
+		<link>http://srv.hostinggon39.xyz:2082/Tourobox2-Qa7nOCWay6/vCe0IhzTsb/816$nome=[COLOR lime]HGTV - 4K[/COLOR]</link>
+		<link>http://srv.hostinggon39.xyz:2082/Tourobox2-Qa7nOCWay6/vCe0IhzTsb/1006$nome=[COLOR lime]HGTV - HDR+[/COLOR]</link>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/T/refs/heads/main/T0026.webp</thumbnail>
+	</item>
+	
+	<item>
+		<title>TELECINE</title>
+		<link>http://srv.hostinggon39.xyz:2082/Tourobox2-Qa7nOCWay6/vCe0IhzTsb/304$nome=[COLOR lime]TELECINE PIPOCA - HD[/COLOR]</link>
+		<link>http://srv.hostinggon39.xyz:2082/Tourobox2-Qa7nOCWay6/vCe0IhzTsb/303$nome=[COLOR lime]TELECINE PIPOCA - 4K[/COLOR]</link>
+		<link>http://srv.hostinggon39.xyz:2082/Tourobox2-Qa7nOCWay6/vCe0IhzTsb/996$nome=[COLOR lime]TELECINE PIPOCA - HDR+[/COLOR]</link>
+		<link>http://srv.hostinggon39.xyz:2082/Tourobox2-Qa7nOCWay6/vCe0IhzTsb/307$nome=[COLOR lime]TELECINE PREMIUM - HD[/COLOR]</link>
+		<link>http://srv.hostinggon39.xyz:2082/Tourobox2-Qa7nOCWay6/vCe0IhzTsb/306$nome=[COLOR lime]TELECINE PREMIUM - 4K[/COLOR]</link>
+		<link>http://srv.hostinggon39.xyz:2082/Tourobox2-Qa7nOCWay6/vCe0IhzTsb/997$nome=[COLOR lime]TELECINE PREMIUM - HDR+ [/COLOR]</link>
+		<link>http://srv.hostinggon39.xyz:2082/Tourobox2-Qa7nOCWay6/vCe0IhzTsb/295$nome=[COLOR lime]TELECINE ACTION - HD[/COLOR]</link>
+		<link>http://srv.hostinggon39.xyz:2082/Tourobox2-Qa7nOCWay6/vCe0IhzTsb/294$nome=[COLOR lime]TELECINE ACTION - 4K[/COLOR]</link>
+		<link>http://srv.hostinggon39.xyz:2082/Tourobox2-Qa7nOCWay6/vCe0IhzTsb/1019$nome=[COLOR lime]TELECINE ACTION - HDR+[/COLOR]</link>
+		<link>http://srv.hostinggon39.xyz:2082/Tourobox2-Qa7nOCWay6/vCe0IhzTsb/298$nome=[COLOR lime]TELECINE CULT - HD[/COLOR]</link>
+		<link>http://srv.hostinggon39.xyz:2082/Tourobox2-Qa7nOCWay6/vCe0IhzTsb/297$nome=[COLOR lime]TELECINE CULT - 4K[/COLOR]</link>
+		<link>http://srv.hostinggon39.xyz:2082/Tourobox2-Qa7nOCWay6/vCe0IhzTsb/301$nome=[COLOR lime]TELECINE FUN - HD[/COLOR]</link>
+		<link>http://srv.hostinggon39.xyz:2082/Tourobox2-Qa7nOCWay6/vCe0IhzTsb/300$nome=[COLOR lime]TELECINE FUN - 4K[/COLOR]</link>
+		<link>http://srv.hostinggon39.xyz:2082/Tourobox2-Qa7nOCWay6/vCe0IhzTsb/310$nome=[COLOR lime]TELECINE TOUCH - HD[/COLOR]</link>
+		<link>http://srv.hostinggon39.xyz:2082/Tourobox2-Qa7nOCWay6/vCe0IhzTsb/309$nome=[COLOR lime]TELECINE TOUCH - 4K[/COLOR]</link>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/T/refs/heads/main/T0028.webp</thumbnail>
+	</item>
 
-</playlist>
+</items>
