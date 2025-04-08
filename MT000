@@ -1,61 +1,88 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <playlist>
 
-<item>
-<title>SPORTV</title>
-<link>http://srv.hostinggon39.xyz:2082/Tourobox2-Qa7nOCWay6/vCe0IhzTsb/178$nome=[COLOR lime]SporTV 1 - HD[/COLOR]</link>
-<link>http://srv.hostinggon39.xyz:2082/Tourobox2-Qa7nOCWay6/vCe0IhzTsb/183$nome=[COLOR lime]SporTV 1 - 4K[/COLOR]</link>
-<link>http://srv.hostinggon39.xyz:2082/Tourobox2-Qa7nOCWay6/vCe0IhzTsb/993$nome=[COLOR lime]SporTV 1 - HDR+[/COLOR]</link>
-<link>http://srv.hostinggon39.xyz:2082/Tourobox2-Qa7nOCWay6/vCe0IhzTsb/172$nome=[COLOR lime]SporTV 2 - HD[/COLOR]</link>
-<link>http://srv.hostinggon39.xyz:2082/Tourobox2-Qa7nOCWay6/vCe0IhzTsb/1016$nome=[COLOR lime]SporTV 2 - HDR+[/COLOR]</link>
-<link>http://srv.hostinggon39.xyz:2082/Tourobox2-Qa7nOCWay6/vCe0IhzTsb/175$nome=[COLOR lime]SporTV 3 - 4K[/COLOR]</link>
-<thumbnail>https://raw.githubusercontent.com/icefenixfire/T/refs/heads/main/T0001.webp</thumbnail>
-</item>
+	<item>
+		<title>SPORTV</title>
+		<link>http://srv.hostinggon39.xyz:2082/Tourobox2-Qa7nOCWay6/vCe0IhzTsb/178$nome=[COLOR lime]SporTV 1 - HD  [/COLOR]</link>
+		<link>http://srv.hostinggon39.xyz:2082/Tourobox2-Qa7nOCWay6/vCe0IhzTsb/183$nome=[COLOR lime]SporTV 1 - 4K  [/COLOR]</link>
+		<link>http://srv.hostinggon39.xyz:2082/Tourobox2-Qa7nOCWay6/vCe0IhzTsb/993$nome=[COLOR lime]SporTV 1 - HDR+[/COLOR]</link>
+		<link>http://srv.hostinggon39.xyz:2082/Tourobox2-Qa7nOCWay6/vCe0IhzTsb/172$nome=[COLOR lime]SporTV 2 - HD  [/COLOR]</link>
+		<link>http://srv.hostinggon39.xyz:2082/Tourobox2-Qa7nOCWay6/vCe0IhzTsb/1016$nome=[COLOR lime]SporTV 2 - HDR+[/COLOR]</link>
+		<link>http://srv.hostinggon39.xyz:2082/Tourobox2-Qa7nOCWay6/vCe0IhzTsb/175$nome=[COLOR lime]SporTV 3 - 4K  [/COLOR]</link>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/T/refs/heads/main/T0001.webp</thumbnail>
+	</item>
 
-<item>
-<title>ESPN</title>
-<link>http://srv.hostinggon39.xyz:2082/Tourobox2-Qa7nOCWay6/vCe0IhzTsb/131$nome=[COLOR lime]ESPN 1 - HD[/COLOR]</link>
-<link>http://srv.hostinggon39.xyz:2082/Tourobox2-Qa7nOCWay6/vCe0IhzTsb/130$nome=[COLOR lime]ESPN 1 - 4K[/COLOR]</link>
-<link>http://srv.hostinggon39.xyz:2082/Tourobox2-Qa7nOCWay6/vCe0IhzTsb/135$nome=[COLOR lime]ESPN 2 - HD[/COLOR]</link>
-<link>http://srv.hostinggon39.xyz:2082/Tourobox2-Qa7nOCWay6/vCe0IhzTsb/129$nome=[COLOR lime]ESPN 2 - 4K[/COLOR]</link>
-<link>http://srv.hostinggon39.xyz:2082/Tourobox2-Qa7nOCWay6/vCe0IhzTsb/126$nome=[COLOR lime]ESPN 3 - HD[/COLOR]</link>
-<link>http://srv.hostinggon39.xyz:2082/Tourobox2-Qa7nOCWay6/vCe0IhzTsb/127$nome=[COLOR lime]ESPN 3 - 4K[/COLOR]</link>
-<link>http://srv.hostinggon39.xyz:2082/Tourobox2-Qa7nOCWay6/vCe0IhzTsb/995$nome=[COLOR lime]ESPN 3 - HDR+[/COLOR]</link>
-<link>http://srv.hostinggon39.xyz:2082/Tourobox2-Qa7nOCWay6/vCe0IhzTsb/143$nome=[COLOR lime]ESPN 4 - HD[/COLOR]</link>
-<link>http://srv.hostinggon39.xyz:2082/Tourobox2-Qa7nOCWay6/vCe0IhzTsb/142$nome=[COLOR lime]ESPN 4 - 4K[/COLOR]</link>
-<link>http://srv.hostinggon39.xyz:2082/Tourobox2-Qa7nOCWay6/vCe0IhzTsb/899$nome=[COLOR lime]ESPN 4 - 4K²[/COLOR]</link>
-<link>http://srv.hostinggon39.xyz:2082/Tourobox2-Qa7nOCWay6/vCe0IhzTsb/1007$nome=[COLOR lime]ESPN 4 - HDR+[/COLOR]</link>
-<link>http://srv.hostinggon39.xyz:2082/Tourobox2-Qa7nOCWay6/vCe0IhzTsb/140$nome=[COLOR lime]ESPN 5 - HD[/COLOR]</link>
-<link>http://srv.hostinggon39.xyz:2082/Tourobox2-Qa7nOCWay6/vCe0IhzTsb/139$nome=[COLOR lime]ESPN 5 - 4K[/COLOR]</link>
-<link>http://srv.hostinggon39.xyz:2082/Tourobox2-Qa7nOCWay6/vCe0IhzTsb/1008$nome=[COLOR lime]ESPN 5 - HDR+[/COLOR]</link>
-<link>http://srv.hostinggon39.xyz:2082/Tourobox2-Qa7nOCWay6/vCe0IhzTsb/134$nome=[COLOR lime]ESPN 6 - HD[/COLOR]</link>
-<link>http://srv.hostinggon39.xyz:2082/Tourobox2-Qa7nOCWay6/vCe0IhzTsb/133$nome=[COLOR lime]ESPN 6 - 4K[/COLOR]</link>
-<link>http://srv.hostinggon39.xyz:2082/Tourobox2-Qa7nOCWay6/vCe0IhzTsb/1005$nome=[COLOR lime]ESPN 6 - HDR+[/COLOR]</link>
-<thumbnail>https://raw.githubusercontent.com/icefenixfire/T/refs/heads/main/T0005.webp</thumbnail>
-</item>
+	<item>
+		<title>ESPN</title>
+		<link>http://srv.hostinggon39.xyz:2082/Tourobox2-Qa7nOCWay6/vCe0IhzTsb/131$nome=[COLOR lime]ESPN 1 - HD[/COLOR]</link>
+		<link>http://srv.hostinggon39.xyz:2082/Tourobox2-Qa7nOCWay6/vCe0IhzTsb/130$nome=[COLOR lime]ESPN 1 - 4K[/COLOR]</link>
+		<link>http://srv.hostinggon39.xyz:2082/Tourobox2-Qa7nOCWay6/vCe0IhzTsb/135$nome=[COLOR lime]ESPN 2 - HD[/COLOR]</link>
+		<link>http://srv.hostinggon39.xyz:2082/Tourobox2-Qa7nOCWay6/vCe0IhzTsb/129$nome=[COLOR lime]ESPN 2 - 4K[/COLOR]</link>
+		<link>http://srv.hostinggon39.xyz:2082/Tourobox2-Qa7nOCWay6/vCe0IhzTsb/126$nome=[COLOR lime]ESPN 3 - HD[/COLOR]</link>
+		<link>http://srv.hostinggon39.xyz:2082/Tourobox2-Qa7nOCWay6/vCe0IhzTsb/127$nome=[COLOR lime]ESPN 3 - 4K[/COLOR]</link>
+		<link>http://srv.hostinggon39.xyz:2082/Tourobox2-Qa7nOCWay6/vCe0IhzTsb/995$nome=[COLOR lime]ESPN 3 - HDR+[/COLOR]</link>
+		<link>http://srv.hostinggon39.xyz:2082/Tourobox2-Qa7nOCWay6/vCe0IhzTsb/143$nome=[COLOR lime]ESPN 4 - HD[/COLOR]</link>
+		<link>http://srv.hostinggon39.xyz:2082/Tourobox2-Qa7nOCWay6/vCe0IhzTsb/142$nome=[COLOR lime]ESPN 4 - 4K[/COLOR]</link>
+		<link>http://srv.hostinggon39.xyz:2082/Tourobox2-Qa7nOCWay6/vCe0IhzTsb/899$nome=[COLOR lime]ESPN 4 - 4K²[/COLOR]</link>
+		<link>http://srv.hostinggon39.xyz:2082/Tourobox2-Qa7nOCWay6/vCe0IhzTsb/1007$nome=[COLOR lime]ESPN 4 - HDR+[/COLOR]</link>
+		<link>http://srv.hostinggon39.xyz:2082/Tourobox2-Qa7nOCWay6/vCe0IhzTsb/140$nome=[COLOR lime]ESPN 5 - HD[/COLOR]</link>
+		<link>http://srv.hostinggon39.xyz:2082/Tourobox2-Qa7nOCWay6/vCe0IhzTsb/139$nome=[COLOR lime]ESPN 5 - 4K[/COLOR]</link>
+		<link>http://srv.hostinggon39.xyz:2082/Tourobox2-Qa7nOCWay6/vCe0IhzTsb/1008$nome=[COLOR lime]ESPN 5 - HDR+[/COLOR]</link>
+		<link>http://srv.hostinggon39.xyz:2082/Tourobox2-Qa7nOCWay6/vCe0IhzTsb/134$nome=[COLOR lime]ESPN 6 - HD[/COLOR]</link>
+		<link>http://srv.hostinggon39.xyz:2082/Tourobox2-Qa7nOCWay6/vCe0IhzTsb/133$nome=[COLOR lime]ESPN 6 - 4K[/COLOR]</link>
+		<link>http://srv.hostinggon39.xyz:2082/Tourobox2-Qa7nOCWay6/vCe0IhzTsb/1005$nome=[COLOR lime]ESPN 6 - HDR+[/COLOR]</link>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/T/refs/heads/main/T0005.webp</thumbnail>
+	</item>
 
-<item>
-<title>PREMIERE CLUBES</title>
-<link>http://srv.hostinggon39.xyz:2082/Tourobox2-Qa7nOCWay6/vCe0IhzTsb/164$nome=[COLOR lime]PREMIERE 1 - HD[/COLOR]</link>
-<link>http://srv.hostinggon39.xyz:2082/Tourobox2-Qa7nOCWay6/vCe0IhzTsb/1267$nome=[COLOR lime]PREMIERE 1 - HD²[/COLOR]</link>
-<link>http://srv.hostinggon39.xyz:2082/Tourobox2-Qa7nOCWay6/vCe0IhzTsb/148$nome=[COLOR lime]PREMIERE 1 - 4K[/COLOR]</link>
-<link>http://srv.hostinggon39.xyz:2082/Tourobox2-Qa7nOCWay6/vCe0IhzTsb/165$nome=[COLOR lime]PREMIERE 1 - 4K²[/COLOR]</link>
-<link>http://srv.hostinggon39.xyz:2082/Tourobox2-Qa7nOCWay6/vCe0IhzTsb/1003$nome=[COLOR lime]PREMIERE 1 - HDR+[/COLOR]</link>
-<link>http://srv.hostinggon39.xyz:2082/Tourobox2-Qa7nOCWay6/vCe0IhzTsb/150$nome=[COLOR lime]PREMIERE 2 - HD[/COLOR]</link>
-<link>http://srv.hostinggon39.xyz:2082/Tourobox2-Qa7nOCWay6/vCe0IhzTsb/149$nome=[COLOR lime]PREMIERE 2 - 4K[/COLOR]</link>
-<link>http://srv.hostinggon39.xyz:2082/Tourobox2-Qa7nOCWay6/vCe0IhzTsb/152$nome=[COLOR lime]PREMIERE 3 - HD[/COLOR]</link>
-<link>http://srv.hostinggon39.xyz:2082/Tourobox2-Qa7nOCWay6/vCe0IhzTsb/153$nome=[COLOR lime]PREMIERE 3 - 4K[/COLOR]</link>
-<link>http://srv.hostinggon39.xyz:2082/Tourobox2-Qa7nOCWay6/vCe0IhzTsb/154$nome=[COLOR lime]PREMIERE 4 - HD[/COLOR]</link>
-<link>http://srv.hostinggon39.xyz:2082/Tourobox2-Qa7nOCWay6/vCe0IhzTsb/155$nome=[COLOR lime]PREMIERE 4 - 4K[/COLOR]</link>
-<link>http://srv.hostinggon39.xyz:2082/Tourobox2-Qa7nOCWay6/vCe0IhzTsb/156$nome=[COLOR lime]PREMIERE 5 - HD[/COLOR]</link>
-<link>http://srv.hostinggon39.xyz:2082/Tourobox2-Qa7nOCWay6/vCe0IhzTsb/157$nome=[COLOR lime]PREMIERE 5 - 4K[/COLOR]</link>
-<link>http://srv.hostinggon39.xyz:2082/Tourobox2-Qa7nOCWay6/vCe0IhzTsb/158$nome=[COLOR lime]PREMIERE 6 - HD[/COLOR]</link>
-<link>http://srv.hostinggon39.xyz:2082/Tourobox2-Qa7nOCWay6/vCe0IhzTsb/159$nome=[COLOR lime]PREMIERE 6 - 4K[/COLOR]</link>
-<link>http://srv.hostinggon39.xyz:2082/Tourobox2-Qa7nOCWay6/vCe0IhzTsb/160$nome=[COLOR lime]PREMIERE 7 - HD[/COLOR]</link>
-<link>http://srv.hostinggon39.xyz:2082/Tourobox2-Qa7nOCWay6/vCe0IhzTsb/161$nome=[COLOR lime]PREMIERE 7 - 4K[/COLOR]</link>
-<link>http://srv.hostinggon39.xyz:2082/Tourobox2-Qa7nOCWay6/vCe0IhzTsb/162$nome=[COLOR lime]PREMIERE 8 - HD[/COLOR]</link>
-<link>http://srv.hostinggon39.xyz:2082/Tourobox2-Qa7nOCWay6/vCe0IhzTsb/163$nome=[COLOR lime]PREMIERE 9 - HD[/COLOR]</link>
-<thumbnail>https://raw.githubusercontent.com/icefenixfire/T/refs/heads/main/T0002.webp</thumbnail>
-</item>
+	<item>
+		<title>PREMIERE CLUBES</title>
+		<link>http://srv.hostinggon39.xyz:2082/Tourobox2-Qa7nOCWay6/vCe0IhzTsb/164$nome=[COLOR lime]PREMIERE 1 - HD[/COLOR]</link>
+		<link>http://srv.hostinggon39.xyz:2082/Tourobox2-Qa7nOCWay6/vCe0IhzTsb/1267$nome=[COLOR lime]PREMIERE 1 - HD²[/COLOR]</link>
+		<link>http://srv.hostinggon39.xyz:2082/Tourobox2-Qa7nOCWay6/vCe0IhzTsb/148$nome=[COLOR lime]PREMIERE 1 - 4K[/COLOR]</link>
+		<link>http://srv.hostinggon39.xyz:2082/Tourobox2-Qa7nOCWay6/vCe0IhzTsb/165$nome=[COLOR lime]PREMIERE 1 - 4K²[/COLOR]</link>
+		<link>http://srv.hostinggon39.xyz:2082/Tourobox2-Qa7nOCWay6/vCe0IhzTsb/1003$nome=[COLOR lime]PREMIERE 1 - HDR+[/COLOR]</link>
+		<link>http://srv.hostinggon39.xyz:2082/Tourobox2-Qa7nOCWay6/vCe0IhzTsb/150$nome=[COLOR lime]PREMIERE 2 - HD[/COLOR]</link>
+		<link>http://srv.hostinggon39.xyz:2082/Tourobox2-Qa7nOCWay6/vCe0IhzTsb/149$nome=[COLOR lime]PREMIERE 2 - 4K[/COLOR]</link>
+		<link>http://srv.hostinggon39.xyz:2082/Tourobox2-Qa7nOCWay6/vCe0IhzTsb/152$nome=[COLOR lime]PREMIERE 3 - HD[/COLOR]</link>
+		<link>http://srv.hostinggon39.xyz:2082/Tourobox2-Qa7nOCWay6/vCe0IhzTsb/153$nome=[COLOR lime]PREMIERE 3 - 4K[/COLOR]</link>
+		<link>http://srv.hostinggon39.xyz:2082/Tourobox2-Qa7nOCWay6/vCe0IhzTsb/154$nome=[COLOR lime]PREMIERE 4 - HD[/COLOR]</link>
+		<link>http://srv.hostinggon39.xyz:2082/Tourobox2-Qa7nOCWay6/vCe0IhzTsb/155$nome=[COLOR lime]PREMIERE 4 - 4K[/COLOR]</link>
+		<link>http://srv.hostinggon39.xyz:2082/Tourobox2-Qa7nOCWay6/vCe0IhzTsb/156$nome=[COLOR lime]PREMIERE 5 - HD[/COLOR]</link>
+		<link>http://srv.hostinggon39.xyz:2082/Tourobox2-Qa7nOCWay6/vCe0IhzTsb/157$nome=[COLOR lime]PREMIERE 5 - 4K[/COLOR]</link>
+		<link>http://srv.hostinggon39.xyz:2082/Tourobox2-Qa7nOCWay6/vCe0IhzTsb/158$nome=[COLOR lime]PREMIERE 6 - HD[/COLOR]</link>
+		<link>http://srv.hostinggon39.xyz:2082/Tourobox2-Qa7nOCWay6/vCe0IhzTsb/159$nome=[COLOR lime]PREMIERE 6 - 4K[/COLOR]</link>
+		<link>http://srv.hostinggon39.xyz:2082/Tourobox2-Qa7nOCWay6/vCe0IhzTsb/160$nome=[COLOR lime]PREMIERE 7 - HD[/COLOR]</link>
+		<link>http://srv.hostinggon39.xyz:2082/Tourobox2-Qa7nOCWay6/vCe0IhzTsb/161$nome=[COLOR lime]PREMIERE 7 - 4K[/COLOR]</link>
+		<link>http://srv.hostinggon39.xyz:2082/Tourobox2-Qa7nOCWay6/vCe0IhzTsb/162$nome=[COLOR lime]PREMIERE 8 - HD[/COLOR]</link>
+		<link>http://srv.hostinggon39.xyz:2082/Tourobox2-Qa7nOCWay6/vCe0IhzTsb/163$nome=[COLOR lime]PREMIERE 9 - HD[/COLOR]</link>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/T/refs/heads/main/T0002.webp</thumbnail>
+	</item>
+
+	<item>
+		<title>DISCOVERY CHANNEL</title>
+		<link>http://srv.hostinggon39.xyz:2082/Tourobox2-Qa7nOCWay6/vCe0IhzTsb/65</link>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/T/refs/heads/main/T0004.webp</thumbnail>
+	</item>
+
+	<item>
+		<title>DISCOVERY HeH</title>
+		<link>http://srv.hostinggon39.xyz:2082/Tourobox2-Qa7nOCWay6/vCe0IhzTsb/68$nome=[COLOR lime]DISCOVERY HeH - HD[/COLOR]</link>
+		<link>http://srv.hostinggon39.xyz:2082/Tourobox2-Qa7nOCWay6/vCe0IhzTsb/67$nome=[COLOR lime]DISCOVERY HeH - 4K[/COLOR]</link>
+		<link>http://srv.hostinggon39.xyz:2082/Tourobox2-Qa7nOCWay6/vCe0IhzTsb/1021$nome=[COLOR lime]DISCOVERY HeH - HDR+[/COLOR]</link>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/T/refs/heads/main/T0006.webp</thumbnail>
+	</item>
+
+	<item>
+		<title>DISCOVERY TURBO</title>
+		<link>http://srv.hostinggon39.xyz:2082/Tourobox2-Qa7nOCWay6/vCe0IhzTsb/1022</link>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/T/refs/heads/main/T0004.webp</thumbnail>
+	</item>
+
+	<item>
+		<title>DISCOVERY ID</title>
+		<link>http://srv.hostinggon39.xyz:2082/Tourobox2-Qa7nOCWay6/vCe0IhzTsb/70$nome=[COLOR lime]DISCOVERY ID - HD[/COLOR]</link>
+		<link>http://srv.hostinggon39.xyz:2082/Tourobox2-Qa7nOCWay6/vCe0IhzTsb/69$nome=[COLOR lime]DISCOVERY ID - 4K[/COLOR]</link>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/T/refs/heads/main/T0006.webp</thumbnail>
+	</item>
 
 </playlist>
