@@ -28,6 +28,19 @@ STATUS: Renovado
 	</channel>
 	
 	<channel>
+		<name>[B]RE:ZERO -STARTING LIFE IN ANOTHER WORLD-[/B]</name>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0083.webp</thumbnail>
+		<externallink>https://raw.githubusercontent.com/icefenixfire/X/main/A/A0083</externallink>
+		<genre>Aventura | Fantasia | Comédia</genre>
+		<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2016
+TEMPORADAS: 1
+STATUS: Renovado | Incompleto
+		</info>
+	</channel>
+	
+	<channel>
 		<name>[B]HELLSING[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0100.webp</thumbnail>
 		<externallink>https://raw.githubusercontent.com/icefenixfire/X/main/A/A0100</externallink>
@@ -2702,19 +2715,6 @@ STATUS: Finalizado
 ANO: 2017
 TEMPORADAS: 1
 STATUS: Finalizado
-		</info>
-	</channel>
-
-	<channel>
-		<name>[B]RE:ZERO -STARTING LIFE IN ANOTHER WORLD-[/B]</name>
-		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0083.webp</thumbnail>
-		<externallink>https://raw.githubusercontent.com/icefenixfire/X/main/A/A0083</externallink>
-		<genre>Aventura | Fantasia | Comédia</genre>
-		<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]
-ÁUDIO: Português
-ANO: 2016
-TEMPORADAS: 1
-STATUS: Renovado | Incompleto
 		</info>
 	</channel>
 
