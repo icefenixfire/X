@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <channels>
-
+<!--O NASCER DA LUA-->
+	<channel>
+		<name>[B]O NASCER DA LUA[/B]</name>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0297.webp</thumbnail>
+		<externallink>https://raw.githubusercontent.com/icefenixfire/X/main/A/A0297</externallink>
+		<genre>Aventura | Fantasia | Ficção | Ação</genre>
+		<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2025
+TEMPORADAS: 1
+STATUS: Renovado
+		</info>
+	</channel>
+<!--DE CAIPIRA A MESTRE ESPADACHIM-->
 	<channel>
 		<name>[B]DE CAIPIRA A MESTRE ESPADACHIM[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0296.webp</thumbnail>
@@ -13,7 +26,7 @@ TEMPORADAS: 1
 STATUS: Renovado
 		</info>
 	</channel>
-
+<!--DEVIL MAY CRY-->
 	<channel>
 		<name>[B]DEVIL MAY CRY[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0295.webp</thumbnail>
@@ -26,7 +39,7 @@ TEMPORADAS: 1
 STATUS: Renovado
 		</info>
 	</channel>
-	
+<!--RE:ZERO -STARTING LIFE IN ANOTHER WORLD- -->
 	<channel>
 		<name>[B]RE:ZERO -STARTING LIFE IN ANOTHER WORLD-[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0083.webp</thumbnail>
@@ -39,7 +52,7 @@ TEMPORADAS: 1
 STATUS: Renovado | Incompleto
 		</info>
 	</channel>
-	
+<!--HELLSING-->
 	<channel>
 		<name>[B]HELLSING[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0100.webp</thumbnail>
@@ -52,7 +65,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
-
+<!--ZATCH BELL!-->
 	<channel>
 		<name>[B]ZATCH BELL![/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0033.webp</thumbnail>
@@ -65,7 +78,7 @@ TEMPORADAS: 1
 STATUS: Finalizado | Incompleto
 		</info>
 	</channel>
-
+<!--SOLO LEVELING-->
 	<channel>
 		<name>[B]SOLO LEVELING[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0270.webp</thumbnail>
@@ -78,7 +91,7 @@ TEMPORADAS: 2
 STATUS: Renovado
 		</info>
 	</channel>
-
+<!--DR. STONE-->
 	<channel>
 		<name>[B]DR. STONE[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0119.webp</thumbnail>
@@ -91,7 +104,7 @@ TEMPORADAS: 4
 STATUS: Renovado
 		</info>
 	</channel>
-
+<!--MY HERO ACADEMIA-->
 	<channel>
 		<name>[B]MY HERO ACADEMIA[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0068.webp</thumbnail>
@@ -104,7 +117,7 @@ TEMPORADAS: 7
 STATUS: Renovado
 		</info>
 	</channel>
-
+<!--SAILOR MOON-->
 	<channel>
 		<name>[B]SAILOR MOON[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0294.webp</thumbnail>
@@ -117,7 +130,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
-
+<!--SCISSOR SEVEN-->
 	<channel>
 		<name>[B]SCISSOR SEVEN[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0293.webp</thumbnail>
@@ -130,7 +143,7 @@ TEMPORADAS: 3
 STATUS: Renovado
 		</info>
 	</channel>
-
+<!--DEMON LORD 2099-->
 	<channel>
 		<name>[B]DEMON LORD 2099[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0292.webp</thumbnail>
@@ -143,7 +156,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
-
+<!--KENGAN ASHURA-->
 	<channel>
 		<name>[B]KENGAN ASHURA[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0095.webp</thumbnail>
@@ -156,7 +169,7 @@ TEMPORADAS: 2
 STATUS: Finalizado
 		</info>
 	</channel>
-
+<!--MAGILUMIERE: COMPANHIA DAS GAROTAS MÁGICAS-->
 	<channel>
 		<name>[B]MAGILUMIERE: COMPANHIA DAS GAROTAS MÁGICAS[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0291.webp</thumbnail>
@@ -169,7 +182,7 @@ TEMPORADAS: 1
 STATUS: Renovado
 		</info>
 	</channel>
-
+<!--COBRA THE ANIMATION-->
 	<channel>
 		<name>[B]COBRA THE ANIMATION[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0290.webp</thumbnail>
@@ -182,7 +195,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
-
+<!--BLEACH: THOUSAND-YEAR BLOOD WAR-->
 	<channel>
 		<name>[B]BLEACH: THOUSAND-YEAR BLOOD WAR[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0247.webp</thumbnail>
@@ -195,7 +208,7 @@ TEMPORADAS: 1
 STATUS: Renovado
 		</info>
 	</channel>
-
+<!--SAKAMOTO DAYS-->
 	<channel>
 		<name>[B]SAKAMOTO DAYS[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0289.webp</thumbnail>
@@ -208,7 +221,7 @@ TEMPORADAS: 1
 STATUS: Renovado
 		</info>
 	</channel>
-
+<!--BERSERK-->
 	<channel>
 		<name>[B]BERSERK[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0002.webp</thumbnail>
