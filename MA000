@@ -1,5 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <channels>
+<!--SUPER CUBO-->
+	<channel>
+		<name>[B]SUPER CUBO[/B]</name>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0298.webp</thumbnail>
+		<externallink>https://raw.githubusercontent.com/icefenixfire/X/main/A/A0298</externallink>
+		<genre>Aventura | Fantasia | Ficção | Ação</genre>
+		<info>[COLOR red][B]● Classificação Indicativa +16[/B][/COLOR]
+ÁUDIO: Chinês
+ANO: 2025
+TEMPORADAS: 1
+STATUS: Renovado
+		</info>
+	</channel>
 <!--O NASCER DA LUA-->
 	<channel>
 		<name>[B]O NASCER DA LUA[/B]</name>
@@ -234,7 +247,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
-
+<!--GODZILLA PONTO SINGULAR-->
 	<channel>
 		<name>[B]GODZILLA PONTO SINGULAR[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0288.webp</thumbnail>
@@ -247,7 +260,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
-
+<!--CASTLEVANIA: NOTURNO-->
 	<channel>
 		<name>[B]CASTLEVANIA: NOTURNO[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0267.webp</thumbnail>
@@ -260,7 +273,7 @@ TEMPORADAS: 2
 STATUS: Renovado
 		</info>
 	</channel>
-
+<!--DUNGEON MESHI-->
 	<channel>
 		<name>[B]DUNGEON MESHI[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0287.webp</thumbnail>
@@ -273,7 +286,7 @@ TEMPORADAS: 1
 STATUS: Renovado
 		</info>
 	</channel>
-
+<!--EL HAZARD: THE WANDERERS-->
 	<channel>
 		<name>[B]EL HAZARD: THE WANDERERS[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0286.webp</thumbnail>
@@ -286,7 +299,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
-
+<!--EL HAZARD: THE WORLD MAGNIFICENT-->
 	<channel>
 		<name>[B]EL HAZARD: THE WORLD MAGNIFICENT[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0285.webp</thumbnail>
@@ -299,7 +312,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
-
+<!--DAN DA DAN-->
 	<channel>
 		<name>[B]DAN DA DAN[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0284.webp</thumbnail>
@@ -312,7 +325,7 @@ TEMPORADAS: 1
 STATUS: Renovado
 		</info>
 	</channel>
-
+<!--MURAI IN LOVE-->
 	<channel>
 		<name>[B]MURAI IN LOVE[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0283.webp</thumbnail>
@@ -325,7 +338,7 @@ TEMPORADAS: 1
 STATUS: Renovado
 		</info>
 	</channel>
-
+<!--ARCANE-->
 	<channel>
 		<name>[B]ARCANE[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0199.webp</thumbnail>
@@ -338,7 +351,7 @@ TEMPORADAS: 2
 STATUS: Renovado
 		</info>
 	</channel>
-
+<!--MOBILE SUIT GUNDAM: REQUIEM FOR VENGEANCE-->
 	<channel>
 		<name>[B]MOBILE SUIT GUNDAM: REQUIEM FOR VENGEANCE[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0282.webp</thumbnail>
@@ -351,7 +364,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
-
+<!--UZUMAKI-->
 	<channel>
 		<name>[B]UZUMAKI[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0281.webp</thumbnail>
@@ -364,7 +377,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
-
+<!--TOMB RAIDER: A LENDA DE LARA CROFT-->
 	<channel>
 		<name>[B]TOMB RAIDER: A LENDA DE LARA CROFT[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0280.webp</thumbnail>
@@ -377,7 +390,7 @@ TEMPORADAS: 1
 STATUS: Renovado
 		</info>
 	</channel>
-
+<!--A LENDA DE VOX MACHINA-->
 	<channel>
 		<name>[B]A LENDA DE VOX MACHINA[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0266.webp</thumbnail>
@@ -390,7 +403,7 @@ TEMPORADAS: 3
 STATUS: Renovado
 		</info>
 	</channel>
-
+<!--O EXTERMINADOR DO FUTURO ZERO-->
 	<channel>
 		<name>[B]O EXTERMINADOR DO FUTURO ZERO[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0279.webp</thumbnail>
@@ -403,7 +416,7 @@ TEMPORADAS: 1
 STATUS: Renovado
 		</info>
 	</channel>
-
+<!--ESQUADRÃO SUICIDA: ISEKAI-->
 	<channel>
 		<name>[B]ESQUADRÃO SUICIDA: ISEKAI[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0278.webp</thumbnail>
@@ -416,7 +429,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
-
+<!--THE SEVEN DEADLY SINS: OS QUATRO CAVALEIROS DO APOCALIPSE-->
 	<channel>
 		<name>[B]THE SEVEN DEADLY SINS: OS QUATRO CAVALEIROS DO APOCALIPSE[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0277.webp</thumbnail>
@@ -429,7 +442,7 @@ TEMPORADAS: 1
 STATUS: Renovado
 		</info>
 	</channel>
-
+<!--DNA²-->
 	<channel>
 		<name>[B]DNA²[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0276.webp</thumbnail>
@@ -442,7 +455,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
-
+<!--RICK AND MORTY: THE ANIME-->
 	<channel>
 		<name>[B]RICK AND MORTY: THE ANIME[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0275.webp</thumbnail>
@@ -455,7 +468,7 @@ TEMPORADAS: 1
 STATUS: Renovado
 		</info>
 	</channel>
-
+<!--HELL'S PARADISE-->
 	<channel>
 		<name>[B]HELL'S PARADISE[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0274.webp</thumbnail>
@@ -468,7 +481,7 @@ TEMPORADAS: 1
 STATUS: Renovado
 		</info>
 	</channel>
-
+<!--O SANGUE DE ZEUS-->
 	<channel>
 		<name>[B]O SANGUE DE ZEUS[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0132.webp</thumbnail>
@@ -481,7 +494,7 @@ TEMPORADAS: 2
 STATUS: Renovado
 		</info>
 	</channel>
-
+<!--ATAQUE DOS TITÃS-->
 	<channel>
 		<name>[B]ATAQUE DOS TITÃS[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0062.webp</thumbnail>
@@ -494,7 +507,7 @@ TEMPORADAS: 4
 STATUS: Finalizado
 		</info>
 	</channel>
-
+<!--DEMON SLAYER-->
 	<channel>
 		<name>[B]DEMON SLAYER[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0122.webp</thumbnail>
@@ -507,7 +520,7 @@ TEMPORADAS: 3
 STATUS: Renovado
 		</info>
 	</channel>
-
+<!--7SEEDS-->
 	<channel>
 		<name>[B]7SEEDS[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0074.webp</thumbnail>
@@ -520,7 +533,7 @@ TEMPORADAS: 2
 STATUS: Finalizado
 		</info>
 	</channel>
-
+<!--91 DAYS-->
 	<channel>
 		<name>[B]91 DAYS[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0157.webp</thumbnail>
@@ -533,7 +546,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
-
+<!--86 EIGHTY-SIX-->
 	<channel>
 		<name>[B]86 EIGHTY-SIX[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0198.webp</thumbnail>
@@ -546,7 +559,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
-
+<!--2020: JAPÃO SUBMERSO-->
 	<channel>
 		<name>[B]2020: JAPÃO SUBMERSO[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0027.webp</thumbnail>
@@ -559,7 +572,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
-
+<!--ASHITA NO JOE 2-->
 	<channel>
 		<name>[B]ASHITA NO JOE 2[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0265.webp</thumbnail>
@@ -572,7 +585,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
-
+<!--A ILHA DAS SOMBRAS-->
 	<channel>
 		<name>[B]A ILHA DAS SOMBRAS[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0257.webp</thumbnail>
@@ -585,7 +598,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
-
+<!--ACE OF THE DIAMOND-->
 	<channel>
 		<name>[B]ACE OF THE DIAMOND[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0060.webp</thumbnail>
@@ -598,7 +611,7 @@ TEMPORADAS: 3
 STATUS: Renovado
 		</info>
 	</channel>
-
+<!--ASSIM FALAVA KISHIBE ROHAN-->
 	<channel>
 		<name>[B]ASSIM FALAVA KISHIBE ROHAN[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0153.webp</thumbnail>
@@ -611,7 +624,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
-
+<!--AKASHIC RECORDS OF BASTARD MAGIC INSTRUCTOR-->
 	<channel>
 		<name>[B]AKASHIC RECORDS OF BASTARD MAGIC INSTRUCTOR[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0106.webp</thumbnail>
@@ -624,7 +637,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
-
+<!--AH! MEGAMI-SAMA-->
 	<channel>
 		<name>[B]AH! MEGAMI-SAMA[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0123.webp</thumbnail>
@@ -637,7 +650,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
-
+<!--ACCA: 13-TERRITORY INSPECTION DEPT.-->
 	<channel>
 		<name>[B]ACCA: 13-TERRITORY INSPECTION DEPT.[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0124.webp</thumbnail>
@@ -650,7 +663,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
-
+<!--ASSASSINATION CLASSROOM-->
 	<channel>
 		<name>[B]ASSASSINATION CLASSROOM[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0142.webp</thumbnail>
@@ -663,7 +676,7 @@ TEMPORADAS: 2
 STATUS: Finalizado
 		</info>
 	</channel>
-
+<!--ANGOLMOIS RECORD OF MONGOL INVASION-->
 	<channel>
 		<name>[B]ANGOLMOIS RECORD OF MONGOL INVASION[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0159.webp</thumbnail>
@@ -1898,7 +1911,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
-
+<!--IM STANDING ON A MILLION LIVES-->
 	<channel>
 		<name>[B]IM STANDING ON A MILLION LIVES[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0178.webp</thumbnail>
@@ -1907,8 +1920,8 @@ STATUS: Finalizado
 		<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]
 ÁUDIO: Português
 ANO: 2020 - 2021
-TEMPORADAS: 1 de 2
-STATUS: Finalizado | Incompleto
+TEMPORADAS: 1
+STATUS: Finalizado
 		</info>
 	</channel>
 
