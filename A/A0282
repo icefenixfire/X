@@ -1,8 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <items>
-<item><title>[B]Mobile Suit Gundam: Requiem for Vengeance: T1 - Episódio 01[/B]</title><thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0282.webp</thumbnail><fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0282_fanart.webp</fanart><genre>Dublado</genre><info>[COLOR red][B]● Classificação +16[/B][/COLOR]</info><link>https://archive.org/download/AA0000/A0282_T1_E01.mkv</link></item>
-<item><title>[B]Mobile Suit Gundam: Requiem for Vengeance: T1 - Episódio 02[/B]</title><thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0282.webp</thumbnail><fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0282_fanart.webp</fanart><genre>Dublado</genre><info>[COLOR red][B]● Classificação +16[/B][/COLOR]</info><link>https://archive.org/download/AA0000/A0282_T1_E02.mkv</link></item>
-<item><title>[B]Mobile Suit Gundam: Requiem for Vengeance: T1 - Episódio 03[/B]</title><thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0282.webp</thumbnail><fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0282_fanart.webp</fanart><genre>Dublado</genre><info>[COLOR red][B]● Classificação +16[/B][/COLOR]</info><link>https://archive.org/download/AA0000/A0282_T1_E03.mkv</link></item>
-<item><title>[B]Mobile Suit Gundam: Requiem for Vengeance: T1 - Episódio 04[/B]</title><thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0282.webp</thumbnail><fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0282_fanart.webp</fanart><genre>Dublado</genre><info>[COLOR red][B]● Classificação +16[/B][/COLOR]</info><link>https://archive.org/download/AA0000/A0282_T1_E04.mkv</link></item>
-<item><title>[B]Mobile Suit Gundam: Requiem for Vengeance: T1 - Episódio 05[/B]</title><thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0282.webp</thumbnail><fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0282_fanart.webp</fanart><genre>Dublado</genre><info>[COLOR red][B]● Classificação +16[/B][/COLOR]</info><link>https://archive.org/download/AA0000/A0282_T1_E05.mkv</link></item>
-<item><title>[B]Mobile Suit Gundam: Requiem for Vengeance: T1 - Episódio 06[/B]</title><thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0282.webp</thumbnail><fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0282_fanart.webp</fanart><genre>Dublado</genre><info>[COLOR red][B]● Classificação +16[/B][/COLOR]</info><link>https://archive.org/download/AA0000/A0282_T1_E06.mkv</link></item>
+	<item>
+		<title>[B]Mobile Suit Gundam: Requiem for Vengeance: T1 - Episódio 01[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0282.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0282_fanart.webp</fanart>
+		<genre>Ação | Ficção | Fantasia</genre>
+		<info>[COLOR red][B]● Classificação +16[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2024
+TEMPORADA: 1
+EPISÓDIO: 1
+		</info>
+		<link>https://archive.org/download/AA0000/A0282_T1_E01.mkv</link>
+	</item>
+	<item>
+		<title>[B]Mobile Suit Gundam: Requiem for Vengeance: T1 - Episódio 02[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0282.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0282_fanart.webp</fanart>
+		<genre>Ação | Ficção | Fantasia</genre>
+		<info>[COLOR red][B]● Classificação +16[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2024
+TEMPORADA: 1
+EPISÓDIO: 2
+		</info>
+		<link>https://archive.org/download/AA0000/A0282_T1_E02.mkv</link>
+	</item>
+	<item>
+		<title>[B]Mobile Suit Gundam: Requiem for Vengeance: T1 - Episódio 03[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0282.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0282_fanart.webp</fanart>
+		<genre>Ação | Ficção | Fantasia</genre>
+		<info>[COLOR red][B]● Classificação +16[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2024
+TEMPORADA: 1
+EPISÓDIO: 3
+		</info>
+		<link>https://archive.org/download/AA0000/A0282_T1_E03.mkv</link>
+	</item>
+	<item>
+		<title>[B]Mobile Suit Gundam: Requiem for Vengeance: T1 - Episódio 04[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0282.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0282_fanart.webp</fanart>
+		<genre>Ação | Ficção | Fantasia</genre>
+		<info>[COLOR red][B]● Classificação +16[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2024
+TEMPORADA: 1
+EPISÓDIO: 4
+		</info>
+		<link>https://archive.org/download/AA0000/A0282_T1_E04.mkv</link>
+	</item>
+	<item>
+		<title>[B]Mobile Suit Gundam: Requiem for Vengeance: T1 - Episódio 05[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0282.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0282_fanart.webp</fanart>
+		<genre>Ação | Ficção | Fantasia</genre>
+		<info>[COLOR red][B]● Classificação +16[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2024
+TEMPORADA: 1
+EPISÓDIO: 5
+		</info>
+		<link>https://archive.org/download/AA0000/A0282_T1_E05.mkv</link>
+	</item>
+	<item>
+		<title>[B]Mobile Suit Gundam: Requiem for Vengeance: T1 - Episódio 06[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0282.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0282_fanart.webp</fanart>
+		<genre>Ação | Ficção | Fantasia</genre>
+		<info>[COLOR red][B]● Classificação +16[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2024
+TEMPORADA: 1
+EPISÓDIO: 6
+		</info>
+		<link>https://archive.org/download/AA0000/A0282_T1_E06.mkv</link>
+	</item>
 </items>
