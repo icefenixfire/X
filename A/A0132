@@ -1,19 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <items>
-<item><title>[B]O Sangue de Zeus: T1 - Episódio 01[/B]</title><thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0132.webp</thumbnail><fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0132_fanart.webp</fanart><genre>Dublado</genre><info>[COLOR crimson][B]● Classificação +18[/B][/COLOR]</info><link>plugin://plugin.loopplay/?action=play&item_id=1kTFv8YUBupfo-Ac6mD_9q7CjXIQ-5a7O&item_driveid=13317096135560461908&driveid=17776824897305541588</link></item>
-<item><title>[B]O Sangue de Zeus: T1 - Episódio 02[/B]</title><thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0132.webp</thumbnail><fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0132_fanart.webp</fanart><genre>Dublado</genre><info>[COLOR crimson][B]● Classificação +18[/B][/COLOR]</info><link>plugin://plugin.loopplay/?action=play&item_id=1wx9pmUXCOL_7Iu6v2ZKOHRLhTGfM6YuY&item_driveid=13317096135560461908&driveid=17776824897305541588</link></item>
-<item><title>[B]O Sangue de Zeus: T1 - Episódio 03[/B]</title><thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0132.webp</thumbnail><fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0132_fanart.webp</fanart><genre>Dublado</genre><info>[COLOR crimson][B]● Classificação +18[/B][/COLOR]</info><link>plugin://plugin.loopplay/?action=play&item_id=1njulK5xNDZkv9nKje-OkH6mKlsjfQCPh&item_driveid=13317096135560461908&driveid=17776824897305541588</link></item>
-<item><title>[B]O Sangue de Zeus: T1 - Episódio 04[/B]</title><thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0132.webp</thumbnail><fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0132_fanart.webp</fanart><genre>Dublado</genre><info>[COLOR crimson][B]● Classificação +18[/B][/COLOR]</info><link>plugin://plugin.loopplay/?action=play&item_id=1xtwXjlVitqPQU1msoPXUEsG5ZPlActA8&item_driveid=13317096135560461908&driveid=17776824897305541588</link></item>
-<item><title>[B]O Sangue de Zeus: T1 - Episódio 05[/B]</title><thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0132.webp</thumbnail><fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0132_fanart.webp</fanart><genre>Dublado</genre><info>[COLOR crimson][B]● Classificação +18[/B][/COLOR]</info><link>plugin://plugin.loopplay/?action=play&item_id=1PP5rn3LcjVYfrbO_pAYeWPDKHnTfXHhZ&item_driveid=13317096135560461908&driveid=17776824897305541588</link></item>
-<item><title>[B]O Sangue de Zeus: T1 - Episódio 06[/B]</title><thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0132.webp</thumbnail><fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0132_fanart.webp</fanart><genre>Dublado</genre><info>[COLOR crimson][B]● Classificação +18[/B][/COLOR]</info><link>plugin://plugin.loopplay/?action=play&item_id=10fo1vh1sxmyKsvLkPm16yRQRnjAmMKeF&item_driveid=13317096135560461908&driveid=17776824897305541588</link></item>
-<item><title>[B]O Sangue de Zeus: T1 - Episódio 07[/B]</title><thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0132.webp</thumbnail><fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0132_fanart.webp</fanart><genre>Dublado</genre><info>[COLOR crimson][B]● Classificação +18[/B][/COLOR]</info><link>plugin://plugin.loopplay/?action=play&item_id=11_DdCSXSIdYQpmw5172AgozShEm8wWpD&item_driveid=13317096135560461908&driveid=17776824897305541588</link></item>
-<item><title>[B]O Sangue de Zeus: T1 - Episódio 08[/B]</title><thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0132.webp</thumbnail><fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0132_fanart.webp</fanart><genre>Dublado</genre><info>[COLOR crimson][B]● Classificação +18[/B][/COLOR]</info><link>plugin://plugin.loopplay/?action=play&item_id=1x9wrklPJ0-mp7SvMoZ-YGS8YzYYMzba2&item_driveid=13317096135560461908&driveid=17776824897305541588</link></item>
+	<item>
+		<title>[B]O Sangue de Zeus: T1 - Episódio 01[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0132.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0132_fanart.webp</fanart>
+		<genre>Ação | Fantasia | Drama</genre>
+		<info>[COLOR crimson][B]● Classificação +18[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2020
+TEMPORADA: 1
+EPISÓDIO: 01
+		</info>
+		<link>plugin://plugin.loopplay/?action=play&item_id=1kTFv8YUBupfo-Ac6mD_9q7CjXIQ-5a7O&item_driveid=13317096135560461908&driveid=17776824897305541588</link>
+	</item>
+	<item>
+		<title>[B]O Sangue de Zeus: T1 - Episódio 02[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0132.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0132_fanart.webp</fanart>
+		<genre>Ação | Fantasia | Drama</genre>
+		<info>[COLOR crimson][B]● Classificação +18[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2020
+TEMPORADA: 1
+EPISÓDIO: 02
+		</info>
+		<link>plugin://plugin.loopplay/?action=play&item_id=1wx9pmUXCOL_7Iu6v2ZKOHRLhTGfM6YuY&item_driveid=13317096135560461908&driveid=17776824897305541588</link>
+	</item>
+	<item>
+		<title>[B]O Sangue de Zeus: T1 - Episódio 03[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0132.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0132_fanart.webp</fanart>
+		<genre>Ação | Fantasia | Drama</genre>
+		<info>[COLOR crimson][B]● Classificação +18[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2020
+TEMPORADA: 1
+EPISÓDIO: 03
+		</info>
+		<link>plugin://plugin.loopplay/?action=play&item_id=1njulK5xNDZkv9nKje-OkH6mKlsjfQCPh&item_driveid=13317096135560461908&driveid=17776824897305541588</link>
+	</item>
+	<item>
+		<title>[B]O Sangue de Zeus: T1 - Episódio 04[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0132.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0132_fanart.webp</fanart>
+		<genre>Ação | Fantasia | Drama</genre>
+		<info>[COLOR crimson][B]● Classificação +18[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2020
+TEMPORADA: 1
+EPISÓDIO: 04
+		</info>
+		<link>plugin://plugin.loopplay/?action=play&item_id=1xtwXjlVitqPQU1msoPXUEsG5ZPlActA8&item_driveid=13317096135560461908&driveid=17776824897305541588</link>
+	</item>
+	<item>
+		<title>[B]O Sangue de Zeus: T1 - Episódio 05[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0132.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0132_fanart.webp</fanart>
+		<genre>Ação | Fantasia | Drama</genre>
+		<info>[COLOR crimson][B]● Classificação +18[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2020
+TEMPORADA: 1
+EPISÓDIO: 05
+		</info>
+		<link>plugin://plugin.loopplay/?action=play&item_id=1PP5rn3LcjVYfrbO_pAYeWPDKHnTfXHhZ&item_driveid=13317096135560461908&driveid=17776824897305541588</link>
+	</item>
+	<item>
+		<title>[B]O Sangue de Zeus: T1 - Episódio 06[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0132.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0132_fanart.webp</fanart>
+		<genre>Ação | Fantasia | Drama</genre>
+		<info>[COLOR crimson][B]● Classificação +18[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2020
+TEMPORADA: 1
+EPISÓDIO: 06
+		</info>
+		<link>plugin://plugin.loopplay/?action=play&item_id=10fo1vh1sxmyKsvLkPm16yRQRnjAmMKeF&item_driveid=13317096135560461908&driveid=17776824897305541588</link>
+	</item>
+	<item>
+		<title>[B]O Sangue de Zeus: T1 - Episódio 07[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0132.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0132_fanart.webp</fanart>
+		<genre>Ação | Fantasia | Drama</genre>
+		<info>[COLOR crimson][B]● Classificação +18[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2020
+TEMPORADA: 1
+EPISÓDIO: 07
+		</info>
+		<link>plugin://plugin.loopplay/?action=play&item_id=11_DdCSXSIdYQpmw5172AgozShEm8wWpD&item_driveid=13317096135560461908&driveid=17776824897305541588</link>
+	</item>
+	<item>
+		<title>[B]O Sangue de Zeus: T1 - Episódio 08[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0132.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0132_fanart.webp</fanart>
+		<genre>Ação | Fantasia | Drama</genre>
+		<info>[COLOR crimson][B]● Classificação +18[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2020
+TEMPORADA: 1
+EPISÓDIO: 08
+		</info>
+		<link>plugin://plugin.loopplay/?action=play&item_id=1x9wrklPJ0-mp7SvMoZ-YGS8YzYYMzba2&item_driveid=13317096135560461908&driveid=17776824897305541588</link>
+	</item>
 
-<item><title>[COLOR lime][B]O Sangue de Zeus: T2 - Episódio 01[/B][/COLOR]</title><thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0132.webp</thumbnail><fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0132_fanart.webp</fanart><genre>Dublado</genre><info>[COLOR crimson][B]● Classificação +18[/B][/COLOR]</info><link>https://archive.org/download/AA0000/A0132_T2_E01.mkv</link></item>
-<item><title>[COLOR lime][B]O Sangue de Zeus: T2 - Episódio 02[/B][/COLOR]</title><thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0132.webp</thumbnail><fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0132_fanart.webp</fanart><genre>Dublado</genre><info>[COLOR crimson][B]● Classificação +18[/B][/COLOR]</info><link>https://archive.org/download/AA0000/A0132_T2_E02.mkv</link></item>
-<item><title>[COLOR lime][B]O Sangue de Zeus: T2 - Episódio 03[/B][/COLOR]</title><thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0132.webp</thumbnail><fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0132_fanart.webp</fanart><genre>Dublado</genre><info>[COLOR crimson][B]● Classificação +18[/B][/COLOR]</info><link>https://archive.org/download/AA0000/A0132_T2_E03.mkv</link></item>
-<item><title>[COLOR lime][B]O Sangue de Zeus: T2 - Episódio 04[/B][/COLOR]</title><thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0132.webp</thumbnail><fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0132_fanart.webp</fanart><genre>Dublado</genre><info>[COLOR crimson][B]● Classificação +18[/B][/COLOR]</info><link>https://archive.org/download/AA0000/A0132_T2_E04.mkv</link></item>
-<item><title>[COLOR lime][B]O Sangue de Zeus: T2 - Episódio 05[/B][/COLOR]</title><thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0132.webp</thumbnail><fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0132_fanart.webp</fanart><genre>Dublado</genre><info>[COLOR crimson][B]● Classificação +18[/B][/COLOR]</info><link>https://archive.org/download/AA0000/A0132_T2_E05.mkv</link></item>
-<item><title>[COLOR lime][B]O Sangue de Zeus: T2 - Episódio 06[/B][/COLOR]</title><thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0132.webp</thumbnail><fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0132_fanart.webp</fanart><genre>Dublado</genre><info>[COLOR crimson][B]● Classificação +18[/B][/COLOR]</info><link>https://archive.org/download/AA0000/A0132_T2_E06.mkv</link></item>
-<item><title>[COLOR lime][B]O Sangue de Zeus: T2 - Episódio 07[/B][/COLOR]</title><thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0132.webp</thumbnail><fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0132_fanart.webp</fanart><genre>Dublado</genre><info>[COLOR crimson][B]● Classificação +18[/B][/COLOR]</info><link>https://archive.org/download/AA0000/A0132_T2_E07.mkv</link></item>
-<item><title>[COLOR lime][B]O Sangue de Zeus: T2 - Episódio 08[/B][/COLOR]</title><thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0132.webp</thumbnail><fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0132_fanart.webp</fanart><genre>Dublado</genre><info>[COLOR crimson][B]● Classificação +18[/B][/COLOR]</info><link>https://archive.org/download/AA0000/A0132_T2_E08.mkv</link></item>
+	<item>
+		<title>[COLOR lime][B]O Sangue de Zeus: T2 - Episódio 01[/B][/COLOR]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0132.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0132_fanart.webp</fanart>
+		<genre>Ação | Fantasia | Drama</genre>
+		<info>[COLOR crimson][B]● Classificação +18[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2020
+TEMPORADA: 2
+EPISÓDIO: 01
+		</info>
+		<link>https://archive.org/download/AA0000/A0132_T2_E01.mkv</link>
+	</item>
+	<item>
+		<title>[COLOR lime][B]O Sangue de Zeus: T2 - Episódio 02[/B][/COLOR]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0132.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0132_fanart.webp</fanart>
+		<genre>Ação | Fantasia | Drama</genre>
+		<info>[COLOR crimson][B]● Classificação +18[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2020
+TEMPORADA: 2
+EPISÓDIO: 02
+		</info>
+		<link>https://archive.org/download/AA0000/A0132_T2_E02.mkv</link>
+	</item>
+	<item>
+		<title>[COLOR lime][B]O Sangue de Zeus: T2 - Episódio 03[/B][/COLOR]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0132.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0132_fanart.webp</fanart>
+		<genre>Ação | Fantasia | Drama</genre>
+		<info>[COLOR crimson][B]● Classificação +18[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2020
+TEMPORADA: 2
+EPISÓDIO: 03
+		</info>
+		<link>https://archive.org/download/AA0000/A0132_T2_E03.mkv</link>
+	</item>
+	<item>
+		<title>[COLOR lime][B]O Sangue de Zeus: T2 - Episódio 04[/B][/COLOR]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0132.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0132_fanart.webp</fanart>
+		<genre>Ação | Fantasia | Drama</genre>
+		<info>[COLOR crimson][B]● Classificação +18[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2020
+TEMPORADA: 2
+EPISÓDIO: 04
+		</info>
+		<link>https://archive.org/download/AA0000/A0132_T2_E04.mkv</link>
+	</item>
+	<item>
+		<title>[COLOR lime][B]O Sangue de Zeus: T2 - Episódio 05[/B][/COLOR]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0132.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0132_fanart.webp</fanart>
+		<genre>Ação | Fantasia | Drama</genre>
+		<info>[COLOR crimson][B]● Classificação +18[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2020
+TEMPORADA: 2
+EPISÓDIO: 05
+		</info>
+		<link>https://archive.org/download/AA0000/A0132_T2_E05.mkv</link>
+	</item>
+	<item>
+		<title>[COLOR lime][B]O Sangue de Zeus: T2 - Episódio 06[/B][/COLOR]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0132.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0132_fanart.webp</fanart>
+		<genre>Ação | Fantasia | Drama</genre>
+		<info>[COLOR crimson][B]● Classificação +18[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2020
+TEMPORADA: 2
+EPISÓDIO: 06
+		</info>
+		<link>https://archive.org/download/AA0000/A0132_T2_E06.mkv</link>
+	</item>
+	<item>
+		<title>[COLOR lime][B]O Sangue de Zeus: T2 - Episódio 07[/B][/COLOR]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0132.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0132_fanart.webp</fanart>
+		<genre>Ação | Fantasia | Drama</genre>
+		<info>[COLOR crimson][B]● Classificação +18[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2020
+TEMPORADA: 2
+EPISÓDIO: 07
+		</info>
+		<link>https://archive.org/download/AA0000/A0132_T2_E07.mkv</link>
+	</item>
+	<item>
+		<title>[COLOR lime][B]O Sangue de Zeus: T2 - Episódio 08[/B][/COLOR]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0132.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0132_fanart.webp</fanart>
+		<genre>Ação | Fantasia | Drama</genre>
+		<info>[COLOR crimson][B]● Classificação +18[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2020
+TEMPORADA: 2
+EPISÓDIO: 08
+		</info>
+		<link>https://archive.org/download/AA0000/A0132_T2_E08.mkv</link>
+	</item>
 </items>
