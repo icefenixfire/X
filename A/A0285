@@ -1,9 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <items>
-<item><title>[B]El Hazard: The World Magnificent - Episódio 01[/B]</title><thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0285.webp</thumbnail><fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0285_fanart.webp</fanart><genre>Legendado</genre><info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]</info><link>https://archive.org/download/AA0000/A0285_E01.mkv</link></item>
-<item><title>[B]El Hazard: The World Magnificent - Episódio 02[/B]</title><thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0285.webp</thumbnail><fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0285_fanart.webp</fanart><genre>Legendado</genre><info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]</info><link>https://archive.org/download/AA0000/A0285_E02.mkv</link></item>
-<item><title>[B]El Hazard: The World Magnificent - Episódio 03[/B]</title><thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0285.webp</thumbnail><fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0285_fanart.webp</fanart><genre>Legendado</genre><info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]</info><link>https://archive.org/download/AA0000/A0285_E03.mkv</link></item>
-<item><title>[B]El Hazard: The World Magnificent - Episódio 04[/B]</title><thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0285.webp</thumbnail><fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0285_fanart.webp</fanart><genre>Legendado</genre><info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]</info><link>https://archive.org/download/AA0000/A0285_E04.mkv</link></item>
-<item><title>[B]El Hazard: The World Magnificent - Episódio 05[/B]</title><thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0285.webp</thumbnail><fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0285_fanart.webp</fanart><genre>Legendado</genre><info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]</info><link>https://archive.org/download/AA0000/A0285_E05.mkv</link></item>
-<item><title>[B]El Hazard: The World Magnificent - Episódio 06[/B]</title><thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0285.webp</thumbnail><fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0285_fanart.webp</fanart><genre>Legendado</genre><info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]</info><link>https://archive.org/download/AA0000/A0285_E06.mkv</link></item>
-<item><title>[B]El Hazard: The World Magnificent - Episódio 07[/B]</title><thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0285.webp</thumbnail><fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0285_fanart.webp</fanart><genre>Legendado</genre><info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]</info><link>https://archive.org/download/AA0000/A0285_E07.mkv</link></item>
+	<item>
+		<title>[B]El Hazard: The World Magnificent - Episódio 01[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0285.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0285_fanart.webp</fanart>
+		<genre>Ficção | Fantasia | Comédia</genre>
+		<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]
+ÁUDIO: Japonês
+ANO: 1995
+TEMPORADA: 1
+EPISÓDIO: 01
+		</info>
+		<link>https://archive.org/download/AA0000/A0285_E01.mkv</link>
+	</item>
+	<item>
+		<title>[B]El Hazard: The World Magnificent - Episódio 02[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0285.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0285_fanart.webp</fanart>
+		<genre>Ficção | Fantasia | Comédia</genre>
+		<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]
+ÁUDIO: Japonês
+ANO: 1995
+TEMPORADA: 1
+EPISÓDIO: 02
+		</info>
+		<link>https://archive.org/download/AA0000/A0285_E02.mkv</link>
+	</item>
+	<item>
+		<title>[B]El Hazard: The World Magnificent - Episódio 03[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0285.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0285_fanart.webp</fanart>
+		<genre>Ficção | Fantasia | Comédia</genre>
+		<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]
+ÁUDIO: Japonês
+ANO: 1995
+TEMPORADA: 1
+EPISÓDIO: 03
+		</info>
+		<link>https://archive.org/download/AA0000/A0285_E03.mkv</link>
+	</item>
+	<item>
+		<title>[B]El Hazard: The World Magnificent - Episódio 04[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0285.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0285_fanart.webp</fanart>
+		<genre>Ficção | Fantasia | Comédia</genre>
+		<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]
+ÁUDIO: Japonês
+ANO: 1995
+TEMPORADA: 1
+EPISÓDIO: 04
+		</info>
+		<link>https://archive.org/download/AA0000/A0285_E04.mkv</link>
+	</item>
+	<item>
+		<title>[B]El Hazard: The World Magnificent - Episódio 05[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0285.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0285_fanart.webp</fanart>
+		<genre>Ficção | Fantasia | Comédia</genre>
+		<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]
+ÁUDIO: Japonês
+ANO: 1995
+TEMPORADA: 1
+EPISÓDIO: 05
+		</info>
+		<link>https://archive.org/download/AA0000/A0285_E05.mkv</link>
+	</item>
+	<item>
+		<title>[B]El Hazard: The World Magnificent - Episódio 06[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0285.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0285_fanart.webp</fanart>
+		<genre>Ficção | Fantasia | Comédia</genre>
+		<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]
+ÁUDIO: Japonês
+ANO: 1995
+TEMPORADA: 1
+EPISÓDIO: 06
+		</info>
+		<link>https://archive.org/download/AA0000/A0285_E06.mkv</link>
+	</item>
+	<item>
+		<title>[B]El Hazard: The World Magnificent - Episódio 07[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0285.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0285_fanart.webp</fanart>
+		<genre>Ficção | Fantasia | Comédia</genre>
+		<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]
+ÁUDIO: Japonês
+ANO: 1995
+TEMPORADA: 1
+EPISÓDIO: 07
+		</info>
+		<link>https://archive.org/download/AA0000/A0285_E07.mkv</link>
+	</item>
 </items>
