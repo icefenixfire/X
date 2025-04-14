@@ -12,4 +12,16 @@ TEMPORADA: 1
 EPISÓDIO: 01</info>
 		<link>plugin://plugin.loopplay/?action=play&item_id=1cU0-WfO5LFfo4Ag7YVxy4edo8jGz48gz&item_driveid=13317096135560461908&driveid=17776824897305541588&content_type=video</link>
 	</item>
+	<item>
+		<title>[B]De Caipira a Mestre...: T1 - Episódio 02[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0296.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0296_fanart.webp</fanart>
+		<genre>Aventura | Comédia | Fantasia | Ação</genre>
+		<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2025
+TEMPORADA: 1
+EPISÓDIO: 02</info>
+		<link>plugin://plugin.loopplay/?action=play&item_id=1MLj_HsSKEJMGAtqxPFomv797KMRRo6h6&item_driveid=13317096135560461908&driveid=17776824897305541588&content_type=video</link>
+	</item>
 </items>
