@@ -1,15 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <items>
-<item><title>[B]Buddy Daddies: T1 - Episódio 01[/B]</title><thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0256.webp</thumbnail><fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0256_fanart.webp</fanart><genre>Legendado</genre><info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]</info><link>https://vk.com/doc671606943_657319149</link></item>
-<item><title>[B]Buddy Daddies: T1 - Episódio 02[/B]</title><thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0256.webp</thumbnail><fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0256_fanart.webp</fanart><genre>Legendado</genre><info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]</info><link>https://vk.com/doc671606943_657319764</link></item>
-<item><title>[B]Buddy Daddies: T1 - Episódio 03[/B]</title><thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0256.webp</thumbnail><fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0256_fanart.webp</fanart><genre>Legendado</genre><info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]</info><link>https://vk.com/doc671606943_657319829</link></item>
-<item><title>[B]Buddy Daddies: T1 - Episódio 04[/B]</title><thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0256.webp</thumbnail><fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0256_fanart.webp</fanart><genre>Legendado</genre><info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]</info><link>https://vk.com/doc671606943_657319871</link></item>
-<item><title>[B]Buddy Daddies: T1 - Episódio 05[/B]</title><thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0256.webp</thumbnail><fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0256_fanart.webp</fanart><genre>Legendado</genre><info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]</info><link>https://vk.com/doc671606943_657319928</link></item>
-<item><title>[B]Buddy Daddies: T1 - Episódio 06[/B]</title><thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0256.webp</thumbnail><fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0256_fanart.webp</fanart><genre>Legendado</genre><info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]</info><link>https://vk.com/doc671606943_657319981</link></item>
-<item><title>[B]Buddy Daddies: T1 - Episódio 07[/B]</title><thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0256.webp</thumbnail><fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0256_fanart.webp</fanart><genre>Legendado</genre><info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]</info><link>https://vk.com/doc671606943_657320029</link></item>
-<item><title>[B]Buddy Daddies: T1 - Episódio 08[/B]</title><thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0256.webp</thumbnail><fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0256_fanart.webp</fanart><genre>Legendado</genre><info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]</info><link>https://vk.com/doc671606943_657320113</link></item>
-<item><title>[B]Buddy Daddies: T1 - Episódio8.5[/B]</title><thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0256.webp</thumbnail><fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0256_fanart.webp</fanart><genre>Legendado</genre><info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]</info><link>https://vk.com/doc671606943_657320119</link></item>
-<item><title>[B]Buddy Daddies: T1 - Episódio 09[/B]</title><thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0256.webp</thumbnail><fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0256_fanart.webp</fanart><genre>Legendado</genre><info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]</info><link>https://vk.com/doc671606943_657320158</link></item>
-<item><title>[B]Buddy Daddies: T1 - Episódio 10[/B]</title><thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0256.webp</thumbnail><fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0256_fanart.webp</fanart><genre>Legendado</genre><info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]</info><link>https://vk.com/doc671606943_657320188</link></item>
-<item><title>[B]Buddy Daddies: T1 - Episódio 11[/B]</title><thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0256.webp</thumbnail><fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0256_fanart.webp</fanart><genre>Legendado</genre><info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]</info><link>https://vk.com/doc671606943_657320226</link></item>
-<item><title>[B]Buddy Daddies: T1 - Episódio 12[/B]</title><thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0256.webp</thumbnail><fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0256_fanart.webp</fanart><genre>Legendado</genre><info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]</info><link>https://vk.com/doc671606943_657320307</link></item>
+	<item>
+		<title>[B]Buddy Daddies: T1 - Episódio 01[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0256.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0256_fanart.webp</fanart>
+		<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]DIO: Japonês
+ANO: 2013
+TEMPORADA: 1
+EPISÓDIO: 01
+		</info>
+		<link>https://vk.com/doc671606943_657319149</link>
+	</item>
+	<item>
+		<title>[B]Buddy Daddies: T1 - Episódio 02[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0256.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0256_fanart.webp</fanart>
+		<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]DIO: Japonês
+ANO: 2013
+TEMPORADA: 1
+EPISÓDIO: 02
+		</info>
+		<link>https://vk.com/doc671606943_657319764</link>
+	</item>
+	<item>
+		<title>[B]Buddy Daddies: T1 - Episódio 03[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0256.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0256_fanart.webp</fanart>
+		<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]DIO: Japonês
+ANO: 2013
+TEMPORADA: 1
+EPISÓDIO: 03
+		</info>
+		<link>https://vk.com/doc671606943_657319829</link>
+	</item>
+	<item>
+		<title>[B]Buddy Daddies: T1 - Episódio 04[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0256.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0256_fanart.webp</fanart>
+		<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]DIO: Japonês
+ANO: 2013
+TEMPORADA: 1
+EPISÓDIO: 04
+		</info>
+		<link>https://vk.com/doc671606943_657319871</link>
+	</item>
+	<item>
+		<title>[B]Buddy Daddies: T1 - Episódio 05[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0256.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0256_fanart.webp</fanart>
+		<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]DIO: Japonês
+ANO: 2013
+TEMPORADA: 1
+EPISÓDIO: 05
+		</info>
+		<link>https://vk.com/doc671606943_657319928</link>
+	</item>
+	<item>
+		<title>[B]Buddy Daddies: T1 - Episódio 06[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0256.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0256_fanart.webp</fanart>
+		<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]DIO: Japonês
+ANO: 2013
+TEMPORADA: 1
+EPISÓDIO: 06
+		</info>
+		<link>https://vk.com/doc671606943_657319981</link>
+	</item>
+	<item>
+		<title>[B]Buddy Daddies: T1 - Episódio 07[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0256.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0256_fanart.webp</fanart>
+		<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]DIO: Japonês
+ANO: 2013
+TEMPORADA: 1
+EPISÓDIO: 07
+		</info>
+		<link>https://vk.com/doc671606943_657320029</link>
+	</item>
+	<item>
+		<title>[B]Buddy Daddies: T1 - Episódio 08[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0256.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0256_fanart.webp</fanart>
+		<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]DIO: Japonês
+ANO: 2013
+TEMPORADA: 1
+EPISÓDIO: 08
+		</info>
+		<link>https://vk.com/doc671606943_657320113</link>
+	</item>
+	<item>
+		<title>[B]Buddy Daddies: T1 - Episódio 8.5[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0256.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0256_fanart.webp</fanart>
+		<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]DIO: Japonês
+ANO: 2013
+TEMPORADA: 1
+EPISÓDIO: 09
+		</info>
+		<link>https://vk.com/doc671606943_657320119</link>
+	</item>
+	<item>
+		<title>[B]Buddy Daddies: T1 - Episódio 09[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0256.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0256_fanart.webp</fanart>
+		<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]DIO: Japonês
+ANO: 2013
+TEMPORADA: 1
+EPISÓDIO: 10
+		</info>
+		<link>https://vk.com/doc671606943_657320158</link>
+	</item>
+	<item>
+		<title>[B]Buddy Daddies: T1 - Episódio 10[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0256.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0256_fanart.webp</fanart>
+		<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]DIO: Japonês
+ANO: 2013
+TEMPORADA: 1
+EPISÓDIO: 11
+		</info>
+		<link>https://vk.com/doc671606943_657320188</link>
+	</item>
+	<item>
+		<title>[B]Buddy Daddies: T1 - Episódio 11[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0256.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0256_fanart.webp</fanart>
+		<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]DIO: Japonês
+ANO: 2013
+TEMPORADA: 1
+EPISÓDIO: 12
+		</info>
+		<link>https://vk.com/doc671606943_657320226</link>
+	</item>
+	<item>
+		<title>[B]Buddy Daddies: T1 - Episódio 12[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0256.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0256_fanart.webp</fanart>
+		<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]DIO: Japonês
+ANO: 2013
+TEMPORADA: 1
+EPISÓDIO: 13
+		</info>
+		<link>https://vk.com/doc671606943_657320307</link>
+	</item>
 </items>
