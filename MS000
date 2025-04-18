@@ -16,6 +16,14 @@
 		<genre>Drama | Comédia | Investigação</genre>
 		<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]</info>
 	</channel>
+	
+	<channel>
+		<name>[B]THE LAST OF US ● 2023...[/B]</name>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/S/main/S00242.webp</thumbnail>
+		<externallink>https://raw.githubusercontent.com/icefenixfire/X/main/S/S00242</externallink>
+		<genre>Ficção | Ação | Fantasia</genre>
+		<info>[COLOR red][B]● Classificação +16[/B][/COLOR]</info>
+	</channel>
 
 	<channel>
 		<name>[B]SILO ● 2023...[/B]</name>
@@ -446,14 +454,6 @@
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/S/main/S00045.webp</thumbnail>
 		<externallink>https://raw.githubusercontent.com/icefenixfire/X/main/S/S00045</externallink>
 		<genre>Ação | Aventura</genre>
-		<info>[COLOR red][B]● Classificação +16[/B][/COLOR]</info>
-	</channel>
-
-	<channel>
-		<name>[B]THE LAST OF US ● 2023...[/B]</name>
-		<thumbnail>https://raw.githubusercontent.com/icefenixfire/S/main/S00242.webp</thumbnail>
-		<externallink>https://raw.githubusercontent.com/icefenixfire/X/main/S/S00242</externallink>
-		<genre>Ficção | Ação | Fantasia</genre>
 		<info>[COLOR red][B]● Classificação +16[/B][/COLOR]</info>
 	</channel>
 
