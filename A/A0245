@@ -1,15 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <items>
-<item><title>[B]Berserk: Memorial Edition: Episódio 01[/B]</title><thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0245.webp</thumbnail><fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0245_fanart.webp</fanart><genre>Dublado</genre><info>[COLOR crimson][B]● Classificação +18[/B][/COLOR]</info><link>https://archive.org/download/A00000/A0245_E01.mkv</link></item>
-<item><title>[B]Berserk: Memorial Edition: Episódio 02[/B]</title><thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0245.webp</thumbnail><fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0245_fanart.webp</fanart><genre>Dublado</genre><info>[COLOR crimson][B]● Classificação +18[/B][/COLOR]</info><link>https://archive.org/download/A00000/A0245_E02.mkv</link></item>
-<item><title>[B]Berserk: Memorial Edition: Episódio 03[/B]</title><thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0245.webp</thumbnail><fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0245_fanart.webp</fanart><genre>Dublado</genre><info>[COLOR crimson][B]● Classificação +18[/B][/COLOR]</info><link>https://archive.org/download/A00000/A0245_E03.mkv</link></item>
-<item><title>[B]Berserk: Memorial Edition: Episódio 04[/B]</title><thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0245.webp</thumbnail><fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0245_fanart.webp</fanart><genre>Dublado</genre><info>[COLOR crimson][B]● Classificação +18[/B][/COLOR]</info><link>https://archive.org/download/A00000/A0245_E04.mkv</link></item>
-<item><title>[B]Berserk: Memorial Edition: Episódio 05[/B]</title><thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0245.webp</thumbnail><fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0245_fanart.webp</fanart><genre>Dublado</genre><info>[COLOR crimson][B]● Classificação +18[/B][/COLOR]</info><link>https://archive.org/download/A00000/A0245_E05.mkv</link></item>
-<item><title>[B]Berserk: Memorial Edition: Episódio 06[/B]</title><thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0245.webp</thumbnail><fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0245_fanart.webp</fanart><genre>Dublado</genre><info>[COLOR crimson][B]● Classificação +18[/B][/COLOR]</info><link>https://archive.org/download/A00000/A0245_E06.mkv</link></item>
-<item><title>[B]Berserk: Memorial Edition: Episódio 07[/B]</title><thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0245.webp</thumbnail><fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0245_fanart.webp</fanart><genre>Dublado</genre><info>[COLOR crimson][B]● Classificação +18[/B][/COLOR]</info><link>https://archive.org/download/A00000/A0245_E07.mkv</link></item>
-<item><title>[B]Berserk: Memorial Edition: Episódio 08[/B]</title><thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0245.webp</thumbnail><fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0245_fanart.webp</fanart><genre>Dublado</genre><info>[COLOR crimson][B]● Classificação +18[/B][/COLOR]</info><link>https://archive.org/download/A00000/A0245_E08.mkv</link></item>
-<item><title>[B]Berserk: Memorial Edition: Episódio 09[/B]</title><thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0245.webp</thumbnail><fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0245_fanart.webp</fanart><genre>Dublado</genre><info>[COLOR crimson][B]● Classificação +18[/B][/COLOR]</info><link>https://archive.org/download/A00000/A0245_E09.mkv</link></item>
-<item><title>[B]Berserk: Memorial Edition: Episódio 10[/B]</title><thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0245.webp</thumbnail><fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0245_fanart.webp</fanart><genre>Dublado</genre><info>[COLOR crimson][B]● Classificação +18[/B][/COLOR]</info><link>https://archive.org/download/A00000/A0245_E10.mkv</link></item>
-<item><title>[B]Berserk: Memorial Edition: Episódio 11[/B]</title><thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0245.webp</thumbnail><fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0245_fanart.webp</fanart><genre>Dublado</genre><info>[COLOR crimson][B]● Classificação +18[/B][/COLOR]</info><link>https://archive.org/download/A00000/A0245_E11.mkv</link></item>
-<item><title>[B]Berserk: Memorial Edition: Episódio 12[/B]</title><thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0245.webp</thumbnail><fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0245_fanart.webp</fanart><genre>Dublado</genre><info>[COLOR crimson][B]● Classificação +18[/B][/COLOR]</info><link>https://archive.org/download/A00000/A0245_E12.mkv</link></item>
-<item><title>[B]Berserk: Memorial Edition: Episódio 13[/B]</title><thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0245.webp</thumbnail><fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0245_fanart.webp</fanart><genre>Dublado</genre><info>[COLOR crimson][B]● Classificação +18[/B][/COLOR]</info><link>https://archive.org/download/A00000/A0245_E13.mkv</link></item>
+	<item>
+		<title>[B]Berserk: Memorial Edition: Episódio 01[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0245.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0245_fanart.webp</fanart>
+		<genre>Ação | Fantasia</genre>
+		<info>[COLOR crimson][B]● Classificação +18[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2022
+TEMPORADA: 1
+EPISÓDIO: 01
+		</info>
+		<link>https://archive.org/download/A00000/A0245_E01.mkv</link>
+	</item>
+	<item>
+		<title>[B]Berserk: Memorial Edition: Episódio 02[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0245.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0245_fanart.webp</fanart>
+		<genre>Ação | Fantasia</genre>
+		<info>[COLOR crimson][B]● Classificação +18[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2022
+TEMPORADA: 1
+EPISÓDIO: 02
+		</info>
+		<link>https://archive.org/download/A00000/A0245_E02.mkv</link>
+	</item>
+	<item>
+		<title>[B]Berserk: Memorial Edition: Episódio 03[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0245.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0245_fanart.webp</fanart>
+		<genre>Ação | Fantasia</genre>
+		<info>[COLOR crimson][B]● Classificação +18[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2022
+TEMPORADA: 1
+EPISÓDIO: 03
+		</info>
+		<link>https://archive.org/download/A00000/A0245_E03.mkv</link>
+	</item>
+	<item>
+		<title>[B]Berserk: Memorial Edition: Episódio 04[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0245.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0245_fanart.webp</fanart>
+		<genre>Ação | Fantasia</genre>
+		<info>[COLOR crimson][B]● Classificação +18[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2022
+TEMPORADA: 1
+EPISÓDIO: 04
+		</info>
+		<link>https://archive.org/download/A00000/A0245_E04.mkv</link>
+	</item>
+	<item>
+		<title>[B]Berserk: Memorial Edition: Episódio 05[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0245.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0245_fanart.webp</fanart>
+		<genre>Ação | Fantasia</genre>
+		<info>[COLOR crimson][B]● Classificação +18[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2022
+TEMPORADA: 1
+EPISÓDIO: 05
+		</info>
+		<link>https://archive.org/download/A00000/A0245_E05.mkv</link>
+	</item>
+	<item>
+		<title>[B]Berserk: Memorial Edition: Episódio 06[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0245.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0245_fanart.webp</fanart>
+		<genre>Ação | Fantasia</genre>
+		<info>[COLOR crimson][B]● Classificação +18[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2022
+TEMPORADA: 1
+EPISÓDIO: 06
+		</info>
+		<link>https://archive.org/download/A00000/A0245_E06.mkv</link>
+	</item>
+	<item>
+		<title>[B]Berserk: Memorial Edition: Episódio 07[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0245.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0245_fanart.webp</fanart>
+		<genre>Ação | Fantasia</genre>
+		<info>[COLOR crimson][B]● Classificação +18[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2022
+TEMPORADA: 1
+EPISÓDIO: 07
+		</info>
+		<link>https://archive.org/download/A00000/A0245_E07.mkv</link>
+	</item>
+	<item>
+		<title>[B]Berserk: Memorial Edition: Episódio 08[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0245.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0245_fanart.webp</fanart>
+		<genre>Ação | Fantasia</genre>
+		<info>[COLOR crimson][B]● Classificação +18[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2022
+TEMPORADA: 1
+EPISÓDIO: 08
+		</info>
+		<link>https://archive.org/download/A00000/A0245_E08.mkv</link>
+	</item>
+	<item>
+		<title>[B]Berserk: Memorial Edition: Episódio 09[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0245.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0245_fanart.webp</fanart>
+		<genre>Ação | Fantasia</genre>
+		<info>[COLOR crimson][B]● Classificação +18[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2022
+TEMPORADA: 1
+EPISÓDIO: 09
+		</info>
+		<link>https://archive.org/download/A00000/A0245_E09.mkv</link>
+	</item>
+	<item>
+		<title>[B]Berserk: Memorial Edition: Episódio 10[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0245.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0245_fanart.webp</fanart>
+		<genre>Ação | Fantasia</genre>
+		<info>[COLOR crimson][B]● Classificação +18[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2022
+TEMPORADA: 1
+EPISÓDIO: 10
+		</info>
+		<link>https://archive.org/download/A00000/A0245_E10.mkv</link>
+	</item>
+	<item>
+		<title>[B]Berserk: Memorial Edition: Episódio 11[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0245.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0245_fanart.webp</fanart>
+		<genre>Ação | Fantasia</genre>
+		<info>[COLOR crimson][B]● Classificação +18[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2022
+TEMPORADA: 1
+EPISÓDIO: 11
+		</info>
+		<link>https://archive.org/download/A00000/A0245_E11.mkv</link>
+	</item>
+	<item>
+		<title>[B]Berserk: Memorial Edition: Episódio 12[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0245.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0245_fanart.webp</fanart>
+		<genre>Ação | Fantasia</genre>
+		<info>[COLOR crimson][B]● Classificação +18[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2022
+TEMPORADA: 1
+EPISÓDIO: 12
+		</info>
+		<link>https://archive.org/download/A00000/A0245_E12.mkv</link>
+	</item>
+	<item>
+		<title>[B]Berserk: Memorial Edition: Episódio 13[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0245.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0245_fanart.webp</fanart>
+		<genre>Ação | Fantasia</genre>
+		<info>[COLOR crimson][B]● Classificação +18[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2022
+TEMPORADA: 1
+EPISÓDIO: 13
+		</info>
+		<link>https://archive.org/download/A00000/A0245_E13.mkv</link>
+	</item>
 </items>
