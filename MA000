@@ -1,5 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <channels>
+<!--A ROSA DE VERSALHES-->
+	<channel>
+		<name>[B]A ROSA DE VERSALHES[/B]</name>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0299.webp</thumbnail>
+		<externallink>https://raw.githubusercontent.com/icefenixfire/X/main/A/A0299</externallink>
+		<genre>Aventura | Drama | Ação</genre>
+		<info>[COLOR yellow][B]● Classificação Indicativa +12[/B][/COLOR]
+ÁUDIO: Japonês
+ANO: 1979
+TEMPORADAS: 1
+STATUS: Finalizado
+		</info>
+	</channel>
 <!--SUPER CUBO-->
 	<channel>
 		<name>[B]SUPER CUBO[/B]</name>
@@ -63,6 +76,19 @@ STATUS: Renovado
 ANO: 2016
 TEMPORADAS: 1
 STATUS: Renovado | Incompleto
+		</info>
+	</channel>
+<!--KONOSUBA-->
+	<channel>
+		<name>[B]KONOSUBA[/B]</name>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0093.webp</thumbnail>
+		<externallink>https://raw.githubusercontent.com/icefenixfire/X/main/A/A0093</externallink>
+		<genre>Aventura | Comédia | Fantasia | Sobrenatural</genre>
+		<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2016 - 2024
+TEMPORADAS: 3
+STATUS: Finalizado
 		</info>
 	</channel>
 <!--HELLSING-->
@@ -689,7 +715,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
-
+<!--APPARE-RANMAN!-->
 	<channel>
 		<name>[B]APPARE-RANMAN![/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0231.webp</thumbnail>
@@ -702,7 +728,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
-
+<!--AKUDAMA DRIVE-->
 	<channel>
 		<name>[B]AKUDAMA DRIVE[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0229.webp</thumbnail>
@@ -715,7 +741,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
-
+<!--AOASHI-->
 	<channel>
 		<name>[B]AOASHI[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0206.webp</thumbnail>
@@ -728,7 +754,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
-
+<!--ALDNOAH.ZERO-->
 	<channel>
 		<name>[B]ALDNOAH.ZERO[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0186.webp</thumbnail>
@@ -741,7 +767,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
-
+<!--ALDERAMIN ON THE SKY-->
 	<channel>
 		<name>[B]ALDERAMIN ON THE SKY[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0185.webp</thumbnail>
@@ -754,7 +780,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
-
+<!--AHIRU NO SORA-->
 	<channel>
 		<name>[B]AHIRU NO SORA[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0184.webp</thumbnail>
@@ -767,7 +793,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
-
+<!--A PLACE FURTHER THAN THE UNIVERSE-->
 	<channel>
 		<name>[B]A PLACE FURTHER THAN THE UNIVERSE[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0183.webp</thumbnail>
@@ -780,7 +806,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
-
+<!--AKAME GA KILL!-->
 	<channel>
 		<name>[B]AKAME GA KILL![/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0182.webp</thumbnail>
@@ -793,7 +819,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
-
+<!--A DESTRUCTIVE GOD SITS NEXT TO ME-->
 	<channel>
 		<name>[B]A DESTRUCTIVE GOD SITS NEXT TO ME[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0181.webp</thumbnail>
@@ -806,7 +832,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
-
+<!--A CERTAIN SCIENTIFIC ACCELERATOR-->
 	<channel>
 		<name>[B]A CERTAIN SCIENTIFIC ACCELERATOR[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0180.webp</thumbnail>
@@ -819,7 +845,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
-
+<!--ANGELS OF DEATH-->
 	<channel>
 		<name>[B]ANGELS OF DEATH[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0179.webp</thumbnail>
@@ -832,7 +858,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
-
+<!--ACE ATTORNEY-->
 	<channel>
 		<name>[B]ACE ATTORNEY[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0166.webp</thumbnail>
@@ -845,7 +871,7 @@ TEMPORADAS: 2
 STATUS: Finalizado
 		</info>
 	</channel>
-
+<!--AVATAR: A LENDA DE KORRA-->
 	<channel>
 		<name>[B]AVATAR: A LENDA DE KORRA[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0051.webp</thumbnail>
@@ -858,7 +884,7 @@ TEMPORADAS: 4
 STATUS: Finalizado
 		</info>
 	</channel>
-
+<!--AJIN: DEMI-HUMAN-->
 	<channel>
 		<name>[B]AJIN: DEMI-HUMAN[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0041.webp</thumbnail>
@@ -871,7 +897,7 @@ TEMPORADAS: 2
 STATUS: Finalizado
 		</info>
 	</channel>
-
+<!--A.I.C.O. INCARNATION-->
 	<channel>
 		<name>[B]A.I.C.O. INCARNATION[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0039.webp</thumbnail>
@@ -884,20 +910,20 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
-
+<!--AFRO SAMURAI-->
 	<channel>
 		<name>[B]AFRO SAMURAI[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0001.webp</thumbnail>
 		<externallink>https://raw.githubusercontent.com/icefenixfire/X/main/A/A0001</externallink>
 		<genre>Ação | Ficção</genre>
 		<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]
-ÁUDIO: Japonês
+ÁUDIO: Inglês
 ANO: 2017
 TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
-
+<!--AVATAR: A LENDA DE AANG-->
 	<channel>
 		<name>[B]AVATAR: A LENDA DE AANG[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0112.webp</thumbnail>
@@ -910,7 +936,7 @@ TEMPORADAS: 3
 STATUS: Finalizado
 		</info>
 	</channel>
-
+<!--BLACK CLOVER-->
 	<channel>
 		<name>[B]BLACK CLOVER[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0059.webp</thumbnail>
@@ -923,7 +949,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
-
+<!--BERSERK: THE GOLDEN AGE ARC - MEMORIAL EDITION-->
 	<channel>
 		<name>[B]BERSERK: THE GOLDEN AGE ARC - MEMORIAL EDITION[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0245.webp</thumbnail>
@@ -936,7 +962,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
-
+<!--BLACK LAGOON-->
 	<channel>
 		<name>[B]BLACK LAGOON[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0262.webp</thumbnail>
@@ -949,7 +975,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
-
+<!--BUDDY DADDIES-->
 	<channel>
 		<name>[B]BUDDY DADDIES[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0256.webp</thumbnail>
@@ -962,7 +988,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
-
+<!--BUNGO STRAY DOGS-->
 	<channel>
 		<name>[B]BUNGO STRAY DOGS[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0089.webp</thumbnail>
@@ -975,7 +1001,7 @@ TEMPORADAS: 2 de 5
 STATUS: Renovado | Incompleto
 		</info>
 	</channel>
-
+<!--BLADE: A LÂMINA DO IMORTAL-->
 	<channel>
 		<name>[B]BLADE: A LÂMINA DO IMORTAL[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0207.webp</thumbnail>
@@ -988,7 +1014,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
-
+<!--BLOOD BLOCKADE BATTLEFRONT-->
 	<channel>
 		<name>[B]BLOOD BLOCKADE BATTLEFRONT[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0147.webp</thumbnail>
@@ -1001,7 +1027,7 @@ TEMPORADAS: 2
 STATUS: Finalizado
 		</info>
 	</channel>
-
+<!--BLUE EXORCIST-->
 	<channel>
 		<name>[B]BLUE EXORCIST[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0160.webp</thumbnail>
@@ -1014,7 +1040,7 @@ TEMPORADAS: 1 de 5
 STATUS: Finalizado | Incompleto
 		</info>
 	</channel>
-
+<!--BRAVE 10-->
 	<channel>
 		<name>[B]BRAVE 10[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0161.webp</thumbnail>
@@ -1960,19 +1986,6 @@ STATUS: Renovado | Incompleto
 ÁUDIO: Português
 ANO: 2019
 TEMPORADAS: 1
-STATUS: Finalizado
-		</info>
-	</channel>
-<!--KONOSUBA-->
-	<channel>
-		<name>[B]KONOSUBA[/B]</name>
-		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0093.webp</thumbnail>
-		<externallink>https://raw.githubusercontent.com/icefenixfire/X/main/A/A0093</externallink>
-		<genre>Aventura | Comédia | Fantasia | Sobrenatural</genre>
-		<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]
-ÁUDIO: Português
-ANO: 2016 - 2024
-TEMPORADAS: 3
 STATUS: Finalizado
 		</info>
 	</channel>
