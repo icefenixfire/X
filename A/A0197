@@ -1,8 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <items>
-<item><title>[B]Battle Game in 5 Seconds: T1 - Episódio 01[/B]</title><thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0197.webp</thumbnail><fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0197_fanart.webp</fanart><genre>Dublado</genre><info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]</info><link>https://vk.com/doc671606943_613682591</link></item>
-<item><title>[B]Battle Game in 5 Seconds: T1 - Episódio 02[/B]</title><thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0197.webp</thumbnail><fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0197_fanart.webp</fanart><genre>Dublado</genre><info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]</info><link>https://vk.com/doc671606943_613683177</link></item>
-<item><title>[B]Battle Game in 5 Seconds: T1 - Episódio 03[/B]</title><thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0197.webp</thumbnail><fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0197_fanart.webp</fanart><genre>Dublado</genre><info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]</info><link>https://vk.com/doc671606943_613684291</link></item>
-<item><title>[B]Battle Game in 5 Seconds: T1 - Episódio 04[/B]</title><thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0197.webp</thumbnail><fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0197_fanart.webp</fanart><genre>Dublado</genre><info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]</info><link>https://vk.com/doc671606943_613686558</link></item>
-<item><title>[B]Battle Game in 5 Seconds: T1 - Episódio 05[/B]</title><thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0197.webp</thumbnail><fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0197_fanart.webp</fanart><genre>Dublado</genre><info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]</info><link>https://vk.com/doc671606943_613687515</link></item>
-<item><title>[B]Battle Game in 5 Seconds: T1 - Episódio 06[/B]</title><thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0197.webp</thumbnail><fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0197_fanart.webp</fanart><genre>Dublado</genre><info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]</info><link>https://vk.com/doc671606943_613688944</link></item>
+	<item>
+		<title>[B]Battle Game in 5 Seconds: T1 - Episódio 01[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0197.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0197_fanart.webp</fanart>
+		<genre>Ação | Drama | Suspense | Sobrenatural</genre>
+		<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2021
+TEMPORADA: 1
+EPISÓDIO: 01
+		</info>
+		<link>https://vk.com/doc671606943_613682591</link>
+	</item>
+	<item>
+		<title>[B]Battle Game in 5 Seconds: T1 - Episódio 02[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0197.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0197_fanart.webp</fanart>
+		<genre>Ação | Drama | Suspense | Sobrenatural</genre>
+		<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2021
+TEMPORADA: 1
+EPISÓDIO: 02
+		</info>
+		<link>https://vk.com/doc671606943_613683177</link>
+	</item>
+	<item>
+		<title>[B]Battle Game in 5 Seconds: T1 - Episódio 03[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0197.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0197_fanart.webp</fanart>
+		<genre>Ação | Drama | Suspense | Sobrenatural</genre>
+		<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2021
+TEMPORADA: 1
+EPISÓDIO: 03
+		</info>
+		<link>https://vk.com/doc671606943_613684291</link>
+	</item>
+	<item>
+		<title>[B]Battle Game in 5 Seconds: T1 - Episódio 04[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0197.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0197_fanart.webp</fanart>
+		<genre>Ação | Drama | Suspense | Sobrenatural</genre>
+		<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2021
+TEMPORADA: 1
+EPISÓDIO: 04
+		</info>
+		<link>https://vk.com/doc671606943_613686558</link>
+	</item>
+	<item>
+		<title>[B]Battle Game in 5 Seconds: T1 - Episódio 05[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0197.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0197_fanart.webp</fanart>
+		<genre>Ação | Drama | Suspense | Sobrenatural</genre>
+		<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2021
+TEMPORADA: 1
+EPISÓDIO: 05
+		</info>
+		<link>https://vk.com/doc671606943_613687515</link>
+	</item>
+	<item>
+		<title>[B]Battle Game in 5 Seconds: T1 - Episódio 06[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0197.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0197_fanart.webp</fanart>
+		<genre>Ação | Drama | Suspense | Sobrenatural</genre>
+		<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2021
+TEMPORADA: 1
+EPISÓDIO: 06
+		</info>
+		<link>https://vk.com/doc671606943_613688944</link>
+	</item>
 </items>
