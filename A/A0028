@@ -1,15 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <items>
-<item><title>[B]Dorohedoro: T1 - Episódio 01[/B]</title><thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0028.webp</thumbnail><fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0028_fanart.webp</fanart><genre>Dublado</genre><info>[COLOR crimson][B]● Classificação +18[/B][/COLOR]</info><link>https://vk.com/doc281689990_602434990</link></item>
-<item><title>[B]Dorohedoro: T1 - Episódio 02[/B]</title><thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0028.webp</thumbnail><fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0028_fanart.webp</fanart><genre>Dublado</genre><info>[COLOR crimson][B]● Classificação +18[/B][/COLOR]</info><link>https://vk.com/doc281689990_602435671</link></item>
-<item><title>[B]Dorohedoro: T1 - Episódio 03[/B]</title><thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0028.webp</thumbnail><fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0028_fanart.webp</fanart><genre>Dublado</genre><info>[COLOR crimson][B]● Classificação +18[/B][/COLOR]</info><link>https://vk.com/doc281689990_602450025</link></item>
-<item><title>[B]Dorohedoro: T1 - Episódio 04[/B]</title><thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0028.webp</thumbnail><fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0028_fanart.webp</fanart><genre>Dublado</genre><info>[COLOR crimson][B]● Classificação +18[/B][/COLOR]</info><link>https://vk.com/doc281689990_602450606</link></item>
-<item><title>[B]Dorohedoro: T1 - Episódio 05[/B]</title><thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0028.webp</thumbnail><fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0028_fanart.webp</fanart><genre>Dublado</genre><info>[COLOR crimson][B]● Classificação +18[/B][/COLOR]</info><link>https://vk.com/doc281689990_602450829</link></item>
-<item><title>[B]Dorohedoro: T1 - Episódio 06[/B]</title><thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0028.webp</thumbnail><fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0028_fanart.webp</fanart><genre>Dublado</genre><info>[COLOR crimson][B]● Classificação +18[/B][/COLOR]</info><link>https://vk.com/doc281689990_602451118</link></item>
-<item><title>[B]Dorohedoro: T1 - Episódio 07[/B]</title><thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0028.webp</thumbnail><fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0028_fanart.webp</fanart><genre>Dublado</genre><info>[COLOR crimson][B]● Classificação +18[/B][/COLOR]</info><link>https://vk.com/doc281689990_602451302</link></item>
-<item><title>[B]Dorohedoro: T1 - Episódio 08[/B]</title><thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0028.webp</thumbnail><fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0028_fanart.webp</fanart><genre>Dublado</genre><info>[COLOR crimson][B]● Classificação +18[/B][/COLOR]</info><link>https://vk.com/doc281689990_602451575</link></item>
-<item><title>[B]Dorohedoro: T1 - Episódio 09[/B]</title><thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0028.webp</thumbnail><fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0028_fanart.webp</fanart><genre>Dublado</genre><info>[COLOR crimson][B]● Classificação +18[/B][/COLOR]</info><link>https://vk.com/doc281689990_602451859</link></item>
-<item><title>[B]Dorohedoro: T1 - Episódio 10[/B]</title><thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0028.webp</thumbnail><fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0028_fanart.webp</fanart><genre>Dublado</genre><info>[COLOR crimson][B]● Classificação +18[/B][/COLOR]</info><link>https://vk.com/doc281689990_602452055</link></item>
-<item><title>[B]Dorohedoro: T1 - Episódio 11[/B]</title><thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0028.webp</thumbnail><fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0028_fanart.webp</fanart><genre>Dublado</genre><info>[COLOR crimson][B]● Classificação +18[/B][/COLOR]</info><link>https://vk.com/doc281689990_602452374</link></item>
-<item><title>[B]Dorohedoro: T1 - Episódio 12[/B]</title><thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0028.webp</thumbnail><fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0028_fanart.webp</fanart><genre>Dublado</genre><info>[COLOR crimson][B]● Classificação +18[/B][/COLOR]</info><link>https://vk.com/doc281689990_602452455</link></item>
-<item><title>[B]Dorohedoro: T1 - Episódio 13[/B]</title><thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0028.webp</thumbnail><fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0028_fanart.webp</fanart><genre>Dublado</genre><info>[COLOR crimson][B]● Classificação +18[/B][/COLOR]</info><link>https://vk.com/doc281689990_602452576</link></item>
+	<item>
+		<title>[B]Dorohedoro: T1 - Episódio 01[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0028.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0028_fanart.webp</fanart>
+		<genre>Ação | Ficção | Aventura</genre>
+		<info>[COLOR crimson][B]● Classificação +18[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2020
+TEMPORADA: 1
+EPISÓDIO: 01
+		</info>
+		<link>https://vk.com/doc281689990_602434990</link>
+	</item>
+	<item>
+		<title>[B]Dorohedoro: T1 - Episódio 02[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0028.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0028_fanart.webp</fanart>
+		<genre>Ação | Ficção | Aventura</genre>
+		<info>[COLOR crimson][B]● Classificação +18[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2020
+TEMPORADA: 1
+EPISÓDIO: 02
+		</info>
+		<link>https://vk.com/doc281689990_602435671</link>
+	</item>
+	<item>
+		<title>[B]Dorohedoro: T1 - Episódio 03[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0028.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0028_fanart.webp</fanart>
+		<genre>Ação | Ficção | Aventura</genre>
+		<info>[COLOR crimson][B]● Classificação +18[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2020
+TEMPORADA: 1
+EPISÓDIO: 03
+		</info>
+		<link>https://vk.com/doc281689990_602450025</link>
+	</item>
+	<item>
+		<title>[B]Dorohedoro: T1 - Episódio 04[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0028.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0028_fanart.webp</fanart>
+		<genre>Ação | Ficção | Aventura</genre>
+		<info>[COLOR crimson][B]● Classificação +18[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2020
+TEMPORADA: 1
+EPISÓDIO: 04
+		</info>
+		<link>https://vk.com/doc281689990_602450606</link>
+	</item>
+	<item>
+		<title>[B]Dorohedoro: T1 - Episódio 05[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0028.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0028_fanart.webp</fanart>
+		<genre>Ação | Ficção | Aventura</genre>
+		<info>[COLOR crimson][B]● Classificação +18[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2020
+TEMPORADA: 1
+EPISÓDIO: 05
+		</info>
+		<link>https://vk.com/doc281689990_602450829</link>
+	</item>
+	<item>
+		<title>[B]Dorohedoro: T1 - Episódio 06[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0028.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0028_fanart.webp</fanart>
+		<genre>Ação | Ficção | Aventura</genre>
+		<info>[COLOR crimson][B]● Classificação +18[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2020
+TEMPORADA: 1
+EPISÓDIO: 06
+		</info>
+		<link>https://vk.com/doc281689990_602451118</link>
+	</item>
+	<item>
+		<title>[B]Dorohedoro: T1 - Episódio 07[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0028.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0028_fanart.webp</fanart>
+		<genre>Ação | Ficção | Aventura</genre>
+		<info>[COLOR crimson][B]● Classificação +18[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2020
+TEMPORADA: 1
+EPISÓDIO: 07
+		</info>
+		<link>https://vk.com/doc281689990_602451302</link>
+	</item>
+	<item>
+		<title>[B]Dorohedoro: T1 - Episódio 08[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0028.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0028_fanart.webp</fanart>
+		<genre>Ação | Ficção | Aventura</genre>
+		<info>[COLOR crimson][B]● Classificação +18[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2020
+TEMPORADA: 1
+EPISÓDIO: 08
+		</info>
+		<link>https://vk.com/doc281689990_602451575</link>
+	</item>
+	<item>
+		<title>[B]Dorohedoro: T1 - Episódio 09[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0028.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0028_fanart.webp</fanart>
+		<genre>Ação | Ficção | Aventura</genre>
+		<info>[COLOR crimson][B]● Classificação +18[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2020
+TEMPORADA: 1
+EPISÓDIO: 09
+		</info>
+		<link>https://vk.com/doc281689990_602451859</link>
+	</item>
+	<item>
+		<title>[B]Dorohedoro: T1 - Episódio 10[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0028.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0028_fanart.webp</fanart>
+		<genre>Ação | Ficção | Aventura</genre>
+		<info>[COLOR crimson][B]● Classificação +18[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2020
+TEMPORADA: 1
+EPISÓDIO: 10
+		</info>
+		<link>https://vk.com/doc281689990_602452055</link>
+	</item>
+	<item>
+		<title>[B]Dorohedoro: T1 - Episódio 11[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0028.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0028_fanart.webp</fanart>
+		<genre>Ação | Ficção | Aventura</genre>
+		<info>[COLOR crimson][B]● Classificação +18[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2020
+TEMPORADA: 1
+EPISÓDIO: 11
+		</info>
+		<link>https://vk.com/doc281689990_602452374</link>
+	</item>
+	<item>
+		<title>[B]Dorohedoro: T1 - Episódio 12[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0028.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0028_fanart.webp</fanart>
+		<genre>Ação | Ficção | Aventura</genre>
+		<info>[COLOR crimson][B]● Classificação +18[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2020
+TEMPORADA: 1
+EPISÓDIO: 12
+		</info>
+		<link>https://vk.com/doc281689990_602452455</link>
+	</item>
+	<item>
+		<title>[B]Dorohedoro: T1 - Episódio 13[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0028.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0028_fanart.webp</fanart>
+		<genre>Ação | Ficção | Aventura</genre>
+		<info>[COLOR crimson][B]● Classificação +18[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2020
+TEMPORADA: 1
+EPISÓDIO: 13
+		</info>
+		<link>https://vk.com/doc281689990_602452576</link>
+	</item>
 </items>
