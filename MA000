@@ -1,5 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <channels>
+<!--OVERLORD-->
+	<channel>
+		<name>[B]OVERLORD[/B]</name>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0149.webp</thumbnail>
+		<externallink>https://raw.githubusercontent.com/icefenixfire/X/main/A/A0149</externallink>
+		<genre>Ação | Fantasia | Aventura</genre>
+		<info>[COLOR red][B]● Classificação Indicativa +16[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2015 - 2022
+TEMPORADAS: 4
+STATUS: Finalizado
+		</info>
+	</channel>
 <!--A ROSA DE VERSALHES-->
 	<channel>
 		<name>[B]A ROSA DE VERSALHES[/B]</name>
@@ -1053,7 +1066,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
-
+<!--BURN THE WITCH-->
 	<channel>
 		<name>[B]BURN THE WITCH[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0164.webp</thumbnail>
@@ -1066,7 +1079,7 @@ TEMPORADAS: 1
 STATUS: Cancelado
 		</info>
 	</channel>
-
+<!--BATTLE GAME IN 5 SECONDS-->
 	<channel>
 		<name>[B]BATTLE GAME IN 5 SECONDS[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0197.webp</thumbnail>
@@ -1079,7 +1092,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
-
+<!--BEASTARS: O LOBO BOM-->
 	<channel>
 		<name>[B]BEASTARS: O LOBO BOM[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0126.webp</thumbnail>
@@ -1092,7 +1105,7 @@ TEMPORADAS: 3
 STATUS: Finalizado
 		</info>
 	</channel>
-
+<!--BNA: BRAND NEW ANIMAL-->
 	<channel>
 		<name>[B]BNA: BRAND NEW ANIMAL[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0191.webp</thumbnail>
@@ -1105,7 +1118,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
-
+<!--BORUTO: NARUTO NEXT GENERATIONS-->
 	<channel>
 		<name>[B]BORUTO: NARUTO NEXT GENERATIONS[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0171.webp</thumbnail>
@@ -1118,7 +1131,7 @@ TEMPORADAS: 1
 STATUS: Renovado
 		</info>
 	</channel>
-
+<!--BAKI, O CAMPEÃO-->
 	<channel>
 		<name>[B]BAKI, O CAMPEÃO[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0054.webp</thumbnail>
@@ -1131,7 +1144,7 @@ TEMPORADAS: 2
 STATUS: Finalizado
 		</info>
 	</channel>
-
+<!--BLEACH-->
 	<channel>
 		<name>[B]BLEACH[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0099.webp</thumbnail>
@@ -1144,7 +1157,7 @@ TEMPORADAS: 1
 STATUS: Finalizado | Incompleto
 		</info>
 	</channel>
-
+<!--BUCKY-->
 	<channel>
 		<name>[B]BUCKY[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0003.webp</thumbnail>
@@ -1154,10 +1167,10 @@ STATUS: Finalizado | Incompleto
 ÁUDIO: Português
 ANO: 1999
 TEMPORADAS: 1
-STATUS: Finalizado | Incompleto
+STATUS: Finalizado
 		</info>
 	</channel>
-
+<!--CHAINSAW MAN-->
 	<channel>
 		<name>[B]CHAINSAW MAN[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0244.webp</thumbnail>
@@ -1170,7 +1183,7 @@ TEMPORADAS: 1
 STATUS: Renovado
 		</info>
 	</channel>
-
+<!--CYBERPUNK: MERCENÁRIOS-->
 	<channel>
 		<name>[B]CYBERPUNK: MERCENÁRIOS[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0241.webp</thumbnail>
@@ -1183,7 +1196,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
-
+<!--CÍRCULO DE FOGO: THE BLACK-->
 	<channel>
 		<name>[B]CÍRCULO DE FOGO: THE BLACK[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0151.webp</thumbnail>
@@ -1196,7 +1209,7 @@ TEMPORADAS: 2
 STATUS: Finalizado
 		</info>
 	</channel>
-
+<!--CLAYMORE-->
 	<channel>
 		<name>[B]CLAYMORE[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0145.webp</thumbnail>
@@ -1209,7 +1222,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
-
+<!--CELLS AT WORK!-->
 	<channel>
 		<name>[B]CELLS AT WORK![/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0174.webp</thumbnail>
@@ -1222,7 +1235,7 @@ TEMPORADAS: 2
 STATUS: Finalizado
 		</info>
 	</channel>
-
+<!--CANNON BUSTERS-->
 	<channel>
 		<name>[B]CANNON BUSTERS[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0058.webp</thumbnail>
@@ -1235,7 +1248,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
-
+<!--COWBOY BEBOP-->
 	<channel>
 		<name>[B]COWBOY BEBOP[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0023.webp</thumbnail>
@@ -1248,7 +1261,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
-
+<!--CASTLEVANIA-->
 	<channel>
 		<name>[B]CASTLEVANIA[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0004.webp</thumbnail>
@@ -1261,7 +1274,7 @@ TEMPORADAS: 4
 STATUS: Finalizado
 		</info>
 	</channel>
-
+<!--DIGIMON ADVENTURE-->
 	<channel>
 		<name>[B]DIGIMON ADVENTURE[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0006.webp</thumbnail>
@@ -1274,7 +1287,7 @@ TEMPORADAS: 2
 STATUS: Finalizado
 		</info>
 	</channel>
-
+<!--DIGIMON FRONTIER-->
 	<channel>
 		<name>[B]DIGIMON FRONTIER[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0097.webp</thumbnail>
@@ -1287,7 +1300,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
-
+<!--DIGIMON TAMERS-->
 	<channel>
 		<name>[B]DIGIMON TAMERS[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0096.webp</thumbnail>
@@ -1300,7 +1313,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
-
+<!--DIGIMON SAVERS [DATA SQUAD]-->
 	<channel>
 		<name>[B]DIGIMON SAVERS [DATA SQUAD][/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0098.webp</thumbnail>
@@ -1313,7 +1326,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
-
+<!--DIGIMON ADVENTURE-->
 	<channel>
 		<name>[B]DIGIMON ADVENTURE[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0140.webp</thumbnail>
@@ -1326,7 +1339,7 @@ TEMPORADAS: 1
 STATUS: Finalizado | Incompleto
 		</info>
 	</channel>
-
+<!--DEATH NOTE-->
 	<channel>
 		<name>[B]DEATH NOTE[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0005.webp</thumbnail>
@@ -1339,7 +1352,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
-
+<!--DEATH MARCH TO THE PARALLEL WORLD RHAPSODY-->
 	<channel>
 		<name>[B]DEATH MARCH TO THE PARALLEL WORLD RHAPSODY[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0107.webp</thumbnail>
@@ -1352,7 +1365,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
-
+<!--DIABOLIK LOVERS-->
 	<channel>
 		<name>[B]DIABOLIK LOVERS[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0109.webp</thumbnail>
@@ -1365,7 +1378,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
-
+<!--DEVIL MAY CRY-->
 	<channel>
 		<name>[B]DEVIL MAY CRY[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0019.webp</thumbnail>
@@ -1378,7 +1391,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
-
+<!--DRAGON BALL-->
 	<channel>
 		<name>[B]DRAGON BALL[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0025.webp</thumbnail>
@@ -1391,7 +1404,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
-
+<!--DRAGON BALL Z-->
 	<channel>
 		<name>[B]DRAGON BALL Z[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0026.webp</thumbnail>
@@ -1404,7 +1417,7 @@ TEMPORADAS: 6
 STATUS: Finalizado
 		</info>
 	</channel>
-
+<!--DRAGON BALL GT-->
 	<channel>
 		<name>[B]DRAGON BALL GT[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0032.webp</thumbnail>
@@ -1417,7 +1430,7 @@ TEMPORADAS: 4
 STATUS: Finalizado
 		</info>
 	</channel>
-
+<!--DRAGON BALL KAI-->
 	<channel>
 		<name>[B]DRAGON BALL KAI[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0036.webp</thumbnail>
@@ -1430,7 +1443,7 @@ TEMPORADAS: 1
 STATUS: Finalizado | Incompleto
 		</info>
 	</channel>
-
+<!--DRAGON BALL SUPER-->
 	<channel>
 		<name>[B]DRAGON BALL SUPER[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0040.webp</thumbnail>
@@ -1443,7 +1456,7 @@ TEMPORADAS: 5
 STATUS: Finalizado
 		</info>
 	</channel>
-
+<!--DEVILMAN CRYBABY-->
 	<channel>
 		<name>[B]DEVILMAN CRYBABY[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0037.webp</thumbnail>
@@ -1456,7 +1469,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
-
+<!--DANMACHI: É ERRADO TENTAR PEGAR GAROTAS EM UMA MASMORRA?-->
 	<channel>
 		<name>[B]DANMACHI: É ERRADO TENTAR PEGAR GAROTAS EM UMA MASMORRA?[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0189.webp</thumbnail>
@@ -1469,7 +1482,7 @@ TEMPORADAS: 1 de 5
 STATUS: Finalizado | Incompleto
 		</info>
 	</channel>
-
+<!--DRAGONS DOGMA-->
 	<channel>
 		<name>[B]DRAGONS DOGMA[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0128.webp</thumbnail>
@@ -1482,7 +1495,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
-
+<!--DOROHEDORO-->
 	<channel>
 		<name>[B]DOROHEDORO[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0028.webp</thumbnail>
@@ -1495,7 +1508,7 @@ TEMPORADAS: 1
 STATUS: Renovado
 		</info>
 	</channel>
-
+<!--DECA-DENCE-->
 	<channel>
 		<name>[B]DECA-DENCE[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0228.webp</thumbnail>
@@ -1508,7 +1521,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
-
+<!--DEEP INSANITY: THE LOST CHILD-->
 	<channel>
 		<name>[B]DEEP INSANITY: THE LOST CHILD[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0227.webp</thumbnail>
@@ -1521,7 +1534,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
-
+<!--DIÁRIO DO FUTURO-->
 	<channel>
 		<name>[B]DIÁRIO DO FUTURO[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0233.webp</thumbnail>
@@ -1534,7 +1547,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
-
+<!--DOTA: DRAGONS BLOOD-->
 	<channel>
 		<name>[B]DOTA: DRAGONS BLOOD[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0156.webp</thumbnail>
@@ -1547,7 +1560,7 @@ TEMPORADAS: 3
 STATUS: Finalizado
 		</info>
 	</channel>
-
+<!--DRAGON QUEST: THE ADVENTURE OF DAI-->
 	<channel>
 		<name>[B]DRAGON QUEST: THE ADVENTURE OF DAI[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0141.webp</thumbnail>
@@ -1560,7 +1573,7 @@ TEMPORADAS: 1
 STATUS: Finalizado | Incompleto
 		</info>
 	</channel>
-
+<!--DARLING IN THE FRANXX-->
 	<channel>
 		<name>[B]DARLING IN THE FRANXX[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0105.webp</thumbnail>
@@ -1573,7 +1586,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
-
+<!--DRAGON AGE: ABSOLVIÇÃO-->
 	<channel>
 		<name>[B]DRAGON AGE: ABSOLVIÇÃO[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0248.webp</thumbnail>
@@ -1586,7 +1599,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
-
+<!--EDENS ZERO-->
 	<channel>
 		<name>[B]EDENS ZERO[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0031.webp</thumbnail>
@@ -1599,7 +1612,7 @@ TEMPORADAS: 1
 STATUS: Finalizado | Incompleto
 		</info>
 	</channel>
-
+<!--EFEITO CINDERELA-->
 	<channel>
 		<name>[B]EFEITO CINDERELA[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0047.webp</thumbnail>
@@ -1612,7 +1625,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
-
+<!--FAIRY TAIL-->
 	<channel>
 		<name>[B]FAIRY TAIL[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0073.webp</thumbnail>
@@ -1625,7 +1638,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
-
+<!--FATE/EXTRA LAST ENCORE-->
 	<channel>
 		<name>[B]FATE/EXTRA LAST ENCORE[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0104.webp</thumbnail>
@@ -1638,7 +1651,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
-
+<!--FULLMETAL ALCHEMIST: BROTHERHOOD-->
 	<channel>
 		<name>[B]FULLMETAL ALCHEMIST: BROTHERHOOD[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0144.webp</thumbnail>
@@ -1651,7 +1664,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
-
+<!--FATE STAY NIGHT-->
 	<channel>
 		<name>[B]FATE STAY NIGHT[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0021.webp</thumbnail>
@@ -1664,7 +1677,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
-
+<!--GOLDEN BOY-->
 	<channel>
 		<name>[B]GOLDEN BOY[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0090.webp</thumbnail>
@@ -1677,7 +1690,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
-
+<!--GIANT KILLING-->
 	<channel>
 		<name>[B]GIANT KILLING[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0063.webp</thumbnail>
@@ -1690,7 +1703,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
-
+<!--GOBLIN SLAYER-->
 	<channel>
 		<name>[B]GOBLIN SLAYER[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0117.webp</thumbnail>
@@ -1703,7 +1716,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
-
+<!--GTO: THE ANIMATION-->
 	<channel>
 		<name>[B]GTO: THE ANIMATION[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0148.webp</thumbnail>
@@ -2611,19 +2624,6 @@ STATUS: Renovado
 ANO: 2022
 TEMPORADAS: 1
 STATUS: Finalizado | Incompleto
-		</info>
-	</channel>
-
-	<channel>
-		<name>[B]OVERLORD[/B]</name>
-		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0149.webp</thumbnail>
-		<externallink>https://raw.githubusercontent.com/icefenixfire/X/main/A/A0149</externallink>
-		<genre>Ação | Fantasia | Aventura</genre>
-		<info>[COLOR red][B]● Classificação Indicativa +16[/B][/COLOR]
-ÁUDIO: Português
-ANO: 2015 - 2022
-TEMPORADAS: 4
-STATUS: Finalizado
 		</info>
 	</channel>
 
