@@ -1,5 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <items>
-<item><title>[B]Kabaneri da Fortaleza de Ferro: A Batalha de Unato - Parte 01[/B]</title><thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0034.webp</thumbnail><fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0034_fanart.webp</fanart><genre></genre><info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]</info><link>https://archive.org/download/AA0000/A0034_Part_1.mkv</link></item>
-<item><title>[B]Kabaneri da Fortaleza de Ferro: A Batalha de Unato - Parte 02[/B]</title><thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0034.webp</thumbnail><fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0034_fanart.webp</fanart><genre></genre><info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]</info><link>https://archive.org/download/AA0000/A0034_Part_2.mkv</link></item>
-<item><title>[B]Kabaneri da Fortaleza de Ferro: A Batalha de Unato - Parte 03[/B]</title><thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0034.webp</thumbnail><fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0034_fanart.webp</fanart><genre></genre><info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]</info><link>https://archive.org/download/AA0000/A0034_Part_3.mkv</link></item>
+	<item>
+		<title>[B]Kabaneri da Fortaleza de Ferro: A Batalha de Unato - Parte 01[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0034.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0034_fanart.webp</fanart>
+		<genre>Ação | Drama | Ficção</genre>
+		<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2019
+TEMPORADA: 1
+EPISÓDIO: 01
+		</info>
+		<link>https://archive.org/download/AA0000/A0034_Part_1.mkv</link>
+	</item>
+	<item>
+		<title>[B]Kabaneri da Fortaleza de Ferro: A Batalha de Unato - Parte 02[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0034.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0034_fanart.webp</fanart>
+		<genre>Ação | Drama | Ficção</genre>
+		<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2019
+TEMPORADA: 1
+EPISÓDIO: 02
+		</info>
+		<link>https://archive.org/download/AA0000/A0034_Part_2.mkv</link>
+	</item>
+	<item>
+		<title>[B]Kabaneri da Fortaleza de Ferro: A Batalha de Unato - Parte 03[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0034.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0034_fanart.webp</fanart>
+		<genre>Ação | Drama | Ficção</genre>
+		<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2019
+TEMPORADA: 1
+EPISÓDIO: 03
+		</info>
+		<link>https://archive.org/download/AA0000/A0034_Part_3.mkv</link>
+	</item>
 </items>
