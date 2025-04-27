@@ -296,7 +296,7 @@ EPISÓDIO: 10
 ÁUDIO: Português
 ANO: 2024
 TEMPORADA: 2
-EPISÓDIO: 10
+EPISÓDIO: 11
 		</info>
 		<link>plugin://plugin.loopplay/?action=play&item_id=1CGIs19c8BtZ3HZ0cMmHUEsGGiQfO_yrr&item_driveid=13317096135560461908&driveid=17776824897305541588&content_type=video</link>
 	</item>
@@ -309,8 +309,21 @@ EPISÓDIO: 10
 ÁUDIO: Português
 ANO: 2024
 TEMPORADA: 2
-EPISÓDIO: 10
+EPISÓDIO: 12
 		</info>
 		<link>plugin://plugin.loopplay/?action=play&item_id=16NODw0kJ_bs7VyKiyxpAzqcIpH9QdRQh&item_driveid=13317096135560461908&driveid=17776824897305541588&content_type=video</link>
+	</item>
+	<item>
+		<title>[COLOR lime][B]Solo Leveling: T2 - Episódio 13[/B][/COLOR]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0270.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0270_fanart.webp</fanart>
+		<genre>Ação | Fantasia</genre>
+		<info>[COLOR red][B]● Classificação +16[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2024
+TEMPORADA: 2
+EPISÓDIO: 13
+		</info>
+		<link>plugin://plugin.loopplay/?action=play&item_id=1JlJ0RTFX3MCBeCYvhiG_XkZEOJW8Rj5r&item_driveid=13317096135560461908&driveid=17776824897305541588&content_type=video</link>
 	</item>
 </items>
