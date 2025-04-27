@@ -1,15 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <items>
-<item><title>[B]Ikkitousen: Episódio 01[/B]</title><thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0263.webp</thumbnail><fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0263_fanart.webp</fanart><genre>Dublado</genre><info>[COLOR crimson][B]● Classificação +18[/B][/COLOR]</info><link>https://archive.org/download/A00000/A0263_E01.mkv</link></item>
-<item><title>[B]Ikkitousen: Episódio 02[/B]</title><thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0263.webp</thumbnail><fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0263_fanart.webp</fanart><genre>Dublado</genre><info>[COLOR crimson][B]● Classificação +18[/B][/COLOR]</info><link>https://archive.org/download/A00000/A0263_E02.mkv</link></item>
-<item><title>[B]Ikkitousen: Episódio 03[/B]</title><thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0263.webp</thumbnail><fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0263_fanart.webp</fanart><genre>Dublado</genre><info>[COLOR crimson][B]● Classificação +18[/B][/COLOR]</info><link>https://archive.org/download/A00000/A0263_E03.mkv</link></item>
-<item><title>[B]Ikkitousen: Episódio 04[/B]</title><thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0263.webp</thumbnail><fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0263_fanart.webp</fanart><genre>Dublado</genre><info>[COLOR crimson][B]● Classificação +18[/B][/COLOR]</info><link>https://archive.org/download/A00000/A0263_E04.mkv</link></item>
-<item><title>[B]Ikkitousen: Episódio 05[/B]</title><thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0263.webp</thumbnail><fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0263_fanart.webp</fanart><genre>Dublado</genre><info>[COLOR crimson][B]● Classificação +18[/B][/COLOR]</info><link>https://archive.org/download/A00000/A0263_E05.mkv</link></item>
-<item><title>[B]Ikkitousen: Episódio 06[/B]</title><thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0263.webp</thumbnail><fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0263_fanart.webp</fanart><genre>Dublado</genre><info>[COLOR crimson][B]● Classificação +18[/B][/COLOR]</info><link>https://archive.org/download/A00000/A0263_E06.mkv</link></item>
-<item><title>[B]Ikkitousen: Episódio 07[/B]</title><thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0263.webp</thumbnail><fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0263_fanart.webp</fanart><genre>Dublado</genre><info>[COLOR crimson][B]● Classificação +18[/B][/COLOR]</info><link>https://archive.org/download/A00000/A0263_E07.mkv</link></item>
-<item><title>[B]Ikkitousen: Episódio 08[/B]</title><thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0263.webp</thumbnail><fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0263_fanart.webp</fanart><genre>Dublado</genre><info>[COLOR crimson][B]● Classificação +18[/B][/COLOR]</info><link>https://archive.org/download/A00000/A0263_E08.mkv</link></item>
-<item><title>[B]Ikkitousen: Episódio 09[/B]</title><thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0263.webp</thumbnail><fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0263_fanart.webp</fanart><genre>Dublado</genre><info>[COLOR crimson][B]● Classificação +18[/B][/COLOR]</info><link>https://archive.org/download/A00000/A0263_E09.mkv</link></item>
-<item><title>[B]Ikkitousen: Episódio 10[/B]</title><thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0263.webp</thumbnail><fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0263_fanart.webp</fanart><genre>Dublado</genre><info>[COLOR crimson][B]● Classificação +18[/B][/COLOR]</info><link>https://archive.org/download/A00000/A0263_E10.mkv</link></item>
-<item><title>[B]Ikkitousen: Episódio 11[/B]</title><thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0263.webp</thumbnail><fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0263_fanart.webp</fanart><genre>Dublado</genre><info>[COLOR crimson][B]● Classificação +18[/B][/COLOR]</info><link>https://archive.org/download/A00000/A0263_E11.mkv</link></item>
-<item><title>[B]Ikkitousen: Episódio 12[/B]</title><thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0263.webp</thumbnail><fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0263_fanart.webp</fanart><genre>Dublado</genre><info>[COLOR crimson][B]● Classificação +18[/B][/COLOR]</info><link>https://archive.org/download/A00000/A0263_E12.mkv</link></item>
-<item><title>[B]Ikkitousen: Episódio 13[/B]</title><thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0263.webp</thumbnail><fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0263_fanart.webp</fanart><genre>Dublado</genre><info>[COLOR crimson][B]● Classificação +18[/B][/COLOR]</info><link>https://archive.org/download/A00000/A0263_E13.mkv</link></item>
+	<item>
+		<title>[B]Ikki Tousen: Episódio 01[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0263.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0263_fanart.webp</fanart>
+		<genre>Ação</genre>
+		<info>[COLOR crimson][B]● Classificação +18[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2003
+TEMPORADA: 1
+EPISÓDIO: 01
+		</info>
+		<link>https://archive.org/download/A00000/A0263_E01.mkv</link>
+	</item>
+	<item>
+		<title>[B]Ikki Tousen: Episódio 02[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0263.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0263_fanart.webp</fanart>
+		<genre>Ação</genre>
+		<info>[COLOR crimson][B]● Classificação +18[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2003
+TEMPORADA: 1
+EPISÓDIO: 02
+		</info>
+		<link>https://archive.org/download/A00000/A0263_E02.mkv</link>
+	</item>
+	<item>
+		<title>[B]Ikki Tousen: Episódio 03[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0263.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0263_fanart.webp</fanart>
+		<genre>Ação</genre>
+		<info>[COLOR crimson][B]● Classificação +18[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2003
+TEMPORADA: 1
+EPISÓDIO: 03
+		</info>
+		<link>https://archive.org/download/A00000/A0263_E03.mkv</link>
+	</item>
+	<item>
+		<title>[B]Ikki Tousen: Episódio 04[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0263.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0263_fanart.webp</fanart>
+		<genre>Ação</genre>
+		<info>[COLOR crimson][B]● Classificação +18[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2003
+TEMPORADA: 1
+EPISÓDIO: 04
+		</info>
+		<link>https://archive.org/download/A00000/A0263_E04.mkv</link>
+	</item>
+	<item>
+		<title>[B]Ikki Tousen: Episódio 05[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0263.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0263_fanart.webp</fanart>
+		<genre>Ação</genre>
+		<info>[COLOR crimson][B]● Classificação +18[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2003
+TEMPORADA: 1
+EPISÓDIO: 05
+		</info>
+		<link>https://archive.org/download/A00000/A0263_E05.mkv</link>
+	</item>
+	<item>
+		<title>[B]Ikki Tousen: Episódio 06[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0263.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0263_fanart.webp</fanart>
+		<genre>Ação</genre>
+		<info>[COLOR crimson][B]● Classificação +18[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2003
+TEMPORADA: 1
+EPISÓDIO: 06
+		</info>
+		<link>https://archive.org/download/A00000/A0263_E06.mkv</link>
+	</item>
+	<item>
+		<title>[B]Ikki Tousen: Episódio 07[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0263.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0263_fanart.webp</fanart>
+		<genre>Ação</genre>
+		<info>[COLOR crimson][B]● Classificação +18[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2003
+TEMPORADA: 1
+EPISÓDIO: 07
+		</info>
+		<link>https://archive.org/download/A00000/A0263_E07.mkv</link>
+	</item>
+	<item>
+		<title>[B]Ikki Tousen: Episódio 08[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0263.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0263_fanart.webp</fanart>
+		<genre>Ação</genre>
+		<info>[COLOR crimson][B]● Classificação +18[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2003
+TEMPORADA: 1
+EPISÓDIO: 08
+		</info>
+		<link>https://archive.org/download/A00000/A0263_E08.mkv</link>
+	</item>
+	<item>
+		<title>[B]Ikki Tousen: Episódio 09[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0263.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0263_fanart.webp</fanart>
+		<genre>Ação</genre>
+		<info>[COLOR crimson][B]● Classificação +18[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2003
+TEMPORADA: 1
+EPISÓDIO: 09
+		</info>
+		<link>https://archive.org/download/A00000/A0263_E09.mkv</link>
+	</item>
+	<item>
+		<title>[B]Ikki Tousen: Episódio 10[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0263.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0263_fanart.webp</fanart>
+		<genre>Ação</genre>
+		<info>[COLOR crimson][B]● Classificação +18[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2003
+TEMPORADA: 1
+EPISÓDIO: 10
+		</info>
+		<link>https://archive.org/download/A00000/A0263_E10.mkv</link>
+	</item>
+	<item>
+		<title>[B]Ikki Tousen: Episódio 11[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0263.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0263_fanart.webp</fanart>
+		<genre>Ação</genre>
+		<info>[COLOR crimson][B]● Classificação +18[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2003
+TEMPORADA: 1
+EPISÓDIO: 11
+		</info>
+		<link>https://archive.org/download/A00000/A0263_E11.mkv</link>
+	</item>
+	<item>
+		<title>[B]Ikki Tousen: Episódio 12[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0263.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0263_fanart.webp</fanart>
+		<genre>Ação</genre>
+		<info>[COLOR crimson][B]● Classificação +18[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2003
+TEMPORADA: 1
+EPISÓDIO: 12
+		</info>
+		<link>https://archive.org/download/A00000/A0263_E12.mkv</link>
+	</item>
+	<item>
+		<title>[B]Ikki Tousen: Episódio 13[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0263.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0263_fanart.webp</fanart>
+		<genre>Ação</genre>
+		<info>[COLOR crimson][B]● Classificação +18[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2003
+TEMPORADA: 1
+EPISÓDIO: 13
+		</info>
+		<link>https://archive.org/download/A00000/A0263_E13.mkv</link>
+	</item>
 </items>
