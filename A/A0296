@@ -10,7 +10,7 @@
 ANO: 2025
 TEMPORADA: 1
 EPISÓDIO: 01</info>
-		<link>plugin://plugin.loopplay/?action=play&item_id=1cU0-WfO5LFfo4Ag7YVxy4edo8jGz48gz&item_driveid=13317096135560461908&driveid=17776824897305541588&content_type=video</link>
+		<link>https://archive.org/download/AA0000/A0296_T1_E01.mkv</link>
 	</item>
 	<item>
 		<title>[B]De Caipira a Mestre...: T1 - Episódio 02[/B]</title>
@@ -22,6 +22,6 @@ EPISÓDIO: 01</info>
 ANO: 2025
 TEMPORADA: 1
 EPISÓDIO: 02</info>
-		<link>plugin://plugin.loopplay/?action=play&item_id=1MLj_HsSKEJMGAtqxPFomv797KMRRo6h6&item_driveid=13317096135560461908&driveid=17776824897305541588&content_type=video</link>
+		<link>https://archive.org/download/A000000/A0296_T1_E02.mkv</link>
 	</item>
 </items>
