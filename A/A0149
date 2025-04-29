@@ -1,718 +1,773 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <items>
-<item>
-<title>[B]Overlord: T1 - Episódio 01[/B]</title>
-<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0149.webp</thumbnail>
-<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0149_fanart.webp</fanart>
-<genre>Ação | Fantasia | Aventura</genre>
-<info>[COLOR red][B]● Classificação Indicativa +16[/B][/COLOR]
+	<item>
+		<title>[B]Overlord: T1 - Episódio 01[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0149.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0149_fanart.webp</fanart>
+		<genre>Ação | Fantasia | Aventura</genre>
+		<info>[COLOR red][B]● Classificação Indicativa +16[/B][/COLOR]
 ÁUDIO: Português
 ANO: 2015 - 2022
 TEMPORADA: 1
 EPISÓDIO: 01
-STATUS: Finalizado</info>
-<link>plugin://plugin.loopplay/?action=play&item_id=1jX_o9H297YjCu-61USeCKYNDwMVtCVVu&item_driveid=13317096135560461908&driveid=17776824897305541588&content_type=video</link>
-</item>
-<item>
-<title>[B]Overlord: T1 - Episódio 02[/B]</title>
-<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0149.webp</thumbnail>
-<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0149_fanart.webp</fanart>
-<genre>Ação | Fantasia | Aventura</genre>
-<info>[COLOR red][B]● Classificação Indicativa +16[/B][/COLOR]
+STATUS: Finalizado
+		</info>
+		<link>plugin://plugin.loopplay/?action=play&item_id=1jX_o9H297YjCu-61USeCKYNDwMVtCVVu&item_driveid=13317096135560461908&driveid=17776824897305541588&content_type=video</link>
+	</item>
+	<item>
+		<title>[B]Overlord: T1 - Episódio 02[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0149.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0149_fanart.webp</fanart>
+		<genre>Ação | Fantasia | Aventura</genre>
+		<info>[COLOR red][B]● Classificação Indicativa +16[/B][/COLOR]
 ÁUDIO: Português
 ANO: 2015 - 2022
 TEMPORADA: 1
 EPISÓDIO: 02
-STATUS: Finalizado</info>
-<link>plugin://plugin.loopplay/?action=play&item_id=1mc9slmaEZGgflmGSMBAfYCynaZWQqxv7&item_driveid=13317096135560461908&driveid=17776824897305541588&content_type=video</link>
-</item>
-<item>
-<title>[B]Overlord: T1 - Episódio 03[/B]</title>
-<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0149.webp</thumbnail>
-<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0149_fanart.webp</fanart>
-<genre>Ação | Fantasia | Aventura</genre>
-<info>[COLOR red][B]● Classificação Indicativa +16[/B][/COLOR]
+STATUS: Finalizado
+		</info>
+		<link>plugin://plugin.loopplay/?action=play&item_id=1mc9slmaEZGgflmGSMBAfYCynaZWQqxv7&item_driveid=13317096135560461908&driveid=17776824897305541588&content_type=video</link>
+	</item>
+	<item>
+		<title>[B]Overlord: T1 - Episódio 03[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0149.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0149_fanart.webp</fanart>
+		<genre>Ação | Fantasia | Aventura</genre>
+		<info>[COLOR red][B]● Classificação Indicativa +16[/B][/COLOR]
 ÁUDIO: Português
 ANO: 2015 - 2022
 TEMPORADA: 1
 EPISÓDIO: 03
-STATUS: Finalizado</info>
-<link>plugin://plugin.loopplay/?action=play&item_id=1b3ran9Oe40g5aO6YFXyveUbgW4p2bmQ6&item_driveid=13317096135560461908&driveid=17776824897305541588&content_type=video</link>
-</item>
-<item>
-<title>[B]Overlord: T1 - Episódio 04[/B]</title>
-<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0149.webp</thumbnail>
-<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0149_fanart.webp</fanart>
-<genre>Ação | Fantasia | Aventura</genre>
-<info>[COLOR red][B]● Classificação Indicativa +16[/B][/COLOR]
+STATUS: Finalizado
+		</info>
+		<link>plugin://plugin.loopplay/?action=play&item_id=1b3ran9Oe40g5aO6YFXyveUbgW4p2bmQ6&item_driveid=13317096135560461908&driveid=17776824897305541588&content_type=video</link>
+	</item>
+	<item>
+		<title>[B]Overlord: T1 - Episódio 04[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0149.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0149_fanart.webp</fanart>
+		<genre>Ação | Fantasia | Aventura</genre>
+		<info>[COLOR red][B]● Classificação Indicativa +16[/B][/COLOR]
 ÁUDIO: Português
 ANO: 2015 - 2022
 TEMPORADA: 1
 EPISÓDIO: 04
-STATUS: Finalizado</info>
-<link>plugin://plugin.loopplay/?action=play&item_id=10YNvbRN6PuMl6zzUub0FeTrUnTjtVl_z&item_driveid=13317096135560461908&driveid=17776824897305541588&content_type=video</link>
-</item>
-<item>
-<title>[B]Overlord: T1 - Episódio 05[/B]</title>
-<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0149.webp</thumbnail>
-<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0149_fanart.webp</fanart>
-<genre>Ação | Fantasia | Aventura</genre>
-<info>[COLOR red][B]● Classificação Indicativa +16[/B][/COLOR]
+STATUS: Finalizado
+		</info>
+		<link>plugin://plugin.loopplay/?action=play&item_id=10YNvbRN6PuMl6zzUub0FeTrUnTjtVl_z&item_driveid=13317096135560461908&driveid=17776824897305541588&content_type=video</link>
+	</item>
+	<item>
+		<title>[B]Overlord: T1 - Episódio 05[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0149.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0149_fanart.webp</fanart>
+		<genre>Ação | Fantasia | Aventura</genre>
+		<info>[COLOR red][B]● Classificação Indicativa +16[/B][/COLOR]
 ÁUDIO: Português
 ANO: 2015 - 2022
 TEMPORADA: 1
 EPISÓDIO: 05
-STATUS: Finalizado</info>
-<link>plugin://plugin.loopplay/?action=play&item_id=1OTzRtDrubaRMk7NkoSBDTx4xOhLo1O1M&item_driveid=13317096135560461908&driveid=17776824897305541588&content_type=video</link>
-</item>
-<item>
-<title>[B]Overlord: T1 - Episódio 06[/B]</title>
-<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0149.webp</thumbnail>
-<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0149_fanart.webp</fanart>
-<genre>Ação | Fantasia | Aventura</genre>
-<info>[COLOR red][B]● Classificação Indicativa +16[/B][/COLOR]
+STATUS: Finalizado
+		</info>
+		<link>plugin://plugin.loopplay/?action=play&item_id=1OTzRtDrubaRMk7NkoSBDTx4xOhLo1O1M&item_driveid=13317096135560461908&driveid=17776824897305541588&content_type=video</link>
+	</item>
+	<item>
+		<title>[B]Overlord: T1 - Episódio 06[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0149.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0149_fanart.webp</fanart>
+		<genre>Ação | Fantasia | Aventura</genre>
+		<info>[COLOR red][B]● Classificação Indicativa +16[/B][/COLOR]
 ÁUDIO: Português
 ANO: 2015 - 2022
 TEMPORADA: 1
 EPISÓDIO: 06
-STATUS: Finalizado</info>
-<link>plugin://plugin.loopplay/?action=play&item_id=1y6fQb4Do_rEjSZSIMTAXUSTBqYYq9Ocf&item_driveid=13317096135560461908&driveid=17776824897305541588&content_type=video</link>
-</item>
-<item>
-<title>[B]Overlord: T1 - Episódio 07[/B]</title>
-<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0149.webp</thumbnail>
-<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0149_fanart.webp</fanart>
-<genre>Ação | Fantasia | Aventura</genre>
-<info>[COLOR red][B]● Classificação Indicativa +16[/B][/COLOR]
+STATUS: Finalizado
+		</info>
+		<link>plugin://plugin.loopplay/?action=play&item_id=1y6fQb4Do_rEjSZSIMTAXUSTBqYYq9Ocf&item_driveid=13317096135560461908&driveid=17776824897305541588&content_type=video</link>
+	</item>
+	<item>
+		<title>[B]Overlord: T1 - Episódio 07[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0149.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0149_fanart.webp</fanart>
+		<genre>Ação | Fantasia | Aventura</genre>
+		<info>[COLOR red][B]● Classificação Indicativa +16[/B][/COLOR]
 ÁUDIO: Português
 ANO: 2015 - 2022
 TEMPORADA: 1
 EPISÓDIO: 07
-STATUS: Finalizado</info>
-<link>plugin://plugin.loopplay/?action=play&item_id=1ZO8w2iTrojVNaKpQhMo5uqRvW3_66nWd&item_driveid=13317096135560461908&driveid=17776824897305541588&content_type=video</link>
-</item>
-<item>
-<title>[B]Overlord: T1 - Episódio 08[/B]</title>
-<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0149.webp</thumbnail>
-<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0149_fanart.webp</fanart>
-<genre>Ação | Fantasia | Aventura</genre>
-<info>[COLOR red][B]● Classificação Indicativa +16[/B][/COLOR]
+STATUS: Finalizado
+		</info>
+		<link>plugin://plugin.loopplay/?action=play&item_id=1ZO8w2iTrojVNaKpQhMo5uqRvW3_66nWd&item_driveid=13317096135560461908&driveid=17776824897305541588&content_type=video</link>
+	</item>
+	<item>
+		<title>[B]Overlord: T1 - Episódio 08[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0149.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0149_fanart.webp</fanart>
+		<genre>Ação | Fantasia | Aventura</genre>
+		<info>[COLOR red][B]● Classificação Indicativa +16[/B][/COLOR]
 ÁUDIO: Português
 ANO: 2015 - 2022
 TEMPORADA: 1
 EPISÓDIO: 08
-STATUS: Finalizado</info>
-<link>plugin://plugin.loopplay/?action=play&item_id=1eNfhLgxn1IJkvM5tAUGKY8Wwx3zWc5z-&item_driveid=13317096135560461908&driveid=17776824897305541588&content_type=video</link>
-</item>
-<item>
-<title>[B]Overlord: T1 - Episódio 09[/B]</title>
-<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0149.webp</thumbnail>
-<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0149_fanart.webp</fanart>
-<genre>Ação | Fantasia | Aventura</genre>
-<info>[COLOR red][B]● Classificação Indicativa +16[/B][/COLOR]
+STATUS: Finalizado
+		</info>
+		<link>plugin://plugin.loopplay/?action=play&item_id=1eNfhLgxn1IJkvM5tAUGKY8Wwx3zWc5z-&item_driveid=13317096135560461908&driveid=17776824897305541588&content_type=video</link>
+	</item>
+	<item>
+		<title>[B]Overlord: T1 - Episódio 09[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0149.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0149_fanart.webp</fanart>
+		<genre>Ação | Fantasia | Aventura</genre>
+		<info>[COLOR red][B]● Classificação Indicativa +16[/B][/COLOR]
 ÁUDIO: Português
 ANO: 2015 - 2022
 TEMPORADA: 1
 EPISÓDIO: 09
-STATUS: Finalizado</info>
-<link>plugin://plugin.loopplay/?action=play&item_id=1w3EW83n4CKvU_8ApDnQrcCyT9HtKH2wa&item_driveid=13317096135560461908&driveid=17776824897305541588&content_type=video</link>
-</item>
-<item>
-<title>[B]Overlord: T1 - Episódio 10[/B]</title>
-<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0149.webp</thumbnail>
-<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0149_fanart.webp</fanart>
-<genre>Ação | Fantasia | Aventura</genre>
-<info>[COLOR red][B]● Classificação Indicativa +16[/B][/COLOR]
+STATUS: Finalizado
+		</info>
+		<link>plugin://plugin.loopplay/?action=play&item_id=1w3EW83n4CKvU_8ApDnQrcCyT9HtKH2wa&item_driveid=13317096135560461908&driveid=17776824897305541588&content_type=video</link>
+	</item>
+	<item>
+		<title>[B]Overlord: T1 - Episódio 10[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0149.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0149_fanart.webp</fanart>
+		<genre>Ação | Fantasia | Aventura</genre>
+		<info>[COLOR red][B]● Classificação Indicativa +16[/B][/COLOR]
 ÁUDIO: Português
 ANO: 2015 - 2022
 TEMPORADA: 1
 EPISÓDIO: 10
-STATUS: Finalizado</info>
-<link>plugin://plugin.loopplay/?action=play&item_id=1GqyfA-1qU_5ZjO_xU17oq33yzwWgYkEZ&item_driveid=13317096135560461908&driveid=17776824897305541588&content_type=video</link>
-</item>
-<item>
-<title>[B]Overlord: T1 - Episódio 11[/B]</title>
-<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0149.webp</thumbnail>
-<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0149_fanart.webp</fanart>
-<genre>Ação | Fantasia | Aventura</genre>
-<info>[COLOR red][B]● Classificação Indicativa +16[/B][/COLOR]
+STATUS: Finalizado
+		</info>
+		<link>plugin://plugin.loopplay/?action=play&item_id=1GqyfA-1qU_5ZjO_xU17oq33yzwWgYkEZ&item_driveid=13317096135560461908&driveid=17776824897305541588&content_type=video</link>
+	</item>
+	<item>
+		<title>[B]Overlord: T1 - Episódio 11[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0149.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0149_fanart.webp</fanart>
+		<genre>Ação | Fantasia | Aventura</genre>
+		<info>[COLOR red][B]● Classificação Indicativa +16[/B][/COLOR]
 ÁUDIO: Português
 ANO: 2015 - 2022
 TEMPORADA: 1
 EPISÓDIO: 11
-STATUS: Finalizado</info>
-<link>plugin://plugin.loopplay/?action=play&item_id=1zCTT8Ik139SEc8iEyRE_ClDgFN8nq1Wk&item_driveid=13317096135560461908&driveid=17776824897305541588&content_type=video</link>
-</item>
-<item>
-<title>[B]Overlord: T1 - Episódio 12[/B]</title>
-<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0149.webp</thumbnail>
-<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0149_fanart.webp</fanart>
-<genre>Ação | Fantasia | Aventura</genre>
-<info>[COLOR red][B]● Classificação Indicativa +16[/B][/COLOR]
+STATUS: Finalizado
+		</info>
+		<link>plugin://plugin.loopplay/?action=play&item_id=1zCTT8Ik139SEc8iEyRE_ClDgFN8nq1Wk&item_driveid=13317096135560461908&driveid=17776824897305541588&content_type=video</link>
+	</item>
+	<item>
+		<title>[B]Overlord: T1 - Episódio 12[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0149.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0149_fanart.webp</fanart>
+		<genre>Ação | Fantasia | Aventura</genre>
+		<info>[COLOR red][B]● Classificação Indicativa +16[/B][/COLOR]
 ÁUDIO: Português
 ANO: 2015 - 2022
 TEMPORADA: 1
 EPISÓDIO: 12
-STATUS: Finalizado</info>
-<link>plugin://plugin.loopplay/?action=play&item_id=1-XVk96zDC3OfTZKEta92V8GBD2RH5Jya&item_driveid=13317096135560461908&driveid=17776824897305541588&content_type=video</link>
-</item>
-<item>
-<title>[B]Overlord: T1 - Episódio 13[/B]</title>
-<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0149.webp</thumbnail>
-<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0149_fanart.webp</fanart>
-<genre>Ação | Fantasia | Aventura</genre>
-<info>[COLOR red][B]● Classificação Indicativa +16[/B][/COLOR]
+STATUS: Finalizado
+		</info>
+		<link>plugin://plugin.loopplay/?action=play&item_id=1-XVk96zDC3OfTZKEta92V8GBD2RH5Jya&item_driveid=13317096135560461908&driveid=17776824897305541588&content_type=video</link>
+	</item>
+	<item>
+		<title>[B]Overlord: T1 - Episódio 13[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0149.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0149_fanart.webp</fanart>
+		<genre>Ação | Fantasia | Aventura</genre>
+		<info>[COLOR red][B]● Classificação Indicativa +16[/B][/COLOR]
 ÁUDIO: Português
 ANO: 2015 - 2022
 TEMPORADA: 1
 EPISÓDIO: 13
-STATUS: Finalizado</info>
-<link>plugin://plugin.loopplay/?action=play&item_id=1U71BaOVEriS4lEiCvreIfmO3WhzPAe9q&item_driveid=13317096135560461908&driveid=17776824897305541588&content_type=video</link>
-</item>
+STATUS: Finalizado
+		</info>
+		<link>plugin://plugin.loopplay/?action=play&item_id=1U71BaOVEriS4lEiCvreIfmO3WhzPAe9q&item_driveid=13317096135560461908&driveid=17776824897305541588&content_type=video</link>
+	</item>
 
-<item>
-<title>[COLOR lime][B]Overlord: T2 - Episódio 14[/B][/COLOR]</title>
-<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0149.webp</thumbnail>
-<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0149_fanart.webp</fanart>
-<genre>Ação | Fantasia | Aventura</genre>
-<info>[COLOR red][B]● Classificação Indicativa +16[/B][/COLOR]
+	<item>
+		<title>[COLOR lime][B]Overlord: T2 - Episódio 14[/B][/COLOR]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0149.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0149_fanart.webp</fanart>
+		<genre>Ação | Fantasia | Aventura</genre>
+		<info>[COLOR red][B]● Classificação Indicativa +16[/B][/COLOR]
 ÁUDIO: Português
 ANO: 2015 - 2022
 TEMPORADA: 2
 EPISÓDIO: 14
-STATUS: Finalizado</info>
-<link>plugin://plugin.loopplay/?action=play&item_id=1czTUh3znk0vTFpvpgQfSByzapug8Duze&item_driveid=13317096135560461908&driveid=17776824897305541588&content_type=video</link>
-</item>
-<item>
-<title>[COLOR lime][B]Overlord: T2 - Episódio 15[/B][/COLOR]</title>
-<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0149.webp</thumbnail>
-<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0149_fanart.webp</fanart>
-<genre>Ação | Fantasia | Aventura</genre>
-<info>[COLOR red][B]● Classificação Indicativa +16[/B][/COLOR]
+STATUS: Finalizado
+		</info>
+		<link>plugin://plugin.loopplay/?action=play&item_id=1czTUh3znk0vTFpvpgQfSByzapug8Duze&item_driveid=13317096135560461908&driveid=17776824897305541588&content_type=video</link>
+	</item>
+	<item>
+		<title>[COLOR lime][B]Overlord: T2 - Episódio 15[/B][/COLOR]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0149.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0149_fanart.webp</fanart>
+		<genre>Ação | Fantasia | Aventura</genre>
+		<info>[COLOR red][B]● Classificação Indicativa +16[/B][/COLOR]
 ÁUDIO: Português
 ANO: 2015 - 2022
 TEMPORADA: 2
 EPISÓDIO: 15
-STATUS: Finalizado</info>
-<link>plugin://plugin.loopplay/?action=play&item_id=1Aw_LIDrvI4V-_mZmu9t-mTJkTTksi0YR&item_driveid=13317096135560461908&driveid=17776824897305541588&content_type=video</link>
-</item>
-<item>
-<title>[COLOR lime][B]Overlord: T2 - Episódio 16[/B][/COLOR]</title>
-<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0149.webp</thumbnail>
-<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0149_fanart.webp</fanart>
-<genre>Ação | Fantasia | Aventura</genre>
-<info>[COLOR red][B]● Classificação Indicativa +16[/B][/COLOR]
+STATUS: Finalizado
+		</info>
+		<link>plugin://plugin.loopplay/?action=play&item_id=1Aw_LIDrvI4V-_mZmu9t-mTJkTTksi0YR&item_driveid=13317096135560461908&driveid=17776824897305541588&content_type=video</link>
+	</item>
+	<item>
+		<title>[COLOR lime][B]Overlord: T2 - Episódio 16[/B][/COLOR]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0149.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0149_fanart.webp</fanart>
+		<genre>Ação | Fantasia | Aventura</genre>
+		<info>[COLOR red][B]● Classificação Indicativa +16[/B][/COLOR]
 ÁUDIO: Português
 ANO: 2015 - 2022
 TEMPORADA: 2
 EPISÓDIO: 16
-STATUS: Finalizado</info>
-<link>plugin://plugin.loopplay/?action=play&item_id=1RixJt5c1bNgGSIWdg32ohAOi_lCa2c6t&item_driveid=13317096135560461908&driveid=17776824897305541588&content_type=video</link>
-</item>
-<item>
-<title>[COLOR lime][B]Overlord: T2 - Episódio 17[/B][/COLOR]</title>
-<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0149.webp</thumbnail>
-<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0149_fanart.webp</fanart>
-<genre>Ação | Fantasia | Aventura</genre>
-<info>[COLOR red][B]● Classificação Indicativa +16[/B][/COLOR]
+STATUS: Finalizado
+		</info>
+		<link>plugin://plugin.loopplay/?action=play&item_id=1RixJt5c1bNgGSIWdg32ohAOi_lCa2c6t&item_driveid=13317096135560461908&driveid=17776824897305541588&content_type=video</link>
+	</item>
+	<item>
+		<title>[COLOR lime][B]Overlord: T2 - Episódio 17[/B][/COLOR]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0149.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0149_fanart.webp</fanart>
+		<genre>Ação | Fantasia | Aventura</genre>
+		<info>[COLOR red][B]● Classificação Indicativa +16[/B][/COLOR]
 ÁUDIO: Português
 ANO: 2015 - 2022
 TEMPORADA: 2
 EPISÓDIO: 17
-STATUS: Finalizado</info>
-<link>plugin://plugin.loopplay/?action=play&item_id=1xwFPo4gwH_NoK69_c5V-fYadcymcyF1P&item_driveid=13317096135560461908&driveid=17776824897305541588&content_type=video</link>
-</item>
-<item>
-<title>[COLOR lime][B]Overlord: T2 - Episódio 18[/B][/COLOR]</title>
-<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0149.webp</thumbnail>
-<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0149_fanart.webp</fanart>
-<genre>Ação | Fantasia | Aventura</genre>
-<info>[COLOR red][B]● Classificação Indicativa +16[/B][/COLOR]
+STATUS: Finalizado
+		</info>
+		<link>plugin://plugin.loopplay/?action=play&item_id=1xwFPo4gwH_NoK69_c5V-fYadcymcyF1P&item_driveid=13317096135560461908&driveid=17776824897305541588&content_type=video</link>
+	</item>
+	<item>
+		<title>[COLOR lime][B]Overlord: T2 - Episódio 18[/B][/COLOR]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0149.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0149_fanart.webp</fanart>
+		<genre>Ação | Fantasia | Aventura</genre>
+		<info>[COLOR red][B]● Classificação Indicativa +16[/B][/COLOR]
 ÁUDIO: Português
 ANO: 2015 - 2022
 TEMPORADA: 2
 EPISÓDIO: 18
-STATUS: Finalizado</info>
-<link>plugin://plugin.loopplay/?action=play&item_id=17zZFraUZrp6wo2q3Svh6WI7Tj97YWlpU&item_driveid=13317096135560461908&driveid=17776824897305541588&content_type=video</link>
-</item>
-<item>
-<title>[COLOR lime][B]Overlord: T2 - Episódio 19[/B][/COLOR]</title>
-<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0149.webp</thumbnail>
-<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0149_fanart.webp</fanart>
-<genre>Ação | Fantasia | Aventura</genre>
-<info>[COLOR red][B]● Classificação Indicativa +16[/B][/COLOR]
+STATUS: Finalizado
+		</info>
+		<link>plugin://plugin.loopplay/?action=play&item_id=17zZFraUZrp6wo2q3Svh6WI7Tj97YWlpU&item_driveid=13317096135560461908&driveid=17776824897305541588&content_type=video</link>
+	</item>
+	<item>
+		<title>[COLOR lime][B]Overlord: T2 - Episódio 19[/B][/COLOR]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0149.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0149_fanart.webp</fanart>
+		<genre>Ação | Fantasia | Aventura</genre>
+		<info>[COLOR red][B]● Classificação Indicativa +16[/B][/COLOR]
 ÁUDIO: Português
 ANO: 2015 - 2022
 TEMPORADA: 2
 EPISÓDIO: 19
-STATUS: Finalizado</info>
-<link>plugin://plugin.loopplay/?action=play&item_id=15dpEL6mr17-Wbn0-uqU9S1WlSY2kWaqQ&item_driveid=13317096135560461908&driveid=17776824897305541588&content_type=video</link>
-</item>
-<item>
-<title>[COLOR lime][B]Overlord: T2 - Episódio 20[/B][/COLOR]</title>
-<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0149.webp</thumbnail>
-<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0149_fanart.webp</fanart>
-<genre>Ação | Fantasia | Aventura</genre>
-<info>[COLOR red][B]● Classificação Indicativa +16[/B][/COLOR]
+STATUS: Finalizado
+		</info>
+		<link>plugin://plugin.loopplay/?action=play&item_id=15dpEL6mr17-Wbn0-uqU9S1WlSY2kWaqQ&item_driveid=13317096135560461908&driveid=17776824897305541588&content_type=video</link>
+	</item>
+	<item>
+		<title>[COLOR lime][B]Overlord: T2 - Episódio 20[/B][/COLOR]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0149.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0149_fanart.webp</fanart>
+		<genre>Ação | Fantasia | Aventura</genre>
+		<info>[COLOR red][B]● Classificação Indicativa +16[/B][/COLOR]
 ÁUDIO: Português
 ANO: 2015 - 2022
 TEMPORADA: 2
 EPISÓDIO: 20
-STATUS: Finalizado</info>
-<link>plugin://plugin.loopplay/?action=play&item_id=1vLBHPXYJQ9-6hbYNyai9NdzCFSq94zYo&item_driveid=13317096135560461908&driveid=17776824897305541588&content_type=video</link>
-</item>
-<item>
-<title>[COLOR lime][B]Overlord: T2 - Episódio 21[/B][/COLOR]</title>
-<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0149.webp</thumbnail>
-<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0149_fanart.webp</fanart>
-<genre>Ação | Fantasia | Aventura</genre>
-<info>[COLOR red][B]● Classificação Indicativa +16[/B][/COLOR]
+STATUS: Finalizado
+		</info>
+		<link>plugin://plugin.loopplay/?action=play&item_id=1vLBHPXYJQ9-6hbYNyai9NdzCFSq94zYo&item_driveid=13317096135560461908&driveid=17776824897305541588&content_type=video</link>
+	</item>
+	<item>
+		<title>[COLOR lime][B]Overlord: T2 - Episódio 21[/B][/COLOR]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0149.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0149_fanart.webp</fanart>
+		<genre>Ação | Fantasia | Aventura</genre>
+		<info>[COLOR red][B]● Classificação Indicativa +16[/B][/COLOR]
 ÁUDIO: Português
 ANO: 2015 - 2022
 TEMPORADA: 2
 EPISÓDIO: 21
-STATUS: Finalizado</info>
-<link>plugin://plugin.loopplay/?action=play&item_id=1eeQTPZl0S0h0gjeu04FkZBNcOU8LOYa1&item_driveid=13317096135560461908&driveid=17776824897305541588&content_type=video</link>
-</item>
-<item>
-<title>[COLOR lime][B]Overlord: T2 - Episódio 22[/B][/COLOR]</title>
-<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0149.webp</thumbnail>
-<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0149_fanart.webp</fanart>
-<genre>Ação | Fantasia | Aventura</genre>
-<info>[COLOR red][B]● Classificação Indicativa +16[/B][/COLOR]
+STATUS: Finalizado
+		</info>
+		<link>plugin://plugin.loopplay/?action=play&item_id=1eeQTPZl0S0h0gjeu04FkZBNcOU8LOYa1&item_driveid=13317096135560461908&driveid=17776824897305541588&content_type=video</link>
+	</item>
+	<item>
+		<title>[COLOR lime][B]Overlord: T2 - Episódio 22[/B][/COLOR]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0149.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0149_fanart.webp</fanart>
+		<genre>Ação | Fantasia | Aventura</genre>
+		<info>[COLOR red][B]● Classificação Indicativa +16[/B][/COLOR]
 ÁUDIO: Português
 ANO: 2015 - 2022
 TEMPORADA: 2
 EPISÓDIO: 22
-STATUS: Finalizado</info>
-<link>plugin://plugin.loopplay/?action=play&item_id=1RJtg5_Vo3aPKnGj-WgO9ScNkOJJwLsI_&item_driveid=13317096135560461908&driveid=17776824897305541588&content_type=video</link>
-</item>
-<item>
-<title>[COLOR lime][B]Overlord: T2 - Episódio 23[/B][/COLOR]</title>
-<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0149.webp</thumbnail>
-<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0149_fanart.webp</fanart>
-<genre>Ação | Fantasia | Aventura</genre>
-<info>[COLOR red][B]● Classificação Indicativa +16[/B][/COLOR]
+STATUS: Finalizado
+		</info>
+		<link>plugin://plugin.loopplay/?action=play&item_id=1RJtg5_Vo3aPKnGj-WgO9ScNkOJJwLsI_&item_driveid=13317096135560461908&driveid=17776824897305541588&content_type=video</link>
+	</item>
+	<item>
+		<title>[COLOR lime][B]Overlord: T2 - Episódio 23[/B][/COLOR]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0149.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0149_fanart.webp</fanart>
+		<genre>Ação | Fantasia | Aventura</genre>
+		<info>[COLOR red][B]● Classificação Indicativa +16[/B][/COLOR]
 ÁUDIO: Português
 ANO: 2015 - 2022
 TEMPORADA: 2
 EPISÓDIO: 23
-STATUS: Finalizado</info>
-<link>plugin://plugin.loopplay/?action=play&item_id=1-0oXTStFsJ1Hh7wBIcZiDDQUwnS0gErJ&item_driveid=13317096135560461908&driveid=17776824897305541588&content_type=video</link>
-</item>
-<item>
-<title>[COLOR lime][B]Overlord: T2 - Episódio 24[/B][/COLOR]</title>
-<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0149.webp</thumbnail>
-<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0149_fanart.webp</fanart>
-<genre>Ação | Fantasia | Aventura</genre>
-<info>[COLOR red][B]● Classificação Indicativa +16[/B][/COLOR]
+STATUS: Finalizado
+		</info>
+		<link>plugin://plugin.loopplay/?action=play&item_id=1-0oXTStFsJ1Hh7wBIcZiDDQUwnS0gErJ&item_driveid=13317096135560461908&driveid=17776824897305541588&content_type=video</link>
+	</item>
+	<item>
+		<title>[COLOR lime][B]Overlord: T2 - Episódio 24[/B][/COLOR]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0149.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0149_fanart.webp</fanart>
+		<genre>Ação | Fantasia | Aventura</genre>
+		<info>[COLOR red][B]● Classificação Indicativa +16[/B][/COLOR]
 ÁUDIO: Português
 ANO: 2015 - 2022
 TEMPORADA: 2
 EPISÓDIO: 24
-STATUS: Finalizado</info>
-<link>plugin://plugin.loopplay/?action=play&item_id=1LkQgg8n2G32qxEaZtULktB5eQqq8MZG_&item_driveid=13317096135560461908&driveid=17776824897305541588&content_type=video</link>
-</item>
-<item>
-<title>[COLOR lime][B]Overlord: T2 - Episódio 25[/B][/COLOR]</title>
-<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0149.webp</thumbnail>
-<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0149_fanart.webp</fanart>
-<genre>Ação | Fantasia | Aventura</genre>
-<info>[COLOR red][B]● Classificação Indicativa +16[/B][/COLOR]
+STATUS: Finalizado
+		</info>
+		<link>plugin://plugin.loopplay/?action=play&item_id=1LkQgg8n2G32qxEaZtULktB5eQqq8MZG_&item_driveid=13317096135560461908&driveid=17776824897305541588&content_type=video</link>
+	</item>
+	<item>
+		<title>[COLOR lime][B]Overlord: T2 - Episódio 25[/B][/COLOR]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0149.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0149_fanart.webp</fanart>
+		<genre>Ação | Fantasia | Aventura</genre>
+		<info>[COLOR red][B]● Classificação Indicativa +16[/B][/COLOR]
 ÁUDIO: Português
 ANO: 2015 - 2022
 TEMPORADA: 2
 EPISÓDIO: 25
-STATUS: Finalizado</info>
-<link>plugin://plugin.loopplay/?action=play&item_id=1F4HCR5STbNcB2JAwnvUINwTF7WwK2rDc&item_driveid=13317096135560461908&driveid=17776824897305541588&content_type=video</link>
-</item>
-<item>
-<title>[COLOR lime][B]Overlord: T2 - Episódio 26[/B][/COLOR]</title>
-<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0149.webp</thumbnail>
-<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0149_fanart.webp</fanart>
-<genre>Ação | Fantasia | Aventura</genre>
-<info>[COLOR red][B]● Classificação Indicativa +16[/B][/COLOR]
+STATUS: Finalizado
+		</info>
+		<link>plugin://plugin.loopplay/?action=play&item_id=1F4HCR5STbNcB2JAwnvUINwTF7WwK2rDc&item_driveid=13317096135560461908&driveid=17776824897305541588&content_type=video</link>
+	</item>
+	<item>
+		<title>[COLOR lime][B]Overlord: T2 - Episódio 26[/B][/COLOR]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0149.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0149_fanart.webp</fanart>
+		<genre>Ação | Fantasia | Aventura</genre>
+		<info>[COLOR red][B]● Classificação Indicativa +16[/B][/COLOR]
 ÁUDIO: Português
 ANO: 2015 - 2022
 TEMPORADA: 2
 EPISÓDIO: 26
-STATUS: Finalizado</info>
-<link>plugin://plugin.loopplay/?action=play&item_id=13YG2HAIEPQlVPOwsCNvrzI917lPY2FLI&item_driveid=13317096135560461908&driveid=17776824897305541588&content_type=video</link>
-</item>
+STATUS: Finalizado
+		</info>
+		<link>plugin://plugin.loopplay/?action=play&item_id=13YG2HAIEPQlVPOwsCNvrzI917lPY2FLI&item_driveid=13317096135560461908&driveid=17776824897305541588&content_type=video</link>
+	</item>
 
-<item>
-<title>[B]Overlord: T3 - Episódio 27[/B]</title>
-<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0149.webp</thumbnail>
-<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0149_fanart.webp</fanart>
-<genre>Ação | Fantasia | Aventura</genre>
-<info>[COLOR red][B]● Classificação Indicativa +16[/B][/COLOR]
+	<item>
+		<title>[B]Overlord: T3 - Episódio 27[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0149.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0149_fanart.webp</fanart>
+		<genre>Ação | Fantasia | Aventura</genre>
+		<info>[COLOR red][B]● Classificação Indicativa +16[/B][/COLOR]
 ÁUDIO: Português
 ANO: 2015 - 2022
 TEMPORADA: 3
 EPISÓDIO: 27
-STATUS: Finalizado</info>
-<link>plugin://plugin.loopplay/?action=play&item_id=1LJk3UpM85R1ht-tDko6yhPvwlBHn_9j3&item_driveid=13317096135560461908&driveid=17776824897305541588&content_type=video</link>
-</item>
-<item>
-<title>[B]Overlord: T3 - Episódio 28[/B]</title>
-<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0149.webp</thumbnail>
-<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0149_fanart.webp</fanart>
-<genre>Ação | Fantasia | Aventura</genre>
-<info>[COLOR red][B]● Classificação Indicativa +16[/B][/COLOR]
+STATUS: Finalizado
+		</info>
+		<link>plugin://plugin.loopplay/?action=play&item_id=1LJk3UpM85R1ht-tDko6yhPvwlBHn_9j3&item_driveid=13317096135560461908&driveid=17776824897305541588&content_type=video</link>
+	</item>
+	<item>
+		<title>[B]Overlord: T3 - Episódio 28[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0149.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0149_fanart.webp</fanart>
+		<genre>Ação | Fantasia | Aventura</genre>
+		<info>[COLOR red][B]● Classificação Indicativa +16[/B][/COLOR]
 ÁUDIO: Português
 ANO: 2015 - 2022
 TEMPORADA: 3
 EPISÓDIO: 28
-STATUS: Finalizado</info>
-<link>plugin://plugin.loopplay/?action=play&item_id=1dM2Bns7VPwhuphX8yTZ-NFcA2YVOKcPE&item_driveid=13317096135560461908&driveid=17776824897305541588&content_type=video</link>
-</item>
-<item>
-<title>[B]Overlord: T3 - Episódio 29[/B]</title>
-<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0149.webp</thumbnail>
-<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0149_fanart.webp</fanart>
-<genre>Ação | Fantasia | Aventura</genre>
-<info>[COLOR red][B]● Classificação Indicativa +16[/B][/COLOR]
+STATUS: Finalizado
+		</info>
+		<link>plugin://plugin.loopplay/?action=play&item_id=1dM2Bns7VPwhuphX8yTZ-NFcA2YVOKcPE&item_driveid=13317096135560461908&driveid=17776824897305541588&content_type=video</link>
+	</item>
+	<item>
+		<title>[B]Overlord: T3 - Episódio 29[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0149.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0149_fanart.webp</fanart>
+		<genre>Ação | Fantasia | Aventura</genre>
+		<info>[COLOR red][B]● Classificação Indicativa +16[/B][/COLOR]
 ÁUDIO: Português
 ANO: 2015 - 2022
 TEMPORADA: 3
 EPISÓDIO: 29
-STATUS: Finalizado</info>
-<link>plugin://plugin.loopplay/?action=play&item_id=1BTxxmmWLR1QYiQkOVy1evI3a5_eUdLp4&item_driveid=13317096135560461908&driveid=17776824897305541588&content_type=video</link>
-</item>
-<item>
-<title>[B]Overlord: T3 - Episódio 30[/B]</title>
-<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0149.webp</thumbnail>
-<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0149_fanart.webp</fanart>
-<genre>Ação | Fantasia | Aventura</genre>
-<info>[COLOR red][B]● Classificação Indicativa +16[/B][/COLOR]
+STATUS: Finalizado
+		</info>
+		<link>plugin://plugin.loopplay/?action=play&item_id=1BTxxmmWLR1QYiQkOVy1evI3a5_eUdLp4&item_driveid=13317096135560461908&driveid=17776824897305541588&content_type=video</link>
+	</item>
+	<item>
+		<title>[B]Overlord: T3 - Episódio 30[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0149.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0149_fanart.webp</fanart>
+		<genre>Ação | Fantasia | Aventura</genre>
+		<info>[COLOR red][B]● Classificação Indicativa +16[/B][/COLOR]
 ÁUDIO: Português
 ANO: 2015 - 2022
 TEMPORADA: 3
 EPISÓDIO: 30
-STATUS: Finalizado</info>
-<link>plugin://plugin.loopplay/?action=play&item_id=1m3ZVwehs_AKg0Bq1i178P3mWWc4Rupkd&item_driveid=13317096135560461908&driveid=17776824897305541588&content_type=video</link>
-</item>
-<item>
-<title>[B]Overlord: T3 - Episódio 31[/B]</title>
-<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0149.webp</thumbnail>
-<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0149_fanart.webp</fanart>
-<genre>Ação | Fantasia | Aventura</genre>
-<info>[COLOR red][B]● Classificação Indicativa +16[/B][/COLOR]
+STATUS: Finalizado
+		</info>
+		<link>plugin://plugin.loopplay/?action=play&item_id=1m3ZVwehs_AKg0Bq1i178P3mWWc4Rupkd&item_driveid=13317096135560461908&driveid=17776824897305541588&content_type=video</link>
+	</item>
+	<item>
+		<title>[B]Overlord: T3 - Episódio 31[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0149.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0149_fanart.webp</fanart>
+		<genre>Ação | Fantasia | Aventura</genre>
+		<info>[COLOR red][B]● Classificação Indicativa +16[/B][/COLOR]
 ÁUDIO: Português
 ANO: 2015 - 2022
 TEMPORADA: 3
 EPISÓDIO: 31
-STATUS: Finalizado</info>
-<link>plugin://plugin.loopplay/?action=play&item_id=1k4_N1j0ks1ke02ECxTjOv1upZLhdHZ0G&item_driveid=13317096135560461908&driveid=17776824897305541588&content_type=video</link>
-</item>
-<item>
-<title>[B]Overlord: T3 - Episódio 32[/B]</title>
-<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0149.webp</thumbnail>
-<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0149_fanart.webp</fanart>
-<genre>Ação | Fantasia | Aventura</genre>
-<info>[COLOR red][B]● Classificação Indicativa +16[/B][/COLOR]
+STATUS: Finalizado
+		</info>
+		<link>plugin://plugin.loopplay/?action=play&item_id=1k4_N1j0ks1ke02ECxTjOv1upZLhdHZ0G&item_driveid=13317096135560461908&driveid=17776824897305541588&content_type=video</link>
+	</item>
+	<item>
+		<title>[B]Overlord: T3 - Episódio 32[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0149.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0149_fanart.webp</fanart>
+		<genre>Ação | Fantasia | Aventura</genre>
+		<info>[COLOR red][B]● Classificação Indicativa +16[/B][/COLOR]
 ÁUDIO: Português
 ANO: 2015 - 2022
 TEMPORADA: 3
 EPISÓDIO: 32
-STATUS: Finalizado</info>
-<link>plugin://plugin.loopplay/?action=play&item_id=1AYgPPv12D0cFA3oGORShrAaNACJwPnKE&item_driveid=13317096135560461908&driveid=17776824897305541588&content_type=video</link>
-</item>
-<item>
-<title>[B]Overlord: T3 - Episódio 33[/B]</title>
-<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0149.webp</thumbnail>
-<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0149_fanart.webp</fanart>
-<genre>Ação | Fantasia | Aventura</genre>
-<info>[COLOR red][B]● Classificação Indicativa +16[/B][/COLOR]
+STATUS: Finalizado
+		</info>
+		<link>plugin://plugin.loopplay/?action=play&item_id=1AYgPPv12D0cFA3oGORShrAaNACJwPnKE&item_driveid=13317096135560461908&driveid=17776824897305541588&content_type=video</link>
+	</item>
+	<item>
+		<title>[B]Overlord: T3 - Episódio 33[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0149.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0149_fanart.webp</fanart>
+		<genre>Ação | Fantasia | Aventura</genre>
+		<info>[COLOR red][B]● Classificação Indicativa +16[/B][/COLOR]
 ÁUDIO: Português
 ANO: 2015 - 2022
 TEMPORADA: 3
 EPISÓDIO: 33
-STATUS: Finalizado</info>
-<link>plugin://plugin.loopplay/?action=play&item_id=18bDBgU_LwJhJFpBmO6rOE8XFBciPulaT&item_driveid=13317096135560461908&driveid=17776824897305541588&content_type=video</link>
-</item>
-<item>
-<title>[B]Overlord: T3 - Episódio 34[/B]</title>
-<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0149.webp</thumbnail>
-<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0149_fanart.webp</fanart>
-<genre>Ação | Fantasia | Aventura</genre>
-<info>[COLOR red][B]● Classificação Indicativa +16[/B][/COLOR]
+STATUS: Finalizado
+		</info>
+		<link>plugin://plugin.loopplay/?action=play&item_id=18bDBgU_LwJhJFpBmO6rOE8XFBciPulaT&item_driveid=13317096135560461908&driveid=17776824897305541588&content_type=video</link>
+	</item>
+	<item>
+		<title>[B]Overlord: T3 - Episódio 34[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0149.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0149_fanart.webp</fanart>
+		<genre>Ação | Fantasia | Aventura</genre>
+		<info>[COLOR red][B]● Classificação Indicativa +16[/B][/COLOR]
 ÁUDIO: Português
 ANO: 2015 - 2022
 TEMPORADA: 3
 EPISÓDIO: 34
-STATUS: Finalizado</info>
-<link>plugin://plugin.loopplay/?action=play&item_id=1artM1_wWGsrn-cHyoJ1KLLghj5Nwf8OL&item_driveid=13317096135560461908&driveid=17776824897305541588&content_type=video</link>
-</item>
-<item>
-<title>[B]Overlord: T3 - Episódio 35[/B]</title>
-<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0149.webp</thumbnail>
-<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0149_fanart.webp</fanart>
-<genre>Ação | Fantasia | Aventura</genre>
-<info>[COLOR red][B]● Classificação Indicativa +16[/B][/COLOR]
+STATUS: Finalizado
+		</info>
+		<link>plugin://plugin.loopplay/?action=play&item_id=1artM1_wWGsrn-cHyoJ1KLLghj5Nwf8OL&item_driveid=13317096135560461908&driveid=17776824897305541588&content_type=video</link>
+	</item>
+	<item>
+		<title>[B]Overlord: T3 - Episódio 35[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0149.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0149_fanart.webp</fanart>
+		<genre>Ação | Fantasia | Aventura</genre>
+		<info>[COLOR red][B]● Classificação Indicativa +16[/B][/COLOR]
 ÁUDIO: Português
 ANO: 2015 - 2022
 TEMPORADA: 3
 EPISÓDIO: 35
-STATUS: Finalizado</info>
-<link>plugin://plugin.loopplay/?action=play&item_id=18z_6rNHPaxKppaBtaguu_az-1gxa43jW&item_driveid=13317096135560461908&driveid=17776824897305541588&content_type=video</link>
-</item>
-<item>
-<title>[B]Overlord: T3 - Episódio 36[/B]</title>
-<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0149.webp</thumbnail>
-<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0149_fanart.webp</fanart>
-<genre>Ação | Fantasia | Aventura</genre>
-<info>[COLOR red][B]● Classificação Indicativa +16[/B][/COLOR]
+STATUS: Finalizado
+		</info>
+		<link>plugin://plugin.loopplay/?action=play&item_id=18z_6rNHPaxKppaBtaguu_az-1gxa43jW&item_driveid=13317096135560461908&driveid=17776824897305541588&content_type=video</link>
+	</item>
+	<item>
+		<title>[B]Overlord: T3 - Episódio 36[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0149.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0149_fanart.webp</fanart>
+		<genre>Ação | Fantasia | Aventura</genre>
+		<info>[COLOR red][B]● Classificação Indicativa +16[/B][/COLOR]
 ÁUDIO: Português
 ANO: 2015 - 2022
 TEMPORADA: 3
 EPISÓDIO: 36
-STATUS: Finalizado</info>
-<link>plugin://plugin.loopplay/?action=play&item_id=1QK3wUCC7XAbObO5p4WmisTgAGnPHCrIg&item_driveid=13317096135560461908&driveid=17776824897305541588&content_type=video</link>
-</item>
-<item>
-<title>[B]Overlord: T3 - Episódio 37[/B]</title>
-<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0149.webp</thumbnail>
-<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0149_fanart.webp</fanart>
-<genre>Ação | Fantasia | Aventura</genre>
-<info>[COLOR red][B]● Classificação Indicativa +16[/B][/COLOR]
+STATUS: Finalizado
+		</info>
+		<link>plugin://plugin.loopplay/?action=play&item_id=1QK3wUCC7XAbObO5p4WmisTgAGnPHCrIg&item_driveid=13317096135560461908&driveid=17776824897305541588&content_type=video</link>
+	</item>
+	<item>
+		<title>[B]Overlord: T3 - Episódio 37[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0149.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0149_fanart.webp</fanart>
+		<genre>Ação | Fantasia | Aventura</genre>
+		<info>[COLOR red][B]● Classificação Indicativa +16[/B][/COLOR]
 ÁUDIO: Português
 ANO: 2015 - 2022
 TEMPORADA: 3
 EPISÓDIO: 37
-STATUS: Finalizado</info>
-<link>plugin://plugin.loopplay/?action=play&item_id=1nm2UJef24nTf8NPvmKWSmzYuXkKIRQPi&item_driveid=13317096135560461908&driveid=17776824897305541588&content_type=video</link>
-</item>
-<item>
-<title>[B]Overlord: T3 - Episódio 38[/B]</title>
-<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0149.webp</thumbnail>
-<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0149_fanart.webp</fanart>
-<genre>Ação | Fantasia | Aventura</genre>
-<info>[COLOR red][B]● Classificação Indicativa +16[/B][/COLOR]
+STATUS: Finalizado
+		</info>
+		<link>plugin://plugin.loopplay/?action=play&item_id=1nm2UJef24nTf8NPvmKWSmzYuXkKIRQPi&item_driveid=13317096135560461908&driveid=17776824897305541588&content_type=video</link>
+	</item>
+	<item>
+		<title>[B]Overlord: T3 - Episódio 38[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0149.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0149_fanart.webp</fanart>
+		<genre>Ação | Fantasia | Aventura</genre>
+		<info>[COLOR red][B]● Classificação Indicativa +16[/B][/COLOR]
 ÁUDIO: Português
 ANO: 2015 - 2022
 TEMPORADA: 3
 EPISÓDIO: 38
-STATUS: Finalizado</info>
-<link>plugin://plugin.loopplay/?action=play&item_id=1xnGN-uQa63OFxBdf9cMH_JzruZwLsok7&item_driveid=13317096135560461908&driveid=17776824897305541588&content_type=video</link>
-</item>
-<item>
-<title>[B]Overlord: T3 - Episódio 39[/B]</title>
-<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0149.webp</thumbnail>
-<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0149_fanart.webp</fanart>
-<genre>Ação | Fantasia | Aventura</genre>
-<info>[COLOR red][B]● Classificação Indicativa +16[/B][/COLOR]
+STATUS: Finalizado
+		</info>
+		<link>plugin://plugin.loopplay/?action=play&item_id=1xnGN-uQa63OFxBdf9cMH_JzruZwLsok7&item_driveid=13317096135560461908&driveid=17776824897305541588&content_type=video</link>
+	</item>
+	<item>
+		<title>[B]Overlord: T3 - Episódio 39[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0149.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0149_fanart.webp</fanart>
+		<genre>Ação | Fantasia | Aventura</genre>
+		<info>[COLOR red][B]● Classificação Indicativa +16[/B][/COLOR]
 ÁUDIO: Português
 ANO: 2015 - 2022
 TEMPORADA: 3
 EPISÓDIO: 39
-STATUS: Finalizado</info>
-<link>plugin://plugin.loopplay/?action=play&item_id=13bU4vpNGj2Eg7e7EG3bznaVN6U2J0M-G&item_driveid=13317096135560461908&driveid=17776824897305541588&content_type=video</link>
-</item>
+STATUS: Finalizado
+		</info>
+		<link>plugin://plugin.loopplay/?action=play&item_id=13bU4vpNGj2Eg7e7EG3bznaVN6U2J0M-G&item_driveid=13317096135560461908&driveid=17776824897305541588&content_type=video</link>
+	</item>
 
-<item>
-<title>[COLOR lime][B]Overlord: T4 - Episódio 40[/B][/COLOR]</title>
-<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0149.webp</thumbnail>
-<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0149_fanart.webp</fanart>
-<genre>Ação | Fantasia | Aventura</genre>
-<info>[COLOR red][B]● Classificação Indicativa +16[/B][/COLOR]
+	<item>
+		<title>[COLOR lime][B]Overlord: T4 - Episódio 40[/B][/COLOR]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0149.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0149_fanart.webp</fanart>
+		<genre>Ação | Fantasia | Aventura</genre>
+		<info>[COLOR red][B]● Classificação Indicativa +16[/B][/COLOR]
 ÁUDIO: Português
 ANO: 2015 - 2022
 TEMPORADA: 4
 EPISÓDIO: 40
-STATUS: Finalizado</info>
-<link>https://archive.org/download/A00000/A0149_dub_T4_E01.mkv</link>
-</item>
-<item>
-<title>[COLOR lime][B]Overlord: T4 - Episódio 41[/B][/COLOR]</title>
-<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0149.webp</thumbnail>
-<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0149_fanart.webp</fanart>
-<genre>Ação | Fantasia | Aventura</genre>
-<info>[COLOR red][B]● Classificação Indicativa +16[/B][/COLOR]
+STATUS: Finalizado
+		</info>
+		<link>https://archive.org/download/A00000/A0149_dub_T4_E01.mkv</link>
+	</item>
+	<item>
+		<title>[COLOR lime][B]Overlord: T4 - Episódio 41[/B][/COLOR]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0149.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0149_fanart.webp</fanart>
+		<genre>Ação | Fantasia | Aventura</genre>
+		<info>[COLOR red][B]● Classificação Indicativa +16[/B][/COLOR]
 ÁUDIO: Português
 ANO: 2015 - 2022
 TEMPORADA: 4
 EPISÓDIO: 41
-STATUS: Finalizado</info>
-<link>https://archive.org/download/A00000/A0149_dub_T4_E02.mkv</link>
-</item>
-<item>
-<title>[COLOR lime][B]Overlord: T4 - Episódio 42[/B][/COLOR]</title>
-<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0149.webp</thumbnail>
-<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0149_fanart.webp</fanart>
-<genre>Ação | Fantasia | Aventura</genre>
-<info>[COLOR red][B]● Classificação Indicativa +16[/B][/COLOR]
+STATUS: Finalizado
+		</info>
+		<link>https://archive.org/download/A00000/A0149_dub_T4_E02.mkv</link>
+	</item>
+	<item>
+		<title>[COLOR lime][B]Overlord: T4 - Episódio 42[/B][/COLOR]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0149.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0149_fanart.webp</fanart>
+		<genre>Ação | Fantasia | Aventura</genre>
+		<info>[COLOR red][B]● Classificação Indicativa +16[/B][/COLOR]
 ÁUDIO: Português
 ANO: 2015 - 2022
 TEMPORADA: 4
 EPISÓDIO: 42
-STATUS: Finalizado</info>
-<link>https://archive.org/download/A00000/A0149_dub_T4_E03.mkv</link>
-</item>
-<item>
-<title>[COLOR lime][B]Overlord: T4 - Episódio 43[/B][/COLOR]</title>
-<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0149.webp</thumbnail>
-<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0149_fanart.webp</fanart>
-<genre>Ação | Fantasia | Aventura</genre>
-<info>[COLOR red][B]● Classificação Indicativa +16[/B][/COLOR]
+STATUS: Finalizado
+		</info>
+		<link>https://archive.org/download/A00000/A0149_dub_T4_E03.mkv</link>
+	</item>
+	<item>
+		<title>[COLOR lime][B]Overlord: T4 - Episódio 43[/B][/COLOR]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0149.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0149_fanart.webp</fanart>
+		<genre>Ação | Fantasia | Aventura</genre>
+		<info>[COLOR red][B]● Classificação Indicativa +16[/B][/COLOR]
 ÁUDIO: Português
 ANO: 2015 - 2022
 TEMPORADA: 4
 EPISÓDIO: 43
-STATUS: Finalizado</info>
-<link>https://archive.org/download/A00000/A0149_dub_T4_E04.mkv</link>
-</item>
-<item>
-<title>[COLOR lime][B]Overlord: T4 - Episódio 44[/B][/COLOR]</title>
-<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0149.webp</thumbnail>
-<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0149_fanart.webp</fanart>
-<genre>Ação | Fantasia | Aventura</genre>
-<info>[COLOR red][B]● Classificação Indicativa +16[/B][/COLOR]
+STATUS: Finalizado
+		</info>
+		<link>https://archive.org/download/A00000/A0149_dub_T4_E04.mkv</link>
+	</item>
+	<item>
+		<title>[COLOR lime][B]Overlord: T4 - Episódio 44[/B][/COLOR]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0149.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0149_fanart.webp</fanart>
+		<genre>Ação | Fantasia | Aventura</genre>
+		<info>[COLOR red][B]● Classificação Indicativa +16[/B][/COLOR]
 ÁUDIO: Português
 ANO: 2015 - 2022
 TEMPORADA: 4
 EPISÓDIO: 44
-STATUS: Finalizado</info>
-<link>https://archive.org/download/A00000/A0149_dub_T4_E05.mkv</link>
-</item>
-<item>
-<title>[COLOR lime][B]Overlord: T4 - Episódio 45[/B][/COLOR]</title>
-<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0149.webp</thumbnail>
-<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0149_fanart.webp</fanart>
-<genre>Ação | Fantasia | Aventura</genre>
-<info>[COLOR red][B]● Classificação Indicativa +16[/B][/COLOR]
+STATUS: Finalizado
+		</info>
+		<link>https://archive.org/download/A00000/A0149_dub_T4_E05.mkv</link>
+	</item>
+	<item>
+		<title>[COLOR lime][B]Overlord: T4 - Episódio 45[/B][/COLOR]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0149.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0149_fanart.webp</fanart>
+		<genre>Ação | Fantasia | Aventura</genre>
+		<info>[COLOR red][B]● Classificação Indicativa +16[/B][/COLOR]
 ÁUDIO: Português
 ANO: 2015 - 2022
 TEMPORADA: 4
 EPISÓDIO: 45
-STATUS: Finalizado</info>
-<link>https://archive.org/download/A00000/A0149_dub_T4_E06.mkv</link>
-</item>
-<item>
-<title>[COLOR lime][B]Overlord: T4 - Episódio 46[/B][/COLOR]</title>
-<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0149.webp</thumbnail>
-<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0149_fanart.webp</fanart>
-<genre>Ação | Fantasia | Aventura</genre>
-<info>[COLOR red][B]● Classificação Indicativa +16[/B][/COLOR]
+STATUS: Finalizado
+		</info>
+		<link>https://archive.org/download/A00000/A0149_dub_T4_E06.mkv</link>
+	</item>
+	<item>
+		<title>[COLOR lime][B]Overlord: T4 - Episódio 46[/B][/COLOR]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0149.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0149_fanart.webp</fanart>
+		<genre>Ação | Fantasia | Aventura</genre>
+		<info>[COLOR red][B]● Classificação Indicativa +16[/B][/COLOR]
 ÁUDIO: Português
 ANO: 2015 - 2022
 TEMPORADA: 4
 EPISÓDIO: 46
-STATUS: Finalizado</info>
-<link>https://archive.org/download/A00000/A0149_dub_T4_E07.mkv</link>
-</item>
-<item>
-<title>[COLOR lime][B]Overlord: T4 - Episódio 47[/B][/COLOR]</title>
-<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0149.webp</thumbnail>
-<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0149_fanart.webp</fanart>
-<genre>Ação | Fantasia | Aventura</genre>
-<info>[COLOR red][B]● Classificação Indicativa +16[/B][/COLOR]
+STATUS: Finalizado
+		</info>
+		<link>https://archive.org/download/A00000/A0149_dub_T4_E07.mkv</link>
+	</item>
+	<item>
+		<title>[COLOR lime][B]Overlord: T4 - Episódio 47[/B][/COLOR]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0149.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0149_fanart.webp</fanart>
+		<genre>Ação | Fantasia | Aventura</genre>
+		<info>[COLOR red][B]● Classificação Indicativa +16[/B][/COLOR]
 ÁUDIO: Português
 ANO: 2015 - 2022
 TEMPORADA: 4
 EPISÓDIO: 47
-STATUS: Finalizado</info>
-<link>https://archive.org/download/A00000/A0149_dub_T4_E08.mkv</link>
-</item>
-<item>
-<title>[COLOR lime][B]Overlord: T4 - Episódio 48[/B][/COLOR]</title>
-<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0149.webp</thumbnail>
-<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0149_fanart.webp</fanart>
-<genre>Ação | Fantasia | Aventura</genre>
-<info>[COLOR red][B]● Classificação Indicativa +16[/B][/COLOR]
+STATUS: Finalizado
+		</info>
+		<link>https://archive.org/download/A00000/A0149_dub_T4_E08.mkv</link>
+	</item>
+	<item>
+		<title>[COLOR lime][B]Overlord: T4 - Episódio 48[/B][/COLOR]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0149.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0149_fanart.webp</fanart>
+		<genre>Ação | Fantasia | Aventura</genre>
+		<info>[COLOR red][B]● Classificação Indicativa +16[/B][/COLOR]
 ÁUDIO: Português
 ANO: 2015 - 2022
 TEMPORADA: 4
 EPISÓDIO: 48
-STATUS: Finalizado</info>
-<link>https://archive.org/download/A00000/A0149_dub_T4_E09.mkv</link>
-</item>
-<item>
-<title>[COLOR lime][B]Overlord: T4 - Episódio 49[/B][/COLOR]</title>
-<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0149.webp</thumbnail>
-<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0149_fanart.webp</fanart>
-<genre>Ação | Fantasia | Aventura</genre>
-<info>[COLOR red][B]● Classificação Indicativa +16[/B][/COLOR]
+STATUS: Finalizado
+		</info>
+		<link>https://archive.org/download/A00000/A0149_dub_T4_E09.mkv</link>
+	</item>
+	<item>
+		<title>[COLOR lime][B]Overlord: T4 - Episódio 49[/B][/COLOR]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0149.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0149_fanart.webp</fanart>
+		<genre>Ação | Fantasia | Aventura</genre>
+		<info>[COLOR red][B]● Classificação Indicativa +16[/B][/COLOR]
 ÁUDIO: Português
 ANO: 2015 - 2022
 TEMPORADA: 4
 EPISÓDIO: 49
-STATUS: Finalizado</info>
-<link>https://archive.org/download/A00000/A0149_dub_T4_E10.mkv</link>
-</item>
-<item>
-<title>[COLOR lime][B]Overlord: T4 - Episódio 50[/B][/COLOR]</title>
-<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0149.webp</thumbnail>
-<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0149_fanart.webp</fanart>
-<genre>Ação | Fantasia | Aventura</genre>
-<info>[COLOR red][B]● Classificação Indicativa +16[/B][/COLOR]
+STATUS: Finalizado
+		</info>
+		<link>https://archive.org/download/A00000/A0149_dub_T4_E10.mkv</link>
+	</item>
+	<item>
+		<title>[COLOR lime][B]Overlord: T4 - Episódio 50[/B][/COLOR]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0149.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0149_fanart.webp</fanart>
+		<genre>Ação | Fantasia | Aventura</genre>
+		<info>[COLOR red][B]● Classificação Indicativa +16[/B][/COLOR]
 ÁUDIO: Português
 ANO: 2015 - 2022
 TEMPORADA: 4
 EPISÓDIO: 50
-STATUS: Finalizado</info>
-<link>https://archive.org/download/A00000/A0149_dub_T4_E11.mkv</link>
-</item>
-<item>
-<title>[COLOR lime][B]Overlord: T4 - Episódio 51[/B][/COLOR]</title>
-<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0149.webp</thumbnail>
-<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0149_fanart.webp</fanart>
-<genre>Ação | Fantasia | Aventura</genre>
-<info>[COLOR red][B]● Classificação Indicativa +16[/B][/COLOR]
+STATUS: Finalizado
+		</info>
+		<link>https://archive.org/download/A00000/A0149_dub_T4_E11.mkv</link>
+	</item>
+	<item>
+		<title>[COLOR lime][B]Overlord: T4 - Episódio 51[/B][/COLOR]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0149.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0149_fanart.webp</fanart>
+		<genre>Ação | Fantasia | Aventura</genre>
+		<info>[COLOR red][B]● Classificação Indicativa +16[/B][/COLOR]
 ÁUDIO: Português
 ANO: 2015 - 2022
 TEMPORADA: 4
 EPISÓDIO: 51
-STATUS: Finalizado</info>
-<link>https://archive.org/download/A00000/A0149_dub_T4_E12.mkv</link>
-</item>
-<item>
-<title>[COLOR lime][B]Overlord: T4 - Episódio 52[/B][/COLOR]</title>
-<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0149.webp</thumbnail>
-<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0149_fanart.webp</fanart>
-<genre>Ação | Fantasia | Aventura</genre>
-<info>[COLOR red][B]● Classificação Indicativa +16[/B][/COLOR]
+STATUS: Finalizado
+		</info>
+		<link>https://archive.org/download/A00000/A0149_dub_T4_E12.mkv</link>
+	</item>
+	<item>
+		<title>[COLOR lime][B]Overlord: T4 - Episódio 52[/B][/COLOR]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0149.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0149_fanart.webp</fanart>
+		<genre>Ação | Fantasia | Aventura</genre>
+		<info>[COLOR red][B]● Classificação Indicativa +16[/B][/COLOR]
 ÁUDIO: Português
 ANO: 2015 - 2022
 TEMPORADA: 4
 EPISÓDIO: 52
-STATUS: Finalizado</info>
-<link>https://archive.org/download/A00000/A0149_dub_T4_E13.mkv</link>
-</item>
+STATUS: Finalizado
+		</info>
+		<link>https://archive.org/download/A00000/A0149_dub_T4_E13.mkv</link>
+	</item>
 
-<item>
-<title>[B]Overlord: The Undead King[/B]</title>
-<thumbnail>https://raw.githubusercontent.com/icefenixfire/O/main/OV0031.webp</thumbnail>
-<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0149_fanart.webp</fanart>
-<genre>Ação | Fantasia | Aventura</genre>
-<info>[COLOR red][B]● Classificação Indicativa +16[/B][/COLOR][B]
+	<item>
+		<title>[B]Overlord: The Undead King[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/O/main/OV0031.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0149_fanart.webp</fanart>
+		<genre>Ação | Fantasia | Aventura</genre>
+		<info>[COLOR red][B]● Classificação Indicativa +16[/B][/COLOR][B]
 FILME 1[/B]
 ÁUDIO: Português
-ANO: 2017</info>
-<link>https://archive.org/download/OV0000/OV0031.mkv</link>
-</item>
+ANO: 2017
+		</info>
+		<link>https://archive.org/download/OV0000/OV0031.mkv</link>
+	</item>
 
-<item>
-<title>[B]Overlord: The Dark Hero[/B]</title>
-<thumbnail>https://raw.githubusercontent.com/icefenixfire/O/main/OV0032.webp</thumbnail>
-<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0149_fanart.webp</fanart>
-<genre>Ação | Fantasia | Aventura</genre>
-<info>[COLOR red][B]● Classificação Indicativa +16[/B][/COLOR]
+	<item>
+		<title>[B]Overlord: The Dark Hero[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/O/main/OV0032.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0149_fanart.webp</fanart>
+		<genre>Ação | Fantasia | Aventura</genre>
+		<info>[COLOR red][B]● Classificação Indicativa +16[/B][/COLOR]
 [B]FILME 2[/B]
 ÁUDIO: Português
-ANO: 2017</info>
-<link>https://archive.org/download/OV0000/OV0032.mkv</link>
-</item>
+ANO: 2017
+		</info>
+		<link>https://archive.org/download/OV0000/OV0032.mkv</link>
+	</item>
 
-<item>
-<title>[B]Overlord: O Reino Sagrado[/B]</title>
-<thumbnail>https://raw.githubusercontent.com/icefenixfire/O/main/OV0052.webp</thumbnail>
-<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0149_fanart.webp</fanart>
-<genre>Ação | Fantasia | Aventura</genre>
-<info>[COLOR red][B]● Classificação Indicativa +16[/B][/COLOR]
+	<item>
+		<title>[B]Overlord: O Reino Sagrado[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/O/main/OV0052.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0149_fanart.webp</fanart>
+		<genre>Ação | Fantasia | Aventura</genre>
+		<info>[COLOR red][B]● Classificação Indicativa +16[/B][/COLOR]
 [B]FILME 3[/B]
 ÁUDIO: Português | Japonês
-ANO: 2024</info>
-<link>https://archive.org/download/A000000/OV0052.mkv</link>
-</item>
+ANO: 2024
+		</info>
+		<link>https://archive.org/download/A000000/OV0052.mkv</link>
+	</item>
 </items>
