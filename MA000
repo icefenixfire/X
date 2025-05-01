@@ -1,5 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <channels>
+<!--ERGO PROXY-->
+	<channel>
+		<name>[B]ERGO PROXY[/B]</name>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0300.webp</thumbnail>
+		<externallink>https://raw.githubusercontent.com/icefenixfire/X/main/A/A0300</externallink>
+		<genre>Ação | Fantasia | Ficção</genre>
+		<info>[COLOR red][B]● Classificação Indicativa +16[/B][/COLOR]
+ÁUDIO: Japonês
+ANO: 2006
+TEMPORADAS: 1
+STATUS: Finalizado
+		</info>
+	</channel>
 <!--OVERLORD-->
 	<channel>
 		<name>[B]OVERLORD[/B]</name>
