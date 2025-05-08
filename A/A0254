@@ -1,5 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <items>
-<item><title>[B]Psycho-Pass: Caso 1: Crime e Castigo[/B]</title><thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0254.webp</thumbnail><fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0254_fanart.webp</fanart><genre>Dublado</genre><info>[COLOR red][B]● Classificação +16[/B][/COLOR]</info><link>https://vk.com/doc671606943_657004134</link></item>
-<item><title>[B]Psycho-Pass: Caso 2: Primeiro Guardião[/B]</title><thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0254.webp</thumbnail><fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0254_fanart.webp</fanart><genre>Dublado</genre><info>[COLOR red][B]● Classificação +16[/B][/COLOR]</info><link>https://vk.com/doc671606943_657004324</link></item>
-<item><title>[B]Psycho-Pass: Caso 3: Além do Amor e do Ódio[/B]</title><thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0254.webp</thumbnail><fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0254_fanart.webp</fanart><genre>Dublado</genre><info>[COLOR red][B]● Classificação +16[/B][/COLOR]</info><link>https://vk.com/doc671606943_657004487</link></item>
+	<item>
+		<title>[B]Psycho-Pass: Caso 1: Crime e Castigo[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0254.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0254_fanart.webp</fanart>
+		<genre>Ação | Ficção | Suspense</genre>
+		<info>[COLOR red][B]● Classificação +16[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2019
+TEMPORADA: 1
+EPISÓDIO: Finalizado
+		</info>
+		<link>https://archive.org/download/A00000/A0254_E01.mkv</link>
+	</item>
+	<item>
+		<title>[B]Psycho-Pass: Caso 2: Primeiro Guardião[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0254.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0254_fanart.webp</fanart>
+		<genre>Ação | Ficção | Suspense</genre>
+		<info>[COLOR red][B]● Classificação +16[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2019
+TEMPORADA: 1
+EPISÓDIO: Finalizado
+		</info>
+		<link>https://archive.org/download/A00000/A0254_E02.mkv</link>
+	</item>
+	<item>
+		<title>[B]Psycho-Pass: Caso 3: Além do Amor e do Ódio[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0254.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0254_fanart.webp</fanart>
+		<genre>Ação | Ficção | Suspense</genre>
+		<info>[COLOR red][B]● Classificação +16[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2019
+TEMPORADA: 1
+EPISÓDIO: Finalizado
+		</info>
+		<link>https://archive.org/download/A00000/A0254_E03.mkv</link>
+	</item>
 </items>
