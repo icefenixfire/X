@@ -1,5 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <channels>
+<!--O SANGUE DE ZEUS-->
+	<channel>
+		<name>[B]O SANGUE DE ZEUS[/B]</name>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0132.webp</thumbnail>
+		<externallink>https://raw.githubusercontent.com/icefenixfire/X/main/A/A0132</externallink>
+		<genre>Ação | Fantasia | Drama</genre>
+		<info>[COLOR crimson][B]● Classificação +18[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2020
+TEMPORADAS: 3
+STATUS: Renovado
+		</info>
+	</channel>
 <!--ERGO PROXY-->
 	<channel>
 		<name>[B]ERGO PROXY[/B]</name>
@@ -543,19 +556,6 @@ STATUS: Renovado
 ÁUDIO: Português
 ANO: 2023
 TEMPORADAS: 1
-STATUS: Renovado
-		</info>
-	</channel>
-<!--O SANGUE DE ZEUS-->
-	<channel>
-		<name>[B]O SANGUE DE ZEUS[/B]</name>
-		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0132.webp</thumbnail>
-		<externallink>https://raw.githubusercontent.com/icefenixfire/X/main/A/A0132</externallink>
-		<genre>Ação | Fantasia | Drama</genre>
-		<info>[COLOR crimson][B]● Classificação +18[/B][/COLOR]
-ÁUDIO: Português
-ANO: 2020
-TEMPORADAS: 3
 STATUS: Renovado
 		</info>
 	</channel>
