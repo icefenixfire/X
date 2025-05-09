@@ -52,6 +52,19 @@ TEMPORADAS: 1
 STATUS: Renovado
 		</info>
 	</channel>
+<!--MORIBITO: GUARDIAN OF THE SPIRIT-->
+	<channel>
+		<name>[B]MORIBITO: GUARDIAN OF THE SPIRIT[/B]</name>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0193.webp</thumbnail>
+		<externallink>https://raw.githubusercontent.com/icefenixfire/X/main/A/A0193</externallink>
+		<genre>Ação | Aventura | Fantasia</genre>
+		<info>[COLOR yellow][B]● Classificação +12[/B][/COLOR]
+ÁUDIO: Japonês
+ANO: 2007
+TEMPORADAS: 1
+STATUS: Finalizado
+		</info>
+	</channel>
 <!--O NASCER DA LUA-->
 	<channel>
 		<name>[B]O NASCER DA LUA[/B]</name>
@@ -2171,7 +2184,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
-
+<!--MEMÓRIAS DE IDHÚN-->
 	<channel>
 		<name>[B]MEMÓRIAS DE IDHÚN[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0127.webp</thumbnail>
@@ -2184,7 +2197,7 @@ TEMPORADAS: 2
 STATUS: Cancelado
 		</info>
 	</channel>
-
+<!--MUSHIKAGO NO CAGASTER-->
 	<channel>
 		<name>[B]MUSHIKAGO NO CAGASTER[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0129.webp</thumbnail>
@@ -2197,7 +2210,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
-
+<!--MARVEL ANIME: WOLVERINE-->
 	<channel>
 		<name>[B]MARVEL ANIME: WOLVERINE[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0130.webp</thumbnail>
@@ -2210,7 +2223,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
-
+<!--MONSTER RANCHER-->
 	<channel>
 		<name>[B]MONSTER RANCHER[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0135.webp</thumbnail>
@@ -2223,20 +2236,7 @@ TEMPORADAS: 3
 STATUS: Finalizado
 		</info>
 	</channel>
-
-	<channel>
-		<name>[B]MORIBITO: GUARDIAN OF THE SPIRIT[/B]</name>
-		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0193.webp</thumbnail>
-		<externallink>https://raw.githubusercontent.com/icefenixfire/X/main/A/A0193</externallink>
-		<genre>Ação | Aventura | Fantasia</genre>
-		<info>[COLOR yellow][B]● Classificação +12[/B][/COLOR]
-ÁUDIO: Japonês
-ANO: 2007
-TEMPORADAS: 1
-STATUS: Finalizado
-		</info>
-	</channel>
-
+<!--MEGALOBOX-->
 	<channel>
 		<name>[B]MEGALOBOX[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0049.webp</thumbnail>
@@ -2249,7 +2249,7 @@ TEMPORADAS: 2
 STATUS: Finalizado
 		</info>
 	</channel>
-
+<!--METALLIC ROUGE-->
 	<channel>
 		<name>[B]METALLIC ROUGE[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0271.webp</thumbnail>
@@ -2262,7 +2262,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
-
+<!--MINHA MANA APELONA-->
 	<channel>
 		<name>[B]MINHA MANA APELONA[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0260.webp</thumbnail>
@@ -2275,7 +2275,7 @@ TEMPORADAS: 1
 STATUS: Finalizado | Incompleto
 		</info>
 	</channel>
-
+<!--MOB PSYCHO 100-->
 	<channel>
 		<name>[B]MOB PSYCHO 100[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0075.webp</thumbnail>
@@ -2288,7 +2288,7 @@ TEMPORADAS: 3
 STATUS: Finalizado
 		</info>
 	</channel>
-
+<!--MISS KOBAYASHI'S DRAGON MAID-->
 	<channel>
 		<name>[B]MISS KOBAYASHI'S DRAGON MAID[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0084.webp</thumbnail>
@@ -2301,7 +2301,7 @@ TEMPORADAS: 1 de 3
 STATUS: Finalizado | Incompleto
 		</info>
 	</channel>
-
+<!--MEDABOTS-->
 	<channel>
 		<name>[B]MEDABOTS[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0061.webp</thumbnail>
@@ -2314,7 +2314,7 @@ TEMPORADAS: 3
 STATUS: Finalizado
 		</info>
 	</channel>
-
+<!--MEIJI TOKYO RENKA-->
 	<channel>
 		<name>[B]MEIJI TOKYO RENKA[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0116.webp</thumbnail>
@@ -2327,7 +2327,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
-
+<!--NOBLESSE-->
 	<channel>
 		<name>[B]NOBLESSE[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0139.webp</thumbnail>
@@ -2340,7 +2340,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
-
+<!--NEON GENESIS EVANGELION-->
 	<channel>
 		<name>[B]NEON GENESIS EVANGELION[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0108.webp</thumbnail>
@@ -2353,7 +2353,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
-
+<!--NORAGAMI-->
 	<channel>
 		<name>[B]NORAGAMI[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0237.webp</thumbnail>
@@ -2366,7 +2366,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
-
+<!--NEO YOKIO-->
 	<channel>
 		<name>[B]NEO YOKIO[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0042.webp</thumbnail>
@@ -2379,7 +2379,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
-
+<!--NINJA KAMUI-->
 	<channel>
 		<name>[B]NINJA KAMUI[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0269.webp</thumbnail>
@@ -2392,7 +2392,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
-
+<!--NIER:AUTOMATA VER1.1A-->
 	<channel>
 		<name>[B]NIER:AUTOMATA VER1.1A[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0252.webp</thumbnail>
@@ -2405,7 +2405,7 @@ TEMPORADAS: 1
 STATUS: Finalizado | Incompleto
 		</info>
 	</channel>
-
+<!--NARUTO SHIPPUDEN--><!-- BAIXAR DO ZERO TA MUITO BAGUNÇADO -->
 	<channel>
 		<name>[B]NARUTO SHIPPUDEN[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0091.webp</thumbnail>
@@ -2418,7 +2418,7 @@ TEMPORADAS: 5 de 22
 STATUS: Finalizado | Incompleto
 		</info>
 	</channel>
-
+<!--NARUTO-->
 	<channel>
 		<name>[B]NARUTO[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0065.webp</thumbnail>
@@ -2431,7 +2431,7 @@ TEMPORADAS: 9
 STATUS: Finalizado
 		</info>
 	</channel>
-
+<!--ONE PIECE-->
 	<channel>
 		<name>[B]ONE PIECE[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0131.webp</thumbnail>
@@ -2444,7 +2444,7 @@ TEMPORADAS: 4 de 14
 STATUS: Renovado | Incompleto
 		</info>
 	</channel>
-
+<!--ONYX EQUINOX-->
 	<channel>
 		<name>[B]ONYX EQUINOX[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0138.webp</thumbnail>
@@ -2457,7 +2457,7 @@ TEMPORADAS: 1
 STATUS: Cancelado
 		</info>
 	</channel>
-
+<!--OS SETE PECADOS CAPITAIS-->
 	<channel>
 		<name>[B]OS SETE PECADOS CAPITAIS[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0024.webp</thumbnail>
@@ -2470,7 +2470,7 @@ TEMPORADAS: 5
 STATUS: Finalizado
 		</info>
 	</channel>
-
+<!--OWARIMONOGATARI-->
 	<channel>
 		<name>[B]OWARIMONOGATARI[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0162.webp</thumbnail>
@@ -2483,7 +2483,7 @@ TEMPORADAS: 1 de 5
 STATUS: Renovado
 		</info>
 	</channel>
-
+<!--OUR LAST CRUSADE OR THE RISE OF A NEW WORLD-->
 	<channel>
 		<name>[B]OUR LAST CRUSADE OR THE RISE OF A NEW WORLD[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0222.webp</thumbnail>
@@ -2496,7 +2496,7 @@ TEMPORADAS: 1 de 2
 STATUS: Renovado
 		</info>
 	</channel>
-
+<!--OS CAVALEIROS DO ZODÍACO: ÔMEGA-->
 	<channel>
 		<name>[B]OS CAVALEIROS DO ZODÍACO: ÔMEGA[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0190.webp</thumbnail>
@@ -2509,7 +2509,7 @@ TEMPORADAS: 1
 STATUS: Finalizado | Incompleto
 		</info>
 	</channel>
-
+<!--OS CAVALEIROS DO ZODÍACO: ALMA DE OURO-->
 	<channel>
 		<name>[B]OS CAVALEIROS DO ZODÍACO: ALMA DE OURO[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0187.webp</thumbnail>
@@ -2522,7 +2522,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
-
+<!--OS CAVALEIROS DO ZODÍACO: SAINT SEIYA-->
 	<channel>
 		<name>[B]OS CAVALEIROS DO ZODÍACO: SAINT SEIYA[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0057.webp</thumbnail>
@@ -2535,7 +2535,7 @@ TEMPORADAS: 2
 STATUS: Finalizado
 		</info>
 	</channel>
-
+<!--OS CAVALEIROS DO ZODÍACO: A SAGA DE HADES-->
 	<channel>
 		<name>[B]OS CAVALEIROS DO ZODÍACO: A SAGA DE HADES[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0012.webp</thumbnail>
@@ -2548,7 +2548,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
-
+<!--OS CAVALEIROS DO ZODÍACO: A SAGA DE POSEIDON-->
 	<channel>
 		<name>[B]OS CAVALEIROS DO ZODÍACO: A SAGA DE POSEIDON[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0011.webp</thumbnail>
@@ -2561,7 +2561,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
-
+<!--OS CAVALEIROS DO ZODÍACO: A SAGA DE ASGARD-->
 	<channel>
 		<name>[B]OS CAVALEIROS DO ZODÍACO: A SAGA DE ASGARD[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0010.webp</thumbnail>
@@ -2574,7 +2574,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
-
+<!--OS CAVALEIROS DO ZODÍACO: A SAGA DO SANTUÁRIO-->
 	<channel>
 		<name>[B]OS CAVALEIROS DO ZODÍACO: A SAGA DO SANTUÁRIO[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0009.webp</thumbnail>
@@ -2587,7 +2587,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
-
+<!--OS CAVALEIROS DO ZODÍACO: THE LOST CANVAS-->
 	<channel>
 		<name>[B]OS CAVALEIROS DO ZODÍACO: THE LOST CANVAS[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0055.webp</thumbnail>
@@ -2600,7 +2600,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
-
+<!--ONE PUNCH MAN-->
 	<channel>
 		<name>[B]ONE PUNCH MAN[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0007.webp</thumbnail>
@@ -2613,7 +2613,7 @@ TEMPORADAS: 2
 STATUS: Renovado
 		</info>
 	</channel>
-
+<!--ORANGE-->
 	<channel>
 		<name>[B]ORANGE[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0082.webp</thumbnail>
@@ -2626,7 +2626,7 @@ TEMPORADAS: 1
 STATUS: Renovado
 		</info>
 	</channel>
-
+<!--ORIENT-->
 	<channel>
 		<name>[B]ORIENT[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0242.webp</thumbnail>
@@ -2639,7 +2639,7 @@ TEMPORADAS: 1
 STATUS: Finalizado | Incompleto
 		</info>
 	</channel>
-
+<!--PILOTOS DE DRAGÃO-->
 	<channel>
 		<name>[B]PILOTOS DE DRAGÃO[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0200.webp</thumbnail>
@@ -2652,7 +2652,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
-
+<!--POKÉMON: SÉRIE JORNADAS-->
 	<channel>
 		<name>[B]POKÉMON: SÉRIE JORNADAS[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0029.webp</thumbnail>
@@ -2665,7 +2665,7 @@ TEMPORADAS: 1
 STATUS: Renovado
 		</info>
 	</channel>
-
+<!--PARASYTE -THE MAXIM- -->
 	<channel>
 		<name>[B]PARASYTE -THE MAXIM-[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0173.webp</thumbnail>
@@ -2678,7 +2678,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
-
+<!--POKÉMON: LIGA ÍNDIGO-->
 	<channel>
 		<name>[B]POKÉMON: LIGA ÍNDIGO[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0056.webp</thumbnail>
@@ -2691,7 +2691,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
-
+<!--POKÉMON: LIGA LARANJA-->
 	<channel>
 		<name>[B]POKÉMON: LIGA LARANJA[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0113.webp</thumbnail>
@@ -2704,7 +2704,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
-
+<!--PSYCHO-PASS: PECADORES DO SISTEMA-->
 	<channel>
 		<name>[B]PSYCHO-PASS: PECADORES DO SISTEMA[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0254.webp</thumbnail>
@@ -2717,7 +2717,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
-
+<!--RANKING OF KINGS-->
 	<channel>
 		<name>[B]RANKING OF KINGS[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0246.webp</thumbnail>
@@ -2730,7 +2730,7 @@ TEMPORADAS: 1 de 2
 STATUS: Finalizado | Incompleto
 		</info>
 	</channel>
-
+<!--ROKKA NO YUUSHA-->
 	<channel>
 		<name>[B]ROKKA NO YUUSHA[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0080.webp</thumbnail>
@@ -2743,7 +2743,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
-
+<!--REVISIONS-->
 	<channel>
 		<name>[B]REVISIONS[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0111.webp</thumbnail>
@@ -2756,7 +2756,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
-
+<!--RECOVERY OF AN MMO JUNKIE-->
 	<channel>
 		<name>[B]RECOVERY OF AN MMO JUNKIE[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0081.webp</thumbnail>
@@ -2769,7 +2769,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
-
+<!--RADIANT-->
 	<channel>
 		<name>[B]RADIANT[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0154.webp</thumbnail>
@@ -2782,7 +2782,7 @@ TEMPORADAS: 2
 STATUS: Finalizado | Incompleto
 		</info>
 	</channel>
-
+<!--RAGE OF BAHAMUT GENESIS-->
 	<channel>
 		<name>[B]RAGE OF BAHAMUT GENESIS[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0064.webp</thumbnail>
@@ -2795,7 +2795,7 @@ TEMPORADAS: 2
 STATUS: Finalizado
 		</info>
 	</channel>
-
+<!--RUMBLE GARANNDOLL-->
 	<channel>
 		<name>[B]RUMBLE GARANNDOLL[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0221.webp</thumbnail>
@@ -2808,7 +2808,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
-
+<!--RANMA ½-->
 	<channel>
 		<name>[B]RANMA ½[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0208.webp</thumbnail>
@@ -2821,7 +2821,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
-
+<!--RECORD OF RAGNAROK-->
 	<channel>
 		<name>[B]RECORD OF RAGNAROK[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0195.webp</thumbnail>
@@ -2834,7 +2834,7 @@ TEMPORADAS: 1 de 3
 STATUS: Renovado | Incompleto
 		</info>
 	</channel>
-
+<!--REVENGER-->
 	<channel>
 		<name>[B]REVENGER[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0255.webp</thumbnail>
@@ -2847,7 +2847,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
-
+<!--SHANGRI-LA FRONTIER-->
 	<channel>
 		<name>[B]SHANGRI-LA FRONTIER[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0272.webp</thumbnail>
