@@ -1,10 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <items>
-<item><title>[B]Seis Punhos: T1 - Episódio 01[/B]</title><thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0101.webp</thumbnail><fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0101_fanart.webp</fanart><genre>Dublado</genre><info>[COLOR red][B]● Classificação +16[/B][/COLOR]</info><link>plugin://plugin.loopplay/?action=play&item_id=1wdtuUf_a9sVzB5-Bp5JmYDNR0ZpyMtaC&item_driveid=13317096135560461908&driveid=17776824897305541588</link></item>
-<item><title>[B]Seis Punhos: T1 - Episódio 02[/B]</title><thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0101.webp</thumbnail><fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0101_fanart.webp</fanart><genre>Dublado</genre><info>[COLOR red][B]● Classificação +16[/B][/COLOR]</info><link>plugin://plugin.loopplay/?action=play&item_id=1IKgikP4nUldvFOVMBl6mIfNq4axeZmUP&item_driveid=13317096135560461908&driveid=17776824897305541588</link></item>
-<item><title>[B]Seis Punhos: T1 - Episódio 03[/B]</title><thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0101.webp</thumbnail><fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0101_fanart.webp</fanart><genre>Dublado</genre><info>[COLOR red][B]● Classificação +16[/B][/COLOR]</info><link>plugin://plugin.loopplay/?action=play&item_id=1AxCxWON8J7FQfIHq_n725iIpkejx1EyR&item_driveid=13317096135560461908&driveid=17776824897305541588</link></item>
-<item><title>[B]Seis Punhos: T1 - Episódio 04[/B]</title><thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0101.webp</thumbnail><fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0101_fanart.webp</fanart><genre>Dublado</genre><info>[COLOR red][B]● Classificação +16[/B][/COLOR]</info><link>plugin://plugin.loopplay/?action=play&item_id=1N9PlfMuFWOpsam-ZM0ulDx3FcPPaccBZ&item_driveid=13317096135560461908&driveid=17776824897305541588</link></item>
-<item><title>[B]Seis Punhos: T1 - Episódio 05[/B]</title><thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0101.webp</thumbnail><fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0101_fanart.webp</fanart><genre>Dublado</genre><info>[COLOR red][B]● Classificação +16[/B][/COLOR]</info><link>plugin://plugin.loopplay/?action=play&item_id=1duamjfpNcSMZ-jQS2C7TYjPl_Ym_09MM&item_driveid=13317096135560461908&driveid=17776824897305541588</link></item>
-<item><title>[B]Seis Punhos: T1 - Episódio 06[/B]</title><thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0101.webp</thumbnail><fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0101_fanart.webp</fanart><genre>Dublado</genre><info>[COLOR red][B]● Classificação +16[/B][/COLOR]</info><link>plugin://plugin.loopplay/?action=play&item_id=1aPoIk3laqVrqhg1_66-7hjzY1tKKQiib&item_driveid=13317096135560461908&driveid=17776824897305541588</link></item>
-<item><title>[B]Seis Punhos: T1 - Episódio 07[/B]</title><thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0101.webp</thumbnail><fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0101_fanart.webp</fanart><genre>Dublado</genre><info>[COLOR red][B]● Classificação +16[/B][/COLOR]</info><link>plugin://plugin.loopplay/?action=play&item_id=12HrwFB_6dPpQWIYqqmAVjFc98yak0Ae-&item_driveid=13317096135560461908&driveid=17776824897305541588</link></item>
-<item><title>[B]Seis Punhos: T1 - Episódio 08[/B]</title><thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0101.webp</thumbnail><fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0101_fanart.webp</fanart><genre>Dublado</genre><info>[COLOR red][B]● Classificação +16[/B][/COLOR]</info><link>plugin://plugin.loopplay/?action=play&item_id=1GibM3GZMq8FomUvk1lBbGSvOEZY8gACS&item_driveid=13317096135560461908&driveid=17776824897305541588</link></item>
+	<item>
+		<title>[B]Seis Punhos: T1 - Episódio 01[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0101.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0101_fanart.webp</fanart>
+		<genre>Ação | Aventura | Fantasia</genre>
+		<info>[COLOR red][B]● Classificação +16[/B][/COLOR]
+ÁUDIO: Japonês
+ANO: 2019
+TEMPORADA: 1
+EPISÓDIO: 01
+		</info>
+		<link>plugin://plugin.loopplay/?action=play&item_id=1wdtuUf_a9sVzB5-Bp5JmYDNR0ZpyMtaC&item_driveid=13317096135560461908&driveid=17776824897305541588&content_type=video</link>
+	</item>
+	<item>
+		<title>[B]Seis Punhos: T1 - Episódio 02[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0101.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0101_fanart.webp</fanart>
+		<genre>Ação | Aventura | Fantasia</genre>
+		<info>[COLOR red][B]● Classificação +16[/B][/COLOR]
+ÁUDIO: Japonês
+ANO: 2019
+TEMPORADA: 1
+EPISÓDIO: 02
+		</info>
+		<link>plugin://plugin.loopplay/?action=play&item_id=1IKgikP4nUldvFOVMBl6mIfNq4axeZmUP&item_driveid=13317096135560461908&driveid=17776824897305541588&content_type=video</link>
+	</item>
+	<item>
+		<title>[B]Seis Punhos: T1 - Episódio 03[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0101.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0101_fanart.webp</fanart>
+		<genre>Ação | Aventura | Fantasia</genre>
+		<info>[COLOR red][B]● Classificação +16[/B][/COLOR]
+ÁUDIO: Japonês
+ANO: 2019
+TEMPORADA: 1
+EPISÓDIO: 03
+		</info>
+		<link>plugin://plugin.loopplay/?action=play&item_id=1AxCxWON8J7FQfIHq_n725iIpkejx1EyR&item_driveid=13317096135560461908&driveid=17776824897305541588&content_type=video</link>
+	</item>
+	<item>
+		<title>[B]Seis Punhos: T1 - Episódio 04[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0101.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0101_fanart.webp</fanart>
+		<genre>Ação | Aventura | Fantasia</genre>
+		<info>[COLOR red][B]● Classificação +16[/B][/COLOR]
+ÁUDIO: Japonês
+ANO: 2019
+TEMPORADA: 1
+EPISÓDIO: 04
+		</info>
+		<link>plugin://plugin.loopplay/?action=play&item_id=1N9PlfMuFWOpsam-ZM0ulDx3FcPPaccBZ&item_driveid=13317096135560461908&driveid=17776824897305541588&content_type=video</link>
+	</item>
+	<item>
+		<title>[B]Seis Punhos: T1 - Episódio 05[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0101.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0101_fanart.webp</fanart>
+		<genre>Ação | Aventura | Fantasia</genre>
+		<info>[COLOR red][B]● Classificação +16[/B][/COLOR]
+ÁUDIO: Japonês
+ANO: 2019
+TEMPORADA: 1
+EPISÓDIO: 05
+		</info>
+		<link>plugin://plugin.loopplay/?action=play&item_id=1duamjfpNcSMZ-jQS2C7TYjPl_Ym_09MM&item_driveid=13317096135560461908&driveid=17776824897305541588&content_type=video</link>
+	</item>
+	<item>
+		<title>[B]Seis Punhos: T1 - Episódio 06[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0101.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0101_fanart.webp</fanart>
+		<genre>Ação | Aventura | Fantasia</genre>
+		<info>[COLOR red][B]● Classificação +16[/B][/COLOR]
+ÁUDIO: Japonês
+ANO: 2019
+TEMPORADA: 1
+EPISÓDIO: 06
+		</info>
+		<link>plugin://plugin.loopplay/?action=play&item_id=1aPoIk3laqVrqhg1_66-7hjzY1tKKQiib&item_driveid=13317096135560461908&driveid=17776824897305541588&content_type=video</link>
+	</item>
+	<item>
+		<title>[B]Seis Punhos: T1 - Episódio 07[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0101.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0101_fanart.webp</fanart>
+		<genre>Ação | Aventura | Fantasia</genre>
+		<info>[COLOR red][B]● Classificação +16[/B][/COLOR]
+ÁUDIO: Japonês
+ANO: 2019
+TEMPORADA: 1
+EPISÓDIO: 07
+		</info>
+		<link>plugin://plugin.loopplay/?action=play&item_id=12HrwFB_6dPpQWIYqqmAVjFc98yak0Ae-&item_driveid=13317096135560461908&driveid=17776824897305541588&content_type=video</link>
+	</item>
+	<item>
+		<title>[B]Seis Punhos: T1 - Episódio 08[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0101.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0101_fanart.webp</fanart>
+		<genre>Ação | Aventura | Fantasia</genre>
+		<info>[COLOR red][B]● Classificação +16[/B][/COLOR]
+ÁUDIO: Japonês
+ANO: 2019
+TEMPORADA: 1
+EPISÓDIO: 08
+		</info>
+		<link>plugin://plugin.loopplay/?action=play&item_id=1GibM3GZMq8FomUvk1lBbGSvOEZY8gACS&item_driveid=13317096135560461908&driveid=17776824897305541588&content_type=video</link>
+	</item>
 </items>
