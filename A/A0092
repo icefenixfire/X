@@ -1,8 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <items>
-<item><title>[B]Trese: T1 - Episódio 01[/B]</title><thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0092.webp</thumbnail><fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0092_fanart.webp</fanart><genre>Dublado</genre><info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]</info><link>https://vk.com/doc281689990_601750549</link></item>
-<item><title>[B]Trese: T1 - Episódio 02[/B]</title><thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0092.webp</thumbnail><fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0092_fanart.webp</fanart><genre>Dublado</genre><info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]</info><link>https://vk.com/doc281689990_601750764</link></item>
-<item><title>[B]Trese: T1 - Episódio 03[/B]</title><thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0092.webp</thumbnail><fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0092_fanart.webp</fanart><genre>Dublado</genre><info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]</info><link>https://vk.com/doc281689990_601751174</link></item>
-<item><title>[B]Trese: T1 - Episódio 04[/B]</title><thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0092.webp</thumbnail><fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0092_fanart.webp</fanart><genre>Dublado</genre><info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]</info><link>https://vk.com/doc281689990_601751721</link></item>
-<item><title>[B]Trese: T1 - Episódio 05[/B]</title><thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0092.webp</thumbnail><fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0092_fanart.webp</fanart><genre>Dublado</genre><info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]</info><link>https://vk.com/doc281689990_601752190</link></item>
-<item><title>[B]Trese: T1 - Episódio 06[/B]</title><thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0092.webp</thumbnail><fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0092_fanart.webp</fanart><genre>Dublado</genre><info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]</info><link>https://vk.com/doc281689990_601753340</link></item>
+	<item>
+		<title>[B]Trese: Episódio 01[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0092.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0092_fanart.webp</fanart>
+		<genre>Ficção | Fantasia | Sobrenatural</genre>
+		<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2021
+TEMPORADA: 1
+EPISÓDIO: 01
+		</info>
+		<link>https://archive.org/download/A000000/A0092_T1_E01.mkv</link>
+	</item>
+	<item>
+		<title>[B]Trese: Episódio 02[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0092.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0092_fanart.webp</fanart>
+		<genre>Ficção | Fantasia | Sobrenatural</genre>
+		<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2021
+TEMPORADA: 1
+EPISÓDIO: 02
+		</info>
+		<link>https://archive.org/download/A000000/A0092_T1_E02.mkv</link>
+	</item>
+	<item>
+		<title>[B]Trese: Episódio 03[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0092.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0092_fanart.webp</fanart>
+		<genre>Ficção | Fantasia | Sobrenatural</genre>
+		<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2021
+TEMPORADA: 1
+EPISÓDIO: 03
+		</info>
+		<link>https://archive.org/download/A000000/A0092_T1_E03.mkv</link>
+	</item>
+	<item>
+		<title>[B]Trese: Episódio 04[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0092.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0092_fanart.webp</fanart>
+		<genre>Ficção | Fantasia | Sobrenatural</genre>
+		<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2021
+TEMPORADA: 1
+EPISÓDIO: 04
+		</info>
+		<link>https://archive.org/download/A000000/A0092_T1_E04.mkv</link>
+	</item>
+	<item>
+		<title>[B]Trese: Episódio 05[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0092.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0092_fanart.webp</fanart>
+		<genre>Ficção | Fantasia | Sobrenatural</genre>
+		<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2021
+TEMPORADA: 1
+EPISÓDIO: 05
+		</info>
+		<link>https://archive.org/download/A000000/A0092_T1_E05.mkv</link>
+	</item>
+	<item>
+		<title>[B]Trese: Episódio 06[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0092.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0092_fanart.webp</fanart>
+		<genre>Ficção | Fantasia | Sobrenatural</genre>
+		<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2021
+TEMPORADA: 1
+EPISÓDIO: 06
+		</info>
+		<link>https://archive.org/download/A000000/A0092_T1_E06.mkv</link>
+	</item>
 </items>
