@@ -2860,7 +2860,7 @@ TEMPORADAS: 2
 STATUS: Renovado | Incompleto
 		</info>
 	</channel>
-
+<!--SCHWARZESMARKEN-->
 	<channel>
 		<name>[B]SCHWARZESMARKEN[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0078.webp</thumbnail>
@@ -2873,7 +2873,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
-
+<!--SAGA OF TANYA THE EVIL-->
 	<channel>
 		<name>[B]SAGA OF TANYA THE EVIL[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0079.webp</thumbnail>
@@ -2886,7 +2886,7 @@ TEMPORADAS: 1
 STATUS: Renovado
 		</info>
 	</channel>
-
+<!--SUPERNATURAL: THE ANIMATION-->
 	<channel>
 		<name>[B]SUPERNATURAL: THE ANIMATION[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0155.webp</thumbnail>
@@ -2899,7 +2899,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
-
+<!--SWORD ART ONLINE-->
 	<channel>
 		<name>[B]SWORD ART ONLINE[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0070.webp</thumbnail>
@@ -2912,7 +2912,7 @@ TEMPORADAS: 3
 STATUS: Finalizado
 		</info>
 	</channel>
-
+<!--SEIS PUNHOS-->
 	<channel>
 		<name>[B]SEIS PUNHOS[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0101.webp</thumbnail>
@@ -2925,7 +2925,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
-
+<!--SUPER CAMPEÕES: CAPITÃO TSUBASA-->
 	<channel>
 		<name>[B]SUPER CAMPEÕES: CAPITÃO TSUBASA[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0102.webp</thumbnail>
@@ -2938,7 +2938,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
-
+<!--SABER MARIONETTE J-->
 	<channel>
 		<name>[B]SABER MARIONETTE J[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0136.webp</thumbnail>
@@ -2951,7 +2951,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
-
+<!--SABER MARIONETTE J AGAIN-->
 	<channel>
 		<name>[B]SABER MARIONETTE J AGAIN[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0258.webp</thumbnail>
@@ -2964,7 +2964,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
-
+<!--SABER MARIONETTE J TO X-->
 	<channel>
 		<name>[B]SABER MARIONETTE J TO X</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0259.webp</thumbnail>
@@ -2977,7 +2977,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
-
+<!--STEINS GATE-->
 	<channel>
 		<name>[B]STEINS GATE[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0146.webp</thumbnail>
@@ -2990,7 +2990,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
-
+<!--STEINS GATE 0-->
 	<channel>
 		<name>[B]STEINS GATE 0[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0238.webp</thumbnail>
@@ -3003,7 +3003,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
-
+<!--SCARLET NEXUS-->
 	<channel>
 		<name>[B]SCARLET NEXUS[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0236.webp</thumbnail>
@@ -3016,7 +3016,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
-
+<!--SERAPH OF THE END-->
 	<channel>
 		<name>[B]SERAPH OF THE END[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0235.webp</thumbnail>
@@ -3029,7 +3029,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
-
+<!--SPICE AND WOLF-->
 	<channel>
 		<name>[B]SPICE AND WOLF[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0234.webp</thumbnail>
@@ -3042,7 +3042,7 @@ TEMPORADAS: 2
 STATUS: Finalizado
 		</info>
 	</channel>
-
+<!--SONNY BOY-->
 	<channel>
 		<name>[B]SONNY BOY[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0220.webp</thumbnail>
@@ -3055,7 +3055,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
-
+<!--STAND MY HEROES: PIECE OF TRUTH-->
 	<channel>
 		<name>[B]STAND MY HEROES: PIECE OF TRUTH[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0219.webp</thumbnail>
@@ -3068,7 +3068,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
-
+<!--SUPER CUB-->
 	<channel>
 		<name>[B]SUPER CUB[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0218.webp</thumbnail>
@@ -3081,7 +3081,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
-
+<!--SERIAL EXPERIMENTS LAIN-->
 	<channel>
 		<name>[B]SERIAL EXPERIMENTS LAIN[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0210.webp</thumbnail>
@@ -3107,7 +3107,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
-
+<!--SUPER CROOKS-->
 	<channel>
 		<name>[B]SUPER CROOKS[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0201.webp</thumbnail>
@@ -3120,7 +3120,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
-
+<!--SO IM A SPIDER, SO WHAT?-->
 	<channel>
 		<name>[B]SO IM A SPIDER, SO WHAT?[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0169.webp</thumbnail>
@@ -3133,7 +3133,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
-
+<!--SWORDGAI THE ANIMATION-->
 	<channel>
 		<name>[B]SWORDGAI THE ANIMATION[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0053.webp</thumbnail>
@@ -3146,7 +3146,7 @@ TEMPORADAS: 2
 STATUS: Finalizado
 		</info>
 	</channel>
-
+<!--SIRIUS THE JAEGER-->
 	<channel>
 		<name>[B]SIRIUS THE JAEGER[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0046.webp</thumbnail>
@@ -3159,7 +3159,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
-
+<!--SAKURA CARD CAPTORS-->
 	<channel>
 		<name>[B]SAKURA CARD CAPTORS[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0044.webp</thumbnail>
@@ -3172,7 +3172,7 @@ TEMPORADAS: 3 de 4
 STATUS: Finalizado | Incompleto
 		</info>
 	</channel>
-
+<!--SAMURAI CHAMPLOO-->
 	<channel>
 		<name>[B]SAMURAI CHAMPLOO[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0020.webp</thumbnail>
@@ -3185,7 +3185,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
-
+<!--STREET FIGHTER II VICTORY-->
 	<channel>
 		<name>[B]STREET FIGHTER II VICTORY[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0017.webp</thumbnail>
@@ -3198,7 +3198,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
-
+<!--SHURATO-->
 	<channel>
 		<name>[B]SHURATO[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0016.webp</thumbnail>
@@ -3211,7 +3211,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
-
+<!--SAMURAI X-->
 	<channel>
 		<name>[B]SAMURAI X[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0015.webp</thumbnail>
@@ -3224,7 +3224,7 @@ TEMPORADAS: 3
 STATUS: Finalizado
 		</info>
 	</channel>
-
+<!--SAMURAI TROOPERS [WARRIORS]-->
 	<channel>
 		<name>[B]SAMURAI TROOPERS [WARRIORS][/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0014.webp</thumbnail>
@@ -3237,7 +3237,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
-
+<!--SAMURAI DE OLHOS AZUIS-->
 	<channel>
 		<name>[B]SAMURAI DE OLHOS AZUIS[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0268.webp</thumbnail>
@@ -3250,7 +3250,7 @@ TEMPORADAS: 1
 STATUS: Renovado
 		</info>
 	</channel>
-
+<!--SPY X FAMILY-->
 	<channel>
 		<name>[B]SPY X FAMILY[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0205.webp</thumbnail>
