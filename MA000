@@ -1,5 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <channels>
+<!--DRAGON BALL DAIMA-->
+	<channel>
+		<name>[B]DRAGON BALL DAIMA[/B]</name>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0301.webp</thumbnail>
+		<externallink>https://raw.githubusercontent.com/icefenixfire/X/main/A/A0301</externallink>
+		<genre>Ação | Aventura | Fantasia</genre>
+		<info>[COLOR yellow][B]● Classificação Indicativa +12[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2025
+TEMPORADAS: 1
+STATUS: Finalizado
+		</info>
+	</channel>
 <!--O SANGUE DE ZEUS-->
 	<channel>
 		<name>[B]O SANGUE DE ZEUS[/B]</name>
@@ -3840,7 +3853,7 @@ STATUS: Finalizado | Incompleto
 		<name>[B]OVA/FILME[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/O/main/OV0000.webp</thumbnail>
 		<externallink>https://raw.githubusercontent.com/icefenixfire/X/main/A/OV0000</externallink>
-		<genre/>
+		<genre></genre>
 		<info>[B]OVA's e Filmes[/B]</info>
 	</channel>
 
