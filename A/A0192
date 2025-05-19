@@ -1,8 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <items>
-<item><title>[B]Yasuke: T1 - Episódio 01[/B]</title><thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0192.webp</thumbnail><fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0192_fanart.webp</fanart><genre>Dublado</genre><info>[COLOR crimson][B]● Classificação +18[/B][/COLOR]</info><link>https://vk.com/doc281689990_596816349</link></item>
-<item><title>[B]Yasuke: T1 - Episódio 02[/B]</title><thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0192.webp</thumbnail><fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0192_fanart.webp</fanart><genre>Dublado</genre><info>[COLOR crimson][B]● Classificação +18[/B][/COLOR]</info><link>https://vk.com/doc281689990_596825716</link></item>
-<item><title>[B]Yasuke: T1 - Episódio 03[/B]</title><thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0192.webp</thumbnail><fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0192_fanart.webp</fanart><genre>Dublado</genre><info>[COLOR crimson][B]● Classificação +18[/B][/COLOR]</info><link>https://vk.com/doc281689990_596828716</link></item>
-<item><title>[B]Yasuke: T1 - Episódio 04[/B]</title><thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0192.webp</thumbnail><fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0192_fanart.webp</fanart><genre>Dublado</genre><info>[COLOR crimson][B]● Classificação +18[/B][/COLOR]</info><link>https://vk.com/doc281689990_596836917</link></item>
-<item><title>[B]Yasuke: T1 - Episódio 05[/B]</title><thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0192.webp</thumbnail><fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0192_fanart.webp</fanart><genre>Dublado</genre><info>[COLOR crimson][B]● Classificação +18[/B][/COLOR]</info><link>https://vk.com/doc281689990_596838280</link></item>
-<item><title>[B]Yasuke: T1 - Episódio 06[/B]</title><thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0192.webp</thumbnail><fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0192_fanart.webp</fanart><genre>Dublado</genre><info>[COLOR crimson][B]● Classificação +18[/B][/COLOR]</info><link>https://vk.com/doc281689990_596842547</link></item>
+	<item>
+		<title>[B]Yasuke: Episódio 01[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0192.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0192_fanart.webp</fanart>
+		<genre>Ação | Fantasia | Drama | Aventura</genre>
+		<info>[COLOR crimson][B]● Classificação +18[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2021
+TEMPORADA: 1
+EPISÓDIO: 01
+		</info>
+		<link>https://archive.org/download/A000000/A0192_T1_E01.mkv</link>
+	</item>
+	<item>
+		<title>[B]Yasuke: Episódio 02[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0192.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0192_fanart.webp</fanart>
+		<genre>Ação | Fantasia | Drama | Aventura</genre>
+		<info>[COLOR crimson][B]● Classificação +18[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2021
+TEMPORADA: 1
+EPISÓDIO: 02
+		</info>
+		<link>https://archive.org/download/A000000/A0192_T1_E02.mkv</link>
+	</item>
+	<item>
+		<title>[B]Yasuke: Episódio 03[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0192.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0192_fanart.webp</fanart>
+		<genre>Ação | Fantasia | Drama | Aventura</genre>
+		<info>[COLOR crimson][B]● Classificação +18[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2021
+TEMPORADA: 1
+EPISÓDIO: 03
+		</info>
+		<link>https://archive.org/download/A000000/A0192_T1_E03.mkv</link>
+	</item>
+	<item>
+		<title>[B]Yasuke: Episódio 04[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0192.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0192_fanart.webp</fanart>
+		<genre>Ação | Fantasia | Drama | Aventura</genre>
+		<info>[COLOR crimson][B]● Classificação +18[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2021
+TEMPORADA: 1
+EPISÓDIO: 04
+		</info>
+		<link>https://archive.org/download/A000000/A0192_T1_E04.mkv</link>
+	</item>
+	<item>
+		<title>[B]Yasuke: Episódio 05[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0192.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0192_fanart.webp</fanart>
+		<genre>Ação | Fantasia | Drama | Aventura</genre>
+		<info>[COLOR crimson][B]● Classificação +18[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2021
+TEMPORADA: 1
+EPISÓDIO: 05
+		</info>
+		<link>https://archive.org/download/A000000/A0192_T1_E05.mkv</link>
+	</item>
+	<item>
+		<title>[B]Yasuke: Episódio 06[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0192.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0192_fanart.webp</fanart>
+		<genre>Ação | Fantasia | Drama | Aventura</genre>
+		<info>[COLOR crimson][B]● Classificação +18[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2021
+TEMPORADA: 1
+EPISÓDIO: 06
+		</info>
+		<link>https://archive.org/download/A000000/A0192_T1_E06.mkv</link>
+	</item>
 </items>
