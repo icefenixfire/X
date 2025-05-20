@@ -2,13 +2,26 @@
 <channels>
 <!--DRAGON BALL DAIMA-->
 	<channel>
+		<name>[B]AYAKASHI JAPANESE CLASSIC HORROR[/B]</name>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0302.webp</thumbnail>
+		<externallink>https://raw.githubusercontent.com/icefenixfire/X/main/A/A0302</externallink>
+		<genre>Terror | Fantasia | Drama</genre>
+		<info>[COLOR crimson][B]● Classificação Indicativa +18[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2006
+TEMPORADAS: 1
+STATUS: Finalizado
+		</info>
+	</channel>
+<!--DRAGON BALL DAIMA-->
+	<channel>
 		<name>[B]DRAGON BALL DAIMA[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0301.webp</thumbnail>
 		<externallink>https://raw.githubusercontent.com/icefenixfire/X/main/A/A0301</externallink>
 		<genre>Ação | Aventura | Fantasia</genre>
 		<info>[COLOR yellow][B]● Classificação Indicativa +12[/B][/COLOR]
 ÁUDIO: Português
-ANO: 2025
+ANO: 2024
 TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
