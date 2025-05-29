@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <channels>
 
+<!--THUNDERCATS-->
+	<channel>
+		<name>[B]THUNDERCATS[/B][COLOR red][Versão IA Remaster][/COLOR]</name>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/D/main/D0064.webp</thumbnail>
+		<externallink>https://raw.githubusercontent.com/icefenixfire/X/main/D/D0064</externallink>
+		<genre>Ação | Fantasia | Aventura</genre>	
+		<info>[COLOR cyan][B]● Classificação +10[/B][/COLOR]
+ÁUDIO: Português
+ANO: 1985 - 1989
+TEMPORADAS: 4
+STATUS: Finalizado
+		</info>
+	</channel>
+
 	<channel>
 		<name>[B]CORRIDA MALUCA ● 1968[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/D/main/D0217.webp</thumbnail>
@@ -1292,15 +1306,6 @@
 		<name>[B]THUNDERCATS ● 2011[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/D/main/D0065.webp</thumbnail>
 		<externallink>https://raw.githubusercontent.com/icefenixfire/X/main/D/D0065</externallink>
-		<fanart></fanart>
-		<genre>Dublado</genre>
-		<info>[COLOR cyan][B]● Classificação +10[/B][/COLOR]</info>
-	</channel>
-
-	<channel>
-		<name>[B]THUNDERCATS ● 1985-1989[/B]</name>
-		<thumbnail>https://raw.githubusercontent.com/icefenixfire/D/main/D0064.webp</thumbnail>
-		<externallink>https://raw.githubusercontent.com/icefenixfire/X/main/D/D0064</externallink>
 		<fanart></fanart>
 		<genre>Dublado</genre>
 		<info>[COLOR cyan][B]● Classificação +10[/B][/COLOR]</info>
