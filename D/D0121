@@ -1,57 +1,682 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <items>
-<item><title>[B]Coragem, O Cão Covarde: T1 - Episódio 01[/B]</title><thumbnail>https://raw.githubusercontent.com/icefenixfire/D/main/D0121.webp</thumbnail><fanart>https://raw.githubusercontent.com/icefenixfire/D/main/D0121_fanart.webp</fanart><genre>Dublado</genre><info>[COLOR lime][B]● Classificação LIVRE[/B][/COLOR]</info><link>https://vk.com/doc281689990_603531905</link></item>
-<item><title>[B]Coragem, O Cão Covarde: T1 - Episódio 02[/B]</title><thumbnail>https://raw.githubusercontent.com/icefenixfire/D/main/D0121.webp</thumbnail><fanart>https://raw.githubusercontent.com/icefenixfire/D/main/D0121_fanart.webp</fanart><genre>Dublado</genre><info>[COLOR lime][B]● Classificação LIVRE[/B][/COLOR]</info><link>https://vk.com/doc281689990_603532206</link></item>
-<item><title>[B]Coragem, O Cão Covarde: T1 - Episódio 03[/B]</title><thumbnail>https://raw.githubusercontent.com/icefenixfire/D/main/D0121.webp</thumbnail><fanart>https://raw.githubusercontent.com/icefenixfire/D/main/D0121_fanart.webp</fanart><genre>Dublado</genre><info>[COLOR lime][B]● Classificação LIVRE[/B][/COLOR]</info><link>https://vk.com/doc281689990_603532709</link></item>
-<item><title>[B]Coragem, O Cão Covarde: T1 - Episódio 04[/B]</title><thumbnail>https://raw.githubusercontent.com/icefenixfire/D/main/D0121.webp</thumbnail><fanart>https://raw.githubusercontent.com/icefenixfire/D/main/D0121_fanart.webp</fanart><genre>Dublado</genre><info>[COLOR lime][B]● Classificação LIVRE[/B][/COLOR]</info><link>https://vk.com/doc281689990_603533009</link></item>
-<item><title>[B]Coragem, O Cão Covarde: T1 - Episódio 05[/B]</title><thumbnail>https://raw.githubusercontent.com/icefenixfire/D/main/D0121.webp</thumbnail><fanart>https://raw.githubusercontent.com/icefenixfire/D/main/D0121_fanart.webp</fanart><genre>Dublado</genre><info>[COLOR lime][B]● Classificação LIVRE[/B][/COLOR]</info><link>https://vk.com/doc281689990_603533012</link></item>
-<item><title>[B]Coragem, O Cão Covarde: T1 - Episódio 06[/B]</title><thumbnail>https://raw.githubusercontent.com/icefenixfire/D/main/D0121.webp</thumbnail><fanart>https://raw.githubusercontent.com/icefenixfire/D/main/D0121_fanart.webp</fanart><genre>Dublado</genre><info>[COLOR lime][B]● Classificação LIVRE[/B][/COLOR]</info><link>https://vk.com/doc281689990_603533460</link></item>
-<item><title>[B]Coragem, O Cão Covarde: T1 - Episódio 07[/B]</title><thumbnail>https://raw.githubusercontent.com/icefenixfire/D/main/D0121.webp</thumbnail><fanart>https://raw.githubusercontent.com/icefenixfire/D/main/D0121_fanart.webp</fanart><genre>Dublado</genre><info>[COLOR lime][B]● Classificação LIVRE[/B][/COLOR]</info><link>https://vk.com/doc281689990_603533458</link></item>
-<item><title>[B]Coragem, O Cão Covarde: T1 - Episódio 08[/B]</title><thumbnail>https://raw.githubusercontent.com/icefenixfire/D/main/D0121.webp</thumbnail><fanart>https://raw.githubusercontent.com/icefenixfire/D/main/D0121_fanart.webp</fanart><genre>Dublado</genre><info>[COLOR lime][B]● Classificação LIVRE[/B][/COLOR]</info><link>https://vk.com/doc281689990_603533743</link></item>
-<item><title>[B]Coragem, O Cão Covarde: T1 - Episódio 09[/B]</title><thumbnail>https://raw.githubusercontent.com/icefenixfire/D/main/D0121.webp</thumbnail><fanart>https://raw.githubusercontent.com/icefenixfire/D/main/D0121_fanart.webp</fanart><genre>Dublado</genre><info>[COLOR lime][B]● Classificação LIVRE[/B][/COLOR]</info><link>https://vk.com/doc281689990_603533744</link></item>
-<item><title>[B]Coragem, O Cão Covarde: T1 - Episódio 10[/B]</title><thumbnail>https://raw.githubusercontent.com/icefenixfire/D/main/D0121.webp</thumbnail><fanart>https://raw.githubusercontent.com/icefenixfire/D/main/D0121_fanart.webp</fanart><genre>Dublado</genre><info>[COLOR lime][B]● Classificação LIVRE[/B][/COLOR]</info><link>https://vk.com/doc281689990_603534009</link></item>
-<item><title>[B]Coragem, O Cão Covarde: T1 - Episódio 11[/B]</title><thumbnail>https://raw.githubusercontent.com/icefenixfire/D/main/D0121.webp</thumbnail><fanart>https://raw.githubusercontent.com/icefenixfire/D/main/D0121_fanart.webp</fanart><genre>Dublado</genre><info>[COLOR lime][B]● Classificação LIVRE[/B][/COLOR]</info><link>https://vk.com/doc281689990_603534010</link></item>
-<item><title>[B]Coragem, O Cão Covarde: T1 - Episódio 12[/B]</title><thumbnail>https://raw.githubusercontent.com/icefenixfire/D/main/D0121.webp</thumbnail><fanart>https://raw.githubusercontent.com/icefenixfire/D/main/D0121_fanart.webp</fanart><genre>Dublado</genre><info>[COLOR lime][B]● Classificação LIVRE[/B][/COLOR]</info><link>https://vk.com/doc281689990_603534223</link></item>
-<item><title>[B]Coragem, O Cão Covarde: T1 - Episódio 13[/B]</title><thumbnail>https://raw.githubusercontent.com/icefenixfire/D/main/D0121.webp</thumbnail><fanart>https://raw.githubusercontent.com/icefenixfire/D/main/D0121_fanart.webp</fanart><genre>Dublado</genre><info>[COLOR lime][B]● Classificação LIVRE[/B][/COLOR]</info><link>https://vk.com/doc281689990_603534225</link></item>
+	<item>
+		<title>[B]Coragem, O Cão Covarde: T1 - Episódio 01-02[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/D/main/D0121.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/D/main/D0121_fanart.webp</fanart>
+		<genre>Fantasia | Comédia | Ficção</genre>
+		<info>[COLOR cyan][B]● Classificação +10[/B][/COLOR]
+ÁUDIO: Português
+ANO: 1999 - 2002
+TEMPORADA: 1
+EPISÓDIO: 01-02
+		</info>
+		<link>https://archive.org/download/DD0000/D0121_T1_E01.mkv</link>
+	</item>
+	<item>
+		<title>[B]Coragem, O Cão Covarde: T1 - Episódio 03-04[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/D/main/D0121.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/D/main/D0121_fanart.webp</fanart>
+		<genre>Fantasia | Comédia | Ficção</genre>
+		<info>[COLOR cyan][B]● Classificação +10[/B][/COLOR]
+ÁUDIO: Português
+ANO: 1999 - 2002
+TEMPORADA: 1
+EPISÓDIO: 03-04
+		</info>
+		<link>https://archive.org/download/DD0000/D0121_T1_E02.mkv</link>
+	</item>
+	<item>
+		<title>[B]Coragem, O Cão Covarde: T1 - Episódio 05-06[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/D/main/D0121.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/D/main/D0121_fanart.webp</fanart>
+		<genre>Fantasia | Comédia | Ficção</genre>
+		<info>[COLOR cyan][B]● Classificação +10[/B][/COLOR]
+ÁUDIO: Português
+ANO: 1999 - 2002
+TEMPORADA: 1
+EPISÓDIO: 05-06
+		</info>
+		<link>https://archive.org/download/DD0000/D0121_T1_E03.mkv</link>
+	</item>
+	<item>
+		<title>[B]Coragem, O Cão Covarde: T1 - Episódio 07-08[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/D/main/D0121.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/D/main/D0121_fanart.webp</fanart>
+		<genre>Fantasia | Comédia | Ficção</genre>
+		<info>[COLOR cyan][B]● Classificação +10[/B][/COLOR]
+ÁUDIO: Português
+ANO: 1999 - 2002
+TEMPORADA: 1
+EPISÓDIO: 07-08
+		</info>
+		<link>https://archive.org/download/DD0000/D0121_T1_E04.mkv</link>
+	</item>
+	<item>
+		<title>[B]Coragem, O Cão Covarde: T1 - Episódio 09-10[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/D/main/D0121.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/D/main/D0121_fanart.webp</fanart>
+		<genre>Fantasia | Comédia | Ficção</genre>
+		<info>[COLOR cyan][B]● Classificação +10[/B][/COLOR]
+ÁUDIO: Português
+ANO: 1999 - 2002
+TEMPORADA: 1
+EPISÓDIO: 09-10
+		</info>
+		<link>https://archive.org/download/DD0000/D0121_T1_E05.mkv</link>
+	</item>
+	<item>
+		<title>[B]Coragem, O Cão Covarde: T1 - Episódio 11-12[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/D/main/D0121.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/D/main/D0121_fanart.webp</fanart>
+		<genre>Fantasia | Comédia | Ficção</genre>
+		<info>[COLOR cyan][B]● Classificação +10[/B][/COLOR]
+ÁUDIO: Português
+ANO: 1999 - 2002
+TEMPORADA: 1
+EPISÓDIO: 11-12
+		</info>
+		<link>https://archive.org/download/DD0000/D0121_T1_E06.mkv</link>
+	</item>
+	<item>
+		<title>[B]Coragem, O Cão Covarde: T1 - Episódio 13-14[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/D/main/D0121.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/D/main/D0121_fanart.webp</fanart>
+		<genre>Fantasia | Comédia | Ficção</genre>
+		<info>[COLOR cyan][B]● Classificação +10[/B][/COLOR]
+ÁUDIO: Português
+ANO: 1999 - 2002
+TEMPORADA: 1
+EPISÓDIO: 13-14
+		</info>
+		<link>https://archive.org/download/DD0000/D0121_T1_E07.mkv</link>
+	</item>
+	<item>
+		<title>[B]Coragem, O Cão Covarde: T1 - Episódio 15-16[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/D/main/D0121.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/D/main/D0121_fanart.webp</fanart>
+		<genre>Fantasia | Comédia | Ficção</genre>
+		<info>[COLOR cyan][B]● Classificação +10[/B][/COLOR]
+ÁUDIO: Português
+ANO: 1999 - 2002
+TEMPORADA: 1
+EPISÓDIO: 15-16
+		</info>
+		<link>https://archive.org/download/DD0000/D0121_T1_E08.mkv</link>
+	</item>
+	<item>
+		<title>[B]Coragem, O Cão Covarde: T1 - Episódio 17-18[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/D/main/D0121.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/D/main/D0121_fanart.webp</fanart>
+		<genre>Fantasia | Comédia | Ficção</genre>
+		<info>[COLOR cyan][B]● Classificação +10[/B][/COLOR]
+ÁUDIO: Português
+ANO: 1999 - 2002
+TEMPORADA: 1
+EPISÓDIO: 17-18
+		</info>
+		<link>https://archive.org/download/DD0000/D0121_T1_E09.mkv</link>
+	</item>
+	<item>
+		<title>[B]Coragem, O Cão Covarde: T1 - Episódio 19-20[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/D/main/D0121.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/D/main/D0121_fanart.webp</fanart>
+		<genre>Fantasia | Comédia | Ficção</genre>
+		<info>[COLOR cyan][B]● Classificação +10[/B][/COLOR]
+ÁUDIO: Português
+ANO: 1999 - 2002
+TEMPORADA: 1
+EPISÓDIO: 19-20
+		</info>
+		<link>https://archive.org/download/DD0000/D0121_T1_E10.mkv</link>
+	</item>
+	<item>
+		<title>[B]Coragem, O Cão Covarde: T1 - Episódio 21-22[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/D/main/D0121.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/D/main/D0121_fanart.webp</fanart>
+		<genre>Fantasia | Comédia | Ficção</genre>
+		<info>[COLOR cyan][B]● Classificação +10[/B][/COLOR]
+ÁUDIO: Português
+ANO: 1999 - 2002
+TEMPORADA: 1
+EPISÓDIO: 21-22
+		</info>
+		<link>https://archive.org/download/DD0000/D0121_T1_E11.mkv</link>
+	</item>
+	<item>
+		<title>[B]Coragem, O Cão Covarde: T1 - Episódio 23-24[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/D/main/D0121.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/D/main/D0121_fanart.webp</fanart>
+		<genre>Fantasia | Comédia | Ficção</genre>
+		<info>[COLOR cyan][B]● Classificação +10[/B][/COLOR]
+ÁUDIO: Português
+ANO: 1999 - 2002
+TEMPORADA: 1
+EPISÓDIO: 23-24
+		</info>
+		<link>https://archive.org/download/DD0000/D0121_T1_E12.mkv</link>
+	</item>
+	<item>
+		<title>[B]Coragem, O Cão Covarde: T1 - Episódio 25-26[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/D/main/D0121.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/D/main/D0121_fanart.webp</fanart>
+		<genre>Fantasia | Comédia | Ficção</genre>
+		<info>[COLOR cyan][B]● Classificação +10[/B][/COLOR]
+ÁUDIO: Português
+ANO: 1999 - 2002
+TEMPORADA: 1
+EPISÓDIO: 25-26
+		</info>
+		<link>https://archive.org/download/DD0000/D0121_T1_E13.mkv</link>
+	</item>
 
-<item><title>[COLOR lime][B]Coragem, O Cão Covarde: T2 - Episódio 01[/B][/COLOR]</title><thumbnail>https://raw.githubusercontent.com/icefenixfire/D/main/D0121.webp</thumbnail><fanart>https://raw.githubusercontent.com/icefenixfire/D/main/D0121_fanart.webp</fanart><genre>Dublado</genre><info>[COLOR lime][B]● Classificação LIVRE[/B][/COLOR]</info><link>https://vk.com/doc281689990_603575116</link></item>
-<item><title>[COLOR lime][B]Coragem, O Cão Covarde: T2 - Episódio 02[/B][/COLOR]</title><thumbnail>https://raw.githubusercontent.com/icefenixfire/D/main/D0121.webp</thumbnail><fanart>https://raw.githubusercontent.com/icefenixfire/D/main/D0121_fanart.webp</fanart><genre>Dublado</genre><info>[COLOR lime][B]● Classificação LIVRE[/B][/COLOR]</info><link>https://vk.com/doc281689990_603575124</link></item>
-<item><title>[COLOR lime][B]Coragem, O Cão Covarde: T2 - Episódio 03[/B][/COLOR]</title><thumbnail>https://raw.githubusercontent.com/icefenixfire/D/main/D0121.webp</thumbnail><fanart>https://raw.githubusercontent.com/icefenixfire/D/main/D0121_fanart.webp</fanart><genre>Dublado</genre><info>[COLOR lime][B]● Classificação LIVRE[/B][/COLOR]</info><link>https://vk.com/doc281689990_603576955</link></item>
-<item><title>[COLOR lime][B]Coragem, O Cão Covarde: T2 - Episódio 04[/B][/COLOR]</title><thumbnail>https://raw.githubusercontent.com/icefenixfire/D/main/D0121.webp</thumbnail><fanart>https://raw.githubusercontent.com/icefenixfire/D/main/D0121_fanart.webp</fanart><genre>Dublado</genre><info>[COLOR lime][B]● Classificação LIVRE[/B][/COLOR]</info><link>https://vk.com/doc281689990_603576862</link></item>
-<item><title>[COLOR lime][B]Coragem, O Cão Covarde: T2 - Episódio 05[/B][/COLOR]</title><thumbnail>https://raw.githubusercontent.com/icefenixfire/D/main/D0121.webp</thumbnail><fanart>https://raw.githubusercontent.com/icefenixfire/D/main/D0121_fanart.webp</fanart><genre>Dublado</genre><info>[COLOR lime][B]● Classificação LIVRE[/B][/COLOR]</info><link>https://vk.com/doc281689990_603578709</link></item>
-<item><title>[COLOR lime][B]Coragem, O Cão Covarde: T2 - Episódio 06 [indisponível][/B][/COLOR]</title><thumbnail>https://raw.githubusercontent.com/icefenixfire/D/main/D0121.webp</thumbnail><fanart>https://raw.githubusercontent.com/icefenixfire/D/main/D0121_fanart.webp</fanart><genre>Dublado</genre><info>[COLOR lime][B]● Classificação LIVRE[/B][/COLOR]</info><link>XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</link></item>
-<item><title>[COLOR lime][B]Coragem, O Cão Covarde: T2 - Episódio 07[/B][/COLOR]</title><thumbnail>https://raw.githubusercontent.com/icefenixfire/D/main/D0121.webp</thumbnail><fanart>https://raw.githubusercontent.com/icefenixfire/D/main/D0121_fanart.webp</fanart><genre>Dublado</genre><info>[COLOR lime][B]● Classificação LIVRE[/B][/COLOR]</info><link>https://vk.com/doc281689990_603578715</link></item>
-<item><title>[COLOR lime][B]Coragem, O Cão Covarde: T2 - Episódio 08[/B][/COLOR]</title><thumbnail>https://raw.githubusercontent.com/icefenixfire/D/main/D0121.webp</thumbnail><fanart>https://raw.githubusercontent.com/icefenixfire/D/main/D0121_fanart.webp</fanart><genre>Dublado</genre><info>[COLOR lime][B]● Classificação LIVRE[/B][/COLOR]</info><link>https://vk.com/doc281689990_603580113</link></item>
-<item><title>[COLOR lime][B]Coragem, O Cão Covarde: T2 - Episódio 09[/B][/COLOR]</title><thumbnail>https://raw.githubusercontent.com/icefenixfire/D/main/D0121.webp</thumbnail><fanart>https://raw.githubusercontent.com/icefenixfire/D/main/D0121_fanart.webp</fanart><genre>Dublado</genre><info>[COLOR lime][B]● Classificação LIVRE[/B][/COLOR]</info><link>https://vk.com/doc281689990_603580121</link></item>
-<item><title>[COLOR lime][B]Coragem, O Cão Covarde: T2 - Episódio 10[/B][/COLOR]</title><thumbnail>https://raw.githubusercontent.com/icefenixfire/D/main/D0121.webp</thumbnail><fanart>https://raw.githubusercontent.com/icefenixfire/D/main/D0121_fanart.webp</fanart><genre>Dublado</genre><info>[COLOR lime][B]● Classificação LIVRE[/B][/COLOR]</info><link>https://vk.com/doc281689990_603583678</link></item>
-<item><title>[COLOR lime][B]Coragem, O Cão Covarde: T2 - Episódio 11[/B][/COLOR]</title><thumbnail>https://raw.githubusercontent.com/icefenixfire/D/main/D0121.webp</thumbnail><fanart>https://raw.githubusercontent.com/icefenixfire/D/main/D0121_fanart.webp</fanart><genre>Dublado</genre><info>[COLOR lime][B]● Classificação LIVRE[/B][/COLOR]</info><link>https://vk.com/doc281689990_603581429</link></item>
-<item><title>[COLOR lime][B]Coragem, O Cão Covarde: T2 - Episódio 12[/B][/COLOR]</title><thumbnail>https://raw.githubusercontent.com/icefenixfire/D/main/D0121.webp</thumbnail><fanart>https://raw.githubusercontent.com/icefenixfire/D/main/D0121_fanart.webp</fanart><genre>Dublado</genre><info>[COLOR lime][B]● Classificação LIVRE[/B][/COLOR]</info><link>https://vk.com/doc281689990_603584489</link></item>
-<item><title>[COLOR lime][B]Coragem, O Cão Covarde: T2 - Episódio 13[/B][/COLOR]</title><thumbnail>https://raw.githubusercontent.com/icefenixfire/D/main/D0121.webp</thumbnail><fanart>https://raw.githubusercontent.com/icefenixfire/D/main/D0121_fanart.webp</fanart><genre>Dublado</genre><info>[COLOR lime][B]● Classificação LIVRE[/B][/COLOR]</info><link></link></item>
+	<item>
+		<title>[COLOR lime][B]Coragem, O Cão Covarde: T2 - Episódio 27-28[/B][/COLOR]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/D/main/D0121.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/D/main/D0121_fanart.webp</fanart>
+		<genre>Fantasia | Comédia | Ficção</genre>
+		<info>[COLOR cyan][B]● Classificação +10[/B][/COLOR]
+ÁUDIO: Português
+ANO: 1999 - 2002
+TEMPORADA: 2
+EPISÓDIO: 27-28
+		</info>
+		<link>https://archive.org/download/DD0000/D0121_T2_E01.mkv</link>
+	</item>
+	<item>
+		<title>[COLOR lime][B]Coragem, O Cão Covarde: T2 - Episódio 29-30[/B][/COLOR]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/D/main/D0121.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/D/main/D0121_fanart.webp</fanart>
+		<genre>Fantasia | Comédia | Ficção</genre>
+		<info>[COLOR cyan][B]● Classificação +10[/B][/COLOR]
+ÁUDIO: Português
+ANO: 1999 - 2002
+TEMPORADA: 2
+EPISÓDIO: 29-30
+		</info>
+		<link>https://archive.org/download/DD0000/D0121_T2_E02.mkv</link>
+	</item>
+	<item>
+		<title>[COLOR lime][B]Coragem, O Cão Covarde: T2 - Episódio 31-32[/B][/COLOR]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/D/main/D0121.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/D/main/D0121_fanart.webp</fanart>
+		<genre>Fantasia | Comédia | Ficção</genre>
+		<info>[COLOR cyan][B]● Classificação +10[/B][/COLOR]
+ÁUDIO: Português
+ANO: 1999 - 2002
+TEMPORADA: 2
+EPISÓDIO: 31-32
+		</info>
+		<link>https://archive.org/download/DD0000/D0121_T2_E03.mkv</link>
+	</item>
+	<item>
+		<title>[COLOR lime][B]Coragem, O Cão Covarde: T2 - Episódio 33-34[/B][/COLOR]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/D/main/D0121.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/D/main/D0121_fanart.webp</fanart>
+		<genre>Fantasia | Comédia | Ficção</genre>
+		<info>[COLOR cyan][B]● Classificação +10[/B][/COLOR]
+ÁUDIO: Português
+ANO: 1999 - 2002
+TEMPORADA: 2
+EPISÓDIO: 33-34
+		</info>
+		<link>https://archive.org/download/DD0000/D0121_T2_E04.mkv</link>
+	</item>
+	<item>
+		<title>[COLOR lime][B]Coragem, O Cão Covarde: T2 - Episódio 35-36[/B][/COLOR]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/D/main/D0121.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/D/main/D0121_fanart.webp</fanart>
+		<genre>Fantasia | Comédia | Ficção</genre>
+		<info>[COLOR cyan][B]● Classificação +10[/B][/COLOR]
+ÁUDIO: Português
+ANO: 1999 - 2002
+TEMPORADA: 2
+EPISÓDIO: 35-36
+		</info>
+		<link>https://archive.org/download/DD0000/D0121_T2_E05.mkv</link>
+	</item>
+	<item>
+		<title>[COLOR lime][B]Coragem, O Cão Covarde: T2 - Episódio 37-38[/B][/COLOR]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/D/main/D0121.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/D/main/D0121_fanart.webp</fanart>
+		<genre>Fantasia | Comédia | Ficção</genre>
+		<info>[COLOR cyan][B]● Classificação +10[/B][/COLOR]
+ÁUDIO: Português
+ANO: 1999 - 2002
+TEMPORADA: 2
+EPISÓDIO: 37-38
+		</info>
+		<link>https://archive.org/download/DD0000/D0121_T2_E06.mkv</link>
+	</item>
+	<item>
+		<title>[COLOR lime][B]Coragem, O Cão Covarde: T2 - Episódio 39-40[/B][/COLOR]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/D/main/D0121.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/D/main/D0121_fanart.webp</fanart>
+		<genre>Fantasia | Comédia | Ficção</genre>
+		<info>[COLOR cyan][B]● Classificação +10[/B][/COLOR]
+ÁUDIO: Português
+ANO: 1999 - 2002
+TEMPORADA: 2
+EPISÓDIO: 39-40
+		</info>
+		<link>https://archive.org/download/DD0000/D0121_T2_E07.mkv</link>
+	</item>
+	<item>
+		<title>[COLOR lime][B]Coragem, O Cão Covarde: T2 - Episódio 41-42[/B][/COLOR]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/D/main/D0121.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/D/main/D0121_fanart.webp</fanart>
+		<genre>Fantasia | Comédia | Ficção</genre>
+		<info>[COLOR cyan][B]● Classificação +10[/B][/COLOR]
+ÁUDIO: Português
+ANO: 1999 - 2002
+TEMPORADA: 2
+EPISÓDIO: 41-42
+		</info>
+		<link>https://archive.org/download/DD0000/D0121_T2_E08.mkv</link>
+	</item>
+	<item>
+		<title>[COLOR lime][B]Coragem, O Cão Covarde: T2 - Episódio 43-44[/B][/COLOR]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/D/main/D0121.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/D/main/D0121_fanart.webp</fanart>
+		<genre>Fantasia | Comédia | Ficção</genre>
+		<info>[COLOR cyan][B]● Classificação +10[/B][/COLOR]
+ÁUDIO: Português
+ANO: 1999 - 2002
+TEMPORADA: 2
+EPISÓDIO: 43-44
+		</info>
+		<link>https://archive.org/download/DD0000/D0121_T2_E09.mkv</link>
+	</item>
+	<item>
+		<title>[COLOR lime][B]Coragem, O Cão Covarde: T2 - Episódio 45-46[/B][/COLOR]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/D/main/D0121.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/D/main/D0121_fanart.webp</fanart>
+		<genre>Fantasia | Comédia | Ficção</genre>
+		<info>[COLOR cyan][B]● Classificação +10[/B][/COLOR]
+ÁUDIO: Português
+ANO: 1999 - 2002
+TEMPORADA: 2
+EPISÓDIO: 45-46
+		</info>
+		<link>https://archive.org/download/DD0000/D0121_T2_E10.mkv</link>
+	</item>
+	<item>
+		<title>[COLOR lime][B]Coragem, O Cão Covarde: T2 - Episódio 47-48[/B][/COLOR]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/D/main/D0121.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/D/main/D0121_fanart.webp</fanart>
+		<genre>Fantasia | Comédia | Ficção</genre>
+		<info>[COLOR cyan][B]● Classificação +10[/B][/COLOR]
+ÁUDIO: Português
+ANO: 1999 - 2002
+TEMPORADA: 2
+EPISÓDIO: 47-48
+		</info>
+		<link>https://archive.org/download/DD0000/D0121_T2_E11.mkv</link>
+	</item>
+	<item>
+		<title>[COLOR lime][B]Coragem, O Cão Covarde: T2 - Episódio 49-50[/B][/COLOR]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/D/main/D0121.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/D/main/D0121_fanart.webp</fanart>
+		<genre>Fantasia | Comédia | Ficção</genre>
+		<info>[COLOR cyan][B]● Classificação +10[/B][/COLOR]
+ÁUDIO: Português
+ANO: 1999 - 2002
+TEMPORADA: 2
+EPISÓDIO: 49-50
+		</info>
+		<link>https://archive.org/download/DD0000/D0121_T2_E12.mkv</link>
+	</item>
+	<item>
+		<title>[COLOR lime][B]Coragem, O Cão Covarde: T2 - Episódio 51-52[/B][/COLOR]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/D/main/D0121.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/D/main/D0121_fanart.webp</fanart>
+		<genre>Fantasia | Comédia | Ficção</genre>
+		<info>[COLOR cyan][B]● Classificação +10[/B][/COLOR]
+ÁUDIO: Português
+ANO: 1999 - 2002
+TEMPORADA: 2
+EPISÓDIO: 51-52
+		</info>
+		<link>https://archive.org/download/DD0000/D0121_T2_E13.mkv</link>
+	</item>
 
-<item><title>[B]Coragem, O Cão Covarde: T3 - Episódio 01[/B]</title><thumbnail>https://raw.githubusercontent.com/icefenixfire/D/main/D0121.webp</thumbnail><fanart>https://raw.githubusercontent.com/icefenixfire/D/main/D0121_fanart.webp</fanart><genre>Dublado</genre><info>[COLOR lime][B]● Classificação LIVRE[/B][/COLOR]</info><link>https://vk.com/doc281689990_603588355</link></item>
-<item><title>[B]Coragem, O Cão Covarde: T3 - Episódio 02[/B]</title><thumbnail>https://raw.githubusercontent.com/icefenixfire/D/main/D0121.webp</thumbnail><fanart>https://raw.githubusercontent.com/icefenixfire/D/main/D0121_fanart.webp</fanart><genre>Dublado</genre><info>[COLOR lime][B]● Classificação LIVRE[/B][/COLOR]</info><link>https://vk.com/doc281689990_603588364</link></item>
-<item><title>[B]Coragem, O Cão Covarde: T3 - Episódio 03[/B]</title><thumbnail>https://raw.githubusercontent.com/icefenixfire/D/main/D0121.webp</thumbnail><fanart>https://raw.githubusercontent.com/icefenixfire/D/main/D0121_fanart.webp</fanart><genre>Dublado</genre><info>[COLOR lime][B]● Classificação LIVRE[/B][/COLOR]</info><link>https://vk.com/doc281689990_603590226</link></item>
-<item><title>[B]Coragem, O Cão Covarde: T3 - Episódio 04[/B]</title><thumbnail>https://raw.githubusercontent.com/icefenixfire/D/main/D0121.webp</thumbnail><fanart>https://raw.githubusercontent.com/icefenixfire/D/main/D0121_fanart.webp</fanart><genre>Dublado</genre><info>[COLOR lime][B]● Classificação LIVRE[/B][/COLOR]</info><link>https://vk.com/doc281689990_603590234</link></item>
-<item><title>[B]Coragem, O Cão Covarde: T3 - Episódio 05[/B]</title><thumbnail>https://raw.githubusercontent.com/icefenixfire/D/main/D0121.webp</thumbnail><fanart>https://raw.githubusercontent.com/icefenixfire/D/main/D0121_fanart.webp</fanart><genre>Dublado</genre><info>[COLOR lime][B]● Classificação LIVRE[/B][/COLOR]</info><link>https://vk.com/doc281689990_603591757</link></item>
-<item><title>[B]Coragem, O Cão Covarde: T3 - Episódio 06[/B]</title><thumbnail>https://raw.githubusercontent.com/icefenixfire/D/main/D0121.webp</thumbnail><fanart>https://raw.githubusercontent.com/icefenixfire/D/main/D0121_fanart.webp</fanart><genre>Dublado</genre><info>[COLOR lime][B]● Classificação LIVRE[/B][/COLOR]</info><link>https://vk.com/doc281689990_603591766</link></item>
-<item><title>[B]Coragem, O Cão Covarde: T3 - Episódio 07[/B]</title><thumbnail>https://raw.githubusercontent.com/icefenixfire/D/main/D0121.webp</thumbnail><fanart>https://raw.githubusercontent.com/icefenixfire/D/main/D0121_fanart.webp</fanart><genre>Dublado</genre><info>[COLOR lime][B]● Classificação LIVRE[/B][/COLOR]</info><link>https://vk.com/doc281689990_603593416</link></item>
-<item><title>[B]Coragem, O Cão Covarde: T3 - Episódio 08[/B]</title><thumbnail>https://raw.githubusercontent.com/icefenixfire/D/main/D0121.webp</thumbnail><fanart>https://raw.githubusercontent.com/icefenixfire/D/main/D0121_fanart.webp</fanart><genre>Dublado</genre><info>[COLOR lime][B]● Classificação LIVRE[/B][/COLOR]</info><link>https://vk.com/doc281689990_603593412</link></item>
-<item><title>[B]Coragem, O Cão Covarde: T3 - Episódio 09[/B]</title><thumbnail>https://raw.githubusercontent.com/icefenixfire/D/main/D0121.webp</thumbnail><fanart>https://raw.githubusercontent.com/icefenixfire/D/main/D0121_fanart.webp</fanart><genre>Dublado</genre><info>[COLOR lime][B]● Classificação LIVRE[/B][/COLOR]</info><link>https://vk.com/doc281689990_603594725</link></item>
-<item><title>[B]Coragem, O Cão Covarde: T3 - Episódio 10[/B]</title><thumbnail>https://raw.githubusercontent.com/icefenixfire/D/main/D0121.webp</thumbnail><fanart>https://raw.githubusercontent.com/icefenixfire/D/main/D0121_fanart.webp</fanart><genre>Dublado</genre><info>[COLOR lime][B]● Classificação LIVRE[/B][/COLOR]</info><link>https://vk.com/doc281689990_603594732</link></item>
-<item><title>[B]Coragem, O Cão Covarde: T3 - Episódio 11[/B]</title><thumbnail>https://raw.githubusercontent.com/icefenixfire/D/main/D0121.webp</thumbnail><fanart>https://raw.githubusercontent.com/icefenixfire/D/main/D0121_fanart.webp</fanart><genre>Dublado</genre><info>[COLOR lime][B]● Classificação LIVRE[/B][/COLOR]</info><link>https://vk.com/doc281689990_603596161</link></item>
-<item><title>[B]Coragem, O Cão Covarde: T3 - Episódio 12[/B]</title><thumbnail>https://raw.githubusercontent.com/icefenixfire/D/main/D0121.webp</thumbnail><fanart>https://raw.githubusercontent.com/icefenixfire/D/main/D0121_fanart.webp</fanart><genre>Dublado</genre><info>[COLOR lime][B]● Classificação LIVRE[/B][/COLOR]</info><link>https://vk.com/doc281689990_603596167</link></item>
-<item><title>[B]Coragem, O Cão Covarde: T3 - Episódio 13[/B]</title><thumbnail>https://raw.githubusercontent.com/icefenixfire/D/main/D0121.webp</thumbnail><fanart>https://raw.githubusercontent.com/icefenixfire/D/main/D0121_fanart.webp</fanart><genre>Dublado</genre><info>[COLOR lime][B]● Classificação LIVRE[/B][/COLOR]</info><link>https://vk.com/doc281689990_603597386</link></item>
-<item><title>[B]Coragem, O Cão Covarde: T3 - Episódio 14[/B]</title><thumbnail>https://raw.githubusercontent.com/icefenixfire/D/main/D0121.webp</thumbnail><fanart>https://raw.githubusercontent.com/icefenixfire/D/main/D0121_fanart.webp</fanart><genre>Dublado</genre><info>[COLOR lime][B]● Classificação LIVRE[/B][/COLOR]</info><link>https://vk.com/doc281689990_603597398</link></item>
+	<item>
+		<title>[B]Coragem, O Cão Covarde: T3 - Episódio 53-54[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/D/main/D0121.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/D/main/D0121_fanart.webp</fanart>
+		<genre>Fantasia | Comédia | Ficção</genre>
+		<info>[COLOR cyan][B]● Classificação +10[/B][/COLOR]
+ÁUDIO: Português
+ANO: 1999 - 2002
+TEMPORADA: 3
+EPISÓDIO: 53-54
+		</info>
+		<link>https://archive.org/download/DD0000/D0121_T3_E01.mkv</link>
+	</item>
+	<item>
+		<title>[B]Coragem, O Cão Covarde: T3 - Episódio 55-56[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/D/main/D0121.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/D/main/D0121_fanart.webp</fanart>
+		<genre>Fantasia | Comédia | Ficção</genre>
+		<info>[COLOR cyan][B]● Classificação +10[/B][/COLOR]
+ÁUDIO: Português
+ANO: 1999 - 2002
+TEMPORADA: 3
+EPISÓDIO: 55-56
+		</info>
+		<link>https://archive.org/download/DD0000/D0121_T3_E02.mkv</link>
+	</item>
+	<item>
+		<title>[B]Coragem, O Cão Covarde: T3 - Episódio 57-58[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/D/main/D0121.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/D/main/D0121_fanart.webp</fanart>
+		<genre>Fantasia | Comédia | Ficção</genre>
+		<info>[COLOR cyan][B]● Classificação +10[/B][/COLOR]
+ÁUDIO: Português
+ANO: 1999 - 2002
+TEMPORADA: 3
+EPISÓDIO: 57-58
+		</info>
+		<link>https://archive.org/download/DD0000/D0121_T3_E03.mkv</link>
+	</item>
+	<item>
+		<title>[B]Coragem, O Cão Covarde: T3 - Episódio 59-60[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/D/main/D0121.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/D/main/D0121_fanart.webp</fanart>
+		<genre>Fantasia | Comédia | Ficção</genre>
+		<info>[COLOR cyan][B]● Classificação +10[/B][/COLOR]
+ÁUDIO: Português
+ANO: 1999 - 2002
+TEMPORADA: 3
+EPISÓDIO: 59-60
+		</info>
+		<link>https://archive.org/download/DD0000/D0121_T3_E04.mkv</link>
+	</item>
+	<item>
+		<title>[B]Coragem, O Cão Covarde: T3 - Episódio 61-62[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/D/main/D0121.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/D/main/D0121_fanart.webp</fanart>
+		<genre>Fantasia | Comédia | Ficção</genre>
+		<info>[COLOR cyan][B]● Classificação +10[/B][/COLOR]
+ÁUDIO: Português
+ANO: 1999 - 2002
+TEMPORADA: 3
+EPISÓDIO: 61-62
+		</info>
+		<link>https://archive.org/download/DD0000/D0121_T3_E05.mkv</link>
+	</item>
+	<item>
+		<title>[B]Coragem, O Cão Covarde: T3 - Episódio 63-64[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/D/main/D0121.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/D/main/D0121_fanart.webp</fanart>
+		<genre>Fantasia | Comédia | Ficção</genre>
+		<info>[COLOR cyan][B]● Classificação +10[/B][/COLOR]
+ÁUDIO: Português
+ANO: 1999 - 2002
+TEMPORADA: 3
+EPISÓDIO: 63-64
+		</info>
+		<link>https://archive.org/download/DD0000/D0121_T3_E06.mkv</link>
+	</item>
+	<item>
+		<title>[B]Coragem, O Cão Covarde: T3 - Episódio 65-66[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/D/main/D0121.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/D/main/D0121_fanart.webp</fanart>
+		<genre>Fantasia | Comédia | Ficção</genre>
+		<info>[COLOR cyan][B]● Classificação +10[/B][/COLOR]
+ÁUDIO: Português
+ANO: 1999 - 2002
+TEMPORADA: 3
+EPISÓDIO: 65-66
+		</info>
+		<link>https://archive.org/download/DD0000/D0121_T3_E07.mkv</link>
+	</item>
+	<item>
+		<title>[B]Coragem, O Cão Covarde: T3 - Episódio 67-68[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/D/main/D0121.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/D/main/D0121_fanart.webp</fanart>
+		<genre>Fantasia | Comédia | Ficção</genre>
+		<info>[COLOR cyan][B]● Classificação +10[/B][/COLOR]
+ÁUDIO: Português
+ANO: 1999 - 2002
+TEMPORADA: 3
+EPISÓDIO: 67-68
+		</info>
+		<link>https://archive.org/download/DD0000/D0121_T3_E08.mkv</link>
+	</item>
+	<item>
+		<title>[B]Coragem, O Cão Covarde: T3 - Episódio 69-70[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/D/main/D0121.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/D/main/D0121_fanart.webp</fanart>
+		<genre>Fantasia | Comédia | Ficção</genre>
+		<info>[COLOR cyan][B]● Classificação +10[/B][/COLOR]
+ÁUDIO: Português
+ANO: 1999 - 2002
+TEMPORADA: 3
+EPISÓDIO: 69-70
+		</info>
+		<link>https://archive.org/download/DD0000/D0121_T3_E09.mkv</link>
+	</item>
+	<item>
+		<title>[B]Coragem, O Cão Covarde: T3 - Episódio 71-72[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/D/main/D0121.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/D/main/D0121_fanart.webp</fanart>
+		<genre>Fantasia | Comédia | Ficção</genre>
+		<info>[COLOR cyan][B]● Classificação +10[/B][/COLOR]
+ÁUDIO: Português
+ANO: 1999 - 2002
+TEMPORADA: 3
+EPISÓDIO: 71-72
+		</info>
+		<link>https://archive.org/download/DD0000/D0121_T3_E10.mkv</link>
+	</item>
+	<item>
+		<title>[B]Coragem, O Cão Covarde: T3 - Episódio 73-74[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/D/main/D0121.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/D/main/D0121_fanart.webp</fanart>
+		<genre>Fantasia | Comédia | Ficção</genre>
+		<info>[COLOR cyan][B]● Classificação +10[/B][/COLOR]
+ÁUDIO: Português
+ANO: 1999 - 2002
+TEMPORADA: 3
+EPISÓDIO: 73-74
+		</info>
+		<link>https://archive.org/download/DD0000/D0121_T3_E11.mkv</link>
+	</item>
+	<item>
+		<title>[B]Coragem, O Cão Covarde: T3 - Episódio 75-76[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/D/main/D0121.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/D/main/D0121_fanart.webp</fanart>
+		<genre>Fantasia | Comédia | Ficção</genre>
+		<info>[COLOR cyan][B]● Classificação +10[/B][/COLOR]
+ÁUDIO: Português
+ANO: 1999 - 2002
+TEMPORADA: 3
+EPISÓDIO: 75-76
+		</info>
+		<link>https://archive.org/download/DD0000/D0121_T3_E12.mkv</link>
+	</item>
+	<item>
+		<title>[B]Coragem, O Cão Covarde: T3 - Episódio 77-78[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/D/main/D0121.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/D/main/D0121_fanart.webp</fanart>
+		<genre>Fantasia | Comédia | Ficção</genre>
+		<info>[COLOR cyan][B]● Classificação +10[/B][/COLOR]
+ÁUDIO: Português
+ANO: 1999 - 2002
+TEMPORADA: 3
+EPISÓDIO: 77-78
+		</info>
+		<link>https://archive.org/download/DD0000/D0121_T3_E13.mkv</link>
+	</item>
+	<item>
+		<title>[B]Coragem, O Cão Covarde: T3 - Episódio 79-80[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/D/main/D0121.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/D/main/D0121_fanart.webp</fanart>
+		<genre>Fantasia | Comédia | Ficção</genre>
+		<info>[COLOR cyan][B]● Classificação +10[/B][/COLOR]
+ÁUDIO: Português
+ANO: 1999 - 2002
+TEMPORADA: 3
+EPISÓDIO: 79-80
+		</info>
+		<link>https://archive.org/download/DD0000/D0121_T3_E14.mkv</link>
+	</item>
 
-<item><title>[COLOR lime][B]Coragem, O Cão Covarde: T4 - Episódio 01[/B][/COLOR]</title><thumbnail>https://raw.githubusercontent.com/icefenixfire/D/main/D0121.webp</thumbnail><fanart>https://raw.githubusercontent.com/icefenixfire/D/main/D0121_fanart.webp</fanart><genre>Dublado</genre><info>[COLOR lime][B]● Classificação LIVRE[/B][/COLOR]</info><link>https://vk.com/doc281689990_603985492</link></item>
-<item><title>[COLOR lime][B]Coragem, O Cão Covarde: T4 - Episódio 02[/B][/COLOR]</title><thumbnail>https://raw.githubusercontent.com/icefenixfire/D/main/D0121.webp</thumbnail><fanart>https://raw.githubusercontent.com/icefenixfire/D/main/D0121_fanart.webp</fanart><genre>Dublado</genre><info>[COLOR lime][B]● Classificação LIVRE[/B][/COLOR]</info><link>https://vk.com/doc281689990_603987362</link></item>
-<item><title>[COLOR lime][B]Coragem, O Cão Covarde: T4 - Episódio 03[/B][/COLOR]</title><thumbnail>https://raw.githubusercontent.com/icefenixfire/D/main/D0121.webp</thumbnail><fanart>https://raw.githubusercontent.com/icefenixfire/D/main/D0121_fanart.webp</fanart><genre>Dublado</genre><info>[COLOR lime][B]● Classificação LIVRE[/B][/COLOR]</info><link>https://vk.com/doc281689990_603988321</link></item>
-<item><title>[COLOR lime][B]Coragem, O Cão Covarde: T4 - Episódio 04[/B][/COLOR]</title><thumbnail>https://raw.githubusercontent.com/icefenixfire/D/main/D0121.webp</thumbnail><fanart>https://raw.githubusercontent.com/icefenixfire/D/main/D0121_fanart.webp</fanart><genre>Dublado</genre><info>[COLOR lime][B]● Classificação LIVRE[/B][/COLOR]</info><link>https://vk.com/doc281689990_603989069</link></item>
-<item><title>[COLOR lime][B]Coragem, O Cão Covarde: T4 - Episódio 05[/B][/COLOR]</title><thumbnail>https://raw.githubusercontent.com/icefenixfire/D/main/D0121.webp</thumbnail><fanart>https://raw.githubusercontent.com/icefenixfire/D/main/D0121_fanart.webp</fanart><genre>Dublado</genre><info>[COLOR lime][B]● Classificação LIVRE[/B][/COLOR]</info><link>https://vk.com/doc281689990_603990738</link></item>
-<item><title>[COLOR lime][B]Coragem, O Cão Covarde: T4 - Episódio 06 [indisponível][/B][/COLOR]</title><thumbnail>https://raw.githubusercontent.com/icefenixfire/D/main/D0121.webp</thumbnail><fanart>https://raw.githubusercontent.com/icefenixfire/D/main/D0121_fanart.webp</fanart><genre>Dublado</genre><info>[COLOR lime][B]● Classificação LIVRE[/B][/COLOR]</info><link>XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</link></item>
-<item><title>[COLOR lime][B]Coragem, O Cão Covarde: T4 - Episódio 07[/B][/COLOR]</title><thumbnail>https://raw.githubusercontent.com/icefenixfire/D/main/D0121.webp</thumbnail><fanart>https://raw.githubusercontent.com/icefenixfire/D/main/D0121_fanart.webp</fanart><genre>Dublado</genre><info>[COLOR lime][B]● Classificação LIVRE[/B][/COLOR]</info><link>https://vk.com/doc281689990_603993196</link></item>
-<item><title>[COLOR lime][B]Coragem, O Cão Covarde: T4 - Episódio 08[/B][/COLOR]</title><thumbnail>https://raw.githubusercontent.com/icefenixfire/D/main/D0121.webp</thumbnail><fanart>https://raw.githubusercontent.com/icefenixfire/D/main/D0121_fanart.webp</fanart><genre>Dublado</genre><info>[COLOR lime][B]● Classificação LIVRE[/B][/COLOR]</info><link>https://vk.com/doc281689990_603994307</link></item>
-<item><title>[COLOR lime][B]Coragem, O Cão Covarde: T4 - Episódio 09[/B][/COLOR]</title><thumbnail>https://raw.githubusercontent.com/icefenixfire/D/main/D0121.webp</thumbnail><fanart>https://raw.githubusercontent.com/icefenixfire/D/main/D0121_fanart.webp</fanart><genre>Dublado</genre><info>[COLOR lime][B]● Classificação LIVRE[/B][/COLOR]</info><link>https://vk.com/doc281689990_603995033</link></item>
-<item><title>[COLOR lime][B]Coragem, O Cão Covarde: T4 - Episódio 10[/B][/COLOR]</title><thumbnail>https://raw.githubusercontent.com/icefenixfire/D/main/D0121.webp</thumbnail><fanart>https://raw.githubusercontent.com/icefenixfire/D/main/D0121_fanart.webp</fanart><genre>Dublado</genre><info>[COLOR lime][B]● Classificação LIVRE[/B][/COLOR]</info><link>https://vk.com/doc281689990_603995630</link></item>
-<item><title>[COLOR lime][B]Coragem, O Cão Covarde: T4 - Episódio 11[/B][/COLOR]</title><thumbnail>https://raw.githubusercontent.com/icefenixfire/D/main/D0121.webp</thumbnail><fanart>https://raw.githubusercontent.com/icefenixfire/D/main/D0121_fanart.webp</fanart><genre>Dublado</genre><info>[COLOR lime][B]● Classificação LIVRE[/B][/COLOR]</info><link>https://vk.com/doc281689990_603996314</link></item>
-<item><title>[COLOR lime][B]Coragem, O Cão Covarde: T4 - Episódio 12[/B][/COLOR]</title><thumbnail>https://raw.githubusercontent.com/icefenixfire/D/main/D0121.webp</thumbnail><fanart>https://raw.githubusercontent.com/icefenixfire/D/main/D0121_fanart.webp</fanart><genre>Dublado</genre><info>[COLOR lime][B]● Classificação LIVRE[/B][/COLOR]</info><link>https://vk.com/doc281689990_603996854</link></item>
+	<item>
+		<title>[COLOR lime][B]Coragem, O Cão Covarde: T4 - Episódio 81-82[/B][/COLOR]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/D/main/D0121.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/D/main/D0121_fanart.webp</fanart>
+		<genre>Fantasia | Comédia | Ficção</genre>
+		<info>[COLOR cyan][B]● Classificação +10[/B][/COLOR]
+ÁUDIO: Português
+ANO: 1999 - 2002
+TEMPORADA: 4
+EPISÓDIO: 81-82
+		</info>
+		<link>https://archive.org/download/DD0000/D0121_T4_E01.mkv</link>
+	</item>
+	<item>
+		<title>[COLOR lime][B]Coragem, O Cão Covarde: T4 - Episódio 83-84[/B][/COLOR]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/D/main/D0121.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/D/main/D0121_fanart.webp</fanart>
+		<genre>Fantasia | Comédia | Ficção</genre>
+		<info>[COLOR cyan][B]● Classificação +10[/B][/COLOR]
+ÁUDIO: Português
+ANO: 1999 - 2002
+TEMPORADA: 4
+EPISÓDIO: 83-84
+		</info>
+		<link>https://archive.org/download/DD0000/D0121_T4_E02.mkv</link>
+	</item>
+	<item>
+		<title>[COLOR lime][B]Coragem, O Cão Covarde: T4 - Episódio 85-86[/B][/COLOR]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/D/main/D0121.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/D/main/D0121_fanart.webp</fanart>
+		<genre>Fantasia | Comédia | Ficção</genre>
+		<info>[COLOR cyan][B]● Classificação +10[/B][/COLOR]
+ÁUDIO: Português
+ANO: 1999 - 2002
+TEMPORADA: 4
+EPISÓDIO: 85-86
+		</info>
+		<link>https://archive.org/download/DD0000/D0121_T4_E03.mkv</link>
+	</item>
+	<item>
+		<title>[COLOR lime][B]Coragem, O Cão Covarde: T4 - Episódio 87-88[/B][/COLOR]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/D/main/D0121.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/D/main/D0121_fanart.webp</fanart>
+		<genre>Fantasia | Comédia | Ficção</genre>
+		<info>[COLOR cyan][B]● Classificação +10[/B][/COLOR]
+ÁUDIO: Português
+ANO: 1999 - 2002
+TEMPORADA: 4
+EPISÓDIO: 87-88
+		</info>
+		<link>https://archive.org/download/DD0000/D0121_T4_E04.mkv</link>
+	</item>
+	<item>
+		<title>[COLOR lime][B]Coragem, O Cão Covarde: T4 - Episódio 89-90[/B][/COLOR]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/D/main/D0121.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/D/main/D0121_fanart.webp</fanart>
+		<genre>Fantasia | Comédia | Ficção</genre>
+		<info>[COLOR cyan][B]● Classificação +10[/B][/COLOR]
+ÁUDIO: Português
+ANO: 1999 - 2002
+TEMPORADA: 4
+EPISÓDIO: 89-90
+		</info>
+		<link>https://archive.org/download/DD0000/D0121_T4_E05.mkv</link>
+	</item>
+	<item>
+		<title>[COLOR lime][B]Coragem, O Cão Covarde: T4 - Episódio 91-92[/B][/COLOR]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/D/main/D0121.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/D/main/D0121_fanart.webp</fanart>
+		<genre>Fantasia | Comédia | Ficção</genre>
+		<info>[COLOR cyan][B]● Classificação +10[/B][/COLOR]
+ÁUDIO: Português
+ANO: 1999 - 2002
+TEMPORADA: 4
+EPISÓDIO: 91-92
+		</info>
+		<link>https://archive.org/download/DD0000/D0121_T4_E06.mkv</link>
+	</item>
+	<item>
+		<title>[COLOR lime][B]Coragem, O Cão Covarde: T4 - Episódio 93-94[/B][/COLOR]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/D/main/D0121.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/D/main/D0121_fanart.webp</fanart>
+		<genre>Fantasia | Comédia | Ficção</genre>
+		<info>[COLOR cyan][B]● Classificação +10[/B][/COLOR]
+ÁUDIO: Português
+ANO: 1999 - 2002
+TEMPORADA: 4
+EPISÓDIO: 93-94
+		</info>
+		<link>https://archive.org/download/DD0000/D0121_T4_E07.mkv</link>
+	</item>
+	<item>
+		<title>[COLOR lime][B]Coragem, O Cão Covarde: T4 - Episódio 95-96[/B][/COLOR]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/D/main/D0121.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/D/main/D0121_fanart.webp</fanart>
+		<genre>Fantasia | Comédia | Ficção</genre>
+		<info>[COLOR cyan][B]● Classificação +10[/B][/COLOR]
+ÁUDIO: Português
+ANO: 1999 - 2002
+TEMPORADA: 4
+EPISÓDIO: 95-96
+		</info>
+		<link>https://archive.org/download/DD0000/D0121_T4_E08.mkv</link>
+	</item>
+	<item>
+		<title>[COLOR lime][B]Coragem, O Cão Covarde: T4 - Episódio 97-98[/B][/COLOR]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/D/main/D0121.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/D/main/D0121_fanart.webp</fanart>
+		<genre>Fantasia | Comédia | Ficção</genre>
+		<info>[COLOR cyan][B]● Classificação +10[/B][/COLOR]
+ÁUDIO: Português
+ANO: 1999 - 2002
+TEMPORADA: 4
+EPISÓDIO: 97-98
+		</info>
+		<link>https://archive.org/download/DD0000/D0121_T4_E09.mkv</link>
+	</item>
+	<item>
+		<title>[COLOR lime][B]Coragem, O Cão Covarde: T4 - Episódio 99-100[/B][/COLOR]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/D/main/D0121.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/D/main/D0121_fanart.webp</fanart>
+		<genre>Fantasia | Comédia | Ficção</genre>
+		<info>[COLOR cyan][B]● Classificação +10[/B][/COLOR]
+ÁUDIO: Português
+ANO: 1999 - 2002
+TEMPORADA: 4
+EPISÓDIO: 99-100
+		</info>
+		<link>https://archive.org/download/DD0000/D0121_T4_E10.mkv</link>
+	</item>
+	<item>
+		<title>[COLOR lime][B]Coragem, O Cão Covarde: T4 - Episódio 101-102[/B][/COLOR]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/D/main/D0121.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/D/main/D0121_fanart.webp</fanart>
+		<genre>Fantasia | Comédia | Ficção</genre>
+		<info>[COLOR cyan][B]● Classificação +10[/B][/COLOR]
+ÁUDIO: Português
+ANO: 1999 - 2002
+TEMPORADA: 4
+EPISÓDIO: 101-102
+		</info>
+		<link>https://archive.org/download/DD0000/D0121_T4_E11.mkv</link>
+	</item>
+	<item>
+		<title>[COLOR lime][B]Coragem, O Cão Covarde: T4 - Episódio 103-104[/B][/COLOR]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/D/main/D0121.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/D/main/D0121_fanart.webp</fanart>
+		<genre>Fantasia | Comédia | Ficção</genre>
+		<info>[COLOR cyan][B]● Classificação +10[/B][/COLOR]
+ÁUDIO: Português
+ANO: 1999 - 2002
+TEMPORADA: 4
+EPISÓDIO: 103-104
+		</info>
+		<link>https://archive.org/download/DD0000/D0121_T4_E12.mkv</link>
+	</item>
 </items>
