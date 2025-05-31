@@ -6,10 +6,24 @@
 		<name>[B]THUNDERCATS[/B] [COLOR crimson][IA Remaster][/COLOR]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/D/main/D0064.webp</thumbnail>
 		<externallink>https://raw.githubusercontent.com/icefenixfire/X/main/D/D0064</externallink>
-		<genre>Ação | Fantasia | Aventura</genre>
+		<genre>Ação | Fantasia | Aventura</genre>	
 		<info>[COLOR cyan][B]● Classificação +10[/B][/COLOR]
 ÁUDIO: Português
 ANO: 1985 - 1989
+TEMPORADAS: 4
+STATUS: Finalizado
+		</info>
+	</channel>
+	
+<!--CORAGEM, O CÃO COVARDE-->	
+	<channel>
+		<name>[B]CORAGEM, O CÃO COVARDE[/B] [COLOR crimson][DVD Upscale][/COLOR]</name>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/D/main/D0121.webp</thumbnail>
+		<externallink>https://raw.githubusercontent.com/icefenixfire/X/main/D/D0121</externallink>
+		<genre>Fantasia | Comédia | Ficção</genre>	
+		<info>[COLOR cyan][B]● Classificação +10[/B][/COLOR]
+ÁUDIO: Português
+ANO: 1999 - 2002
 TEMPORADAS: 4
 STATUS: Finalizado
 		</info>
@@ -793,15 +807,6 @@ STATUS: Finalizado
 		<name>[B]OS JETSONS ● 1962-1987[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/D/main/D0122.webp</thumbnail>
 		<externallink>https://raw.githubusercontent.com/icefenixfire/X/main/D/D0122</externallink>
-		<fanart></fanart>
-		<genre>Dublado</genre>
-		<info>[COLOR lime][B]● Classificação LIVRE[/B][/COLOR]</info>
-	</channel>
-
-	<channel>
-		<name>[B]CORAGEM, O CÃO COVARDE ● 1999-2002[/B]</name>
-		<thumbnail>https://raw.githubusercontent.com/icefenixfire/D/main/D0121.webp</thumbnail>
-		<externallink>https://raw.githubusercontent.com/icefenixfire/X/main/D/D0121</externallink>
 		<fanart></fanart>
 		<genre>Dublado</genre>
 		<info>[COLOR lime][B]● Classificação LIVRE[/B][/COLOR]</info>
