@@ -1,5 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <channels>
+
+<!--MONSTER-->
+	<channel>
+		<name>[B]MONSTER[/B] [COLOR crimson][IA Upscale][/COLOR]</name>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0303.webp</thumbnail>
+		<externallink>https://raw.githubusercontent.com/icefenixfire/X/main/A/A0303</externallink>
+		<genre>Mistério | Crime | Drama</genre>
+		<info>[COLOR red][B]● Classificação Indicativa +16[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2004 - 2005
+TEMPORADAS: 1
+STATUS: Finalizado
+		</info>
+	</channel>
+
 <!--DRAGON BALL DAIMA-->
 	<channel>
 		<name>[B]AYAKASHI JAPANESE CLASSIC HORROR[/B]</name>
@@ -13,6 +28,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--DRAGON BALL DAIMA-->
 	<channel>
 		<name>[B]DRAGON BALL DAIMA[/B]</name>
@@ -26,6 +42,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--O SANGUE DE ZEUS-->
 	<channel>
 		<name>[B]O SANGUE DE ZEUS[/B]</name>
@@ -39,6 +56,7 @@ TEMPORADAS: 3
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--ERGO PROXY-->
 	<channel>
 		<name>[B]ERGO PROXY[/B]</name>
@@ -52,6 +70,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--OVERLORD-->
 	<channel>
 		<name>[B]OVERLORD[/B]</name>
@@ -65,6 +84,7 @@ TEMPORADAS: 4
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--A ROSA DE VERSALHES-->
 	<channel>
 		<name>[B]A ROSA DE VERSALHES[/B]</name>
@@ -78,6 +98,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--SUPER CUBO-->
 	<channel>
 		<name>[B]SUPER CUBO[/B]</name>
@@ -91,6 +112,7 @@ TEMPORADAS: 1
 STATUS: Renovado
 		</info>
 	</channel>
+
 <!--MORIBITO: GUARDIAN OF THE SPIRIT-->
 	<channel>
 		<name>[B]MORIBITO: GUARDIAN OF THE SPIRIT[/B]</name>
@@ -104,6 +126,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--O NASCER DA LUA-->
 	<channel>
 		<name>[B]O NASCER DA LUA[/B]</name>
@@ -117,6 +140,7 @@ TEMPORADAS: 1
 STATUS: Renovado
 		</info>
 	</channel>
+
 <!--DE CAIPIRA A MESTRE ESPADACHIM-->
 	<channel>
 		<name>[B]DE CAIPIRA A MESTRE ESPADACHIM[/B]</name>
@@ -130,6 +154,7 @@ TEMPORADAS: 1
 STATUS: Renovado
 		</info>
 	</channel>
+
 <!--DEVIL MAY CRY-->
 	<channel>
 		<name>[B]DEVIL MAY CRY[/B]</name>
@@ -143,6 +168,7 @@ TEMPORADAS: 1
 STATUS: Renovado
 		</info>
 	</channel>
+
 <!--RE:ZERO -STARTING LIFE IN ANOTHER WORLD- -->
 	<channel>
 		<name>[B]RE:ZERO -STARTING LIFE IN ANOTHER WORLD-[/B]</name>
@@ -156,6 +182,7 @@ TEMPORADAS: 1
 STATUS: Renovado | Incompleto
 		</info>
 	</channel>
+
 <!--KONOSUBA-->
 	<channel>
 		<name>[B]KONOSUBA[/B]</name>
@@ -169,6 +196,7 @@ TEMPORADAS: 3
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--HELLSING-->
 	<channel>
 		<name>[B]HELLSING[/B]</name>
@@ -182,6 +210,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--ZATCH BELL!-->
 	<channel>
 		<name>[B]ZATCH BELL![/B]</name>
@@ -195,6 +224,7 @@ TEMPORADAS: 1
 STATUS: Finalizado | Incompleto
 		</info>
 	</channel>
+
 <!--SOLO LEVELING-->
 	<channel>
 		<name>[B]SOLO LEVELING[/B]</name>
@@ -208,6 +238,7 @@ TEMPORADAS: 2
 STATUS: Renovado
 		</info>
 	</channel>
+
 <!--DR. STONE-->
 	<channel>
 		<name>[B]DR. STONE[/B]</name>
@@ -221,6 +252,7 @@ TEMPORADAS: 4
 STATUS: Renovado
 		</info>
 	</channel>
+
 <!--MY HERO ACADEMIA-->
 	<channel>
 		<name>[B]MY HERO ACADEMIA[/B]</name>
@@ -234,6 +266,7 @@ TEMPORADAS: 7
 STATUS: Renovado
 		</info>
 	</channel>
+
 <!--SAILOR MOON-->
 	<channel>
 		<name>[B]SAILOR MOON[/B]</name>
@@ -247,6 +280,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--SCISSOR SEVEN-->
 	<channel>
 		<name>[B]SCISSOR SEVEN[/B]</name>
@@ -260,6 +294,7 @@ TEMPORADAS: 3
 STATUS: Renovado
 		</info>
 	</channel>
+
 <!--DEMON LORD 2099-->
 	<channel>
 		<name>[B]DEMON LORD 2099[/B]</name>
@@ -273,6 +308,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--KENGAN ASHURA-->
 	<channel>
 		<name>[B]KENGAN ASHURA[/B]</name>
@@ -286,6 +322,7 @@ TEMPORADAS: 2
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--MAGILUMIERE: COMPANHIA DAS GAROTAS MÁGICAS-->
 	<channel>
 		<name>[B]MAGILUMIERE: COMPANHIA DAS GAROTAS MÁGICAS[/B]</name>
@@ -299,6 +336,7 @@ TEMPORADAS: 1
 STATUS: Renovado
 		</info>
 	</channel>
+
 <!--COBRA THE ANIMATION-->
 	<channel>
 		<name>[B]COBRA THE ANIMATION[/B]</name>
@@ -312,6 +350,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--BLEACH: THOUSAND-YEAR BLOOD WAR-->
 	<channel>
 		<name>[B]BLEACH: THOUSAND-YEAR BLOOD WAR[/B]</name>
@@ -325,6 +364,7 @@ TEMPORADAS: 1
 STATUS: Renovado
 		</info>
 	</channel>
+
 <!--SAKAMOTO DAYS-->
 	<channel>
 		<name>[B]SAKAMOTO DAYS[/B]</name>
@@ -338,6 +378,7 @@ TEMPORADAS: 1
 STATUS: Renovado
 		</info>
 	</channel>
+
 <!--BERSERK-->
 	<channel>
 		<name>[B]BERSERK[/B]</name>
@@ -351,6 +392,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--GODZILLA PONTO SINGULAR-->
 	<channel>
 		<name>[B]GODZILLA PONTO SINGULAR[/B]</name>
@@ -364,6 +406,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--CASTLEVANIA: NOTURNO-->
 	<channel>
 		<name>[B]CASTLEVANIA: NOTURNO[/B]</name>
@@ -377,6 +420,7 @@ TEMPORADAS: 2
 STATUS: Renovado
 		</info>
 	</channel>
+
 <!--DUNGEON MESHI-->
 	<channel>
 		<name>[B]DUNGEON MESHI[/B]</name>
@@ -390,6 +434,7 @@ TEMPORADAS: 1
 STATUS: Renovado
 		</info>
 	</channel>
+
 <!--EL HAZARD: THE WANDERERS-->
 	<channel>
 		<name>[B]EL HAZARD: THE WANDERERS[/B]</name>
@@ -403,6 +448,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--EL HAZARD: THE WORLD MAGNIFICENT-->
 	<channel>
 		<name>[B]EL HAZARD: THE WORLD MAGNIFICENT[/B]</name>
@@ -416,6 +462,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--DAN DA DAN-->
 	<channel>
 		<name>[B]DAN DA DAN[/B]</name>
@@ -429,6 +476,7 @@ TEMPORADAS: 1
 STATUS: Renovado
 		</info>
 	</channel>
+
 <!--MURAI IN LOVE-->
 	<channel>
 		<name>[B]MURAI IN LOVE[/B]</name>
@@ -442,6 +490,7 @@ TEMPORADAS: 1
 STATUS: Renovado
 		</info>
 	</channel>
+
 <!--ARCANE-->
 	<channel>
 		<name>[B]ARCANE[/B]</name>
@@ -455,6 +504,7 @@ TEMPORADAS: 2
 STATUS: Renovado
 		</info>
 	</channel>
+
 <!--MOBILE SUIT GUNDAM: REQUIEM FOR VENGEANCE-->
 	<channel>
 		<name>[B]MOBILE SUIT GUNDAM: REQUIEM FOR VENGEANCE[/B]</name>
@@ -468,6 +518,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--UZUMAKI-->
 	<channel>
 		<name>[B]UZUMAKI[/B]</name>
@@ -481,6 +532,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--TOMB RAIDER: A LENDA DE LARA CROFT-->
 	<channel>
 		<name>[B]TOMB RAIDER: A LENDA DE LARA CROFT[/B]</name>
@@ -494,6 +546,7 @@ TEMPORADAS: 1
 STATUS: Renovado
 		</info>
 	</channel>
+
 <!--A LENDA DE VOX MACHINA-->
 	<channel>
 		<name>[B]A LENDA DE VOX MACHINA[/B]</name>
@@ -507,6 +560,7 @@ TEMPORADAS: 3
 STATUS: Renovado
 		</info>
 	</channel>
+
 <!--O EXTERMINADOR DO FUTURO ZERO-->
 	<channel>
 		<name>[B]O EXTERMINADOR DO FUTURO ZERO[/B]</name>
@@ -520,6 +574,7 @@ TEMPORADAS: 1
 STATUS: Renovado
 		</info>
 	</channel>
+
 <!--ESQUADRÃO SUICIDA: ISEKAI-->
 	<channel>
 		<name>[B]ESQUADRÃO SUICIDA: ISEKAI[/B]</name>
@@ -533,6 +588,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--THE SEVEN DEADLY SINS: OS QUATRO CAVALEIROS DO APOCALIPSE-->
 	<channel>
 		<name>[B]THE SEVEN DEADLY SINS: OS QUATRO CAVALEIROS DO APOCALIPSE[/B]</name>
@@ -546,6 +602,7 @@ TEMPORADAS: 1
 STATUS: Renovado
 		</info>
 	</channel>
+
 <!--DNA²-->
 	<channel>
 		<name>[B]DNA²[/B]</name>
@@ -559,6 +616,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--RICK AND MORTY: THE ANIME-->
 	<channel>
 		<name>[B]RICK AND MORTY: THE ANIME[/B]</name>
@@ -572,6 +630,7 @@ TEMPORADAS: 1
 STATUS: Renovado
 		</info>
 	</channel>
+
 <!--HELL'S PARADISE-->
 	<channel>
 		<name>[B]HELL'S PARADISE[/B]</name>
@@ -585,6 +644,7 @@ TEMPORADAS: 1
 STATUS: Renovado
 		</info>
 	</channel>
+
 <!--ATAQUE DOS TITÃS-->
 	<channel>
 		<name>[B]ATAQUE DOS TITÃS[/B]</name>
@@ -598,6 +658,7 @@ TEMPORADAS: 4
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--DEMON SLAYER-->
 	<channel>
 		<name>[B]DEMON SLAYER[/B]</name>
@@ -611,6 +672,7 @@ TEMPORADAS: 3
 STATUS: Renovado
 		</info>
 	</channel>
+
 <!--7SEEDS-->
 	<channel>
 		<name>[B]7SEEDS[/B]</name>
@@ -624,6 +686,7 @@ TEMPORADAS: 2
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--91 DAYS-->
 	<channel>
 		<name>[B]91 DAYS[/B]</name>
@@ -637,6 +700,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--86 EIGHTY-SIX-->
 	<channel>
 		<name>[B]86 EIGHTY-SIX[/B]</name>
@@ -650,6 +714,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--2020: JAPÃO SUBMERSO-->
 	<channel>
 		<name>[B]2020: JAPÃO SUBMERSO[/B]</name>
@@ -663,6 +728,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--ASHITA NO JOE 2-->
 	<channel>
 		<name>[B]ASHITA NO JOE 2[/B]</name>
@@ -676,6 +742,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--A ILHA DAS SOMBRAS-->
 	<channel>
 		<name>[B]A ILHA DAS SOMBRAS[/B]</name>
@@ -689,6 +756,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--ACE OF THE DIAMOND-->
 	<channel>
 		<name>[B]ACE OF THE DIAMOND[/B]</name>
@@ -702,6 +770,7 @@ TEMPORADAS: 3
 STATUS: Renovado
 		</info>
 	</channel>
+
 <!--ASSIM FALAVA KISHIBE ROHAN-->
 	<channel>
 		<name>[B]ASSIM FALAVA KISHIBE ROHAN[/B]</name>
@@ -715,6 +784,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--AKASHIC RECORDS OF BASTARD MAGIC INSTRUCTOR-->
 	<channel>
 		<name>[B]AKASHIC RECORDS OF BASTARD MAGIC INSTRUCTOR[/B]</name>
@@ -728,6 +798,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--AH! MEGAMI-SAMA-->
 	<channel>
 		<name>[B]AH! MEGAMI-SAMA[/B]</name>
@@ -741,6 +812,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--ACCA: 13-TERRITORY INSPECTION DEPT.-->
 	<channel>
 		<name>[B]ACCA: 13-TERRITORY INSPECTION DEPT.[/B]</name>
@@ -754,6 +826,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--ASSASSINATION CLASSROOM-->
 	<channel>
 		<name>[B]ASSASSINATION CLASSROOM[/B]</name>
@@ -767,6 +840,7 @@ TEMPORADAS: 2
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--ANGOLMOIS RECORD OF MONGOL INVASION-->
 	<channel>
 		<name>[B]ANGOLMOIS RECORD OF MONGOL INVASION[/B]</name>
@@ -780,6 +854,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--APPARE-RANMAN!-->
 	<channel>
 		<name>[B]APPARE-RANMAN![/B]</name>
@@ -793,6 +868,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--AKUDAMA DRIVE-->
 	<channel>
 		<name>[B]AKUDAMA DRIVE[/B]</name>
@@ -806,6 +882,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--AOASHI-->
 	<channel>
 		<name>[B]AOASHI[/B]</name>
@@ -819,6 +896,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--ALDNOAH.ZERO-->
 	<channel>
 		<name>[B]ALDNOAH.ZERO[/B]</name>
@@ -832,6 +910,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--ALDERAMIN ON THE SKY-->
 	<channel>
 		<name>[B]ALDERAMIN ON THE SKY[/B]</name>
@@ -845,6 +924,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--AHIRU NO SORA-->
 	<channel>
 		<name>[B]AHIRU NO SORA[/B]</name>
@@ -858,6 +938,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--A PLACE FURTHER THAN THE UNIVERSE-->
 	<channel>
 		<name>[B]A PLACE FURTHER THAN THE UNIVERSE[/B]</name>
@@ -871,6 +952,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--AKAME GA KILL!-->
 	<channel>
 		<name>[B]AKAME GA KILL![/B]</name>
@@ -884,6 +966,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--A DESTRUCTIVE GOD SITS NEXT TO ME-->
 	<channel>
 		<name>[B]A DESTRUCTIVE GOD SITS NEXT TO ME[/B]</name>
@@ -897,6 +980,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--A CERTAIN SCIENTIFIC ACCELERATOR-->
 	<channel>
 		<name>[B]A CERTAIN SCIENTIFIC ACCELERATOR[/B]</name>
@@ -910,6 +994,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--ANGELS OF DEATH-->
 	<channel>
 		<name>[B]ANGELS OF DEATH[/B]</name>
@@ -923,6 +1008,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--ACE ATTORNEY-->
 	<channel>
 		<name>[B]ACE ATTORNEY[/B]</name>
@@ -936,6 +1022,7 @@ TEMPORADAS: 2
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--AVATAR: A LENDA DE KORRA-->
 	<channel>
 		<name>[B]AVATAR: A LENDA DE KORRA[/B]</name>
@@ -949,6 +1036,7 @@ TEMPORADAS: 4
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--AJIN: DEMI-HUMAN-->
 	<channel>
 		<name>[B]AJIN: DEMI-HUMAN[/B]</name>
@@ -962,6 +1050,7 @@ TEMPORADAS: 2
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--A.I.C.O. INCARNATION-->
 	<channel>
 		<name>[B]A.I.C.O. INCARNATION[/B]</name>
@@ -975,6 +1064,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--AFRO SAMURAI-->
 	<channel>
 		<name>[B]AFRO SAMURAI[/B]</name>
@@ -988,6 +1078,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--AVATAR: A LENDA DE AANG-->
 	<channel>
 		<name>[B]AVATAR: A LENDA DE AANG[/B]</name>
@@ -1001,6 +1092,7 @@ TEMPORADAS: 3
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--BLACK CLOVER-->
 	<channel>
 		<name>[B]BLACK CLOVER[/B]</name>
@@ -1014,6 +1106,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--BERSERK: THE GOLDEN AGE ARC - MEMORIAL EDITION-->
 	<channel>
 		<name>[B]BERSERK: THE GOLDEN AGE ARC - MEMORIAL EDITION[/B]</name>
@@ -1027,6 +1120,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--BLACK LAGOON-->
 	<channel>
 		<name>[B]BLACK LAGOON[/B]</name>
@@ -1040,6 +1134,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--BUDDY DADDIES-->
 	<channel>
 		<name>[B]BUDDY DADDIES[/B]</name>
@@ -1053,6 +1148,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--BUNGO STRAY DOGS-->
 	<channel>
 		<name>[B]BUNGO STRAY DOGS[/B]</name>
@@ -1066,6 +1162,7 @@ TEMPORADAS: 2 de 5
 STATUS: Renovado | Incompleto
 		</info>
 	</channel>
+
 <!--BLADE: A LÂMINA DO IMORTAL-->
 	<channel>
 		<name>[B]BLADE: A LÂMINA DO IMORTAL[/B]</name>
@@ -1079,6 +1176,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--BLOOD BLOCKADE BATTLEFRONT-->
 	<channel>
 		<name>[B]BLOOD BLOCKADE BATTLEFRONT[/B]</name>
@@ -1092,6 +1190,7 @@ TEMPORADAS: 2
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--BLUE EXORCIST-->
 	<channel>
 		<name>[B]BLUE EXORCIST[/B]</name>
@@ -1105,6 +1204,7 @@ TEMPORADAS: 1 de 5
 STATUS: Finalizado | Incompleto
 		</info>
 	</channel>
+
 <!--BRAVE 10-->
 	<channel>
 		<name>[B]BRAVE 10[/B]</name>
@@ -1118,6 +1218,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--BURN THE WITCH-->
 	<channel>
 		<name>[B]BURN THE WITCH[/B]</name>
@@ -1131,6 +1232,7 @@ TEMPORADAS: 1
 STATUS: Cancelado
 		</info>
 	</channel>
+
 <!--BATTLE GAME IN 5 SECONDS-->
 	<channel>
 		<name>[B]BATTLE GAME IN 5 SECONDS[/B]</name>
@@ -1144,6 +1246,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--BEASTARS: O LOBO BOM-->
 	<channel>
 		<name>[B]BEASTARS: O LOBO BOM[/B]</name>
@@ -1157,6 +1260,7 @@ TEMPORADAS: 3
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--BNA: BRAND NEW ANIMAL-->
 	<channel>
 		<name>[B]BNA: BRAND NEW ANIMAL[/B]</name>
@@ -1170,6 +1274,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--BORUTO: NARUTO NEXT GENERATIONS-->
 	<channel>
 		<name>[B]BORUTO: NARUTO NEXT GENERATIONS[/B]</name>
@@ -1183,6 +1288,7 @@ TEMPORADAS: 1
 STATUS: Renovado
 		</info>
 	</channel>
+
 <!--BAKI, O CAMPEÃO-->
 	<channel>
 		<name>[B]BAKI, O CAMPEÃO[/B]</name>
@@ -1196,6 +1302,7 @@ TEMPORADAS: 2
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--BLEACH-->
 	<channel>
 		<name>[B]BLEACH[/B]</name>
@@ -1209,6 +1316,7 @@ TEMPORADAS: 1
 STATUS: Finalizado | Incompleto
 		</info>
 	</channel>
+
 <!--BUCKY-->
 	<channel>
 		<name>[B]BUCKY[/B]</name>
@@ -1222,6 +1330,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--CHAINSAW MAN-->
 	<channel>
 		<name>[B]CHAINSAW MAN[/B]</name>
@@ -1235,6 +1344,7 @@ TEMPORADAS: 1
 STATUS: Renovado
 		</info>
 	</channel>
+
 <!--CYBERPUNK: MERCENÁRIOS-->
 	<channel>
 		<name>[B]CYBERPUNK: MERCENÁRIOS[/B]</name>
@@ -1248,6 +1358,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--CÍRCULO DE FOGO: THE BLACK-->
 	<channel>
 		<name>[B]CÍRCULO DE FOGO: THE BLACK[/B]</name>
@@ -1261,6 +1372,7 @@ TEMPORADAS: 2
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--CLAYMORE-->
 	<channel>
 		<name>[B]CLAYMORE[/B]</name>
@@ -1274,6 +1386,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--CELLS AT WORK!-->
 	<channel>
 		<name>[B]CELLS AT WORK![/B]</name>
@@ -1287,6 +1400,7 @@ TEMPORADAS: 2
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--CANNON BUSTERS-->
 	<channel>
 		<name>[B]CANNON BUSTERS[/B]</name>
@@ -1300,6 +1414,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--COWBOY BEBOP-->
 	<channel>
 		<name>[B]COWBOY BEBOP[/B]</name>
@@ -1313,6 +1428,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--CASTLEVANIA-->
 	<channel>
 		<name>[B]CASTLEVANIA[/B]</name>
@@ -1326,6 +1442,7 @@ TEMPORADAS: 4
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--DIGIMON ADVENTURE-->
 	<channel>
 		<name>[B]DIGIMON ADVENTURE[/B]</name>
@@ -1339,6 +1456,7 @@ TEMPORADAS: 2
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--DIGIMON FRONTIER-->
 	<channel>
 		<name>[B]DIGIMON FRONTIER[/B]</name>
@@ -1352,6 +1470,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--DIGIMON TAMERS-->
 	<channel>
 		<name>[B]DIGIMON TAMERS[/B]</name>
@@ -1365,6 +1484,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--DIGIMON SAVERS [DATA SQUAD]-->
 	<channel>
 		<name>[B]DIGIMON SAVERS [DATA SQUAD][/B]</name>
@@ -1378,6 +1498,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--DIGIMON ADVENTURE-->
 	<channel>
 		<name>[B]DIGIMON ADVENTURE[/B]</name>
@@ -1391,6 +1512,7 @@ TEMPORADAS: 1
 STATUS: Finalizado | Incompleto
 		</info>
 	</channel>
+
 <!--DEATH NOTE-->
 	<channel>
 		<name>[B]DEATH NOTE[/B]</name>
@@ -1404,6 +1526,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--DEATH MARCH TO THE PARALLEL WORLD RHAPSODY-->
 	<channel>
 		<name>[B]DEATH MARCH TO THE PARALLEL WORLD RHAPSODY[/B]</name>
@@ -1417,6 +1540,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--DIABOLIK LOVERS-->
 	<channel>
 		<name>[B]DIABOLIK LOVERS[/B]</name>
@@ -1430,6 +1554,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--DEVIL MAY CRY-->
 	<channel>
 		<name>[B]DEVIL MAY CRY[/B]</name>
@@ -1443,6 +1568,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--DRAGON BALL-->
 	<channel>
 		<name>[B]DRAGON BALL[/B]</name>
@@ -1456,6 +1582,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--DRAGON BALL Z-->
 	<channel>
 		<name>[B]DRAGON BALL Z[/B]</name>
@@ -1469,6 +1596,7 @@ TEMPORADAS: 6
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--DRAGON BALL GT-->
 	<channel>
 		<name>[B]DRAGON BALL GT[/B]</name>
@@ -1482,6 +1610,7 @@ TEMPORADAS: 4
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--DRAGON BALL KAI-->
 	<channel>
 		<name>[B]DRAGON BALL KAI[/B]</name>
@@ -1495,6 +1624,7 @@ TEMPORADAS: 1
 STATUS: Finalizado | Incompleto
 		</info>
 	</channel>
+
 <!--DRAGON BALL SUPER-->
 	<channel>
 		<name>[B]DRAGON BALL SUPER[/B]</name>
@@ -1508,6 +1638,7 @@ TEMPORADAS: 5
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--DEVILMAN CRYBABY-->
 	<channel>
 		<name>[B]DEVILMAN CRYBABY[/B]</name>
@@ -1521,6 +1652,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--DANMACHI: É ERRADO TENTAR PEGAR GAROTAS EM UMA MASMORRA?-->
 	<channel>
 		<name>[B]DANMACHI: É ERRADO TENTAR PEGAR GAROTAS EM UMA MASMORRA?[/B]</name>
@@ -1534,6 +1666,7 @@ TEMPORADAS: 1 de 5
 STATUS: Finalizado | Incompleto
 		</info>
 	</channel>
+
 <!--DRAGONS DOGMA-->
 	<channel>
 		<name>[B]DRAGONS DOGMA[/B]</name>
@@ -1547,6 +1680,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--DOROHEDORO-->
 	<channel>
 		<name>[B]DOROHEDORO[/B]</name>
@@ -1560,6 +1694,7 @@ TEMPORADAS: 1
 STATUS: Renovado
 		</info>
 	</channel>
+
 <!--DECA-DENCE-->
 	<channel>
 		<name>[B]DECA-DENCE[/B]</name>
@@ -1573,6 +1708,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--DEEP INSANITY: THE LOST CHILD-->
 	<channel>
 		<name>[B]DEEP INSANITY: THE LOST CHILD[/B]</name>
@@ -1586,6 +1722,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--DIÁRIO DO FUTURO-->
 	<channel>
 		<name>[B]DIÁRIO DO FUTURO[/B]</name>
@@ -1599,6 +1736,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--DOTA: DRAGONS BLOOD-->
 	<channel>
 		<name>[B]DOTA: DRAGONS BLOOD[/B]</name>
@@ -1612,6 +1750,7 @@ TEMPORADAS: 3
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--DRAGON QUEST: THE ADVENTURE OF DAI-->
 	<channel>
 		<name>[B]DRAGON QUEST: THE ADVENTURE OF DAI[/B]</name>
@@ -1625,6 +1764,7 @@ TEMPORADAS: 1
 STATUS: Finalizado | Incompleto
 		</info>
 	</channel>
+
 <!--DARLING IN THE FRANXX-->
 	<channel>
 		<name>[B]DARLING IN THE FRANXX[/B]</name>
@@ -1638,6 +1778,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--DRAGON AGE: ABSOLVIÇÃO-->
 	<channel>
 		<name>[B]DRAGON AGE: ABSOLVIÇÃO[/B]</name>
@@ -1651,6 +1792,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--EDENS ZERO-->
 	<channel>
 		<name>[B]EDENS ZERO[/B]</name>
@@ -1664,6 +1806,7 @@ TEMPORADAS: 1
 STATUS: Finalizado | Incompleto
 		</info>
 	</channel>
+
 <!--EFEITO CINDERELA-->
 	<channel>
 		<name>[B]EFEITO CINDERELA[/B]</name>
@@ -1677,6 +1820,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--FAIRY TAIL-->
 	<channel>
 		<name>[B]FAIRY TAIL[/B]</name>
@@ -1690,6 +1834,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--FATE/EXTRA LAST ENCORE-->
 	<channel>
 		<name>[B]FATE/EXTRA LAST ENCORE[/B]</name>
@@ -1703,6 +1848,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--FULLMETAL ALCHEMIST: BROTHERHOOD-->
 	<channel>
 		<name>[B]FULLMETAL ALCHEMIST: BROTHERHOOD[/B]</name>
@@ -1716,6 +1862,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--FATE STAY NIGHT-->
 	<channel>
 		<name>[B]FATE STAY NIGHT[/B]</name>
@@ -1729,6 +1876,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--GOLDEN BOY-->
 	<channel>
 		<name>[B]GOLDEN BOY[/B]</name>
@@ -1742,6 +1890,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--GIANT KILLING-->
 	<channel>
 		<name>[B]GIANT KILLING[/B]</name>
@@ -1755,6 +1904,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--GOBLIN SLAYER-->
 	<channel>
 		<name>[B]GOBLIN SLAYER[/B]</name>
@@ -1768,6 +1918,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--GTO: THE ANIMATION-->
 	<channel>
 		<name>[B]GTO: THE ANIMATION[/B]</name>
@@ -1781,6 +1932,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--GUERREIRAS MÁGICAS DE RAYEARTH-->
 	<channel>
 		<name>[B]GUERREIRAS MÁGICAS DE RAYEARTH[/B]</name>
@@ -1794,6 +1946,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--GOKUSHUFUDOU: TATSU IMORTAL-->
 	<channel>
 		<name>[B]GOKUSHUFUDOU: TATSU IMORTAL[/B]</name>
@@ -1807,6 +1960,7 @@ TEMPORADAS: 1 de 2
 STATUS: Finalizado | Incompleto
 		</info>
 	</channel>
+
 <!--GATE-->
 	<channel>
 		<name>[B]GATE[/B]</name>
@@ -1820,6 +1974,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--GANTZ-->
 	<channel>
 		<name>[B]GANTZ[/B]</name>
@@ -1833,6 +1988,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--HUNTER X HUNTER-->
 	<channel>
 		<name>[B]HUNTER X HUNTER[/B]</name>
@@ -1846,6 +2002,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--HAIKYU!!-->
 	<channel>
 		<name>[B]HAIKYU!![/B]</name>
@@ -1859,6 +2016,7 @@ TEMPORADAS: 4
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--HI SCORE GIRL-->
 	<channel>
 		<name>[B]HI SCORE GIRL[/B]</name>
@@ -1872,6 +2030,7 @@ TEMPORADAS: 1 de 2
 STATUS: Finalizado | Incompleto
 		</info>
 	</channel>
+
 <!--HIGH SCHOOL PRODIGIES HAVE IT EASY EVEN IN ANOTHER WORLD-->
 	<channel>
 		<name>[B]HIGH SCHOOL PRODIGIES HAVE IT EASY EVEN IN ANOTHER WORLD[/B]</name>
@@ -1885,6 +2044,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--HOW A REALIST HERO REBUILT THE KINGDOM-->
 	<channel>
 		<name>[B]HOW A REALIST HERO REBUILT THE KINGDOM[/B]</name>
@@ -1898,6 +2058,7 @@ TEMPORADAS: 1
 STATUS: Finalizado | Incompleto
 		</info>
 	</channel>
+
 <!--HITORI NO SHITA-->
 	<channel>
 		<name>[B]HITORI NO SHITA[/B]</name>
@@ -1911,6 +2072,7 @@ TEMPORADAS: 2 de 5
 STATUS: Renovado | Incompleto
 		</info>
 	</channel>
+
 <!--HERO MASK-->
 	<channel>
 		<name>[B]HERO MASK[/B]</name>
@@ -1924,6 +2086,7 @@ TEMPORADAS: 2
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--INUYASHA-->
 	<channel>
 		<name>[B]INUYASHA[/B]</name>
@@ -1937,6 +2100,7 @@ TEMPORADAS: 2
 STATUS: Finalizado | Incompleto
 		</info>
 	</channel>
+
 <!--IKKI TOUSEN-->
 	<channel>
 		<name>[B]IKKI TOUSEN[/B]</name>
@@ -1950,6 +2114,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--INTERVIEWS WITH MONSTER GIRLS-->
 	<channel>
 		<name>[B]INTERVIEWS WITH MONSTER GIRLS[/B]</name>
@@ -1963,6 +2128,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--IN ANOTHER WORLD WITH MY SMARTPHONE-->
 	<channel>
 		<name>[B]IN ANOTHER WORLD WITH MY SMARTPHONE[/B]</name>
@@ -1976,6 +2142,7 @@ TEMPORADAS: 2
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--ID:INVADED-->
 	<channel>
 		<name>[B]ID:INVADED[/B]</name>
@@ -1989,6 +2156,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--IRINA: THE VAMPIRE COSMONAUT-->
 	<channel>
 		<name>[B]IRINA: THE VAMPIRE COSMONAUT[/B]</name>
@@ -2002,6 +2170,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--IM STANDING ON A MILLION LIVES-->
 	<channel>
 		<name>[B]IM STANDING ON A MILLION LIVES[/B]</name>
@@ -2015,6 +2184,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--JUJUTSU KAISEN-->
 	<channel>
 		<name>[B]JUJUTSU KAISEN[/B]</name>
@@ -2028,6 +2198,7 @@ TEMPORADAS: 2
 STATUS: Renovado
 		</info>
 	</channel>
+
 <!--JOJO'S BIZARRE ADVENTURE-->
 	<channel>
 		<name>[B]JOJO'S BIZARRE ADVENTURE[/B]</name>
@@ -2041,6 +2212,7 @@ TEMPORADAS: 5
 STATUS: Renovado | Incompleto
 		</info>
 	</channel>
+
 <!--KABANERI DA FORTALEZA DE FERRO: A BATALHA DE UNATO-->
 	<channel>
 		<name>[B]KABANERI DA FORTALEZA DE FERRO: A BATALHA DE UNATO[/B]</name>
@@ -2054,6 +2226,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--KATEKYO HITMAN REBORN!-->
 	<channel>
 		<name>[B]KATEKYO HITMAN REBORN![/B]</name>
@@ -2067,6 +2240,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--KUROMUKURO-->
 	<channel>
 		<name>[B]KUROMUKURO[/B]</name>
@@ -2080,6 +2254,7 @@ TEMPORADAS: 1 de 2
 STATUS: Finalizado | Incompleto
 		</info>
 	</channel>
+
 <!--KAKEGURUI-->
 	<channel>
 		<name>[B]KAKEGURUI[/B]</name>
@@ -2093,6 +2268,7 @@ TEMPORADAS: 1 de 2
 STATUS: Finalizado | Incompleto
 		</info>
 	</channel>
+
 <!--KONO OTO TOMARE!-->
 	<channel>
 		<name>[B]KONO OTO TOMARE![/B]</name>
@@ -2106,6 +2282,7 @@ TEMPORADAS: 1 de 2
 STATUS: Finalizado | Incompleto
 		</info>
 	</channel>
+
 <!--LEVIUS-->
 	<channel>
 		<name>[B]LEVIUS[/B]</name>
@@ -2119,6 +2296,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--LITTLE WITCH ACADEMIA-->
 	<channel>
 		<name>[B]LITTLE WITCH ACADEMIA[/B]</name>
@@ -2132,6 +2310,7 @@ TEMPORADAS: 2
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--LOVE, DEATH E ROBOTS-->
 	<channel>
 		<name>[B]LOVE, DEATH E ROBOTS[/B]</name>
@@ -2145,6 +2324,7 @@ TEMPORADAS: 3
 STATUS: Renovado
 		</info>
 	</channel>
+
 <!--LENDA LUNAR TSUKIHIME-->
 	<channel>
 		<name>[B]LENDA LUNAR TSUKIHIME[/B]</name>
@@ -2158,6 +2338,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--LAST HOPE-->
 	<channel>
 		<name>[B]LAST HOPE[/B]</name>
@@ -2171,6 +2352,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--MIERUKO-CHAN-->
 	<channel>
 		<name>[B]MIERUKO-CHAN[/B]</name>
@@ -2184,6 +2366,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--MY DRESS-UP DARLING-->
 	<channel>
 		<name>[B]MY DRESS-UP DARLING[/B]</name>
@@ -2197,6 +2380,7 @@ TEMPORADAS: 1
 STATUS: Renovado
 		</info>
 	</channel>
+
 <!--MORIARTY THE PATRIOT-->
 	<channel>
 		<name>[B]MORIARTY THE PATRIOT[/B]</name>
@@ -2210,6 +2394,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--MEMÓRIAS DE IDHÚN-->
 	<channel>
 		<name>[B]MEMÓRIAS DE IDHÚN[/B]</name>
@@ -2223,6 +2408,7 @@ TEMPORADAS: 2
 STATUS: Cancelado
 		</info>
 	</channel>
+
 <!--MUSHIKAGO NO CAGASTER-->
 	<channel>
 		<name>[B]MUSHIKAGO NO CAGASTER[/B]</name>
@@ -2236,6 +2422,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--MARVEL ANIME: WOLVERINE-->
 	<channel>
 		<name>[B]MARVEL ANIME: WOLVERINE[/B]</name>
@@ -2249,6 +2436,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--MONSTER RANCHER-->
 	<channel>
 		<name>[B]MONSTER RANCHER[/B]</name>
@@ -2262,6 +2450,7 @@ TEMPORADAS: 3
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--MEGALOBOX-->
 	<channel>
 		<name>[B]MEGALOBOX[/B]</name>
@@ -2275,6 +2464,7 @@ TEMPORADAS: 2
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--METALLIC ROUGE-->
 	<channel>
 		<name>[B]METALLIC ROUGE[/B]</name>
@@ -2288,6 +2478,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--MINHA MANA APELONA-->
 	<channel>
 		<name>[B]MINHA MANA APELONA[/B]</name>
@@ -2301,6 +2492,7 @@ TEMPORADAS: 1
 STATUS: Finalizado | Incompleto
 		</info>
 	</channel>
+
 <!--MOB PSYCHO 100-->
 	<channel>
 		<name>[B]MOB PSYCHO 100[/B]</name>
@@ -2314,6 +2506,7 @@ TEMPORADAS: 3
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--MISS KOBAYASHI'S DRAGON MAID-->
 	<channel>
 		<name>[B]MISS KOBAYASHI'S DRAGON MAID[/B]</name>
@@ -2327,6 +2520,7 @@ TEMPORADAS: 1 de 3
 STATUS: Finalizado | Incompleto
 		</info>
 	</channel>
+
 <!--MEDABOTS-->
 	<channel>
 		<name>[B]MEDABOTS[/B]</name>
@@ -2340,6 +2534,7 @@ TEMPORADAS: 3
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--MEIJI TOKYO RENKA-->
 	<channel>
 		<name>[B]MEIJI TOKYO RENKA[/B]</name>
@@ -2353,6 +2548,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--NOBLESSE-->
 	<channel>
 		<name>[B]NOBLESSE[/B]</name>
@@ -2366,6 +2562,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--NEON GENESIS EVANGELION-->
 	<channel>
 		<name>[B]NEON GENESIS EVANGELION[/B]</name>
@@ -2379,6 +2576,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--NORAGAMI-->
 	<channel>
 		<name>[B]NORAGAMI[/B]</name>
@@ -2392,6 +2590,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--NEO YOKIO-->
 	<channel>
 		<name>[B]NEO YOKIO[/B]</name>
@@ -2405,6 +2604,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--NINJA KAMUI-->
 	<channel>
 		<name>[B]NINJA KAMUI[/B]</name>
@@ -2418,6 +2618,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--NIER:AUTOMATA VER1.1A-->
 	<channel>
 		<name>[B]NIER:AUTOMATA VER1.1A[/B]</name>
@@ -2431,7 +2632,9 @@ TEMPORADAS: 1
 STATUS: Finalizado | Incompleto
 		</info>
 	</channel>
-<!--NARUTO SHIPPUDEN--><!-- BAIXAR DO ZERO TA MUITO BAGUNÇADO -->
+
+<!--NARUTO SHIPPUDEN-->
+<!-- BAIXAR DO ZERO TA MUITO BAGUNÇADO -->
 	<channel>
 		<name>[B]NARUTO SHIPPUDEN[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0091.webp</thumbnail>
@@ -2444,6 +2647,7 @@ TEMPORADAS: 5 de 22
 STATUS: Finalizado | Incompleto
 		</info>
 	</channel>
+
 <!--NARUTO-->
 	<channel>
 		<name>[B]NARUTO[/B]</name>
@@ -2457,6 +2661,7 @@ TEMPORADAS: 9
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--ONE PIECE-->
 	<channel>
 		<name>[B]ONE PIECE[/B]</name>
@@ -2470,6 +2675,7 @@ TEMPORADAS: 4 de 14
 STATUS: Renovado | Incompleto
 		</info>
 	</channel>
+
 <!--ONYX EQUINOX-->
 	<channel>
 		<name>[B]ONYX EQUINOX[/B]</name>
@@ -2483,6 +2689,7 @@ TEMPORADAS: 1
 STATUS: Cancelado
 		</info>
 	</channel>
+
 <!--OS SETE PECADOS CAPITAIS-->
 	<channel>
 		<name>[B]OS SETE PECADOS CAPITAIS[/B]</name>
@@ -2496,6 +2703,7 @@ TEMPORADAS: 5
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--OWARIMONOGATARI-->
 	<channel>
 		<name>[B]OWARIMONOGATARI[/B]</name>
@@ -2509,6 +2717,7 @@ TEMPORADAS: 1 de 5
 STATUS: Renovado
 		</info>
 	</channel>
+
 <!--OUR LAST CRUSADE OR THE RISE OF A NEW WORLD-->
 	<channel>
 		<name>[B]OUR LAST CRUSADE OR THE RISE OF A NEW WORLD[/B]</name>
@@ -2522,6 +2731,7 @@ TEMPORADAS: 1 de 2
 STATUS: Renovado
 		</info>
 	</channel>
+
 <!--OS CAVALEIROS DO ZODÍACO: ÔMEGA-->
 	<channel>
 		<name>[B]OS CAVALEIROS DO ZODÍACO: ÔMEGA[/B]</name>
@@ -2535,6 +2745,7 @@ TEMPORADAS: 1
 STATUS: Finalizado | Incompleto
 		</info>
 	</channel>
+
 <!--OS CAVALEIROS DO ZODÍACO: ALMA DE OURO-->
 	<channel>
 		<name>[B]OS CAVALEIROS DO ZODÍACO: ALMA DE OURO[/B]</name>
@@ -2548,6 +2759,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--OS CAVALEIROS DO ZODÍACO: SAINT SEIYA-->
 	<channel>
 		<name>[B]OS CAVALEIROS DO ZODÍACO: SAINT SEIYA[/B]</name>
@@ -2561,6 +2773,7 @@ TEMPORADAS: 2
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--OS CAVALEIROS DO ZODÍACO: A SAGA DE HADES-->
 	<channel>
 		<name>[B]OS CAVALEIROS DO ZODÍACO: A SAGA DE HADES[/B]</name>
@@ -2574,6 +2787,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--OS CAVALEIROS DO ZODÍACO: A SAGA DE POSEIDON-->
 	<channel>
 		<name>[B]OS CAVALEIROS DO ZODÍACO: A SAGA DE POSEIDON[/B]</name>
@@ -2587,6 +2801,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--OS CAVALEIROS DO ZODÍACO: A SAGA DE ASGARD-->
 	<channel>
 		<name>[B]OS CAVALEIROS DO ZODÍACO: A SAGA DE ASGARD[/B]</name>
@@ -2600,6 +2815,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--OS CAVALEIROS DO ZODÍACO: A SAGA DO SANTUÁRIO-->
 	<channel>
 		<name>[B]OS CAVALEIROS DO ZODÍACO: A SAGA DO SANTUÁRIO[/B]</name>
@@ -2613,6 +2829,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--OS CAVALEIROS DO ZODÍACO: THE LOST CANVAS-->
 	<channel>
 		<name>[B]OS CAVALEIROS DO ZODÍACO: THE LOST CANVAS[/B]</name>
@@ -2626,6 +2843,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--ONE PUNCH MAN-->
 	<channel>
 		<name>[B]ONE PUNCH MAN[/B]</name>
@@ -2639,6 +2857,7 @@ TEMPORADAS: 2
 STATUS: Renovado
 		</info>
 	</channel>
+
 <!--ORANGE-->
 	<channel>
 		<name>[B]ORANGE[/B]</name>
@@ -2652,6 +2871,7 @@ TEMPORADAS: 1
 STATUS: Renovado
 		</info>
 	</channel>
+
 <!--ORIENT-->
 	<channel>
 		<name>[B]ORIENT[/B]</name>
@@ -2665,6 +2885,7 @@ TEMPORADAS: 1
 STATUS: Finalizado | Incompleto
 		</info>
 	</channel>
+
 <!--PILOTOS DE DRAGÃO-->
 	<channel>
 		<name>[B]PILOTOS DE DRAGÃO[/B]</name>
@@ -2678,6 +2899,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--POKÉMON: SÉRIE JORNADAS-->
 	<channel>
 		<name>[B]POKÉMON: SÉRIE JORNADAS[/B]</name>
@@ -2691,6 +2913,7 @@ TEMPORADAS: 1
 STATUS: Renovado
 		</info>
 	</channel>
+
 <!--PARASYTE -THE MAXIM- -->
 	<channel>
 		<name>[B]PARASYTE -THE MAXIM-[/B]</name>
@@ -2704,6 +2927,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--POKÉMON: LIGA ÍNDIGO-->
 	<channel>
 		<name>[B]POKÉMON: LIGA ÍNDIGO[/B]</name>
@@ -2717,6 +2941,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--POKÉMON: LIGA LARANJA-->
 	<channel>
 		<name>[B]POKÉMON: LIGA LARANJA[/B]</name>
@@ -2730,6 +2955,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--PSYCHO-PASS: PECADORES DO SISTEMA-->
 	<channel>
 		<name>[B]PSYCHO-PASS: PECADORES DO SISTEMA[/B]</name>
@@ -2743,6 +2969,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--RANKING OF KINGS-->
 	<channel>
 		<name>[B]RANKING OF KINGS[/B]</name>
@@ -2756,6 +2983,7 @@ TEMPORADAS: 1 de 2
 STATUS: Finalizado | Incompleto
 		</info>
 	</channel>
+
 <!--ROKKA NO YUUSHA-->
 	<channel>
 		<name>[B]ROKKA NO YUUSHA[/B]</name>
@@ -2769,6 +2997,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--REVISIONS-->
 	<channel>
 		<name>[B]REVISIONS[/B]</name>
@@ -2782,6 +3011,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--RECOVERY OF AN MMO JUNKIE-->
 	<channel>
 		<name>[B]RECOVERY OF AN MMO JUNKIE[/B]</name>
@@ -2795,6 +3025,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--RADIANT-->
 	<channel>
 		<name>[B]RADIANT[/B]</name>
@@ -2808,6 +3039,7 @@ TEMPORADAS: 2
 STATUS: Finalizado | Incompleto
 		</info>
 	</channel>
+
 <!--RAGE OF BAHAMUT GENESIS-->
 	<channel>
 		<name>[B]RAGE OF BAHAMUT GENESIS[/B]</name>
@@ -2821,6 +3053,7 @@ TEMPORADAS: 2
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--RUMBLE GARANNDOLL-->
 	<channel>
 		<name>[B]RUMBLE GARANNDOLL[/B]</name>
@@ -2834,6 +3067,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--RANMA ½-->
 	<channel>
 		<name>[B]RANMA ½[/B]</name>
@@ -2847,6 +3081,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--RECORD OF RAGNAROK-->
 	<channel>
 		<name>[B]RECORD OF RAGNAROK[/B]</name>
@@ -2860,6 +3095,7 @@ TEMPORADAS: 1 de 3
 STATUS: Renovado | Incompleto
 		</info>
 	</channel>
+
 <!--REVENGER-->
 	<channel>
 		<name>[B]REVENGER[/B]</name>
@@ -2873,6 +3109,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--SHANGRI-LA FRONTIER-->
 	<channel>
 		<name>[B]SHANGRI-LA FRONTIER[/B]</name>
@@ -2886,6 +3123,7 @@ TEMPORADAS: 2
 STATUS: Renovado | Incompleto
 		</info>
 	</channel>
+
 <!--SCHWARZESMARKEN-->
 	<channel>
 		<name>[B]SCHWARZESMARKEN[/B]</name>
@@ -2899,6 +3137,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--SAGA OF TANYA THE EVIL-->
 	<channel>
 		<name>[B]SAGA OF TANYA THE EVIL[/B]</name>
@@ -2912,6 +3151,7 @@ TEMPORADAS: 1
 STATUS: Renovado
 		</info>
 	</channel>
+
 <!--SUPERNATURAL: THE ANIMATION-->
 	<channel>
 		<name>[B]SUPERNATURAL: THE ANIMATION[/B]</name>
@@ -2925,6 +3165,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--SWORD ART ONLINE-->
 	<channel>
 		<name>[B]SWORD ART ONLINE[/B]</name>
@@ -2938,6 +3179,7 @@ TEMPORADAS: 3
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--SEIS PUNHOS-->
 	<channel>
 		<name>[B]SEIS PUNHOS[/B]</name>
@@ -2951,6 +3193,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--SUPER CAMPEÕES: CAPITÃO TSUBASA-->
 	<channel>
 		<name>[B]SUPER CAMPEÕES: CAPITÃO TSUBASA[/B]</name>
@@ -2964,6 +3207,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--SABER MARIONETTE J-->
 	<channel>
 		<name>[B]SABER MARIONETTE J[/B]</name>
@@ -2977,6 +3221,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--SABER MARIONETTE J AGAIN-->
 	<channel>
 		<name>[B]SABER MARIONETTE J AGAIN[/B]</name>
@@ -2990,6 +3235,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--SABER MARIONETTE J TO X-->
 	<channel>
 		<name>[B]SABER MARIONETTE J TO X</name>
@@ -3003,6 +3249,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--STEINS GATE-->
 	<channel>
 		<name>[B]STEINS GATE[/B]</name>
@@ -3016,6 +3263,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--STEINS GATE 0-->
 	<channel>
 		<name>[B]STEINS GATE 0[/B]</name>
@@ -3029,6 +3277,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--SCARLET NEXUS-->
 	<channel>
 		<name>[B]SCARLET NEXUS[/B]</name>
@@ -3042,6 +3291,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--SERAPH OF THE END-->
 	<channel>
 		<name>[B]SERAPH OF THE END[/B]</name>
@@ -3055,6 +3305,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--SPICE AND WOLF-->
 	<channel>
 		<name>[B]SPICE AND WOLF[/B]</name>
@@ -3068,6 +3319,7 @@ TEMPORADAS: 2
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--SONNY BOY-->
 	<channel>
 		<name>[B]SONNY BOY[/B]</name>
@@ -3081,6 +3333,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--STAND MY HEROES: PIECE OF TRUTH-->
 	<channel>
 		<name>[B]STAND MY HEROES: PIECE OF TRUTH[/B]</name>
@@ -3094,6 +3347,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--SUPER CUB-->
 	<channel>
 		<name>[B]SUPER CUB[/B]</name>
@@ -3107,6 +3361,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--SERIAL EXPERIMENTS LAIN-->
 	<channel>
 		<name>[B]SERIAL EXPERIMENTS LAIN[/B]</name>
@@ -3120,6 +3375,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--SHAMAN KING [REMAKE]-->
 	<channel>
 		<name>[B]SHAMAN KING [REMAKE][/B]</name>
@@ -3133,6 +3389,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--SUPER CROOKS-->
 	<channel>
 		<name>[B]SUPER CROOKS[/B]</name>
@@ -3146,6 +3403,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--SO IM A SPIDER, SO WHAT?-->
 	<channel>
 		<name>[B]SO IM A SPIDER, SO WHAT?[/B]</name>
@@ -3159,6 +3417,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--SWORDGAI THE ANIMATION-->
 	<channel>
 		<name>[B]SWORDGAI THE ANIMATION[/B]</name>
@@ -3172,6 +3431,7 @@ TEMPORADAS: 2
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--SIRIUS THE JAEGER-->
 	<channel>
 		<name>[B]SIRIUS THE JAEGER[/B]</name>
@@ -3185,6 +3445,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--SAKURA CARD CAPTORS-->
 	<channel>
 		<name>[B]SAKURA CARD CAPTORS[/B]</name>
@@ -3198,6 +3459,7 @@ TEMPORADAS: 3 de 4
 STATUS: Finalizado | Incompleto
 		</info>
 	</channel>
+
 <!--SAMURAI CHAMPLOO-->
 	<channel>
 		<name>[B]SAMURAI CHAMPLOO[/B]</name>
@@ -3211,6 +3473,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--STREET FIGHTER II VICTORY-->
 	<channel>
 		<name>[B]STREET FIGHTER II VICTORY[/B]</name>
@@ -3224,6 +3487,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--SHURATO-->
 	<channel>
 		<name>[B]SHURATO[/B]</name>
@@ -3237,6 +3501,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--SAMURAI X-->
 	<channel>
 		<name>[B]SAMURAI X[/B]</name>
@@ -3250,6 +3515,7 @@ TEMPORADAS: 3
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--SAMURAI TROOPERS [WARRIORS]-->
 	<channel>
 		<name>[B]SAMURAI TROOPERS [WARRIORS][/B]</name>
@@ -3263,6 +3529,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--SAMURAI DE OLHOS AZUIS-->
 	<channel>
 		<name>[B]SAMURAI DE OLHOS AZUIS[/B]</name>
@@ -3276,6 +3543,7 @@ TEMPORADAS: 1
 STATUS: Renovado
 		</info>
 	</channel>
+
 <!--SPY X FAMILY-->
 	<channel>
 		<name>[B]SPY X FAMILY[/B]</name>
@@ -3289,6 +3557,7 @@ TEMPORADAS: 2
 STATUS: Renovado
 		</info>
 	</channel>
+
 <!--TSUKIMICHI -MOONLIT FANTASY- -->
 	<channel>
 		<name>[B]TSUKIMICHI -MOONLIT FANTASY-[/B]</name>
@@ -3302,6 +3571,7 @@ TEMPORADAS: 1 de 2
 STATUS: Renovado
 		</info>
 	</channel>
+
 <!--TRIGUN STAMPEDE-->
 	<channel>
 		<name>[B]TRIGUN STAMPEDE[/B]</name>
@@ -3315,6 +3585,7 @@ TEMPORADAS: 1
 STATUS: Renovado
 		</info>
 	</channel>
+
 <!--THE KING OF FIGHTERS: DESTINY-->
 	<channel>
 		<name>[B]THE KING OF FIGHTERS: DESTINY[/B]</name>
@@ -3328,6 +3599,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--THE GOD OF HIGH SCHOOL-->
 	<channel>
 		<name>[B]THE GOD OF HIGH SCHOOL[/B]</name>
@@ -3341,6 +3613,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--TENGOKU-DAIMAKYO: ILUSÃO CELESTIAL-->
 	<channel>
 		<name>[B]TENGOKU-DAIMAKYO: ILUSÃO CELESTIAL[/B]</name>
@@ -3354,6 +3627,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--THE FRUIT OF EVOLUTION-->
 	<channel>
 		<name>[B]THE FRUIT OF EVOLUTION[/B]</name>
@@ -3367,6 +3641,7 @@ TEMPORADAS: 1 de 2
 STATUS: Finalizado | Incompleto
 		</info>
 	</channel>
+
 <!--THE RISING OF THE SHIELD HERO-->
 	<channel>
 		<name>[B]THE RISING OF THE SHIELD HERO[/B]</name>
@@ -3380,6 +3655,7 @@ TEMPORADAS: 3
 STATUS: Renovado
 		</info>
 	</channel>
+
 <!--THE DAWN OF THE WITCH-->
 	<channel>
 		<name>[B]THE DAWN OF THE WITCH[/B]</name>
@@ -3393,6 +3669,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--THE ANCIENT MAGUS' BRIDE-->
 	<channel>
 		<name>[B]THE ANCIENT MAGUS' BRIDE[/B]</name>
@@ -3406,6 +3683,7 @@ TEMPORADAS: 1 de 2
 STATUS: Finalizado | Incompleto
 		</info>
 	</channel>
+
 <!--THE CASE STUDY OF VANITAS-->
 	<channel>
 		<name>[B]THE CASE STUDY OF VANITAS[/B]</name>
@@ -3419,6 +3697,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--TENCHI EM TÓQUIO-->
 	<channel>
 		<name>[B]TENCHI EM TÓQUIO[/B]</name>
@@ -3432,6 +3711,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--TOKYO GHOUL-->
 	<channel>
 		<name>[B]TOKYO GHOUL[/B]</name>
@@ -3445,6 +3725,7 @@ TEMPORADAS: 3
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--TENKUU SHINPAN: SEM SAÍDA-->
 	<channel>
 		<name>[B]TENKUU SHINPAN: SEM SAÍDA[/B]</name>
@@ -3458,6 +3739,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--THE IRREGULAR AT MAGIC HIGH SCHOOL-->
 	<channel>
 		<name>[B]THE IRREGULAR AT MAGIC HIGH SCHOOL[/B]</name>
@@ -3471,6 +3753,7 @@ TEMPORADAS: 1 de 3
 STATUS: Finalizado | Incompleto
 		</info>
 	</channel>
+
 <!--TEKKEN: BLOODLINE-->
 	<channel>
 		<name>[B]TEKKEN: BLOODLINE[/B]</name>
@@ -3484,6 +3767,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--THE HIDDEN DUNGEON ONLY I CAN ENTER-->
 	<channel>
 		<name>[B]THE HIDDEN DUNGEON ONLY I CAN ENTER[/B]</name>
@@ -3497,6 +3781,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--THE RECORD OF LODOSS WAR-->
 	<channel>
 		<name>[B]THE RECORD OF LODOSS WAR[/B]</name>
@@ -3510,6 +3795,7 @@ TEMPORADAS: 2
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--THE DETECTIVE IS ALREADY DEAD-->
 	<channel>
 		<name>[B]THE DETECTIVE IS ALREADY DEAD[/B]</name>
@@ -3523,6 +3809,7 @@ TEMPORADAS: 1
 STATUS: Renovado
 		</info>
 	</channel>
+
 <!--THE DUNGEON OF BLACK COMPANY-->
 	<channel>
 		<name>[B]THE DUNGEON OF BLACK COMPANY[/B]</name>
@@ -3536,6 +3823,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--THE DUKE OF DEATH AND HIS MAID-->
 	<channel>
 		<name>[B]THE DUKE OF DEATH AND HIS MAID[/B]</name>
@@ -3549,6 +3837,7 @@ TEMPORADAS: 1 de 3
 STATUS: Finalizado | Incompleto
 		</info>
 	</channel>
+
 <!--THE GENIUS PRINCES GUIDE TO RAISING A NATION OUT OF DEBT-->
 	<channel>
 		<name>[B]THE GENIUS PRINCES GUIDE TO RAISING A NATION OUT OF DEBT[/B]</name>
@@ -3562,6 +3851,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--THE VAMPIRE DIES IN NO TIME-->
 	<channel>
 		<name>[B]THE VAMPIRE DIES IN NO TIME[/B]</name>
@@ -3575,6 +3865,7 @@ TEMPORADAS: 1 de 2
 STATUS: Finalizado | Incompleto
 		</info>
 	</channel>
+
 <!--TRIBE NINE-->
 	<channel>
 		<name>[B]TRIBE NINE[/B]</name>
@@ -3588,6 +3879,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--TENCHI MUYO! UNIVERSE-->
 	<channel>
 		<name>[B]TENCHI MUYO! UNIVERSE[/B]</name>
@@ -3601,6 +3893,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--TO YOUR ETERNITY-->
 	<channel>
 		<name>[B]TO YOUR ETERNITY[/B]</name>
@@ -3614,6 +3907,7 @@ TEMPORADAS: 1 de 2
 STATUS: Renovado | Incompleto
 		</info>
 	</channel>
+
 <!--TOKYO REVENGERS-->
 	<channel>
 		<name>[B]TOKYO REVENGERS[/B]</name>
@@ -3627,6 +3921,7 @@ TEMPORADAS: 1
 STATUS: Renovado | Incompleto
 		</info>
 	</channel>
+
 <!--TRANSFORMERS: WAR FOR CYBERTRON-->
 	<channel>
 		<name>[B]TRANSFORMERS: WAR FOR CYBERTRON[/B]</name>
@@ -3640,6 +3935,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--TRESE-->
 	<channel>
 		<name>[B]TRESE[/B]</name>
@@ -3653,6 +3949,7 @@ TEMPORADAS: 1
 STATUS: Cancelado
 		</info>
 	</channel>
+
 <!--THE MISFIT OF DEMON KING ACADEMY-->
 	<channel>
 		<name>[B]THE MISFIT OF DEMON KING ACADEMY[/B]</name>
@@ -3666,6 +3963,7 @@ TEMPORADAS: 1 de 2
 STATUS: Finalizado | Incompleto
 		</info>
 	</channel>
+
 <!--TOWER OF GOD-->
 	<channel>
 		<name>[B]TOWER OF GOD[/B]</name>
@@ -3679,6 +3977,7 @@ TEMPORADAS: 1 de 2
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--TWIN STAR EXORCISTS-->
 	<channel>
 		<name>[B]TWIN STAR EXORCISTS[/B]</name>
@@ -3692,6 +3991,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--TRINITY BLOOD-->
 	<channel>
 		<name>[B]TRINITY BLOOD[/B]</name>
@@ -3705,6 +4005,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--TRIGUN-->
 	<channel>
 		<name>[B]TRIGUN[/B]</name>
@@ -3718,6 +4019,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--TABOO TATTOO-->
 	<channel>
 		<name>[B]TABOO TATTOO[/B]</name>
@@ -3731,6 +4033,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--ULTRAMARINE MAGMELL-->
 	<channel>
 		<name>[B]ULTRAMARINE MAGMELL[/B]</name>
@@ -3744,6 +4047,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--USHIO E TORA-->
 	<channel>
 		<name>[B]USHIO E TORA[/B]</name>
@@ -3757,6 +4061,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--ULTRAMAN-->
 	<channel>
 		<name>[B]ULTRAMAN[/B]</name>
@@ -3770,6 +4075,7 @@ TEMPORADAS: 1 de 3
 STATUS: Finalizado | Incompleto
 		</info>
 	</channel>
+
 <!--VINLAND SAGA-->
 	<channel>
 		<name>[B]VINLAND SAGA[/B]</name>
@@ -3783,6 +4089,7 @@ TEMPORADAS: 2
 STATUS: Renovado
 		</info>
 	</channel>
+
 <!--WANDERING WITCH: THE JOURNEY OF ELAINA-->
 	<channel>
 		<name>[B]WANDERING WITCH: THE JOURNEY OF ELAINA[/B]</name>
@@ -3796,6 +4103,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--YASUKE-->
 	<channel>
 		<name>[B]YASUKE[/B]</name>
@@ -3809,6 +4117,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--YU-YU HAKUSHO-->
 	<channel>
 		<name>[B]YU-YU HAKUSHO[/B]</name>
@@ -3822,6 +4131,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--YAMADA-KUN AND THE SEVEN WITCHES-->
 	<channel>
 		<name>[B]YAMADA-KUN AND THE SEVEN WITCHES[/B]</name>
@@ -3835,6 +4145,7 @@ TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
 	</channel>
+
 <!--YU-GI-OH!-->
 	<channel>
 		<name>[B]YU-GI-OH![/B]</name>
@@ -3848,6 +4159,7 @@ TEMPORADAS: 4 de 5
 STATUS: Finalizado | Incompleto
 		</info>
 	</channel>
+
 <!--YASHAHIME: PRINCESS HALF-DEMON-->
 	<channel>
 		<name>[B]YASHAHIME: PRINCESS HALF-DEMON[/B]</name>
@@ -3861,6 +4173,7 @@ TEMPORADAS: 1
 STATUS: Finalizado | Incompleto
 		</info>
 	</channel>
+
 <!--OVA/FILME-->
 	<channel>
 		<name>[B]OVA/FILME[/B]</name>
