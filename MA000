@@ -15,7 +15,35 @@ STATUS: Finalizado
 		</info>
 	</channel>
 
-<!--DRAGON BALL DAIMA-->
+<!--BLEACH-->
+	<channel>
+		<name>[B]BLEACH[/B]</name>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0099.webp</thumbnail>
+		<externallink>https://raw.githubusercontent.com/icefenixfire/X/main/A/A0099</externallink>
+		<genre>Ação | Fantasia | Sobrenatural</genre>
+		<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2004 - 2012
+TEMPORADAS: 1
+STATUS: Finalizado
+		</info>
+	</channel>
+
+<!--BLEACH: THOUSAND-YEAR BLOOD WAR-->
+	<channel>
+		<name>[B]BLEACH: THOUSAND-YEAR BLOOD WAR[/B]</name>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0247.webp</thumbnail>
+		<externallink>https://raw.githubusercontent.com/icefenixfire/X/main/A/A0247</externallink>
+		<genre>Ação | Fantasia | Sobrenatural</genre>
+		<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2022
+TEMPORADAS: 1
+STATUS: Renovado
+		</info>
+	</channel>
+
+<!--AYAKASHI JAPANESE CLASSIC HORROR-->
 	<channel>
 		<name>[B]AYAKASHI JAPANESE CLASSIC HORROR[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0302.webp</thumbnail>
@@ -348,20 +376,6 @@ STATUS: Renovado
 ANO: 2010
 TEMPORADAS: 1
 STATUS: Finalizado
-		</info>
-	</channel>
-
-<!--BLEACH: THOUSAND-YEAR BLOOD WAR-->
-	<channel>
-		<name>[B]BLEACH: THOUSAND-YEAR BLOOD WAR[/B]</name>
-		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0247.webp</thumbnail>
-		<externallink>https://raw.githubusercontent.com/icefenixfire/X/main/A/A0247</externallink>
-		<genre>Ação | Fantasia | Sobrenatural</genre>
-		<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]
-ÁUDIO: Português
-ANO: 2022
-TEMPORADAS: 1
-STATUS: Renovado
 		</info>
 	</channel>
 
@@ -1300,20 +1314,6 @@ STATUS: Renovado
 ANO: 2018
 TEMPORADAS: 2
 STATUS: Finalizado
-		</info>
-	</channel>
-
-<!--BLEACH-->
-	<channel>
-		<name>[B]BLEACH[/B]</name>
-		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0099.webp</thumbnail>
-		<externallink>https://raw.githubusercontent.com/icefenixfire/X/main/A/A0099</externallink>
-		<genre>Ação | Fantasia | Sobrenatural</genre>
-		<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]
-ÁUDIO: Português
-ANO: 2004 - 2012
-TEMPORADAS: 1
-STATUS: Finalizado | Incompleto
 		</info>
 	</channel>
 
