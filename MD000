@@ -3,7 +3,7 @@
 
 <!--THUNDERCATS-->
 	<channel>
-		<name>[B]THUNDERCATS[/B] [COLOR crimson][IA Remaster][/COLOR]</name>
+		<name>[B]THUNDERCATS[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/D/main/D0064.webp</thumbnail>
 		<externallink>https://raw.githubusercontent.com/icefenixfire/X/main/D/D0064</externallink>
 		<genre>Ação | Fantasia | Aventura</genre>	
@@ -12,12 +12,13 @@
 ANO: 1985 - 1989
 TEMPORADAS: 4
 STATUS: Finalizado
+VERSÃO:[COLOR crimson] IA Upscale[/COLOR]
 		</info>
 	</channel>
 	
 <!--CORAGEM, O CÃO COVARDE-->	
 	<channel>
-		<name>[B]CORAGEM, O CÃO COVARDE[/B] [COLOR crimson][IA Upscale][/COLOR]</name>
+		<name>[B]CORAGEM, O CÃO COVARDE[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/D/main/D0121.webp</thumbnail>
 		<externallink>https://raw.githubusercontent.com/icefenixfire/X/main/D/D0121</externallink>
 		<genre>Fantasia | Comédia | Ficção</genre>	
@@ -26,6 +27,7 @@ STATUS: Finalizado
 ANO: 1999 - 2002
 TEMPORADAS: 4
 STATUS: Finalizado
+VERSÃO:[COLOR crimson] IA Upscale[/COLOR]
 		</info>
 	</channel>
 
