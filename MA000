@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <channels>
 
+<!--TO BE HERO X -->
+	<channel>
+		<name>[B]TO BE HERO X[/B]</name>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0304.webp</thumbnail>
+		<externallink>https://raw.githubusercontent.com/icefenixfire/X/main/A/A0304</externallink>
+		<genre>Ação | Ficção | Fantasia</genre>
+		<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2025
+TEMPORADAS: 1
+STATUS: Renovado
+		</info>
+	</channel>
+
 <!--MONSTER-->
 	<channel>
 		<name>[B]MONSTER[/B]</name>
@@ -18,7 +32,7 @@ VERSÃO:[COLOR crimson] IA Upscale[/COLOR]
 	
 <!--RAGE OF BAHAMUT GENESIS-->
 	<channel>
-		<name>[B]RAGE OF BAHAMUT GENESIS[/B]</name>
+		<name>[B]RAGE OF BAHAMUT: GENESIS E VIRGIN SOUL[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0064.webp</thumbnail>
 		<externallink>https://raw.githubusercontent.com/icefenixfire/X/main/A/A0064</externallink>
 		<genre>Ação | Aventura | Fantasia</genre>
