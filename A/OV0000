@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <items>
 
+<item><title>[B]Futari Ecchi: Step Up Love Story [COLOR crimson][IA Upscale][/COLOR] ● 2002[/B]</title><thumbnail>https://raw.githubusercontent.com/icefenixfire/O/main/OV0054.webp</thumbnail><fanart></fanart><genre>Legendado</genre><info>[COLOR crimson][B]● Classificação +18[/B][/COLOR]</info>
+<link>https://archive.org/download/OV0000/OV0054_E01.mkv$nome=[B]PARTE 1[/B]</link>
+<link>https://archive.org/download/OV0000/OV0054_E02.mkv$nome=[B]PARTE 2[/B]</link>
+<link>https://archive.org/download/OV0000/OV0054_E03.mkv$nome=[B]PARTE 3[/B]</link>
+<link>https://archive.org/download/OV0000/OV0054_E04.mkv$nome=[B]PARTE 4[/B]</link>
+
 <item><title>[B]Aika ● 1997[/B]</title><thumbnail>https://raw.githubusercontent.com/icefenixfire/O/main/OV0049.webp</thumbnail><fanart></fanart><genre>Legendado</genre><info>[COLOR crimson][B]● Classificação Indicativa +18[/B][/COLOR]</info>
 <link>https://drive.usercontent.google.com/download?id=19XnyoZTT1k9qOvdY6A6dsZXUQGJzt_WZ&export=download&authuser=7&confirm=t&uuid=dffe35f6-efda-4cdf-8f15-eeaec1febbac&at=AEz70l5_hXkqED7__u9xi6PLJadJ:1743253861625$nome=[B]PARTE 1[/B]</link>
 <link>https://drive.usercontent.google.com/download?id=1Omp8dnmwzPMUTLg354ScbH_rkglJS8vI&export=download&authuser=7&confirm=t&uuid=d31b0add-0740-4246-a433-112c11ed5afd&at=AEz70l5RmM0QsB-EmYm-a9xMDoIW:1743253878061$nome=[B]PARTE 2[/B]</link>
@@ -149,4 +155,28 @@
 <item><title>[B]Overlord: The Undead King ● 2017[/B]</title><thumbnail>https://raw.githubusercontent.com/icefenixfire/O/main/OV0031.webp</thumbnail><fanart></fanart><genre>Legendado</genre><info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]</info><link>https://archive.org/download/OV0000/OV0031.mkv</link></item>
 <item><title>[B]Overlord: The Dark Hero ● 2017[/B]</title><thumbnail>https://raw.githubusercontent.com/icefenixfire/O/main/OV0032.webp</thumbnail><fanart></fanart><genre>Legendado</genre><info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]</info><link>https://archive.org/download/OV0000/OV0032.mkv</link></item>
 
+	<item>
+		<title>[B]Moriarty the Patriot OVA1: Reminiscência de Lírios[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/O/main/OV0053.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0204_fanart.webp</fanart>
+		<genre>Drama | Mistério | Suspense</genre>
+		<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2022
+EPISÓDIO: OVA1
+		</info>
+		<link>https://archive.org/download/OV0000/OV0053.mkv</link>
+	</item>
+	<item>
+		<title>[B]Moriarty the Patriot OVA2: Feriado na Casa da Família Moriarty[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/O/main/OV0053.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0204_fanart.webp</fanart>
+		<genre>Drama | Mistério | Suspense</genre>
+		<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2022
+EPISÓDIO: OVA2
+		</info>
+		<link>https://archive.org/download/OV0000/OV0055.mkv</link>
+	</item>
 </items>
