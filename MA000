@@ -3,7 +3,7 @@
 
 <!--MONSTER-->
 	<channel>
-		<name>[B]MONSTER[/B] [COLOR crimson][IA Upscale][/COLOR]</name>
+		<name>[B]MONSTER[/B]</name>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0303.webp</thumbnail>
 		<externallink>https://raw.githubusercontent.com/icefenixfire/X/main/A/A0303</externallink>
 		<genre>Mistério | Crime | Drama</genre>
@@ -12,6 +12,7 @@
 ANO: 2004 - 2005
 TEMPORADAS: 1
 STATUS: Finalizado
+VERSÃO:[COLOR crimson]IA Upscale[/COLOR]
 		</info>
 	</channel>
 
