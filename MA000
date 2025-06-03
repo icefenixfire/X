@@ -15,6 +15,21 @@ STATUS: Finalizado
 VERSÃO:[COLOR crimson] IA Upscale[/COLOR]
 		</info>
 	</channel>
+	
+<!--RAGE OF BAHAMUT GENESIS-->
+	<channel>
+		<name>[B]RAGE OF BAHAMUT GENESIS[/B]</name>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0064.webp</thumbnail>
+		<externallink>https://raw.githubusercontent.com/icefenixfire/X/main/A/A0064</externallink>
+		<genre>Ação | Aventura | Fantasia</genre>
+		<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]
+ÁUDIO: Japonês
+ANO: 2014 - 2017
+TEMPORADAS: 2
+STATUS: Finalizado
+VERSÃO:[COLOR crimson] HEVC 10Bit[/COLOR]
+		</info>
+	</channel>
 
 <!--BLEACH-->
 	<channel>
@@ -3038,20 +3053,6 @@ STATUS: Finalizado
 ANO: 2018 - 2019
 TEMPORADAS: 2
 STATUS: Finalizado | Incompleto
-		</info>
-	</channel>
-
-<!--RAGE OF BAHAMUT GENESIS-->
-	<channel>
-		<name>[B]RAGE OF BAHAMUT GENESIS[/B]</name>
-		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0064.webp</thumbnail>
-		<externallink>https://raw.githubusercontent.com/icefenixfire/X/main/A/A0064</externallink>
-		<genre>Ação | Aventura | Fantasia</genre>
-		<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]
-ÁUDIO: Japonês
-ANO: 2014 - 2017
-TEMPORADAS: 2
-STATUS: Finalizado
 		</info>
 	</channel>
 
