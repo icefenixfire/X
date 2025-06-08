@@ -44,6 +44,21 @@ STATUS: Finalizado
 VERSÃO:[COLOR crimson] HEVC 10Bit[/COLOR]
 		</info>
 	</channel>
+	
+<!--DRAGON BALL-->
+	<channel>
+		<name>[B]DRAGON BALL[/B]</name>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0025.webp</thumbnail>
+		<externallink>https://raw.githubusercontent.com/icefenixfire/X/main/A/A0025</externallink>
+		<genre>Ação | Aventura | Fantasia</genre>
+		<info>[COLOR yellow][B]● Classificação +12[/B][/COLOR]
+ÁUDIO: Português [Álamo e Mágica] | Japonês
+ANO: 1986 - 1989
+TEMPORADAS: 1
+STATUS: Finalizado
+VERSÃO:[COLOR crimson] Sem Cortes[/COLOR]
+		</info>
+	</channel>
 
 <!--BLEACH-->
 	<channel>
@@ -1594,20 +1609,6 @@ STATUS: Finalizado
 		<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]
 ÁUDIO: Japonês
 ANO: 2007
-TEMPORADAS: 1
-STATUS: Finalizado
-		</info>
-	</channel>
-
-<!--DRAGON BALL-->
-	<channel>
-		<name>[B]DRAGON BALL[/B]</name>
-		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0025.webp</thumbnail>
-		<externallink>https://raw.githubusercontent.com/icefenixfire/X/main/A/A0025</externallink>
-		<genre>Ação | Aventura | Fantasia</genre>
-		<info>[COLOR yellow][B]● Classificação +12[/B][/COLOR]
-ÁUDIO: Português
-ANO: 1986 - 1989
 TEMPORADAS: 1
 STATUS: Finalizado
 		</info>
