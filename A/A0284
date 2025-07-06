@@ -156,4 +156,18 @@ EPISÓDIO: 12
 		</info>
 		<link>https://archive.org/download/AA0000/A0284_T1_E12.mkv</link>
 	</item>
+<!--TEMPORADA 2-->
+	<item>
+		<title>[COLOR lime][B]DAN DA DAN: T2 - Episódio 01[/B][/COLOR]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0284.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0284_fanart.webp</fanart>
+		<genre>Ação | Comédia | Fantasia | Sobrenatural</genre>
+		<info>[COLOR red][B]● Classificação +16[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2024
+TEMPORADA: 2
+EPISÓDIO: 01
+		</info>
+		<link>https://archive.org/download/AA0000/A0284_T2_E01.mkv</link>
+	</item>
 </items>
