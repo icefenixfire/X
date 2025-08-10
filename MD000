@@ -1,5 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <channels>
+<!--OLHOS DE WAKANDA-->
+	<channel>
+		<name>[B]OLHOS DE WAKANDA[/B]</name>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/D/main/D0219.webp</thumbnail>
+		<externallink>https://raw.githubusercontent.com/icefenixfire/X/main/D/D0219</externallink>
+		<genre>Ação | Fantasia | Aventura | Ficção</genre>	
+		<info>[COLOR cyan][B]● Classificação +10[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2025
+TEMPORADAS: 1
+STATUS: Renovado
+		</info>
+	</channel>
 
 <!--THUNDERCATS-->
 	<channel>
