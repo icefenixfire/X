@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <channels>
 
+<!-- BULLET BULLET -->
+	<channel>
+		<name>[B]BULLET BULLET[/B]</name>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0306.webp</thumbnail>
+		<externallink>https://raw.githubusercontent.com/icefenixfire/X/main/A/A0306</externallink>
+		<genre>Ação | Ficção | Aventura</genre>
+		<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2025
+TEMPORADAS: 1
+STATUS: Renovado
+		</info>
+	</channel>
+
 <!-- LAZARUS -->
 	<channel>
 		<name>[B]LAZARUS[/B]</name>
