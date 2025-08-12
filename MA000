@@ -14,6 +14,34 @@ TEMPORADAS: 1
 STATUS: Renovado
 		</info>
 	</channel>
+	
+<!--DAN DA DAN-->
+	<channel>
+		<name>[B]DAN DA DAN[/B]</name>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0284.webp</thumbnail>
+		<externallink>https://raw.githubusercontent.com/icefenixfire/X/main/A/A0284</externallink>
+		<genre>Ação | Comédia | Fantasia | Sobrenatural</genre>
+		<info>[COLOR red][B]● Classificação +16[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2024
+TEMPORADAS: 2
+STATUS: Renovado
+		</info>
+	</channel>
+	
+	<!--SAKAMOTO DAYS-->
+	<channel>
+		<name>[B]SAKAMOTO DAYS[/B]</name>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0289.webp</thumbnail>
+		<externallink>https://raw.githubusercontent.com/icefenixfire/X/main/A/A0289</externallink>
+		<genre>Comédia | Ação</genre>
+		<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2025
+TEMPORADAS: 1
+STATUS: Renovado
+		</info>
+	</channel>
 
 <!-- LAZARUS -->
 	<channel>
@@ -452,20 +480,6 @@ STATUS: Finalizado
 		</info>
 	</channel>
 
-<!--SAKAMOTO DAYS-->
-	<channel>
-		<name>[B]SAKAMOTO DAYS[/B]</name>
-		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0289.webp</thumbnail>
-		<externallink>https://raw.githubusercontent.com/icefenixfire/X/main/A/A0289</externallink>
-		<genre>Comédia | Ação</genre>
-		<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]
-ÁUDIO: Português
-ANO: 2025
-TEMPORADAS: 1
-STATUS: Renovado
-		</info>
-	</channel>
-
 <!--BERSERK-->
 	<channel>
 		<name>[B]BERSERK[/B]</name>
@@ -547,20 +561,6 @@ STATUS: Finalizado
 ANO: 1995
 TEMPORADAS: 1
 STATUS: Finalizado
-		</info>
-	</channel>
-
-<!--DAN DA DAN-->
-	<channel>
-		<name>[B]DAN DA DAN[/B]</name>
-		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0284.webp</thumbnail>
-		<externallink>https://raw.githubusercontent.com/icefenixfire/X/main/A/A0284</externallink>
-		<genre>Ação | Comédia | Fantasia | Sobrenatural</genre>
-		<info>[COLOR red][B]● Classificação +16[/B][/COLOR]
-ÁUDIO: Português
-ANO: 2024
-TEMPORADAS: 2
-STATUS: Renovado
 		</info>
 	</channel>
 
