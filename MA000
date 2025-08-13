@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <channels>
 
+<!-- KAIJU NO. 8 -->
+	<channel>
+		<name>[B]KAIJU NO. 8[/B]</name>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0307.webp</thumbnail>
+		<externallink>https://raw.githubusercontent.com/icefenixfire/X/main/A/A0307</externallink>
+		<genre>Ação | Ficção | Aventura | Fantasia</genre>
+		<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2024
+TEMPORADAS: 2
+STATUS: Renovado
+		</info>
+	</channel>
+
 <!-- BULLET BULLET -->
 	<channel>
 		<name>[B]BULLET BULLET[/B]</name>
