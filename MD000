@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <channels>
+<!--SUPER CHOQUE-->
+	<channel>
+		<name>[B]SUPER CHOQUE[/B]</name>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/D/main/D0220.webp</thumbnail>
+		<externallink>https://raw.githubusercontent.com/icefenixfire/X/main/D/D0220</externallink>
+		<genre>Ação | Fantasia | Aventura</genre>	
+		<info>[COLOR cyan][B]● Classificação +10[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2000 - 2004
+TEMPORADAS: 4
+STATUS: Finalizado
+		</info>
+	</channel>
+
 <!--OLHOS DE WAKANDA-->
 	<channel>
 		<name>[B]OLHOS DE WAKANDA[/B]</name>
