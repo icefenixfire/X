@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <channels>
 
+<!--LORD OF MYSTERIES-->
+	<channel>
+		<name>[B]LORD OF MYSTERIES[/B]</name>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0308.webp</thumbnail>
+		<externallink>https://raw.githubusercontent.com/icefenixfire/X/main/A/A0308</externallink>
+		<genre>Drama | Fantasia</genre>
+		<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2025
+TEMPORADAS: 1
+STATUS: Renovado
+		</info>
+	</channel>
+
 <!-- KAIJU NO. 8 -->
 	<channel>
 		<name>[B]KAIJU NO. 8[/B]</name>
@@ -11,6 +25,20 @@
 ÁUDIO: Português
 ANO: 2024
 TEMPORADAS: 2
+STATUS: Renovado
+		</info>
+	</channel>
+	
+<!--DR. STONE-->
+	<channel>
+		<name>[B]DR. STONE[/B]</name>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0119.webp</thumbnail>
+		<externallink>https://raw.githubusercontent.com/icefenixfire/X/main/A/A0119</externallink>
+		<genre>Ficção | Aventura | Mistério | Fantasia</genre>
+		<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2019
+TEMPORADAS: 4
 STATUS: Renovado
 		</info>
 	</channel>
@@ -378,20 +406,6 @@ STATUS: Finalizado | Incompleto
 ÁUDIO: Português
 ANO: 2024
 TEMPORADAS: 2
-STATUS: Renovado
-		</info>
-	</channel>
-
-<!--DR. STONE-->
-	<channel>
-		<name>[B]DR. STONE[/B]</name>
-		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0119.webp</thumbnail>
-		<externallink>https://raw.githubusercontent.com/icefenixfire/X/main/A/A0119</externallink>
-		<genre>Ficção | Aventura | Mistério | Fantasia</genre>
-		<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]
-ÁUDIO: Português
-ANO: 2019
-TEMPORADAS: 4
 STATUS: Renovado
 		</info>
 	</channel>
