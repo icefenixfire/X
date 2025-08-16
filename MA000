@@ -1,6 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <channels>
 
+<!--GACHIAKUTA-->
+	<channel>
+		<name>[B]GACHIAKUTA[/B]</name>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0309.webp</thumbnail>
+		<externallink>https://raw.githubusercontent.com/icefenixfire/X/main/A/A0309</externallink>
+		<genre>Ação | Fantasia</genre>
+		<info>[COLOR red][B]● Classificação +16[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2025
+TEMPORADAS: 1
+STATUS: Renovado
+		</info>
+	</channel>
+
+<!--CLEVATESS-->
+	<channel>
+		<name>[B]CLEVATESS[/B]</name>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0310.webp</thumbnail>
+		<externallink>https://raw.githubusercontent.com/icefenixfire/X/main/A/A0310</externallink>
+		<genre>Ação | Aventura | Fantasia</genre>
+		<info>[COLOR red][B]● Classificação +16[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2025
+TEMPORADAS: 1
+STATUS: Renovado
+		</info>
+	</channel>
+
 <!--LORD OF MYSTERIES-->
 	<channel>
 		<name>[B]LORD OF MYSTERIES[/B]</name>
