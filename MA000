@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <channels>
 
+<!--GOLDEN KAMUY-->
+	<channel>
+		<name>[B]GOLDEN KAMUY[/B]</name>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0311.webp</thumbnail>
+		<externallink>https://raw.githubusercontent.com/icefenixfire/X/main/A/A0311</externallink>
+		<genre>Ação | Aventura | Drama</genre>
+		<info>[COLOR crimson][B]● Classificação Indicativa +18[/B][/COLOR]
+ÁUDIO: Japonês
+ANO: 2018
+TEMPORADAS: 1
+STATUS: Renovado
+		</info>
+	</channel>
+
 <!--GACHIAKUTA-->
 	<channel>
 		<name>[B]GACHIAKUTA[/B]</name>
