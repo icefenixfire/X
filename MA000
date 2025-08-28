@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <channels>
 
+<!--LEVIATÃ-->
+	<channel>
+		<name>[B]LEVIATÃ[/B]</name>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0312.webp</thumbnail>
+		<externallink>https://raw.githubusercontent.com/icefenixfire/X/main/A/A0312</externallink>
+		<genre>Ação | Aventura | Ficção</genre>
+		<info>[COLOR red][B]● Classificação +16[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2025
+TEMPORADAS: 1
+STATUS: Finalizado
+		</info>
+	</channel>
+
 <!--GOLDEN KAMUY-->
 	<channel>
 		<name>[B]GOLDEN KAMUY[/B]</name>
