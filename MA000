@@ -1,6 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <channels>
 
+<!--TOUGEN ANKI-->
+	<channel>
+		<name>[B]TOUGEN ANKI[/B]</name>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0314.webp</thumbnail>
+		<externallink>https://raw.githubusercontent.com/icefenixfire/X/main/A/A0314</externallink>
+		<genre>Ação | Fantasia | Comédia</genre>
+		<info>[COLOR darkorange][B]● Classificação Indicativa +14[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2023
+TEMPORADAS: 2
+STATUS: Renovado
+		</info>
+	</channel>
+
+<!--TOUGEN ANKI-->
+	<channel>
+		<name>[B]TOUGEN ANKI[/B]</name>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0313.webp</thumbnail>
+		<externallink>https://raw.githubusercontent.com/icefenixfire/X/main/A/A0313</externallink>
+		<genre>Ação | Aventura | Mistério</genre>
+		<info>[COLOR red][B]● Classificação +16[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2025
+TEMPORADAS: 1
+STATUS: Renovado
+		</info>
+	</channel>
+
 <!--LEVIATÃ-->
 	<channel>
 		<name>[B]LEVIATÃ[/B]</name>
