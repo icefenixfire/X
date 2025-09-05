@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <items>
 	<item>
+		<title>[B]TESTE LINK chomikuj[/B]</title>
+		<thumbnail></thumbnail>
+		<fanart></fanart>
+		<genre></genre>
+		<info>[COLOR cyan][B]● Classificação +10[/B][/COLOR]
+ÁUDIO: Português
+ANO: 
+TEMPORADA: 1
+EPISÓDIO: 01</info>
+		<link>https://s9548.chomikuj.pl/File.aspx?e=HwZjCXlbymWyQ47FfUH-gwuU7akkD6VEdpROqDJ1X8BKcxyUJweMlfnXhxRNza7aZiC8LjAPPJO3WvVnHI5kuXNHvoWa6Zng6VI85PC8qypxbVQunzjl9sF2uRN9YUfZJmrEgpaqmr6-hRwwLRIObw&pv=2</link>
+	</item>
+	<item>
 		<title>[B]Super Choque: T1 - Episódio 01[/B]</title>
 		<thumbnail>https://raw.githubusercontent.com/icefenixfire/D/main/D0220.webp</thumbnail>
 		<fanart>https://raw.githubusercontent.com/icefenixfire/D/main/D0220_fanart.webp</fanart>
@@ -156,4 +168,5 @@ TEMPORADA: 1
 EPISÓDIO: 13</info>
 		<link>https://archive.org/download/DD0000/D0220_T1_E13.mkv</link>
 	</item>
+
 </items>
