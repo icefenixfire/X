@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <channels>
+<!--TODO MUNDO AINDA ODEIA O CHRIS-->
+	<channel>
+		<name>[B]TODO MUNDO AINDA ODEIA O CHRIS[/B]</name>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/D/main/D0221.webp</thumbnail>
+		<externallink>https://raw.githubusercontent.com/icefenixfire/X/main/D/D0221</externallink>
+		<genre>Comédia</genre>	
+		<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2025
+TEMPORADAS: 1
+STATUS: Renovado
+		</info>
+	</channel>
+
 <!--SUPER CHOQUE-->
 	<channel>
 		<name>[B]SUPER CHOQUE[/B]</name>
