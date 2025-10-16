@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <channels>
 
+<!--RANMA½: REMAKE-->
+	<channel>
+		<name>[B]RANMA½: REMAKE[/B]</name>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0315.webp</thumbnail>
+		<externallink>https://raw.githubusercontent.com/icefenixfire/X/main/A/A0315</externallink>
+		<genre>Ação | Comédia | Fantasia</genre>
+		<info>[COLOR yellow][B]● Classificação Indicativa +12[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2024
+TEMPORADAS: 1
+STATUS: Renovado
+		</info>
+	</channel>
+
 <!--MASHLE: MAGIA E MÚSCULOS-->
 	<channel>
 		<name>[B]MASHLE: MAGIA E MÚSCULOS[/B]</name>
@@ -3793,9 +3807,9 @@ STATUS: Finalizado
 		<genre>Comédia | Fantasia</genre>
 		<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]
 ÁUDIO: Português
-ANO: 2021
-TEMPORADAS: 1 de 2
-STATUS: Finalizado | Incompleto
+ANO: 2021 - 2023
+TEMPORADAS: 2
+STATUS: Finalizado
 		</info>
 	</channel>
 
@@ -4075,7 +4089,7 @@ STATUS: Renovado | Incompleto
 ÁUDIO: Português
 ANO: 2021
 TEMPORADAS: 1
-STATUS: Renovado | Incompleto
+STATUS: Finalizado
 		</info>
 	</channel>
 
