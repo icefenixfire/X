@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <channels>
 
+<!-- SOLO CAMPING FOR TWO -->
+	<channel>
+		<name>[B]SOLO CAMPING FOR TWO[/B]</name>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0316.webp</thumbnail>
+		<externallink>https://raw.githubusercontent.com/icefenixfire/X/main/A/A0316</externallink>
+		<genre>Comédia</genre>
+		<info>[COLOR yellow][B]● Classificação Indicativa +12[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2025
+TEMPORADAS: 1
+STATUS: Renovado
+		</info>
+	</channel>
+
 <!--RANMA½: REMAKE-->
 	<channel>
 		<name>[B]RANMA½: REMAKE[/B]</name>
