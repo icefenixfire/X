@@ -480,5 +480,42 @@ TEMPORADA: 2
 EPISÓDIO: 20
 		</info>
 		<link>https://archive.org/download/A_10_25/A0196_T2_E20.mkv</link>
-	</item>																						
+	</item>
+																						<!-- TEMPORADA 3 -->	
+	<item>
+		<title>[B]To Your Eternity: T3 - Episódio 01[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0196.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0196_fanart.webp</fanart>
+		<genre>Drama | Fantasia | Sobrenatural</genre>
+		<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]
+ÁUDIO: Português
+TEMPORADA: 3
+EPISÓDIO: 01
+		</info>
+		<link>https://archive.org/download/A_10_25/A0196_T3_E01.mkv</link>
+	</item>
+	<item>
+		<title>[B]To Your Eternity: T3 - Episódio 02[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0196.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0196_fanart.webp</fanart>
+		<genre>Drama | Fantasia | Sobrenatural</genre>
+		<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]
+ÁUDIO: Português
+TEMPORADA: 3
+EPISÓDIO: 02
+		</info>
+		<link>https://archive.org/download/A_10_25/A0196_T3_E02.mkv</link>
+	</item>
+	<item>
+		<title>[B]To Your Eternity: T3 - Episódio 03[/B]</title>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0196.webp</thumbnail>
+		<fanart>https://raw.githubusercontent.com/icefenixfire/A/main/A0196_fanart.webp</fanart>
+		<genre>Drama | Fantasia | Sobrenatural</genre>
+		<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]
+ÁUDIO: Português
+TEMPORADA: 3
+EPISÓDIO: 03
+		</info>
+		<link>https://archive.org/download/A_10_25/A0196_T3_E03.mkv</link>
+	</item>
 </items>
