@@ -14,6 +14,20 @@ TEMPORADAS: 1
 STATUS: Renovado
 		</info>
 	</channel>
+	
+	<!-- DRAGON GOES HOUSE-HUNTING -->
+	<channel>
+		<name>[B]DRAGON GOES HOUSE-HUNTING[/B]</name>
+		<thumbnail>https://raw.githubusercontent.com/icefenixfire/A/main/A0209.webp</thumbnail>
+		<externallink>https://raw.githubusercontent.com/icefenixfire/X/main/A/A0209</externallink>
+		<genre>Fantasia</genre>
+		<info>[COLOR darkorange][B]● Classificação Indicativa +14[/B][/COLOR]
+ÁUDIO: Português
+ANO: 2021
+TEMPORADAS: 1
+STATUS: Finalizado
+		</info>
+	</channel>
 
 <!--RANMA½: REMAKE-->
 	<channel>
@@ -4017,9 +4031,9 @@ STATUS: Finalizado
 		<genre>Fantasia | Romance</genre>
 		<info>[COLOR darkorange][B]● Classificação +14[/B][/COLOR]
 ÁUDIO: Português
-ANO: 2021
-TEMPORADAS: 1 de 3
-STATUS: Finalizado | Incompleto
+ANO: 2021 - 2024
+TEMPORADAS: 3
+STATUS: Finalizado
 		</info>
 	</channel>
 
